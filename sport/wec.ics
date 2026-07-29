@@ -4,7 +4,7 @@ PRODID:-//FacilAbo//WEC//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WEC - Championnat du monde d endurance
-X-WR-CALDESC:Agenda FIA WEC 2026. Un evenement par manche officielle. Representation date-only tant que l horaire de depart n est pas publie. Saison 2026 complete avec 8 manches datees, dont Qatar du 22 au 24 octobre 2026.
+X-WR-CALDESC:Agenda FIA WEC 2026. Un evenement par manche officielle. Representation date-only tant que l horaire de depart n est pas publie. Saison 2026 complete avec 8 manches datees, dont Barcelone du 16 au 18 octobre et Monza du 6 au 8 novembre 2026.
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Paris
@@ -97,26 +97,26 @@ CATEGORIES:Sport,Endurance,WEC
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:sport-wec-qatar-2026@facilabo.app
-DTSTAMP:20260329T120000Z
-DTSTART;VALUE=DATE:20261022
-DTEND;VALUE=DATE:20261025
-SUMMARY:Qatar 1812km
-DESCRIPTION:Round 7 FIA WEC 2026 | Sources: https://www.fiawec.com/en/calendar + https://www.fiawec.com/en/news/dates-confirmed-for-rescheduled-qatar-1812km-and-fia-wec-prologue/13118 | Week-end officiel confirme du 2026-10-22 au 2026-10-24, date de course le 2026-10-24. Evenement maintenu en date-only tant que l horaire de depart n est pas publie.
-LOCATION:Lusail, Qatar
-URL:https://www.fiawec.com/en/news/dates-confirmed-for-rescheduled-qatar-1812km-and-fia-wec-prologue/13118
+UID:sport-wec-barcelona-2026@facilabo.app
+DTSTAMP:20260729T120000Z
+DTSTART;VALUE=DATE:20261016
+DTEND;VALUE=DATE:20261019
+SUMMARY:6 Heures de Barcelone
+DESCRIPTION:Round 7 FIA WEC 2026 | Source officielle: https://www.fiawec.com/en/news/fia-wec-and-fia-confirm-venues-for-final-two-rounds-of-2026/13698 | Week-end officiel du 2026-10-16 au 2026-10-18. Evenement maintenu en date-only tant que l horaire de depart n est pas publie.
+LOCATION:Barcelone, Espagne
+URL:https://www.fiawec.com/en/news/fia-wec-and-fia-confirm-venues-for-final-two-rounds-of-2026/13698
 CATEGORIES:Sport,Endurance,WEC
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:sport-wec-bahrain-2026@facilabo.app
-DTSTAMP:20260310T120000Z
-DTSTART;VALUE=DATE:20261105
-DTEND;VALUE=DATE:20261108
-SUMMARY:8 Heures de Bahrein
-DESCRIPTION:Round 8 FIA WEC 2026 | Sources: https://www.fiawec.com/en/calendar + https://www.fiawec.com/en/race/show/4955 | Horaire de depart non publie au 2026-03-10, evenement maintenu en date-only.
-LOCATION:Sakhir, Bahrein
-URL:https://www.fiawec.com/en/race/show/4955
+UID:sport-wec-monza-2026@facilabo.app
+DTSTAMP:20260729T120000Z
+DTSTART;VALUE=DATE:20261106
+DTEND;VALUE=DATE:20261109
+SUMMARY:6 Heures de Monza
+DESCRIPTION:Round 8 FIA WEC 2026 | Source officielle: https://www.fiawec.com/en/news/fia-wec-and-fia-confirm-venues-for-final-two-rounds-of-2026/13698 | Week-end officiel du 2026-11-06 au 2026-11-08. Evenement maintenu en date-only tant que l horaire de depart n est pas publie.
+LOCATION:Monza, Italie
+URL:https://www.fiawec.com/en/news/fia-wec-and-fia-confirm-venues-for-final-two-rounds-of-2026/13698
 CATEGORIES:Sport,Endurance,WEC
 STATUS:CONFIRMED
 END:VEVENT
