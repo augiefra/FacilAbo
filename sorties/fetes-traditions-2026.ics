@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//FacilAbo//Sorties Fetes Traditions 2026//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
-X-WR-CALNAME:Fetes et traditions 2026
-X-WR-CALDESC:Grands carnavals, ferias et fetes populaires localisees en France
+X-WR-CALNAME:Fêtes et traditions 2026
+X-WR-CALDESC:Grands carnavals, ferias et fêtes populaires localisées en France
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Paris
@@ -30,7 +30,7 @@ DTSTAMP:20260622T120000Z
 DTSTART;VALUE=DATE:20260213
 DTEND;VALUE=DATE:20260218
 SUMMARY:Carnaval de Granville
-DESCRIPTION:152e edition du Carnaval de Granville, fete populaire inscrite au patrimoine culturel immateriel de l'humanite. Source officielle: carnaval-de-granville.fr
+DESCRIPTION:152e édition du Carnaval de Granville, fête populaire inscrite au patrimoine culturel immatériel de l'humanité. Source officielle: carnaval-de-granville.fr
 LOCATION:Granville, Manche, France
 URL:https://www.carnaval-de-granville.fr/
 CATEGORIES:Sorties,Carnaval,Traditions
@@ -41,8 +41,8 @@ UID:sorties-fete-citron-menton-2026@facilabo.app
 DTSTAMP:20260622T120000Z
 DTSTART;VALUE=DATE:20260214
 DTEND;VALUE=DATE:20260302
-SUMMARY:Fete du Citron Menton
-DESCRIPTION:Fete du Citron 2026 a Menton. Source officielle: fete-du-citron.com
+SUMMARY:Fête du Citron Menton
+DESCRIPTION:Fête du Citron 2026 a Menton. Source officielle: fête-du-citron.com
 LOCATION:Menton, Alpes-Maritimes, France
 URL:https://www.fete-du-citron.com/
 CATEGORIES:Sorties,Traditions,Gastronomie
@@ -53,11 +53,11 @@ UID:sorties-fetes-bayonne-2026@facilabo.app
 DTSTAMP:20260622T120000Z
 DTSTART;VALUE=DATE:20260715
 DTEND;VALUE=DATE:20260720
-SUMMARY:Fetes de Bayonne
-DESCRIPTION:Fetes de Bayonne 2026, du 15 au 19 juillet. Source officielle: fetes.bayonne.fr
+SUMMARY:Fêtes de Bayonne
+DESCRIPTION:Fêtes de Bayonne 2026, du 15 au 19 juillet. Source officielle: fêtes.bayonne.fr
 LOCATION:Bayonne, Pyrenees-Atlantiques, France
 URL:https://fetes.bayonne.fr/
-CATEGORIES:Sorties,Fetes populaires,Traditions
+CATEGORIES:Sorties,Fêtes populaires,Traditions
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -77,8 +77,8 @@ UID:sorties-fete-lumieres-lyon-2026@facilabo.app
 DTSTAMP:20260622T120000Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261209
-SUMMARY:Fete des Lumieres Lyon
-DESCRIPTION:Fete des Lumieres 2026, du 5 au 8 decembre a Lyon. Source officielle: fetedeslumieres.lyon.fr
+SUMMARY:Fête des Lumieres Lyon
+DESCRIPTION:Fête des Lumieres 2026, du 5 au 8 décembre a Lyon. Source officielle: fetedeslumieres.lyon.fr
 LOCATION:Lyon, Rhone, France
 URL:https://www.fetedeslumieres.lyon.fr/
 CATEGORIES:Sorties,Lumieres,Traditions

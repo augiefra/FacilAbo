@@ -31,7 +31,7 @@ DTSTART;TZID=Europe/Paris:20240331T030000
 DTEND;TZID=Europe/Paris:20240331T030000
 SUMMARY:Passage à l'heure d'été : +1h
 DESCRIPTION:Heure d'été : +1h => à 02h00 il sera 03h00.\nPassage officiel à l'heure d'été en France (Europe/Paris).
-CATEGORIES:Societe,France,Changement d'heure
+CATEGORIES:Société,France,Changement d'heure
 LOCATION:France
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -43,7 +43,7 @@ DTSTART;TZID=Europe/Paris:20241027T030000
 DTEND;TZID=Europe/Paris:20241027T030000
 SUMMARY:Passage à l'heure d'hiver : -1h
 DESCRIPTION:Heure d'hiver : -1h => à 03h00 il sera 02h00.\nPassage officiel à l'heure d'hiver en France (Europe/Paris).
-CATEGORIES:Societe,France,Changement d'heure
+CATEGORIES:Société,France,Changement d'heure
 LOCATION:France
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -55,7 +55,7 @@ DTSTART;TZID=Europe/Paris:20250330T030000
 DTEND;TZID=Europe/Paris:20250330T030000
 SUMMARY:Passage à l'heure d'été : +1h
 DESCRIPTION:Heure d'été : +1h => à 02h00 il sera 03h00.\nPassage officiel à l'heure d'été en France (Europe/Paris).
-CATEGORIES:Societe,France,Changement d'heure
+CATEGORIES:Société,France,Changement d'heure
 LOCATION:France
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -67,7 +67,7 @@ DTSTART;TZID=Europe/Paris:20251026T030000
 DTEND;TZID=Europe/Paris:20251026T030000
 SUMMARY:Passage à l'heure d'hiver : -1h
 DESCRIPTION:Heure d'hiver : -1h => à 03h00 il sera 02h00.\nPassage officiel à l'heure d'hiver en France (Europe/Paris).
-CATEGORIES:Societe,France,Changement d'heure
+CATEGORIES:Société,France,Changement d'heure
 LOCATION:France
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -79,7 +79,7 @@ DTSTART;TZID=Europe/Paris:20260329T030000
 DTEND;TZID=Europe/Paris:20260329T030000
 SUMMARY:Passage à l'heure d'été : +1h
 DESCRIPTION:Heure d'été : +1h => à 02h00 il sera 03h00.\nPassage officiel à l'heure d'été en France (Europe/Paris).
-CATEGORIES:Societe,France,Changement d'heure
+CATEGORIES:Société,France,Changement d'heure
 LOCATION:France
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -91,7 +91,7 @@ DTSTART;TZID=Europe/Paris:20261025T030000
 DTEND;TZID=Europe/Paris:20261025T030000
 SUMMARY:Passage à l'heure d'hiver : -1h
 DESCRIPTION:Heure d'hiver : -1h => à 03h00 il sera 02h00.\nPassage officiel à l'heure d'hiver en France (Europe/Paris).
-CATEGORIES:Societe,France,Changement d'heure
+CATEGORIES:Société,France,Changement d'heure
 LOCATION:France
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -103,7 +103,7 @@ DTSTART;TZID=Europe/Paris:20270328T030000
 DTEND;TZID=Europe/Paris:20270328T030000
 SUMMARY:Passage à l'heure d'été : +1h
 DESCRIPTION:Heure d'été : +1h => à 02h00 il sera 03h00.\nPassage officiel à l'heure d'été en France (Europe/Paris).
-CATEGORIES:Societe,France,Changement d'heure
+CATEGORIES:Société,France,Changement d'heure
 LOCATION:France
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -115,7 +115,7 @@ DTSTART;TZID=Europe/Paris:20271031T030000
 DTEND;TZID=Europe/Paris:20271031T030000
 SUMMARY:Passage à l'heure d'hiver : -1h
 DESCRIPTION:Heure d'hiver : -1h => à 03h00 il sera 02h00.\nPassage officiel à l'heure d'hiver en France (Europe/Paris).
-CATEGORIES:Societe,France,Changement d'heure
+CATEGORIES:Société,France,Changement d'heure
 LOCATION:France
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -127,7 +127,7 @@ DTSTART;TZID=Europe/Paris:20280326T030000
 DTEND;TZID=Europe/Paris:20280326T030000
 SUMMARY:Passage à l'heure d'été : +1h
 DESCRIPTION:Heure d'été : +1h => à 02h00 il sera 03h00.\nPassage officiel à l'heure d'été en France (Europe/Paris).
-CATEGORIES:Societe,France,Changement d'heure
+CATEGORIES:Société,France,Changement d'heure
 LOCATION:France
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -139,7 +139,7 @@ DTSTART;TZID=Europe/Paris:20281029T030000
 DTEND;TZID=Europe/Paris:20281029T030000
 SUMMARY:Passage à l'heure d'hiver : -1h
 DESCRIPTION:Heure d'hiver : -1h => à 03h00 il sera 02h00.\nPassage officiel à l'heure d'hiver en France (Europe/Paris).
-CATEGORIES:Societe,France,Changement d'heure
+CATEGORIES:Société,France,Changement d'heure
 LOCATION:France
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -151,7 +151,7 @@ DTSTART;TZID=Europe/Paris:20290325T030000
 DTEND;TZID=Europe/Paris:20290325T030000
 SUMMARY:Passage à l'heure d'été : +1h
 DESCRIPTION:Heure d'été : +1h => à 02h00 il sera 03h00.\nPassage officiel à l'heure d'été en France (Europe/Paris).
-CATEGORIES:Societe,France,Changement d'heure
+CATEGORIES:Société,France,Changement d'heure
 LOCATION:France
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -163,7 +163,7 @@ DTSTART;TZID=Europe/Paris:20291028T030000
 DTEND;TZID=Europe/Paris:20291028T030000
 SUMMARY:Passage à l'heure d'hiver : -1h
 DESCRIPTION:Heure d'hiver : -1h => à 03h00 il sera 02h00.\nPassage officiel à l'heure d'hiver en France (Europe/Paris).
-CATEGORIES:Societe,France,Changement d'heure
+CATEGORIES:Société,France,Changement d'heure
 LOCATION:France
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -175,7 +175,7 @@ DTSTART;TZID=Europe/Paris:20300331T030000
 DTEND;TZID=Europe/Paris:20300331T030000
 SUMMARY:Passage à l'heure d'été : +1h
 DESCRIPTION:Heure d'été : +1h => à 02h00 il sera 03h00.\nPassage officiel à l'heure d'été en France (Europe/Paris).
-CATEGORIES:Societe,France,Changement d'heure
+CATEGORIES:Société,France,Changement d'heure
 LOCATION:France
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -187,7 +187,7 @@ DTSTART;TZID=Europe/Paris:20301027T030000
 DTEND;TZID=Europe/Paris:20301027T030000
 SUMMARY:Passage à l'heure d'hiver : -1h
 DESCRIPTION:Heure d'hiver : -1h => à 03h00 il sera 02h00.\nPassage officiel à l'heure d'hiver en France (Europe/Paris).
-CATEGORIES:Societe,France,Changement d'heure
+CATEGORIES:Société,France,Changement d'heure
 LOCATION:France
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -199,7 +199,7 @@ DTSTART;TZID=Europe/Paris:20310330T030000
 DTEND;TZID=Europe/Paris:20310330T030000
 SUMMARY:Passage à l'heure d'été : +1h
 DESCRIPTION:Heure d'été : +1h => à 02h00 il sera 03h00.\nPassage officiel à l'heure d'été en France (Europe/Paris).
-CATEGORIES:Societe,France,Changement d'heure
+CATEGORIES:Société,France,Changement d'heure
 LOCATION:France
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -211,7 +211,7 @@ DTSTART;TZID=Europe/Paris:20311026T030000
 DTEND;TZID=Europe/Paris:20311026T030000
 SUMMARY:Passage à l'heure d'hiver : -1h
 DESCRIPTION:Heure d'hiver : -1h => à 03h00 il sera 02h00.\nPassage officiel à l'heure d'hiver en France (Europe/Paris).
-CATEGORIES:Societe,France,Changement d'heure
+CATEGORIES:Société,France,Changement d'heure
 LOCATION:France
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -223,7 +223,7 @@ DTSTART;TZID=Europe/Paris:20320328T030000
 DTEND;TZID=Europe/Paris:20320328T030000
 SUMMARY:Passage à l'heure d'été : +1h
 DESCRIPTION:Heure d'été : +1h => à 02h00 il sera 03h00.\nPassage officiel à l'heure d'été en France (Europe/Paris).
-CATEGORIES:Societe,France,Changement d'heure
+CATEGORIES:Société,France,Changement d'heure
 LOCATION:France
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT
@@ -235,7 +235,7 @@ DTSTART;TZID=Europe/Paris:20321031T030000
 DTEND;TZID=Europe/Paris:20321031T030000
 SUMMARY:Passage à l'heure d'hiver : -1h
 DESCRIPTION:Heure d'hiver : -1h => à 03h00 il sera 02h00.\nPassage officiel à l'heure d'hiver en France (Europe/Paris).
-CATEGORIES:Societe,France,Changement d'heure
+CATEGORIES:Société,France,Changement d'heure
 LOCATION:France
 STATUS:CONFIRMED
 TRANSP:TRANSPARENT

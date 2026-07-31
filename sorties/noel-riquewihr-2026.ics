@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//FacilAbo//Sorties Noel Riquewihr 2026//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
-X-WR-CALNAME:Noel a Riquewihr 2026
-X-WR-CALDESC:Marche de Noel traditionnel de Riquewihr 2026
+X-WR-CALNAME:Noël a Riquewihr 2026
+X-WR-CALDESC:Marche de Noël traditionnel de Riquewihr 2026
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Paris
@@ -29,11 +29,11 @@ UID:sorties-noel-riquewihr-2026@facilabo.app
 DTSTAMP:20260622T120000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261221
-SUMMARY:Marche de Noel de Riquewihr
-DESCRIPTION:Marche de Noel traditionnel de Riquewihr, du 27 novembre au 20 decembre 2026. Source officielle: noel-colmar.com
+SUMMARY:Marche de Noël de Riquewihr
+DESCRIPTION:Marche de Noël traditionnel de Riquewihr, du 27 novembre au 20 décembre 2026. Source officielle: noël-colmar.com
 LOCATION:Riquewihr, Haut-Rhin, France
 URL:https://www.noel-colmar.com/fr/
-CATEGORIES:Sorties,Noel,Marche
+CATEGORIES:Sorties,Noël,Marche
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

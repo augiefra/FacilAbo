@@ -4,7 +4,7 @@ PRODID:-//FacilAbo//luxembourg-ponts//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Luxembourg - Ponts utiles
-X-WR-CALDESC:Opportunites de pont derivees des jours feries legaux luxembourgeois; a confirmer selon employeur.
+X-WR-CALDESC:Opportunites de pont derivees des jours fériés legaux luxembourgeois; a confirmer selon employeur.
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Paris
@@ -30,7 +30,7 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20260102
 DTEND;VALUE=DATE:20260103
 SUMMARY:Pont possible - Nouvel An - Luxembourg
-DESCRIPTION:Opportunites de pont derivees des jours feries legaux luxembourgeois\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: vendredi suivant du jour ferie. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: medium
+DESCRIPTION:Opportunites de pont derivees des jours fériés legaux luxembourgeois\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: vendredi suivant du jour férié. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilité: medium
 URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
 CATEGORIES:Pays,Luxembourg,Ponts
 STATUS:CONFIRMED
@@ -41,7 +41,7 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20260515
 DTEND;VALUE=DATE:20260516
 SUMMARY:Pont possible - Ascension - Luxembourg
-DESCRIPTION:Opportunites de pont derivees des jours feries legaux luxembourgeois\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: vendredi suivant du jour ferie. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: medium
+DESCRIPTION:Opportunites de pont derivees des jours fériés legaux luxembourgeois\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: vendredi suivant du jour férié. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilité: medium
 URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
 CATEGORIES:Pays,Luxembourg,Ponts
 STATUS:CONFIRMED
@@ -51,8 +51,8 @@ UID:luxembourg-ponts-fete-nationale-2026-06-22-2026@facilabo.app
 DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20260622
 DTEND;VALUE=DATE:20260623
-SUMMARY:Pont possible - Fete nationale - Luxembourg
-DESCRIPTION:Opportunites de pont derivees des jours feries legaux luxembourgeois\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: lundi precedent du jour ferie. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: medium
+SUMMARY:Pont possible - Fête nationale - Luxembourg
+DESCRIPTION:Opportunites de pont derivees des jours fériés legaux luxembourgeois\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: lundi precedent du jour férié. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilité: medium
 URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
 CATEGORIES:Pays,Luxembourg,Ponts
 STATUS:CONFIRMED
@@ -63,7 +63,7 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20270507
 DTEND;VALUE=DATE:20270508
 SUMMARY:Pont possible - Ascension - Luxembourg
-DESCRIPTION:Opportunites de pont derivees des jours feries legaux luxembourgeois\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: vendredi suivant du jour ferie. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: medium
+DESCRIPTION:Opportunites de pont derivees des jours fériés legaux luxembourgeois\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: vendredi suivant du jour férié. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilité: medium
 URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
 CATEGORIES:Pays,Luxembourg,Ponts
 STATUS:CONFIRMED
@@ -73,8 +73,8 @@ UID:luxembourg-ponts-journee-europe-2028-05-08-2028@facilabo.app
 DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20280508
 DTEND;VALUE=DATE:20280509
-SUMMARY:Pont possible - Journee de l Europe - Luxembourg
-DESCRIPTION:Opportunites de pont derivees des jours feries legaux luxembourgeois\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: lundi precedent du jour ferie. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: medium
+SUMMARY:Pont possible - Journée de l Europe - Luxembourg
+DESCRIPTION:Opportunites de pont derivees des jours fériés legaux luxembourgeois\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: lundi precedent du jour férié. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilité: medium
 URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
 CATEGORIES:Pays,Luxembourg,Ponts
 STATUS:CONFIRMED
@@ -85,7 +85,7 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20280526
 DTEND;VALUE=DATE:20280527
 SUMMARY:Pont possible - Ascension - Luxembourg
-DESCRIPTION:Opportunites de pont derivees des jours feries legaux luxembourgeois\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: vendredi suivant du jour ferie. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: medium
+DESCRIPTION:Opportunites de pont derivees des jours fériés legaux luxembourgeois\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: vendredi suivant du jour férié. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilité: medium
 URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
 CATEGORIES:Pays,Luxembourg,Ponts
 STATUS:CONFIRMED
@@ -96,7 +96,7 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20280814
 DTEND;VALUE=DATE:20280815
 SUMMARY:Pont possible - Assomption - Luxembourg
-DESCRIPTION:Opportunites de pont derivees des jours feries legaux luxembourgeois\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: lundi precedent du jour ferie. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: medium
+DESCRIPTION:Opportunites de pont derivees des jours fériés legaux luxembourgeois\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: lundi precedent du jour férié. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilité: medium
 URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
 CATEGORIES:Pays,Luxembourg,Ponts
 STATUS:CONFIRMED
@@ -107,7 +107,7 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20290430
 DTEND;VALUE=DATE:20290501
 SUMMARY:Pont possible - Premier Mai - Luxembourg
-DESCRIPTION:Opportunites de pont derivees des jours feries legaux luxembourgeois\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: lundi precedent du jour ferie. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: medium
+DESCRIPTION:Opportunites de pont derivees des jours fériés legaux luxembourgeois\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: lundi precedent du jour férié. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilité: medium
 URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
 CATEGORIES:Pays,Luxembourg,Ponts
 STATUS:CONFIRMED
@@ -118,7 +118,7 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20290511
 DTEND;VALUE=DATE:20290512
 SUMMARY:Pont possible - Ascension - Luxembourg
-DESCRIPTION:Opportunites de pont derivees des jours feries legaux luxembourgeois\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: vendredi suivant du jour ferie. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: medium
+DESCRIPTION:Opportunites de pont derivees des jours fériés legaux luxembourgeois\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: vendredi suivant du jour férié. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilité: medium
 URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
 CATEGORIES:Pays,Luxembourg,Ponts
 STATUS:CONFIRMED
@@ -129,7 +129,7 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20291102
 DTEND;VALUE=DATE:20291103
 SUMMARY:Pont possible - Toussaint - Luxembourg
-DESCRIPTION:Opportunites de pont derivees des jours feries legaux luxembourgeois\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: vendredi suivant du jour ferie. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: medium
+DESCRIPTION:Opportunites de pont derivees des jours fériés legaux luxembourgeois\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: vendredi suivant du jour férié. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilité: medium
 URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
 CATEGORIES:Pays,Luxembourg,Ponts
 STATUS:CONFIRMED
@@ -139,8 +139,8 @@ UID:luxembourg-ponts-noel-2029-12-24-2029@facilabo.app
 DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20291224
 DTEND;VALUE=DATE:20291225
-SUMMARY:Pont possible - Noel - Luxembourg
-DESCRIPTION:Opportunites de pont derivees des jours feries legaux luxembourgeois\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: lundi precedent du jour ferie. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: medium
+SUMMARY:Pont possible - Noël - Luxembourg
+DESCRIPTION:Opportunites de pont derivees des jours fériés legaux luxembourgeois\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: lundi precedent du jour férié. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilité: medium
 URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
 CATEGORIES:Pays,Luxembourg,Ponts
 STATUS:CONFIRMED
@@ -151,7 +151,7 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20291231
 DTEND;VALUE=DATE:20300101
 SUMMARY:Pont possible - Nouvel An - Luxembourg
-DESCRIPTION:Opportunites de pont derivees des jours feries legaux luxembourgeois\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: lundi precedent du jour ferie. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: medium
+DESCRIPTION:Opportunites de pont derivees des jours fériés legaux luxembourgeois\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: lundi precedent du jour férié. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilité: medium
 URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
 CATEGORIES:Pays,Luxembourg,Ponts
 STATUS:CONFIRMED
@@ -161,8 +161,8 @@ UID:luxembourg-ponts-journee-europe-2030-05-10-2030@facilabo.app
 DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20300510
 DTEND;VALUE=DATE:20300511
-SUMMARY:Pont possible - Journee de l Europe - Luxembourg
-DESCRIPTION:Opportunites de pont derivees des jours feries legaux luxembourgeois\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: vendredi suivant du jour ferie. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: medium
+SUMMARY:Pont possible - Journée de l Europe - Luxembourg
+DESCRIPTION:Opportunites de pont derivees des jours fériés legaux luxembourgeois\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: vendredi suivant du jour férié. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilité: medium
 URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
 CATEGORIES:Pays,Luxembourg,Ponts
 STATUS:CONFIRMED
@@ -173,7 +173,7 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20300531
 DTEND;VALUE=DATE:20300601
 SUMMARY:Pont possible - Ascension - Luxembourg
-DESCRIPTION:Opportunites de pont derivees des jours feries legaux luxembourgeois\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: vendredi suivant du jour ferie. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: medium
+DESCRIPTION:Opportunites de pont derivees des jours fériés legaux luxembourgeois\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: vendredi suivant du jour férié. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilité: medium
 URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
 CATEGORIES:Pays,Luxembourg,Ponts
 STATUS:CONFIRMED
@@ -184,7 +184,7 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20300816
 DTEND;VALUE=DATE:20300817
 SUMMARY:Pont possible - Assomption - Luxembourg
-DESCRIPTION:Opportunites de pont derivees des jours feries legaux luxembourgeois\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: vendredi suivant du jour ferie. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: medium
+DESCRIPTION:Opportunites de pont derivees des jours fériés legaux luxembourgeois\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: vendredi suivant du jour férié. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilité: medium
 URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
 CATEGORIES:Pays,Luxembourg,Ponts
 STATUS:CONFIRMED
@@ -195,7 +195,7 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20301227
 DTEND;VALUE=DATE:20301228
 SUMMARY:Pont possible - Saint Etienne - Luxembourg
-DESCRIPTION:Opportunites de pont derivees des jours feries legaux luxembourgeois\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: vendredi suivant du jour ferie. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: medium
+DESCRIPTION:Opportunites de pont derivees des jours fériés legaux luxembourgeois\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: vendredi suivant du jour férié. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilité: medium
 URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
 CATEGORIES:Pays,Luxembourg,Ponts
 STATUS:CONFIRMED
@@ -206,7 +206,7 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20310502
 DTEND;VALUE=DATE:20310503
 SUMMARY:Pont possible - Premier Mai - Luxembourg
-DESCRIPTION:Opportunites de pont derivees des jours feries legaux luxembourgeois\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: vendredi suivant du jour ferie. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: medium
+DESCRIPTION:Opportunites de pont derivees des jours fériés legaux luxembourgeois\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: vendredi suivant du jour férié. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilité: medium
 URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
 CATEGORIES:Pays,Luxembourg,Ponts
 STATUS:CONFIRMED
@@ -217,7 +217,7 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20310523
 DTEND;VALUE=DATE:20310524
 SUMMARY:Pont possible - Ascension - Luxembourg
-DESCRIPTION:Opportunites de pont derivees des jours feries legaux luxembourgeois\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: vendredi suivant du jour ferie. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilite: medium
+DESCRIPTION:Opportunites de pont derivees des jours fériés legaux luxembourgeois\; a confirmer selon employeur. Opportunite de pont\, non feriee automatiquement. Jour propose: vendredi suivant du jour férié. Source: https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html Fiabilité: medium
 URL:https://luxembourg.public.lu/fr/vivre/qualite-de-vie/jours-feries-legaux.html
 CATEGORIES:Pays,Luxembourg,Ponts
 STATUS:CONFIRMED

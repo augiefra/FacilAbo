@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//FacilAbo//Sorties Noel Kaysersberg 2026//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
-X-WR-CALNAME:Noel a Kaysersberg 2026
-X-WR-CALDESC:Marche de Noel artisanal de Kaysersberg 2026, les week-ends
+X-WR-CALNAME:Noël a Kaysersberg 2026
+X-WR-CALDESC:Marche de Noël artisanal de Kaysersberg 2026, les week-ends
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Paris
@@ -29,11 +29,11 @@ UID:sorties-noel-kaysersberg-2026-weekend-1@facilabo.app
 DTSTAMP:20260622T120000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261130
-SUMMARY:Marche de Noel de Kaysersberg
-DESCRIPTION:Marche de Noel artisanal et authentique de Kaysersberg, week-end du 27 au 29 novembre 2026. Source officielle: noel-colmar.com
+SUMMARY:Marche de Noël de Kaysersberg
+DESCRIPTION:Marche de Noël artisanal et authentique de Kaysersberg, week-end du 27 au 29 novembre 2026. Source officielle: noël-colmar.com
 LOCATION:Kaysersberg, Haut-Rhin, France
 URL:https://www.noel-colmar.com/fr/
-CATEGORIES:Sorties,Noel,Marche
+CATEGORIES:Sorties,Noël,Marche
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -41,11 +41,11 @@ UID:sorties-noel-kaysersberg-2026-weekend-2@facilabo.app
 DTSTAMP:20260622T120000Z
 DTSTART;VALUE=DATE:20261204
 DTEND;VALUE=DATE:20261207
-SUMMARY:Marche de Noel de Kaysersberg
-DESCRIPTION:Marche de Noel artisanal et authentique de Kaysersberg, week-end du 4 au 6 decembre 2026. Source officielle: noel-colmar.com
+SUMMARY:Marche de Noël de Kaysersberg
+DESCRIPTION:Marche de Noël artisanal et authentique de Kaysersberg, week-end du 4 au 6 décembre 2026. Source officielle: noël-colmar.com
 LOCATION:Kaysersberg, Haut-Rhin, France
 URL:https://www.noel-colmar.com/fr/
-CATEGORIES:Sorties,Noel,Marche
+CATEGORIES:Sorties,Noël,Marche
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -53,11 +53,11 @@ UID:sorties-noel-kaysersberg-2026-weekend-3@facilabo.app
 DTSTAMP:20260622T120000Z
 DTSTART;VALUE=DATE:20261211
 DTEND;VALUE=DATE:20261214
-SUMMARY:Marche de Noel de Kaysersberg
-DESCRIPTION:Marche de Noel artisanal et authentique de Kaysersberg, week-end du 11 au 13 decembre 2026. Source officielle: noel-colmar.com
+SUMMARY:Marche de Noël de Kaysersberg
+DESCRIPTION:Marche de Noël artisanal et authentique de Kaysersberg, week-end du 11 au 13 décembre 2026. Source officielle: noël-colmar.com
 LOCATION:Kaysersberg, Haut-Rhin, France
 URL:https://www.noel-colmar.com/fr/
-CATEGORIES:Sorties,Noel,Marche
+CATEGORIES:Sorties,Noël,Marche
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -65,11 +65,11 @@ UID:sorties-noel-kaysersberg-2026-weekend-4@facilabo.app
 DTSTAMP:20260622T120000Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261221
-SUMMARY:Marche de Noel de Kaysersberg
-DESCRIPTION:Marche de Noel artisanal et authentique de Kaysersberg, week-end du 18 au 20 decembre 2026. Source officielle: noel-colmar.com
+SUMMARY:Marche de Noël de Kaysersberg
+DESCRIPTION:Marche de Noël artisanal et authentique de Kaysersberg, week-end du 18 au 20 décembre 2026. Source officielle: noël-colmar.com
 LOCATION:Kaysersberg, Haut-Rhin, France
 URL:https://www.noel-colmar.com/fr/
-CATEGORIES:Sorties,Noel,Marche
+CATEGORIES:Sorties,Noël,Marche
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

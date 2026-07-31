@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//FacilAbo//Calendrier Fetes Hindoues//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
-X-WR-CALNAME:Fetes Hindoues
-X-WR-CALDESC:Fetes hindoues importantes (2025-2031) basees sur des calendriers publics.
+X-WR-CALNAME:Fêtes Hindoues
+X-WR-CALDESC:Fêtes hindoues importantes (2025-2031) basees sur des calendriers publics.
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Paris
@@ -30,7 +30,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20250114
 DTEND;VALUE=DATE:20250115
 SUMMARY:Makar Sankranti
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -41,7 +41,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20250114
 DTEND;VALUE=DATE:20250115
 SUMMARY:Pongal
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -52,7 +52,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20250202
 DTEND;VALUE=DATE:20250203
 SUMMARY:Vasant Panchami
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -63,7 +63,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20250226
 DTEND;VALUE=DATE:20250227
 SUMMARY:Maha Shivaratri
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -74,7 +74,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20250314
 DTEND;VALUE=DATE:20250315
 SUMMARY:Holi
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -85,7 +85,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20250330
 DTEND;VALUE=DATE:20250331
 SUMMARY:Gudi Padwa
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -96,7 +96,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20250330
 DTEND;VALUE=DATE:20250331
 SUMMARY:Ugadi
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -107,7 +107,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20250406
 DTEND;VALUE=DATE:20250407
 SUMMARY:Rama Navami
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -118,7 +118,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20250627
 DTEND;VALUE=DATE:20250628
 SUMMARY:Rath Yatra
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -129,7 +129,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20250809
 DTEND;VALUE=DATE:20250810
 SUMMARY:Raksha Bandhan
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -140,7 +140,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20250816
 DTEND;VALUE=DATE:20250817
 SUMMARY:Janmashtami
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -151,7 +151,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20250827
 DTEND;VALUE=DATE:20250828
 SUMMARY:Ganesh Chaturthi
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -162,7 +162,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20250905
 DTEND;VALUE=DATE:20250906
 SUMMARY:Onam
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -172,8 +172,8 @@ UID:religion-hindoue-debut-de-sharad-navratri-2025@facilabo.app
 DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20250922
 DTEND;VALUE=DATE:20250923
-SUMMARY:Debut de Sharad Navratri
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+SUMMARY:Début de Sharad Navratri
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -184,7 +184,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20251002
 DTEND;VALUE=DATE:20251003
 SUMMARY:Dussehra
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -195,7 +195,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20251020
 DTEND;VALUE=DATE:20251021
 SUMMARY:Diwali
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -206,7 +206,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20251023
 DTEND;VALUE=DATE:20251024
 SUMMARY:Bhai Duj
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -217,7 +217,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20260114
 DTEND;VALUE=DATE:20260115
 SUMMARY:Makar Sankranti
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -228,7 +228,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20260114
 DTEND;VALUE=DATE:20260115
 SUMMARY:Pongal
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -239,7 +239,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20260123
 DTEND;VALUE=DATE:20260124
 SUMMARY:Vasant Panchami
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -250,7 +250,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20260215
 DTEND;VALUE=DATE:20260216
 SUMMARY:Maha Shivaratri
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -261,7 +261,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20260304
 DTEND;VALUE=DATE:20260305
 SUMMARY:Holi
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -272,7 +272,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20260319
 DTEND;VALUE=DATE:20260320
 SUMMARY:Ugadi
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -283,7 +283,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20260319
 DTEND;VALUE=DATE:20260320
 SUMMARY:Gudi Padwa
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -294,7 +294,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20260326
 DTEND;VALUE=DATE:20260327
 SUMMARY:Rama Navami
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -305,7 +305,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20260716
 DTEND;VALUE=DATE:20260717
 SUMMARY:Rath Yatra
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -316,7 +316,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20260826
 DTEND;VALUE=DATE:20260827
 SUMMARY:Onam
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -327,7 +327,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20260828
 DTEND;VALUE=DATE:20260829
 SUMMARY:Raksha Bandhan
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -338,7 +338,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260905
 SUMMARY:Janmashtami
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -349,7 +349,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260915
 SUMMARY:Ganesh Chaturthi
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -359,8 +359,8 @@ UID:religion-hindoue-debut-de-sharad-navratri-2026@facilabo.app
 DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20261011
 DTEND;VALUE=DATE:20261012
-SUMMARY:Debut de Sharad Navratri
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+SUMMARY:Début de Sharad Navratri
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -371,7 +371,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Dussehra
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -382,7 +382,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20261108
 DTEND;VALUE=DATE:20261109
 SUMMARY:Diwali
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -393,7 +393,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Bhai Duj
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -404,7 +404,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:Pongal
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -415,7 +415,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20270115
 DTEND;VALUE=DATE:20270116
 SUMMARY:Makar Sankranti
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -426,7 +426,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20270211
 DTEND;VALUE=DATE:20270212
 SUMMARY:Vasant Panchami
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -437,7 +437,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
 SUMMARY:Maha Shivaratri
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -448,7 +448,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20270322
 DTEND;VALUE=DATE:20270323
 SUMMARY:Holi
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -459,7 +459,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
 SUMMARY:Ugadi
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -470,7 +470,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20270407
 DTEND;VALUE=DATE:20270408
 SUMMARY:Gudi Padwa
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -481,7 +481,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20270415
 DTEND;VALUE=DATE:20270416
 SUMMARY:Rama Navami
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -492,7 +492,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20270705
 DTEND;VALUE=DATE:20270706
 SUMMARY:Rath Yatra
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -503,7 +503,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20270817
 DTEND;VALUE=DATE:20270818
 SUMMARY:Raksha Bandhan
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -514,7 +514,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20270825
 DTEND;VALUE=DATE:20270826
 SUMMARY:Janmashtami
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -525,7 +525,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20270904
 DTEND;VALUE=DATE:20270905
 SUMMARY:Ganesh Chaturthi
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -536,7 +536,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20270912
 DTEND;VALUE=DATE:20270913
 SUMMARY:Onam
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -546,8 +546,8 @@ UID:religion-hindoue-debut-de-sharad-navratri-2027@facilabo.app
 DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20270930
 DTEND;VALUE=DATE:20271001
-SUMMARY:Debut de Sharad Navratri
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+SUMMARY:Début de Sharad Navratri
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -558,7 +558,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20271009
 DTEND;VALUE=DATE:20271010
 SUMMARY:Dussehra
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -569,7 +569,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20271029
 DTEND;VALUE=DATE:20271030
 SUMMARY:Diwali
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -580,7 +580,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20271031
 DTEND;VALUE=DATE:20271101
 SUMMARY:Bhai Duj
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -591,7 +591,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20280115
 DTEND;VALUE=DATE:20280116
 SUMMARY:Makar Sankranti
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -602,7 +602,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20280115
 DTEND;VALUE=DATE:20280116
 SUMMARY:Pongal
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -613,7 +613,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20280131
 DTEND;VALUE=DATE:20280201
 SUMMARY:Vasant Panchami
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -624,7 +624,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20280223
 DTEND;VALUE=DATE:20280224
 SUMMARY:Maha Shivaratri
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -635,7 +635,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20280311
 DTEND;VALUE=DATE:20280312
 SUMMARY:Holi
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -646,7 +646,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20280327
 DTEND;VALUE=DATE:20280328
 SUMMARY:Gudi Padwa
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -657,7 +657,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20280327
 DTEND;VALUE=DATE:20280328
 SUMMARY:Ugadi
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -668,7 +668,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20280403
 DTEND;VALUE=DATE:20280404
 SUMMARY:Rama Navami
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -679,7 +679,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20280624
 DTEND;VALUE=DATE:20280625
 SUMMARY:Rath Yatra
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -690,7 +690,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20280805
 DTEND;VALUE=DATE:20280806
 SUMMARY:Raksha Bandhan
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -701,7 +701,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20280813
 DTEND;VALUE=DATE:20280814
 SUMMARY:Janmashtami
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -712,7 +712,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20280823
 DTEND;VALUE=DATE:20280824
 SUMMARY:Ganesh Chaturthi
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -723,7 +723,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20280901
 DTEND;VALUE=DATE:20280902
 SUMMARY:Onam
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -733,8 +733,8 @@ UID:religion-hindoue-debut-de-sharad-navratri-2028@facilabo.app
 DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20280919
 DTEND;VALUE=DATE:20280920
-SUMMARY:Debut de Sharad Navratri
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+SUMMARY:Début de Sharad Navratri
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -745,7 +745,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20280927
 DTEND;VALUE=DATE:20280928
 SUMMARY:Dussehra
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -756,7 +756,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20281017
 DTEND;VALUE=DATE:20281018
 SUMMARY:Diwali
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -767,7 +767,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20281019
 DTEND;VALUE=DATE:20281020
 SUMMARY:Bhai Duj
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -778,7 +778,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20290114
 DTEND;VALUE=DATE:20290115
 SUMMARY:Makar Sankranti
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -789,7 +789,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20290114
 DTEND;VALUE=DATE:20290115
 SUMMARY:Pongal
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -800,7 +800,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20290119
 DTEND;VALUE=DATE:20290120
 SUMMARY:Vasant Panchami
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -811,7 +811,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20290211
 DTEND;VALUE=DATE:20290212
 SUMMARY:Maha Shivaratri
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -822,7 +822,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20290301
 DTEND;VALUE=DATE:20290302
 SUMMARY:Holi
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -833,7 +833,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20290414
 DTEND;VALUE=DATE:20290415
 SUMMARY:Ugadi
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -844,7 +844,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20290414
 DTEND;VALUE=DATE:20290415
 SUMMARY:Gudi Padwa
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -855,7 +855,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20290422
 DTEND;VALUE=DATE:20290423
 SUMMARY:Rama Navami
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -866,7 +866,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20290713
 DTEND;VALUE=DATE:20290714
 SUMMARY:Rath Yatra
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -877,7 +877,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20290822
 DTEND;VALUE=DATE:20290823
 SUMMARY:Onam
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -888,7 +888,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20290823
 DTEND;VALUE=DATE:20290824
 SUMMARY:Raksha Bandhan
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -899,7 +899,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20290901
 DTEND;VALUE=DATE:20290902
 SUMMARY:Janmashtami
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -910,7 +910,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20290911
 DTEND;VALUE=DATE:20290912
 SUMMARY:Ganesh Chaturthi
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -920,8 +920,8 @@ UID:religion-hindoue-debut-de-sharad-navratri-2029@facilabo.app
 DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20291008
 DTEND;VALUE=DATE:20291009
-SUMMARY:Debut de Sharad Navratri
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+SUMMARY:Début de Sharad Navratri
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -932,7 +932,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20291016
 DTEND;VALUE=DATE:20291017
 SUMMARY:Dussehra
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -943,7 +943,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20291105
 DTEND;VALUE=DATE:20291106
 SUMMARY:Diwali
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -954,7 +954,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20291107
 DTEND;VALUE=DATE:20291108
 SUMMARY:Bhai Duj
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -965,7 +965,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20300114
 DTEND;VALUE=DATE:20300115
 SUMMARY:Makar Sankranti
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -976,7 +976,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20300114
 DTEND;VALUE=DATE:20300115
 SUMMARY:Pongal
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -987,7 +987,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20300207
 DTEND;VALUE=DATE:20300208
 SUMMARY:Vasant Panchami
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -998,7 +998,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20300302
 DTEND;VALUE=DATE:20300303
 SUMMARY:Maha Shivaratri
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -1009,7 +1009,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20300320
 DTEND;VALUE=DATE:20300321
 SUMMARY:Holi
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -1020,7 +1020,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20300403
 DTEND;VALUE=DATE:20300404
 SUMMARY:Ugadi
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -1031,7 +1031,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20300403
 DTEND;VALUE=DATE:20300404
 SUMMARY:Gudi Padwa
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -1042,7 +1042,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20300412
 DTEND;VALUE=DATE:20300413
 SUMMARY:Rama Navami
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -1053,7 +1053,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20300702
 DTEND;VALUE=DATE:20300703
 SUMMARY:Rath Yatra
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -1064,7 +1064,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20300813
 DTEND;VALUE=DATE:20300814
 SUMMARY:Raksha Bandhan
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -1075,7 +1075,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20300821
 DTEND;VALUE=DATE:20300822
 SUMMARY:Janmashtami
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -1086,7 +1086,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20300901
 DTEND;VALUE=DATE:20300902
 SUMMARY:Ganesh Chaturthi
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -1097,7 +1097,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20300909
 DTEND;VALUE=DATE:20300910
 SUMMARY:Onam
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -1107,8 +1107,8 @@ UID:religion-hindoue-debut-de-sharad-navratri-2030@facilabo.app
 DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20300928
 DTEND;VALUE=DATE:20300929
-SUMMARY:Debut de Sharad Navratri
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+SUMMARY:Début de Sharad Navratri
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -1119,7 +1119,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20301006
 DTEND;VALUE=DATE:20301007
 SUMMARY:Dussehra
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -1130,7 +1130,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20301026
 DTEND;VALUE=DATE:20301027
 SUMMARY:Diwali
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -1141,7 +1141,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20301028
 DTEND;VALUE=DATE:20301029
 SUMMARY:Bhai Duj
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -1152,7 +1152,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20310115
 DTEND;VALUE=DATE:20310116
 SUMMARY:Makar Sankranti
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -1163,7 +1163,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20310115
 DTEND;VALUE=DATE:20310116
 SUMMARY:Pongal
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -1174,7 +1174,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20310127
 DTEND;VALUE=DATE:20310128
 SUMMARY:Vasant Panchami
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -1185,7 +1185,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20310220
 DTEND;VALUE=DATE:20310221
 SUMMARY:Maha Shivaratri
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -1196,7 +1196,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20310309
 DTEND;VALUE=DATE:20310310
 SUMMARY:Holi
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -1207,7 +1207,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20310324
 DTEND;VALUE=DATE:20310325
 SUMMARY:Gudi Padwa
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -1218,7 +1218,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20310324
 DTEND;VALUE=DATE:20310325
 SUMMARY:Ugadi
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -1229,7 +1229,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20310401
 DTEND;VALUE=DATE:20310402
 SUMMARY:Rama Navami
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -1240,7 +1240,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20310622
 DTEND;VALUE=DATE:20310623
 SUMMARY:Rath Yatra
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -1251,7 +1251,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20310802
 DTEND;VALUE=DATE:20310803
 SUMMARY:Raksha Bandhan
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -1262,7 +1262,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20310809
 DTEND;VALUE=DATE:20310810
 SUMMARY:Janmashtami
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -1273,7 +1273,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20310830
 DTEND;VALUE=DATE:20310831
 SUMMARY:Onam
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -1284,7 +1284,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20310920
 DTEND;VALUE=DATE:20310921
 SUMMARY:Ganesh Chaturthi
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -1294,8 +1294,8 @@ UID:religion-hindoue-debut-de-sharad-navratri-2031@facilabo.app
 DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20311017
 DTEND;VALUE=DATE:20311018
-SUMMARY:Debut de Sharad Navratri
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+SUMMARY:Début de Sharad Navratri
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -1306,7 +1306,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20311025
 DTEND;VALUE=DATE:20311026
 SUMMARY:Dussehra
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -1317,7 +1317,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20311114
 DTEND;VALUE=DATE:20311115
 SUMMARY:Diwali
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED
@@ -1328,7 +1328,7 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20311116
 DTEND;VALUE=DATE:20311117
 SUMMARY:Bhai Duj
-DESCRIPTION:Fete hindoue importante (source: Google Public Holidays).
+DESCRIPTION:Fête hindoue importante (source: Google Public Holidays).
 URL:https://calendar.google.com/calendar/ical/en.hinduism%23holiday@group.v.calendar.google.com/public
 CATEGORIES:Religion,Hindouisme
 STATUS:CONFIRMED

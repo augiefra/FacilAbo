@@ -4,7 +4,7 @@ PRODID:-//FacilAbo//Société Repères France//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Société - Repères France
-X-WR-CALDESC:Repères sociétaux France (2025-2032). Chevauchements volontaires possibles avec ecommerce/fetes-commerciales.
+X-WR-CALDESC:Repères sociétaux France (2025-2032). Chevauchements volontaires possibles avec ecommerce/fêtes-commerciales.
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Paris

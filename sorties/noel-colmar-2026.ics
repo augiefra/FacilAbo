@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//FacilAbo//Sorties Noel Colmar 2026//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
-X-WR-CALNAME:Noel a Colmar 2026
-X-WR-CALDESC:Marches de Noel de Colmar 2026
+X-WR-CALNAME:Noël a Colmar 2026
+X-WR-CALDESC:Marches de Noël de Colmar 2026
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Paris
@@ -29,11 +29,11 @@ UID:sorties-noel-colmar-2026@facilabo.app
 DTSTAMP:20260622T120000Z
 DTSTART;VALUE=DATE:20261123
 DTEND;VALUE=DATE:20261230
-SUMMARY:Marches de Noel de Colmar
-DESCRIPTION:Six marches de Noel de Colmar, du 23 novembre au 29 decembre 2026. Source officielle: noel-colmar.com
+SUMMARY:Marches de Noël de Colmar
+DESCRIPTION:Six marches de Noël de Colmar, du 23 novembre au 29 décembre 2026. Source officielle: noël-colmar.com
 LOCATION:Colmar, Haut-Rhin, France
 URL:https://www.noel-colmar.com/fr/
-CATEGORIES:Sorties,Noel,Marche
+CATEGORIES:Sorties,Noël,Marche
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//FacilAbo//Belgique Feries et Remplacement//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
-X-WR-CALNAME:Belgique - Feries legaux et remplacement entreprises
-X-WR-CALDESC:Jours feries legaux en Belgique + rappels remplacement employeur (2026-2031)
+X-WR-CALNAME:Belgique - Fériés legaux et remplacement entreprises
+X-WR-CALDESC:Jours fériés legaux en Belgique + rappels remplacement employeur (2026-2031)
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VTIMEZONE
 TZID:Europe/Brussels
@@ -30,9 +30,9 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20260101
 DTEND;VALUE=DATE:20260102
 SUMMARY:Jour de l An - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -41,7 +41,7 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20260102
 DTEND;VALUE=DATE:20260103
 SUMMARY:Politique de remplacement entreprise (rappel annuel)
-DESCRIPTION:Verifier en debut d annee les regles de remplacement des jours feries dans votre secteur. Source: SPF Emploi. Fiabilite: reminder editorial.
+DESCRIPTION:Verifier en début d année les regles de remplacement des jours fériés dans votre secteur. Source: SPF Emploi. Fiabilité: reminder editorial.
 URL:https://emploi.belgique.be/fr/themes/remuneration/jours-feries
 CATEGORIES:Belgique\,Travail\,RH
 STATUS:CONFIRMED
@@ -51,10 +51,10 @@ UID:belgique-feries-remplacement-lundi-paques-2026@facilabo.app
 DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20260406
 DTEND;VALUE=DATE:20260407
-SUMMARY:Lundi de Paques - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+SUMMARY:Lundi de Pâques - Belgique
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -62,10 +62,10 @@ UID:belgique-feries-remplacement-fete-travail-2026@facilabo.app
 DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
-SUMMARY:Fete du Travail - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+SUMMARY:Fête du Travail - Belgique
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -74,9 +74,9 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260515
 SUMMARY:Ascension - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -85,9 +85,9 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20260525
 DTEND;VALUE=DATE:20260526
 SUMMARY:Lundi de Pentecote - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -95,10 +95,10 @@ UID:belgique-feries-remplacement-fete-nationale-2026@facilabo.app
 DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
-SUMMARY:Fete nationale belge
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+SUMMARY:Fête nationale belge
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries\,Institutions
+CATEGORIES:Belgique\,Fériés\,Institutions
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -107,9 +107,9 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
 SUMMARY:Assomption - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -118,9 +118,9 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Toussaint - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -129,7 +129,7 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20261102
 DTEND;VALUE=DATE:20261103
 SUMMARY:Jour de remplacement entreprise (a confirmer) - Toussaint - Belgique
-DESCRIPTION:Rappel de gouvernance RH: si un jour ferie legal tombe un dimanche\, le jour de remplacement est fixe par CCT\, reglement de travail ou accord interne. Source: SPF Emploi. Fiabilite: date indicative a confirmer par employeur.
+DESCRIPTION:Rappel de gouvernance RH: si un jour férié legal tombe un dimanche\, le jour de remplacement est fixe par CCT\, reglement de travail ou accord interne. Source: SPF Emploi. Fiabilité: date indicative a confirmer par employeur.
 URL:https://emploi.belgique.be/fr/themes/remuneration/jours-feries
 CATEGORIES:Belgique\,Travail\,RH
 STATUS:CONFIRMED
@@ -140,9 +140,9 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20261111
 DTEND;VALUE=DATE:20261112
 SUMMARY:Jour de l Armistice - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -150,10 +150,10 @@ UID:belgique-feries-remplacement-noel-2026@facilabo.app
 DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
-SUMMARY:Noel - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+SUMMARY:Noël - Belgique
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -162,9 +162,9 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:Jour de l An - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -173,7 +173,7 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
 SUMMARY:Politique de remplacement entreprise (rappel annuel)
-DESCRIPTION:Verifier en debut d annee les regles de remplacement des jours feries dans votre secteur. Source: SPF Emploi. Fiabilite: reminder editorial.
+DESCRIPTION:Verifier en début d année les regles de remplacement des jours fériés dans votre secteur. Source: SPF Emploi. Fiabilité: reminder editorial.
 URL:https://emploi.belgique.be/fr/themes/remuneration/jours-feries
 CATEGORIES:Belgique\,Travail\,RH
 STATUS:CONFIRMED
@@ -183,10 +183,10 @@ UID:belgique-feries-remplacement-lundi-paques-2027@facilabo.app
 DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20270329
 DTEND;VALUE=DATE:20270330
-SUMMARY:Lundi de Paques - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+SUMMARY:Lundi de Pâques - Belgique
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -194,10 +194,10 @@ UID:belgique-feries-remplacement-fete-travail-2027@facilabo.app
 DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
-SUMMARY:Fete du Travail - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+SUMMARY:Fête du Travail - Belgique
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -206,9 +206,9 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20270506
 DTEND;VALUE=DATE:20270507
 SUMMARY:Ascension - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -217,9 +217,9 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20270517
 DTEND;VALUE=DATE:20270518
 SUMMARY:Lundi de Pentecote - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -227,10 +227,10 @@ UID:belgique-feries-remplacement-fete-nationale-2027@facilabo.app
 DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20270721
 DTEND;VALUE=DATE:20270722
-SUMMARY:Fete nationale belge
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+SUMMARY:Fête nationale belge
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries\,Institutions
+CATEGORIES:Belgique\,Fériés\,Institutions
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -239,9 +239,9 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20270815
 DTEND;VALUE=DATE:20270816
 SUMMARY:Assomption - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -250,7 +250,7 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20270816
 DTEND;VALUE=DATE:20270817
 SUMMARY:Jour de remplacement entreprise (a confirmer) - Assomption - Belgique
-DESCRIPTION:Rappel de gouvernance RH: si un jour ferie legal tombe un dimanche\, le jour de remplacement est fixe par CCT\, reglement de travail ou accord interne. Source: SPF Emploi. Fiabilite: date indicative a confirmer par employeur.
+DESCRIPTION:Rappel de gouvernance RH: si un jour férié legal tombe un dimanche\, le jour de remplacement est fixe par CCT\, reglement de travail ou accord interne. Source: SPF Emploi. Fiabilité: date indicative a confirmer par employeur.
 URL:https://emploi.belgique.be/fr/themes/remuneration/jours-feries
 CATEGORIES:Belgique\,Travail\,RH
 STATUS:CONFIRMED
@@ -261,9 +261,9 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20271101
 DTEND;VALUE=DATE:20271102
 SUMMARY:Toussaint - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -272,9 +272,9 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20271111
 DTEND;VALUE=DATE:20271112
 SUMMARY:Jour de l Armistice - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -282,10 +282,10 @@ UID:belgique-feries-remplacement-noel-2027@facilabo.app
 DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20271225
 DTEND;VALUE=DATE:20271226
-SUMMARY:Noel - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+SUMMARY:Noël - Belgique
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -294,9 +294,9 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20280101
 DTEND;VALUE=DATE:20280102
 SUMMARY:Jour de l An - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -305,7 +305,7 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20280102
 DTEND;VALUE=DATE:20280103
 SUMMARY:Politique de remplacement entreprise (rappel annuel)
-DESCRIPTION:Verifier en debut d annee les regles de remplacement des jours feries dans votre secteur. Source: SPF Emploi. Fiabilite: reminder editorial.
+DESCRIPTION:Verifier en début d année les regles de remplacement des jours fériés dans votre secteur. Source: SPF Emploi. Fiabilité: reminder editorial.
 URL:https://emploi.belgique.be/fr/themes/remuneration/jours-feries
 CATEGORIES:Belgique\,Travail\,RH
 STATUS:CONFIRMED
@@ -315,10 +315,10 @@ UID:belgique-feries-remplacement-lundi-paques-2028@facilabo.app
 DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20280417
 DTEND;VALUE=DATE:20280418
-SUMMARY:Lundi de Paques - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+SUMMARY:Lundi de Pâques - Belgique
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -326,10 +326,10 @@ UID:belgique-feries-remplacement-fete-travail-2028@facilabo.app
 DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20280501
 DTEND;VALUE=DATE:20280502
-SUMMARY:Fete du Travail - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+SUMMARY:Fête du Travail - Belgique
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -338,9 +338,9 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20280525
 DTEND;VALUE=DATE:20280526
 SUMMARY:Ascension - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -349,9 +349,9 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20280605
 DTEND;VALUE=DATE:20280606
 SUMMARY:Lundi de Pentecote - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -359,10 +359,10 @@ UID:belgique-feries-remplacement-fete-nationale-2028@facilabo.app
 DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20280721
 DTEND;VALUE=DATE:20280722
-SUMMARY:Fete nationale belge
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+SUMMARY:Fête nationale belge
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries\,Institutions
+CATEGORIES:Belgique\,Fériés\,Institutions
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -371,9 +371,9 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20280815
 DTEND;VALUE=DATE:20280816
 SUMMARY:Assomption - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -382,9 +382,9 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20281101
 DTEND;VALUE=DATE:20281102
 SUMMARY:Toussaint - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -393,9 +393,9 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20281111
 DTEND;VALUE=DATE:20281112
 SUMMARY:Jour de l Armistice - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -403,10 +403,10 @@ UID:belgique-feries-remplacement-noel-2028@facilabo.app
 DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20281225
 DTEND;VALUE=DATE:20281226
-SUMMARY:Noel - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+SUMMARY:Noël - Belgique
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -415,9 +415,9 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20290101
 DTEND;VALUE=DATE:20290102
 SUMMARY:Jour de l An - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -426,7 +426,7 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20290102
 DTEND;VALUE=DATE:20290103
 SUMMARY:Politique de remplacement entreprise (rappel annuel)
-DESCRIPTION:Verifier en debut d annee les regles de remplacement des jours feries dans votre secteur. Source: SPF Emploi. Fiabilite: reminder editorial.
+DESCRIPTION:Verifier en début d année les regles de remplacement des jours fériés dans votre secteur. Source: SPF Emploi. Fiabilité: reminder editorial.
 URL:https://emploi.belgique.be/fr/themes/remuneration/jours-feries
 CATEGORIES:Belgique\,Travail\,RH
 STATUS:CONFIRMED
@@ -436,10 +436,10 @@ UID:belgique-feries-remplacement-lundi-paques-2029@facilabo.app
 DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20290402
 DTEND;VALUE=DATE:20290403
-SUMMARY:Lundi de Paques - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+SUMMARY:Lundi de Pâques - Belgique
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -447,10 +447,10 @@ UID:belgique-feries-remplacement-fete-travail-2029@facilabo.app
 DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20290501
 DTEND;VALUE=DATE:20290502
-SUMMARY:Fete du Travail - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+SUMMARY:Fête du Travail - Belgique
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -459,9 +459,9 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20290510
 DTEND;VALUE=DATE:20290511
 SUMMARY:Ascension - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -470,9 +470,9 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20290521
 DTEND;VALUE=DATE:20290522
 SUMMARY:Lundi de Pentecote - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -480,10 +480,10 @@ UID:belgique-feries-remplacement-fete-nationale-2029@facilabo.app
 DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20290721
 DTEND;VALUE=DATE:20290722
-SUMMARY:Fete nationale belge
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+SUMMARY:Fête nationale belge
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries\,Institutions
+CATEGORIES:Belgique\,Fériés\,Institutions
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -492,9 +492,9 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20290815
 DTEND;VALUE=DATE:20290816
 SUMMARY:Assomption - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -503,9 +503,9 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20291101
 DTEND;VALUE=DATE:20291102
 SUMMARY:Toussaint - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -514,9 +514,9 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20291111
 DTEND;VALUE=DATE:20291112
 SUMMARY:Jour de l Armistice - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -525,7 +525,7 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20291112
 DTEND;VALUE=DATE:20291113
 SUMMARY:Jour de remplacement entreprise (a confirmer) - Jour de l Armistice - Belgique
-DESCRIPTION:Rappel de gouvernance RH: si un jour ferie legal tombe un dimanche\, le jour de remplacement est fixe par CCT\, reglement de travail ou accord interne. Source: SPF Emploi. Fiabilite: date indicative a confirmer par employeur.
+DESCRIPTION:Rappel de gouvernance RH: si un jour férié legal tombe un dimanche\, le jour de remplacement est fixe par CCT\, reglement de travail ou accord interne. Source: SPF Emploi. Fiabilité: date indicative a confirmer par employeur.
 URL:https://emploi.belgique.be/fr/themes/remuneration/jours-feries
 CATEGORIES:Belgique\,Travail\,RH
 STATUS:CONFIRMED
@@ -535,10 +535,10 @@ UID:belgique-feries-remplacement-noel-2029@facilabo.app
 DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20291225
 DTEND;VALUE=DATE:20291226
-SUMMARY:Noel - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+SUMMARY:Noël - Belgique
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -547,9 +547,9 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20300101
 DTEND;VALUE=DATE:20300102
 SUMMARY:Jour de l An - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -558,7 +558,7 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20300102
 DTEND;VALUE=DATE:20300103
 SUMMARY:Politique de remplacement entreprise (rappel annuel)
-DESCRIPTION:Verifier en debut d annee les regles de remplacement des jours feries dans votre secteur. Source: SPF Emploi. Fiabilite: reminder editorial.
+DESCRIPTION:Verifier en début d année les regles de remplacement des jours fériés dans votre secteur. Source: SPF Emploi. Fiabilité: reminder editorial.
 URL:https://emploi.belgique.be/fr/themes/remuneration/jours-feries
 CATEGORIES:Belgique\,Travail\,RH
 STATUS:CONFIRMED
@@ -568,10 +568,10 @@ UID:belgique-feries-remplacement-lundi-paques-2030@facilabo.app
 DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20300422
 DTEND;VALUE=DATE:20300423
-SUMMARY:Lundi de Paques - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+SUMMARY:Lundi de Pâques - Belgique
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -579,10 +579,10 @@ UID:belgique-feries-remplacement-fete-travail-2030@facilabo.app
 DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20300501
 DTEND;VALUE=DATE:20300502
-SUMMARY:Fete du Travail - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+SUMMARY:Fête du Travail - Belgique
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -591,9 +591,9 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20300530
 DTEND;VALUE=DATE:20300531
 SUMMARY:Ascension - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -602,9 +602,9 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20300610
 DTEND;VALUE=DATE:20300611
 SUMMARY:Lundi de Pentecote - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -612,10 +612,10 @@ UID:belgique-feries-remplacement-fete-nationale-2030@facilabo.app
 DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20300721
 DTEND;VALUE=DATE:20300722
-SUMMARY:Fete nationale belge
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+SUMMARY:Fête nationale belge
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries\,Institutions
+CATEGORIES:Belgique\,Fériés\,Institutions
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -623,8 +623,8 @@ UID:belgique-feries-remplacement-remplacement-fete-nationale-2030@facilabo.app
 DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20300722
 DTEND;VALUE=DATE:20300723
-SUMMARY:Jour de remplacement entreprise (a confirmer) - Fete nationale belge
-DESCRIPTION:Rappel de gouvernance RH: si un jour ferie legal tombe un dimanche\, le jour de remplacement est fixe par CCT\, reglement de travail ou accord interne. Source: SPF Emploi. Fiabilite: date indicative a confirmer par employeur.
+SUMMARY:Jour de remplacement entreprise (a confirmer) - Fête nationale belge
+DESCRIPTION:Rappel de gouvernance RH: si un jour férié legal tombe un dimanche\, le jour de remplacement est fixe par CCT\, reglement de travail ou accord interne. Source: SPF Emploi. Fiabilité: date indicative a confirmer par employeur.
 URL:https://emploi.belgique.be/fr/themes/remuneration/jours-feries
 CATEGORIES:Belgique\,Travail\,RH
 STATUS:CONFIRMED
@@ -635,9 +635,9 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20300815
 DTEND;VALUE=DATE:20300816
 SUMMARY:Assomption - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -646,9 +646,9 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20301101
 DTEND;VALUE=DATE:20301102
 SUMMARY:Toussaint - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -657,9 +657,9 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20301111
 DTEND;VALUE=DATE:20301112
 SUMMARY:Jour de l Armistice - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -667,10 +667,10 @@ UID:belgique-feries-remplacement-noel-2030@facilabo.app
 DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20301225
 DTEND;VALUE=DATE:20301226
-SUMMARY:Noel - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+SUMMARY:Noël - Belgique
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -679,9 +679,9 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20310101
 DTEND;VALUE=DATE:20310102
 SUMMARY:Jour de l An - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -690,7 +690,7 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20310102
 DTEND;VALUE=DATE:20310103
 SUMMARY:Politique de remplacement entreprise (rappel annuel)
-DESCRIPTION:Verifier en debut d annee les regles de remplacement des jours feries dans votre secteur. Source: SPF Emploi. Fiabilite: reminder editorial.
+DESCRIPTION:Verifier en début d année les regles de remplacement des jours fériés dans votre secteur. Source: SPF Emploi. Fiabilité: reminder editorial.
 URL:https://emploi.belgique.be/fr/themes/remuneration/jours-feries
 CATEGORIES:Belgique\,Travail\,RH
 STATUS:CONFIRMED
@@ -700,10 +700,10 @@ UID:belgique-feries-remplacement-lundi-paques-2031@facilabo.app
 DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20310414
 DTEND;VALUE=DATE:20310415
-SUMMARY:Lundi de Paques - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+SUMMARY:Lundi de Pâques - Belgique
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -711,10 +711,10 @@ UID:belgique-feries-remplacement-fete-travail-2031@facilabo.app
 DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20310501
 DTEND;VALUE=DATE:20310502
-SUMMARY:Fete du Travail - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+SUMMARY:Fête du Travail - Belgique
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -723,9 +723,9 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20310522
 DTEND;VALUE=DATE:20310523
 SUMMARY:Ascension - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -734,9 +734,9 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20310602
 DTEND;VALUE=DATE:20310603
 SUMMARY:Lundi de Pentecote - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -744,10 +744,10 @@ UID:belgique-feries-remplacement-fete-nationale-2031@facilabo.app
 DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20310721
 DTEND;VALUE=DATE:20310722
-SUMMARY:Fete nationale belge
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+SUMMARY:Fête nationale belge
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries\,Institutions
+CATEGORIES:Belgique\,Fériés\,Institutions
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -756,9 +756,9 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20310815
 DTEND;VALUE=DATE:20310816
 SUMMARY:Assomption - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -767,9 +767,9 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20311101
 DTEND;VALUE=DATE:20311102
 SUMMARY:Toussaint - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -778,9 +778,9 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20311111
 DTEND;VALUE=DATE:20311112
 SUMMARY:Jour de l Armistice - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -788,10 +788,10 @@ UID:belgique-feries-remplacement-noel-2031@facilabo.app
 DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20311225
 DTEND;VALUE=DATE:20311226
-SUMMARY:Noel - Belgique
-DESCRIPTION:Jour ferie legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilite: haute pour la date legale.
+SUMMARY:Noël - Belgique
+DESCRIPTION:Jour férié legal belge. Source: https://www.belgium.be/fr/la_belgique/jours_feries. Fiabilité: haute pour la date légale.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
-CATEGORIES:Belgique\,Feries
+CATEGORIES:Belgique\,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

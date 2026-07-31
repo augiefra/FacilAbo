@@ -3,8 +3,8 @@ VERSION:2.0
 PRODID:-//FacilAbo//Sorties Noel Eguisheim 2026//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
-X-WR-CALNAME:Noel a Eguisheim 2026
-X-WR-CALDESC:Marche de Noel authentique a Eguisheim 2026
+X-WR-CALNAME:Noël a Eguisheim 2026
+X-WR-CALDESC:Marche de Noël authentique a Eguisheim 2026
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Paris
@@ -29,11 +29,11 @@ UID:sorties-noel-eguisheim-2026@facilabo.app
 DTSTAMP:20260622T120000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261231
-SUMMARY:Marche de Noel d'Eguisheim
-DESCRIPTION:Marche de Noel authentique a Eguisheim, du 27 novembre au 30 decembre 2026. Source officielle: noel-colmar.com
+SUMMARY:Marche de Noël d'Eguisheim
+DESCRIPTION:Marche de Noël authentique a Eguisheim, du 27 novembre au 30 décembre 2026. Source officielle: noël-colmar.com
 LOCATION:Eguisheim, Haut-Rhin, France
 URL:https://www.noel-colmar.com/fr/
-CATEGORIES:Sorties,Noel,Marche
+CATEGORIES:Sorties,Noël,Marche
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR
