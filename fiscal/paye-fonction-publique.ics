@@ -4,7 +4,8 @@ PRODID:-//FacilAbo//Paye Fonction publique//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Paye Fonction publique
-X-WR-CALDESC:Dates officielles de virement des agents publics (source ministerielle)
+X-WR-CALDESC:Dates officielles de virement des agents publics (source minis
+ térielle)
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Paris
@@ -30,8 +31,9 @@ DTSTAMP:20260225T120000Z
 DTSTART;VALUE=DATE:20260128
 DTEND;VALUE=DATE:20260129
 SUMMARY:Paye fonction publique - virement
-DESCRIPTION:Date officielle de virement (source ministerielle, consultee le 2026-02-25)
-CATEGORIES:Fiscalite,Paye
+DESCRIPTION:Date officielle de virement (source ministérielle, consultée
+  le 2026-02-25)
+CATEGORIES:Fiscalité,Paye
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -40,8 +42,9 @@ DTSTAMP:20260225T120000Z
 DTSTART;VALUE=DATE:20260225
 DTEND;VALUE=DATE:20260226
 SUMMARY:Paye fonction publique - virement
-DESCRIPTION:Date officielle de virement (source ministerielle, consultee le 2026-02-25)
-CATEGORIES:Fiscalite,Paye
+DESCRIPTION:Date officielle de virement (source ministérielle, consultée
+  le 2026-02-25)
+CATEGORIES:Fiscalité,Paye
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -50,8 +53,9 @@ DTSTAMP:20260225T120000Z
 DTSTART;VALUE=DATE:20260327
 DTEND;VALUE=DATE:20260328
 SUMMARY:Paye fonction publique - virement
-DESCRIPTION:Date officielle de virement (source ministerielle, consultee le 2026-02-25)
-CATEGORIES:Fiscalite,Paye
+DESCRIPTION:Date officielle de virement (source ministérielle, consultée
+  le 2026-02-25)
+CATEGORIES:Fiscalité,Paye
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -60,8 +64,9 @@ DTSTAMP:20260225T120000Z
 DTSTART;VALUE=DATE:20260428
 DTEND;VALUE=DATE:20260429
 SUMMARY:Paye fonction publique - virement
-DESCRIPTION:Date officielle de virement (source ministerielle, consultee le 2026-02-25)
-CATEGORIES:Fiscalite,Paye
+DESCRIPTION:Date officielle de virement (source ministérielle, consultée
+  le 2026-02-25)
+CATEGORIES:Fiscalité,Paye
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -70,8 +75,9 @@ DTSTAMP:20260225T120000Z
 DTSTART;VALUE=DATE:20260527
 DTEND;VALUE=DATE:20260528
 SUMMARY:Paye fonction publique - virement
-DESCRIPTION:Date officielle de virement (source ministerielle, consultee le 2026-02-25)
-CATEGORIES:Fiscalite,Paye
+DESCRIPTION:Date officielle de virement (source ministérielle, consultée
+  le 2026-02-25)
+CATEGORIES:Fiscalité,Paye
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -80,8 +86,9 @@ DTSTAMP:20260225T120000Z
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
 SUMMARY:Paye fonction publique - virement
-DESCRIPTION:Date officielle de virement (source ministerielle, consultee le 2026-02-25)
-CATEGORIES:Fiscalite,Paye
+DESCRIPTION:Date officielle de virement (source ministérielle, consultée
+  le 2026-02-25)
+CATEGORIES:Fiscalité,Paye
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -90,8 +97,9 @@ DTSTAMP:20260225T120000Z
 DTSTART;VALUE=DATE:20260729
 DTEND;VALUE=DATE:20260730
 SUMMARY:Paye fonction publique - virement
-DESCRIPTION:Date officielle de virement (source ministerielle, consultee le 2026-02-25)
-CATEGORIES:Fiscalite,Paye
+DESCRIPTION:Date officielle de virement (source ministérielle, consultée
+  le 2026-02-25)
+CATEGORIES:Fiscalité,Paye
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -100,8 +108,9 @@ DTSTAMP:20260225T120000Z
 DTSTART;VALUE=DATE:20260827
 DTEND;VALUE=DATE:20260828
 SUMMARY:Paye fonction publique - virement
-DESCRIPTION:Date officielle de virement (source ministerielle, consultee le 2026-02-25)
-CATEGORIES:Fiscalite,Paye
+DESCRIPTION:Date officielle de virement (source ministérielle, consultée
+  le 2026-02-25)
+CATEGORIES:Fiscalité,Paye
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -110,8 +119,9 @@ DTSTAMP:20260225T120000Z
 DTSTART;VALUE=DATE:20260928
 DTEND;VALUE=DATE:20260929
 SUMMARY:Paye fonction publique - virement
-DESCRIPTION:Date officielle de virement (source ministerielle, consultee le 2026-02-25)
-CATEGORIES:Fiscalite,Paye
+DESCRIPTION:Date officielle de virement (source ministérielle, consultée
+  le 2026-02-25)
+CATEGORIES:Fiscalité,Paye
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -120,8 +130,9 @@ DTSTAMP:20260225T120000Z
 DTSTART;VALUE=DATE:20261028
 DTEND;VALUE=DATE:20261029
 SUMMARY:Paye fonction publique - virement
-DESCRIPTION:Date officielle de virement (source ministerielle, consultee le 2026-02-25)
-CATEGORIES:Fiscalite,Paye
+DESCRIPTION:Date officielle de virement (source ministérielle, consultée
+  le 2026-02-25)
+CATEGORIES:Fiscalité,Paye
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -130,8 +141,9 @@ DTSTAMP:20260225T120000Z
 DTSTART;VALUE=DATE:20261126
 DTEND;VALUE=DATE:20261127
 SUMMARY:Paye fonction publique - virement
-DESCRIPTION:Date officielle de virement (source ministerielle, consultee le 2026-02-25)
-CATEGORIES:Fiscalite,Paye
+DESCRIPTION:Date officielle de virement (source ministérielle, consultée
+  le 2026-02-25)
+CATEGORIES:Fiscalité,Paye
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -140,8 +152,9 @@ DTSTAMP:20260225T120000Z
 DTSTART;VALUE=DATE:20261222
 DTEND;VALUE=DATE:20261223
 SUMMARY:Paye fonction publique - virement
-DESCRIPTION:Date officielle de virement (source ministerielle, consultee le 2026-02-25)
-CATEGORIES:Fiscalite,Paye
+DESCRIPTION:Date officielle de virement (source ministérielle, consultée
+  le 2026-02-25)
+CATEGORIES:Fiscalité,Paye
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -4,7 +4,10 @@ PRODID:-//FacilAbo//WEC//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
 X-WR-CALNAME:WEC - Championnat du monde d endurance
-X-WR-CALDESC:Agenda FIA WEC 2026. Un evenement par manche officielle. Representation date-only tant que l horaire de depart n est pas publie. Saison 2026 complete avec 8 manches datees, dont Barcelone du 16 au 18 octobre et Monza du 6 au 8 novembre 2026.
+X-WR-CALDESC:Agenda FIA WEC 2026. Un événement par manche officielle. Rep
+ resentation date-only tant que l horaire de départ n est pas publié. Sai
+ son 2026 complete avec 8 manches datees, dont Barcelone du 16 au 18 octobr
+ e et Monza du 6 au 8 novembre 2026.
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Paris
@@ -30,7 +33,9 @@ DTSTAMP:20260310T120000Z
 DTSTART;VALUE=DATE:20260417
 DTEND;VALUE=DATE:20260420
 SUMMARY:6 Heures d Imola
-DESCRIPTION:Round 1 FIA WEC 2026 | Sources: https://www.fiawec.com/en/calendar + https://www.fiawec.com/en/race/show/4948 | Horaire de depart non publie au 2026-03-10, evenement maintenu en date-only.
+DESCRIPTION:Round 1 FIA WEC 2026 | Sources: https://www.fiawec.com/en/calen
+ dar + https://www.fiawec.com/en/race/show/4948 | Horaire de départ non pu
+ blié au 2026-03-10, événement maintenu en date-only.
 LOCATION:Imola, Italie
 URL:https://www.fiawec.com/en/race/show/4948
 CATEGORIES:Sport,Endurance,WEC
@@ -42,7 +47,9 @@ DTSTAMP:20260310T120000Z
 DTSTART;VALUE=DATE:20260507
 DTEND;VALUE=DATE:20260510
 SUMMARY:6 Heures de Spa-Francorchamps
-DESCRIPTION:Round 2 FIA WEC 2026 | Sources: https://www.fiawec.com/en/calendar + https://www.fiawec.com/en/race/show/4949 | Horaire de depart non publie au 2026-03-10, evenement maintenu en date-only.
+DESCRIPTION:Round 2 FIA WEC 2026 | Sources: https://www.fiawec.com/en/calen
+ dar + https://www.fiawec.com/en/race/show/4949 | Horaire de départ non pu
+ blié au 2026-03-10, événement maintenu en date-only.
 LOCATION:Spa-Francorchamps, Belgique
 URL:https://www.fiawec.com/en/race/show/4949
 CATEGORIES:Sport,Endurance,WEC
@@ -54,7 +61,9 @@ DTSTAMP:20260310T120000Z
 DTSTART;VALUE=DATE:20260610
 DTEND;VALUE=DATE:20260615
 SUMMARY:24 Heures du Mans
-DESCRIPTION:Round 3 FIA WEC 2026 | Sources: https://www.fiawec.com/en/calendar + https://www.fiawec.com/en/race/show/4951 | Horaire de depart non publie au 2026-03-10, evenement maintenu en date-only.
+DESCRIPTION:Round 3 FIA WEC 2026 | Sources: https://www.fiawec.com/en/calen
+ dar + https://www.fiawec.com/en/race/show/4951 | Horaire de départ non pu
+ blié au 2026-03-10, événement maintenu en date-only.
 LOCATION:Le Mans, France
 URL:https://www.fiawec.com/en/race/show/4951
 CATEGORIES:Sport,Endurance,WEC
@@ -66,7 +75,9 @@ DTSTAMP:20260310T120000Z
 DTSTART;VALUE=DATE:20260710
 DTEND;VALUE=DATE:20260713
 SUMMARY:6 Heures de Sao Paulo
-DESCRIPTION:Round 4 FIA WEC 2026 | Sources: https://www.fiawec.com/en/calendar + https://www.fiawec.com/en/race/show/4952 | Horaire de depart non publie au 2026-03-10, evenement maintenu en date-only.
+DESCRIPTION:Round 4 FIA WEC 2026 | Sources: https://www.fiawec.com/en/calen
+ dar + https://www.fiawec.com/en/race/show/4952 | Horaire de départ non pu
+ blié au 2026-03-10, événement maintenu en date-only.
 LOCATION:Sao Paulo, Bresil
 URL:https://www.fiawec.com/en/race/show/4952
 CATEGORIES:Sport,Endurance,WEC
@@ -78,7 +89,9 @@ DTSTAMP:20260310T120000Z
 DTSTART;VALUE=DATE:20260904
 DTEND;VALUE=DATE:20260907
 SUMMARY:Lone Star Le Mans
-DESCRIPTION:Round 5 FIA WEC 2026 | Sources: https://www.fiawec.com/en/calendar + https://www.fiawec.com/en/race/show/4953 | Horaire de depart non publie au 2026-03-10, evenement maintenu en date-only.
+DESCRIPTION:Round 5 FIA WEC 2026 | Sources: https://www.fiawec.com/en/calen
+ dar + https://www.fiawec.com/en/race/show/4953 | Horaire de départ non pu
+ blié au 2026-03-10, événement maintenu en date-only.
 LOCATION:Austin, Etats-Unis
 URL:https://www.fiawec.com/en/race/show/4953
 CATEGORIES:Sport,Endurance,WEC
@@ -90,7 +103,9 @@ DTSTAMP:20260310T120000Z
 DTSTART;VALUE=DATE:20260925
 DTEND;VALUE=DATE:20260928
 SUMMARY:6 Heures de Fuji
-DESCRIPTION:Round 6 FIA WEC 2026 | Sources: https://www.fiawec.com/en/calendar + https://www.fiawec.com/en/race/show/4954 | Horaire de depart non publie au 2026-03-10, evenement maintenu en date-only.
+DESCRIPTION:Round 6 FIA WEC 2026 | Sources: https://www.fiawec.com/en/calen
+ dar + https://www.fiawec.com/en/race/show/4954 | Horaire de départ non pu
+ blié au 2026-03-10, événement maintenu en date-only.
 LOCATION:Oyama, Japon
 URL:https://www.fiawec.com/en/race/show/4954
 CATEGORIES:Sport,Endurance,WEC
@@ -102,9 +117,13 @@ DTSTAMP:20260729T120000Z
 DTSTART;VALUE=DATE:20261016
 DTEND;VALUE=DATE:20261019
 SUMMARY:6 Heures de Barcelone
-DESCRIPTION:Round 7 FIA WEC 2026 | Source officielle: https://www.fiawec.com/en/news/fia-wec-and-fia-confirm-venues-for-final-two-rounds-of-2026/13698 | Week-end officiel du 2026-10-16 au 2026-10-18. Evenement maintenu en date-only tant que l horaire de depart n est pas publie.
+DESCRIPTION:Round 7 FIA WEC 2026 | Source officielle: https://www.fiawec.co
+ m/en/news/fia-wec-and-fia-confirm-venues-for-final-two-rounds-of-2026/1369
+ 8 | Week-end officiel du 2026-10-16 au 2026-10-18. Evenement maintenu en d
+ ate-only tant que l horaire de depart n est pas publie.
 LOCATION:Barcelone, Espagne
-URL:https://www.fiawec.com/en/news/fia-wec-and-fia-confirm-venues-for-final-two-rounds-of-2026/13698
+URL:https://www.fiawec.com/en/news/fia-wec-and-fia-confirm-venues-for-final
+ -two-rounds-of-2026/13698
 CATEGORIES:Sport,Endurance,WEC
 STATUS:CONFIRMED
 END:VEVENT
@@ -114,9 +133,13 @@ DTSTAMP:20260729T120000Z
 DTSTART;VALUE=DATE:20261106
 DTEND;VALUE=DATE:20261109
 SUMMARY:6 Heures de Monza
-DESCRIPTION:Round 8 FIA WEC 2026 | Source officielle: https://www.fiawec.com/en/news/fia-wec-and-fia-confirm-venues-for-final-two-rounds-of-2026/13698 | Week-end officiel du 2026-11-06 au 2026-11-08. Evenement maintenu en date-only tant que l horaire de depart n est pas publie.
+DESCRIPTION:Round 8 FIA WEC 2026 | Source officielle: https://www.fiawec.co
+ m/en/news/fia-wec-and-fia-confirm-venues-for-final-two-rounds-of-2026/1369
+ 8 | Week-end officiel du 2026-11-06 au 2026-11-08. Evenement maintenu en d
+ ate-only tant que l horaire de depart n est pas publie.
 LOCATION:Monza, Italie
-URL:https://www.fiawec.com/en/news/fia-wec-and-fia-confirm-venues-for-final-two-rounds-of-2026/13698
+URL:https://www.fiawec.com/en/news/fia-wec-and-fia-confirm-venues-for-final
+ -two-rounds-of-2026/13698
 CATEGORIES:Sport,Endurance,WEC
 STATUS:CONFIRMED
 END:VEVENT

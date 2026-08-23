@@ -4,7 +4,8 @@ PRODID:-//FacilAbo//Calendrier Culture France//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Repères culturels nationaux
-X-WR-CALDESC:Calendrier historique multi-années: Nuit des Musées, Fête de la Musique, Journées du Patrimoine
+X-WR-CALDESC:Calendrier historique multi-années: Nuit des Musées, Fête d
+ e la Musique, Journées du Patrimoine
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Paris
@@ -29,8 +30,9 @@ UID:nuit-musees-2025@facilabo.app
 DTSTAMP:20241212T120000Z
 DTSTART;VALUE=DATE:20250517
 DTEND;VALUE=DATE:20250518
-SUMMARY:Nuit europeenne des Musées
-DESCRIPTION:Entree gratuite dans les musées participants - Ouverture nocturne exceptionnelle
+SUMMARY:Nuit européenne des Musées
+DESCRIPTION:Entrée gratuite dans les musées participants - Ouverture noct
+ urne exceptionnelle
 URL:https://nuitdesmusees.culture.gouv.fr/
 CATEGORIES:Culture,Musées
 STATUS:CONFIRMED
@@ -51,8 +53,9 @@ UID:journees-patrimoine-2025@facilabo.app
 DTSTAMP:20260107T120000Z
 DTSTART;VALUE=DATE:20250920
 DTEND;VALUE=DATE:20250921
-SUMMARY:Journées europeennes du Patrimoine
-DESCRIPTION:Portes ouvertes des monuments historiques - 3eme week-end de septembre (samedi 20 et dimanche 21 septembre)
+SUMMARY:Journées européennes du Patrimoine
+DESCRIPTION:Portes ouvertes des monuments historiques - 3eme week-end de se
+ ptembre (samedi 20 et dimanche 21 septembre)
 URL:https://journeesdupatrimoine.culture.gouv.fr/
 CATEGORIES:Culture,Patrimoine
 STATUS:CONFIRMED
@@ -62,8 +65,9 @@ UID:nuit-musees-2026@facilabo.app
 DTSTAMP:20241212T120000Z
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260524
-SUMMARY:Nuit europeenne des Musées
-DESCRIPTION:Entree gratuite dans les musées participants - Ouverture nocturne exceptionnelle
+SUMMARY:Nuit européenne des Musées
+DESCRIPTION:Entrée gratuite dans les musées participants - Ouverture noct
+ urne exceptionnelle
 URL:https://nuitdesmusees.culture.gouv.fr/
 CATEGORIES:Culture,Musées
 STATUS:CONFIRMED
@@ -84,8 +88,9 @@ UID:journees-patrimoine-2026@facilabo.app
 DTSTAMP:20260107T120000Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260921
-SUMMARY:Journées europeennes du Patrimoine
-DESCRIPTION:Portes ouvertes des monuments historiques - week-end public du samedi 19 et dimanche 20 septembre
+SUMMARY:Journées européennes du Patrimoine
+DESCRIPTION:Portes ouvertes des monuments historiques - week-end public du 
+ samedi 19 et dimanche 20 septembre
 URL:https://journeesdupatrimoine.culture.gouv.fr/
 CATEGORIES:Culture,Patrimoine
 STATUS:CONFIRMED
@@ -95,8 +100,9 @@ UID:nuit-musees-2027@facilabo.app
 DTSTAMP:20241212T120000Z
 DTSTART;VALUE=DATE:20270515
 DTEND;VALUE=DATE:20270516
-SUMMARY:Nuit europeenne des Musées
-DESCRIPTION:Entree gratuite dans les musées participants - Ouverture nocturne exceptionnelle
+SUMMARY:Nuit européenne des Musées
+DESCRIPTION:Entrée gratuite dans les musées participants - Ouverture noct
+ urne exceptionnelle
 URL:https://nuitdesmusees.culture.gouv.fr/
 CATEGORIES:Culture,Musées
 STATUS:CONFIRMED
@@ -117,8 +123,9 @@ UID:journees-patrimoine-2027@facilabo.app
 DTSTAMP:20260107T120000Z
 DTSTART;VALUE=DATE:20270918
 DTEND;VALUE=DATE:20270919
-SUMMARY:Journées europeennes du Patrimoine
-DESCRIPTION:Portes ouvertes des monuments historiques - 3eme week-end de septembre (samedi 18 et dimanche 19 septembre)
+SUMMARY:Journées européennes du Patrimoine
+DESCRIPTION:Portes ouvertes des monuments historiques - 3eme week-end de se
+ ptembre (samedi 18 et dimanche 19 septembre)
 URL:https://journeesdupatrimoine.culture.gouv.fr/
 CATEGORIES:Culture,Patrimoine
 STATUS:CONFIRMED
@@ -128,8 +135,9 @@ UID:nuit-musees-2028@facilabo.app
 DTSTAMP:20241212T120000Z
 DTSTART;VALUE=DATE:20280520
 DTEND;VALUE=DATE:20280521
-SUMMARY:Nuit europeenne des Musées
-DESCRIPTION:Entree gratuite dans les musées participants - Ouverture nocturne exceptionnelle
+SUMMARY:Nuit européenne des Musées
+DESCRIPTION:Entrée gratuite dans les musées participants - Ouverture noct
+ urne exceptionnelle
 URL:https://nuitdesmusees.culture.gouv.fr/
 CATEGORIES:Culture,Musées
 STATUS:CONFIRMED
@@ -150,8 +158,9 @@ UID:journees-patrimoine-2028@facilabo.app
 DTSTAMP:20260107T120000Z
 DTSTART;VALUE=DATE:20280916
 DTEND;VALUE=DATE:20280917
-SUMMARY:Journées europeennes du Patrimoine
-DESCRIPTION:Portes ouvertes des monuments historiques - 3eme week-end de septembre (samedi 16 et dimanche 17 septembre)
+SUMMARY:Journées européennes du Patrimoine
+DESCRIPTION:Portes ouvertes des monuments historiques - 3eme week-end de se
+ ptembre (samedi 16 et dimanche 17 septembre)
 URL:https://journeesdupatrimoine.culture.gouv.fr/
 CATEGORIES:Culture,Patrimoine
 STATUS:CONFIRMED
@@ -161,8 +170,9 @@ UID:nuit-musees-2029@facilabo.app
 DTSTAMP:20241212T120000Z
 DTSTART;VALUE=DATE:20290519
 DTEND;VALUE=DATE:20290520
-SUMMARY:Nuit europeenne des Musées
-DESCRIPTION:Entree gratuite dans les musées participants - Ouverture nocturne exceptionnelle
+SUMMARY:Nuit européenne des Musées
+DESCRIPTION:Entrée gratuite dans les musées participants - Ouverture noct
+ urne exceptionnelle
 URL:https://nuitdesmusees.culture.gouv.fr/
 CATEGORIES:Culture,Musées
 STATUS:CONFIRMED
@@ -183,8 +193,9 @@ UID:journees-patrimoine-2029@facilabo.app
 DTSTAMP:20260107T120000Z
 DTSTART;VALUE=DATE:20290915
 DTEND;VALUE=DATE:20290916
-SUMMARY:Journées europeennes du Patrimoine
-DESCRIPTION:Portes ouvertes des monuments historiques - 3eme week-end de septembre (samedi 15 et dimanche 16 septembre)
+SUMMARY:Journées européennes du Patrimoine
+DESCRIPTION:Portes ouvertes des monuments historiques - 3eme week-end de se
+ ptembre (samedi 15 et dimanche 16 septembre)
 URL:https://journeesdupatrimoine.culture.gouv.fr/
 CATEGORIES:Culture,Patrimoine
 STATUS:CONFIRMED
@@ -194,8 +205,9 @@ UID:nuit-musees-2030@facilabo.app
 DTSTAMP:20241212T120000Z
 DTSTART;VALUE=DATE:20300518
 DTEND;VALUE=DATE:20300519
-SUMMARY:Nuit europeenne des Musées
-DESCRIPTION:Entree gratuite dans les musées participants - Ouverture nocturne exceptionnelle
+SUMMARY:Nuit européenne des Musées
+DESCRIPTION:Entrée gratuite dans les musées participants - Ouverture noct
+ urne exceptionnelle
 URL:https://nuitdesmusees.culture.gouv.fr/
 CATEGORIES:Culture,Musées
 STATUS:CONFIRMED
@@ -216,8 +228,9 @@ UID:journees-patrimoine-2030@facilabo.app
 DTSTAMP:20260107T120000Z
 DTSTART;VALUE=DATE:20300921
 DTEND;VALUE=DATE:20300922
-SUMMARY:Journées europeennes du Patrimoine
-DESCRIPTION:Portes ouvertes des monuments historiques - 3eme week-end de septembre (samedi 21 et dimanche 22 septembre)
+SUMMARY:Journées européennes du Patrimoine
+DESCRIPTION:Portes ouvertes des monuments historiques - 3eme week-end de se
+ ptembre (samedi 21 et dimanche 22 septembre)
 URL:https://journeesdupatrimoine.culture.gouv.fr/
 CATEGORIES:Culture,Patrimoine
 STATUS:CONFIRMED

@@ -22,7 +22,7 @@ DESCRIPTION:Match FIFA 16\nPhase de groupes\nStade: Seattle Stadium\nVille
  : Seattle\nHoraire source: 2026-06-15T19:00:00Z (FIFA World Cup 2026 live
   API)\nScore officiel: Belgique 1 - 1 Egypte\nSource: https://api.fifa.co
  m/api/v3/calendar/matches?language=en&idCompetition=17&idSeason=285023&co
- unt=200\nUID stable FacilAbo derive du numero de match FIFA.
+ unt=200\nUID stable FacilAbo dérivé du numéro de match FIFA.
 URL:https://api.fifa.com/api/v3/calendar/matches?language=en&idCompetition
  =17&idSeason=285023&count=200
 END:VEVENT
@@ -40,7 +40,7 @@ DESCRIPTION:Match FIFA 39\nPhase de groupes\nStade: Los Angeles Stadium\nV
  ille: Los Angeles\nHoraire source: 2026-06-21T19:00:00Z (FIFA World Cup 2
  026 live API)\nScore officiel: Belgique 0 - 0 Iran\nSource: https://api.f
  ifa.com/api/v3/calendar/matches?language=en&idCompetition=17&idSeason=285
- 023&count=200\nUID stable FacilAbo derive du numero de match FIFA.
+ 023&count=200\nUID stable FacilAbo dérivé du numéro de match FIFA.
 URL:https://api.fifa.com/api/v3/calendar/matches?language=en&idCompetition
  =17&idSeason=285023&count=200
 END:VEVENT
@@ -58,7 +58,7 @@ DESCRIPTION:Match FIFA 64\nPhase de groupes\nStade: BC Place\nVille: Vanco
  uver\nHoraire source: 2026-06-27T03:00:00Z (FIFA World Cup 2026 live API)
  \nScore officiel: Nouvelle-Zelande 1 - 5 Belgique\nSource: https://api.fi
  fa.com/api/v3/calendar/matches?language=en&idCompetition=17&idSeason=2850
- 23&count=200\nUID stable FacilAbo derive du numero de match FIFA.
+ 23&count=200\nUID stable FacilAbo dérivé du numéro de match FIFA.
 URL:https://api.fifa.com/api/v3/calendar/matches?language=en&idCompetition
  =17&idSeason=285023&count=200
 END:VEVENT
@@ -72,11 +72,11 @@ LOCATION:Seattle Stadium\, Seattle\, Etats-Unis
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CATEGORIES:Coupe du Monde 2026
-DESCRIPTION:Match FIFA 82\n16es de finale\nStade: Seattle Stadium\nVille: 
- Seattle\nHoraire source: 2026-07-01T20:00:00Z (FIFA World Cup 2026 live A
- PI)\nScore officiel: Belgique 3 - 2 Senegal\nSource: https://api.fifa.com
- /api/v3/calendar/matches?language=en&idCompetition=17&idSeason=285023&cou
- nt=200\nUID stable FacilAbo derive du numero de match FIFA.
+DESCRIPTION:Match FIFA 82\n16es de finale\nStade: Seattle Stadium\nVille: S
+ eattle\nHoraire source: 2026-07-01T20:00:00Z (FIFA World Cup 2026 live API
+ )\nScore officiel: Belgique 3 - 2 Senegal\nSource: https://api.fifa.com/ap
+ i/v3/calendar/matches?language=en&idCompetition=17&idSeason=285023&count=2
+ 00\nUID stable FacilAbo dérivé du numéro de match FIFA.
 URL:https://api.fifa.com/api/v3/calendar/matches?language=en&idCompetition
  =17&idSeason=285023&count=200
 END:VEVENT
@@ -94,7 +94,7 @@ DESCRIPTION:Match FIFA 94\n8es de finale\nStade: Seattle Stadium\nVille: S
  eattle\nHoraire source: 2026-07-07T00:00:00Z (FIFA World Cup 2026 live AP
  I)\nScore officiel: Etats-Unis 1 - 4 Belgique\nSource: https://api.fifa.c
  om/api/v3/calendar/matches?language=en&idCompetition=17&idSeason=285023&c
- ount=200\nUID stable FacilAbo derive du numero de match FIFA.
+ ount=200\nUID stable FacilAbo dérivé du numéro de match FIFA.
 URL:https://api.fifa.com/api/v3/calendar/matches?language=en&idCompetition
  =17&idSeason=285023&count=200
 END:VEVENT
@@ -112,7 +112,7 @@ DESCRIPTION:Match FIFA 98\nQuarts de finale\nStade: Los Angeles Stadium\nV
  ille: Los Angeles\nHoraire source: 2026-07-10T19:00:00Z (FIFA World Cup 2
  026 live API)\nScore officiel: Espagne 2 - 1 Belgique\nSource: https://ap
  i.fifa.com/api/v3/calendar/matches?language=en&idCompetition=17&idSeason=
- 285023&count=200\nUID stable FacilAbo derive du numero de match FIFA.
+ 285023&count=200\nUID stable FacilAbo dérivé du numéro de match FIFA.
 URL:https://api.fifa.com/api/v3/calendar/matches?language=en&idCompetition
  =17&idSeason=285023&count=200
 END:VEVENT

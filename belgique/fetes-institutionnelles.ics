@@ -30,7 +30,8 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20260508
 DTEND;VALUE=DATE:20260509
 SUMMARY:Fête de la Région de Bruxelles-Capitale (Iris)
-DESCRIPTION:Fête institutionnelle regionale a Bruxelles. Source: région.brussels. Fiabilité: moyenne a haute selon programmation annuelle.
+DESCRIPTION:Fête institutionnelle régionale a Bruxelles. Source: région.
+ brussels. Fiabilité: moyenne à haute selon programmation annuelle.
 URL:https://be.brussels
 CATEGORIES:Belgique\,Institutions\,Bruxelles
 STATUS:CONFIRMED
@@ -41,18 +42,21 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20260509
 DTEND;VALUE=DATE:20260510
 SUMMARY:Jour de l Europe (institutions UE a Bruxelles)
-DESCRIPTION:Repere institutionnel annuel. Source: europa.eu + institutions belges. Fiabilité: haute.
+DESCRIPTION:Repère institutionnel annuel. Source: europa.eu + institutions
+  belges. Fiabilité: haute.
 URL:https://europa.eu/europe-day
 CATEGORIES:Belgique\,Institutions\,Europe
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:belgique-fetes-institutionnelles-fete-communaute-flamande-2026@facilabo.app
+UID:belgique-fetes-institutionnelles-fete-communaute-flamande-2026@facilabo
+ .app
 DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20260711
 DTEND;VALUE=DATE:20260712
 SUMMARY:Fête de la Communaute flamande
-DESCRIPTION:Date institutionnelle officielle de la Communaute flamande. Source: vlaanderen.be. Fiabilité: haute.
+DESCRIPTION:Date institutionnelle officielle de la Communaute flamande. Sou
+ rce: vlaanderen.be. Fiabilité: haute.
 URL:https://www.vlaanderen.be
 CATEGORIES:Belgique\,Institutions\,Communaute
 STATUS:CONFIRMED
@@ -63,7 +67,8 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20260721
 DTEND;VALUE=DATE:20260722
 SUMMARY:Fête nationale belge (institutions)
-DESCRIPTION:Date institutionnelle nationale. Source: belgium.be. Fiabilité: haute.
+DESCRIPTION:Date institutionnelle nationale. Source: belgium.be. Fiabilité
+ : haute.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
 CATEGORIES:Belgique\,Institutions\,Nation
 STATUS:CONFIRMED
@@ -74,29 +79,34 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 SUMMARY:Fête de la Wallonie
-DESCRIPTION:Repere institutionnel de la Région wallonne (3e dimanche de septembre). Source: wallonie.be. Fiabilité: moyenne a haute.
+DESCRIPTION:Repère institutionnel de la Région wallonne (3e dimanche de s
+ eptembre). Source: wallonie.be. Fiabilité: moyenne à haute.
 URL:https://www.wallonie.be
 CATEGORIES:Belgique\,Institutions\,Wallonie
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:belgique-fetes-institutionnelles-fete-communaute-francaise-2026@facilabo.app
+UID:belgique-fetes-institutionnelles-fete-communaute-francaise-2026@facilab
+ o.app
 DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
 SUMMARY:Fête de la Communaute française
-DESCRIPTION:Date institutionnelle officielle de la Federation Wallonie-Bruxelles. Source: fwb.be. Fiabilité: haute.
+DESCRIPTION:Date institutionnelle officielle de la Fédération Wallonie-Br
+ uxelles. Source: fwb.be. Fiabilité: haute.
 URL:https://www.federation-wallonie-bruxelles.be
 CATEGORIES:Belgique\,Institutions\,Communaute
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:belgique-fetes-institutionnelles-fete-communaute-germanophone-2026@facilabo.app
+UID:belgique-fetes-institutionnelles-fete-communaute-germanophone-2026@faci
+ labo.app
 DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20261115
 DTEND;VALUE=DATE:20261116
 SUMMARY:Fête de la Communaute germanophone
-DESCRIPTION:Date institutionnelle de la Communaute germanophone. Source: ostbelgienlive.be. Fiabilité: haute.
+DESCRIPTION:Date institutionnelle de la Communaute germanophone. Source: os
+ tbelgienlive.be. Fiabilité: haute.
 URL:https://ostbelgienlive.be
 CATEGORIES:Belgique\,Institutions\,Communaute
 STATUS:CONFIRMED
@@ -107,7 +117,8 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270509
 SUMMARY:Fête de la Région de Bruxelles-Capitale (Iris)
-DESCRIPTION:Fête institutionnelle regionale a Bruxelles. Source: région.brussels. Fiabilité: moyenne a haute selon programmation annuelle.
+DESCRIPTION:Fête institutionnelle régionale a Bruxelles. Source: région.
+ brussels. Fiabilité: moyenne à haute selon programmation annuelle.
 URL:https://be.brussels
 CATEGORIES:Belgique\,Institutions\,Bruxelles
 STATUS:CONFIRMED
@@ -118,18 +129,21 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20270509
 DTEND;VALUE=DATE:20270510
 SUMMARY:Jour de l Europe (institutions UE a Bruxelles)
-DESCRIPTION:Repere institutionnel annuel. Source: europa.eu + institutions belges. Fiabilité: haute.
+DESCRIPTION:Repère institutionnel annuel. Source: europa.eu + institutions
+  belges. Fiabilité: haute.
 URL:https://europa.eu/europe-day
 CATEGORIES:Belgique\,Institutions\,Europe
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:belgique-fetes-institutionnelles-fete-communaute-flamande-2027@facilabo.app
+UID:belgique-fetes-institutionnelles-fete-communaute-flamande-2027@facilabo
+ .app
 DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20270711
 DTEND;VALUE=DATE:20270712
 SUMMARY:Fête de la Communaute flamande
-DESCRIPTION:Date institutionnelle officielle de la Communaute flamande. Source: vlaanderen.be. Fiabilité: haute.
+DESCRIPTION:Date institutionnelle officielle de la Communaute flamande. Sou
+ rce: vlaanderen.be. Fiabilité: haute.
 URL:https://www.vlaanderen.be
 CATEGORIES:Belgique\,Institutions\,Communaute
 STATUS:CONFIRMED
@@ -140,7 +154,8 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20270721
 DTEND;VALUE=DATE:20270722
 SUMMARY:Fête nationale belge (institutions)
-DESCRIPTION:Date institutionnelle nationale. Source: belgium.be. Fiabilité: haute.
+DESCRIPTION:Date institutionnelle nationale. Source: belgium.be. Fiabilité
+ : haute.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
 CATEGORIES:Belgique\,Institutions\,Nation
 STATUS:CONFIRMED
@@ -151,29 +166,34 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20270919
 DTEND;VALUE=DATE:20270920
 SUMMARY:Fête de la Wallonie
-DESCRIPTION:Repere institutionnel de la Région wallonne (3e dimanche de septembre). Source: wallonie.be. Fiabilité: moyenne a haute.
+DESCRIPTION:Repère institutionnel de la Région wallonne (3e dimanche de s
+ eptembre). Source: wallonie.be. Fiabilité: moyenne à haute.
 URL:https://www.wallonie.be
 CATEGORIES:Belgique\,Institutions\,Wallonie
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:belgique-fetes-institutionnelles-fete-communaute-francaise-2027@facilabo.app
+UID:belgique-fetes-institutionnelles-fete-communaute-francaise-2027@facilab
+ o.app
 DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20270927
 DTEND;VALUE=DATE:20270928
 SUMMARY:Fête de la Communaute française
-DESCRIPTION:Date institutionnelle officielle de la Federation Wallonie-Bruxelles. Source: fwb.be. Fiabilité: haute.
+DESCRIPTION:Date institutionnelle officielle de la Fédération Wallonie-Br
+ uxelles. Source: fwb.be. Fiabilité: haute.
 URL:https://www.federation-wallonie-bruxelles.be
 CATEGORIES:Belgique\,Institutions\,Communaute
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:belgique-fetes-institutionnelles-fete-communaute-germanophone-2027@facilabo.app
+UID:belgique-fetes-institutionnelles-fete-communaute-germanophone-2027@faci
+ labo.app
 DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20271115
 DTEND;VALUE=DATE:20271116
 SUMMARY:Fête de la Communaute germanophone
-DESCRIPTION:Date institutionnelle de la Communaute germanophone. Source: ostbelgienlive.be. Fiabilité: haute.
+DESCRIPTION:Date institutionnelle de la Communaute germanophone. Source: os
+ tbelgienlive.be. Fiabilité: haute.
 URL:https://ostbelgienlive.be
 CATEGORIES:Belgique\,Institutions\,Communaute
 STATUS:CONFIRMED
@@ -184,7 +204,8 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20280508
 DTEND;VALUE=DATE:20280509
 SUMMARY:Fête de la Région de Bruxelles-Capitale (Iris)
-DESCRIPTION:Fête institutionnelle regionale a Bruxelles. Source: région.brussels. Fiabilité: moyenne a haute selon programmation annuelle.
+DESCRIPTION:Fête institutionnelle régionale a Bruxelles. Source: région.
+ brussels. Fiabilité: moyenne à haute selon programmation annuelle.
 URL:https://be.brussels
 CATEGORIES:Belgique\,Institutions\,Bruxelles
 STATUS:CONFIRMED
@@ -195,18 +216,21 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20280509
 DTEND;VALUE=DATE:20280510
 SUMMARY:Jour de l Europe (institutions UE a Bruxelles)
-DESCRIPTION:Repere institutionnel annuel. Source: europa.eu + institutions belges. Fiabilité: haute.
+DESCRIPTION:Repère institutionnel annuel. Source: europa.eu + institutions
+  belges. Fiabilité: haute.
 URL:https://europa.eu/europe-day
 CATEGORIES:Belgique\,Institutions\,Europe
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:belgique-fetes-institutionnelles-fete-communaute-flamande-2028@facilabo.app
+UID:belgique-fetes-institutionnelles-fete-communaute-flamande-2028@facilabo
+ .app
 DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20280711
 DTEND;VALUE=DATE:20280712
 SUMMARY:Fête de la Communaute flamande
-DESCRIPTION:Date institutionnelle officielle de la Communaute flamande. Source: vlaanderen.be. Fiabilité: haute.
+DESCRIPTION:Date institutionnelle officielle de la Communaute flamande. Sou
+ rce: vlaanderen.be. Fiabilité: haute.
 URL:https://www.vlaanderen.be
 CATEGORIES:Belgique\,Institutions\,Communaute
 STATUS:CONFIRMED
@@ -217,7 +241,8 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20280721
 DTEND;VALUE=DATE:20280722
 SUMMARY:Fête nationale belge (institutions)
-DESCRIPTION:Date institutionnelle nationale. Source: belgium.be. Fiabilité: haute.
+DESCRIPTION:Date institutionnelle nationale. Source: belgium.be. Fiabilité
+ : haute.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
 CATEGORIES:Belgique\,Institutions\,Nation
 STATUS:CONFIRMED
@@ -228,29 +253,34 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20280917
 DTEND;VALUE=DATE:20280918
 SUMMARY:Fête de la Wallonie
-DESCRIPTION:Repere institutionnel de la Région wallonne (3e dimanche de septembre). Source: wallonie.be. Fiabilité: moyenne a haute.
+DESCRIPTION:Repère institutionnel de la Région wallonne (3e dimanche de s
+ eptembre). Source: wallonie.be. Fiabilité: moyenne à haute.
 URL:https://www.wallonie.be
 CATEGORIES:Belgique\,Institutions\,Wallonie
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:belgique-fetes-institutionnelles-fete-communaute-francaise-2028@facilabo.app
+UID:belgique-fetes-institutionnelles-fete-communaute-francaise-2028@facilab
+ o.app
 DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20280927
 DTEND;VALUE=DATE:20280928
 SUMMARY:Fête de la Communaute française
-DESCRIPTION:Date institutionnelle officielle de la Federation Wallonie-Bruxelles. Source: fwb.be. Fiabilité: haute.
+DESCRIPTION:Date institutionnelle officielle de la Fédération Wallonie-Br
+ uxelles. Source: fwb.be. Fiabilité: haute.
 URL:https://www.federation-wallonie-bruxelles.be
 CATEGORIES:Belgique\,Institutions\,Communaute
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:belgique-fetes-institutionnelles-fete-communaute-germanophone-2028@facilabo.app
+UID:belgique-fetes-institutionnelles-fete-communaute-germanophone-2028@faci
+ labo.app
 DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20281115
 DTEND;VALUE=DATE:20281116
 SUMMARY:Fête de la Communaute germanophone
-DESCRIPTION:Date institutionnelle de la Communaute germanophone. Source: ostbelgienlive.be. Fiabilité: haute.
+DESCRIPTION:Date institutionnelle de la Communaute germanophone. Source: os
+ tbelgienlive.be. Fiabilité: haute.
 URL:https://ostbelgienlive.be
 CATEGORIES:Belgique\,Institutions\,Communaute
 STATUS:CONFIRMED
@@ -261,7 +291,8 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20290508
 DTEND;VALUE=DATE:20290509
 SUMMARY:Fête de la Région de Bruxelles-Capitale (Iris)
-DESCRIPTION:Fête institutionnelle regionale a Bruxelles. Source: région.brussels. Fiabilité: moyenne a haute selon programmation annuelle.
+DESCRIPTION:Fête institutionnelle régionale a Bruxelles. Source: région.
+ brussels. Fiabilité: moyenne à haute selon programmation annuelle.
 URL:https://be.brussels
 CATEGORIES:Belgique\,Institutions\,Bruxelles
 STATUS:CONFIRMED
@@ -272,18 +303,21 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20290509
 DTEND;VALUE=DATE:20290510
 SUMMARY:Jour de l Europe (institutions UE a Bruxelles)
-DESCRIPTION:Repere institutionnel annuel. Source: europa.eu + institutions belges. Fiabilité: haute.
+DESCRIPTION:Repère institutionnel annuel. Source: europa.eu + institutions
+  belges. Fiabilité: haute.
 URL:https://europa.eu/europe-day
 CATEGORIES:Belgique\,Institutions\,Europe
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:belgique-fetes-institutionnelles-fete-communaute-flamande-2029@facilabo.app
+UID:belgique-fetes-institutionnelles-fete-communaute-flamande-2029@facilabo
+ .app
 DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20290711
 DTEND;VALUE=DATE:20290712
 SUMMARY:Fête de la Communaute flamande
-DESCRIPTION:Date institutionnelle officielle de la Communaute flamande. Source: vlaanderen.be. Fiabilité: haute.
+DESCRIPTION:Date institutionnelle officielle de la Communaute flamande. Sou
+ rce: vlaanderen.be. Fiabilité: haute.
 URL:https://www.vlaanderen.be
 CATEGORIES:Belgique\,Institutions\,Communaute
 STATUS:CONFIRMED
@@ -294,7 +328,8 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20290721
 DTEND;VALUE=DATE:20290722
 SUMMARY:Fête nationale belge (institutions)
-DESCRIPTION:Date institutionnelle nationale. Source: belgium.be. Fiabilité: haute.
+DESCRIPTION:Date institutionnelle nationale. Source: belgium.be. Fiabilité
+ : haute.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
 CATEGORIES:Belgique\,Institutions\,Nation
 STATUS:CONFIRMED
@@ -305,29 +340,34 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20290916
 DTEND;VALUE=DATE:20290917
 SUMMARY:Fête de la Wallonie
-DESCRIPTION:Repere institutionnel de la Région wallonne (3e dimanche de septembre). Source: wallonie.be. Fiabilité: moyenne a haute.
+DESCRIPTION:Repère institutionnel de la Région wallonne (3e dimanche de s
+ eptembre). Source: wallonie.be. Fiabilité: moyenne à haute.
 URL:https://www.wallonie.be
 CATEGORIES:Belgique\,Institutions\,Wallonie
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:belgique-fetes-institutionnelles-fete-communaute-francaise-2029@facilabo.app
+UID:belgique-fetes-institutionnelles-fete-communaute-francaise-2029@facilab
+ o.app
 DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20290927
 DTEND;VALUE=DATE:20290928
 SUMMARY:Fête de la Communaute française
-DESCRIPTION:Date institutionnelle officielle de la Federation Wallonie-Bruxelles. Source: fwb.be. Fiabilité: haute.
+DESCRIPTION:Date institutionnelle officielle de la Fédération Wallonie-Br
+ uxelles. Source: fwb.be. Fiabilité: haute.
 URL:https://www.federation-wallonie-bruxelles.be
 CATEGORIES:Belgique\,Institutions\,Communaute
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:belgique-fetes-institutionnelles-fete-communaute-germanophone-2029@facilabo.app
+UID:belgique-fetes-institutionnelles-fete-communaute-germanophone-2029@faci
+ labo.app
 DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20291115
 DTEND;VALUE=DATE:20291116
 SUMMARY:Fête de la Communaute germanophone
-DESCRIPTION:Date institutionnelle de la Communaute germanophone. Source: ostbelgienlive.be. Fiabilité: haute.
+DESCRIPTION:Date institutionnelle de la Communaute germanophone. Source: os
+ tbelgienlive.be. Fiabilité: haute.
 URL:https://ostbelgienlive.be
 CATEGORIES:Belgique\,Institutions\,Communaute
 STATUS:CONFIRMED
@@ -338,7 +378,8 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20300508
 DTEND;VALUE=DATE:20300509
 SUMMARY:Fête de la Région de Bruxelles-Capitale (Iris)
-DESCRIPTION:Fête institutionnelle regionale a Bruxelles. Source: région.brussels. Fiabilité: moyenne a haute selon programmation annuelle.
+DESCRIPTION:Fête institutionnelle régionale a Bruxelles. Source: région.
+ brussels. Fiabilité: moyenne à haute selon programmation annuelle.
 URL:https://be.brussels
 CATEGORIES:Belgique\,Institutions\,Bruxelles
 STATUS:CONFIRMED
@@ -349,18 +390,21 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20300509
 DTEND;VALUE=DATE:20300510
 SUMMARY:Jour de l Europe (institutions UE a Bruxelles)
-DESCRIPTION:Repere institutionnel annuel. Source: europa.eu + institutions belges. Fiabilité: haute.
+DESCRIPTION:Repère institutionnel annuel. Source: europa.eu + institutions
+  belges. Fiabilité: haute.
 URL:https://europa.eu/europe-day
 CATEGORIES:Belgique\,Institutions\,Europe
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:belgique-fetes-institutionnelles-fete-communaute-flamande-2030@facilabo.app
+UID:belgique-fetes-institutionnelles-fete-communaute-flamande-2030@facilabo
+ .app
 DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20300711
 DTEND;VALUE=DATE:20300712
 SUMMARY:Fête de la Communaute flamande
-DESCRIPTION:Date institutionnelle officielle de la Communaute flamande. Source: vlaanderen.be. Fiabilité: haute.
+DESCRIPTION:Date institutionnelle officielle de la Communaute flamande. Sou
+ rce: vlaanderen.be. Fiabilité: haute.
 URL:https://www.vlaanderen.be
 CATEGORIES:Belgique\,Institutions\,Communaute
 STATUS:CONFIRMED
@@ -371,7 +415,8 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20300721
 DTEND;VALUE=DATE:20300722
 SUMMARY:Fête nationale belge (institutions)
-DESCRIPTION:Date institutionnelle nationale. Source: belgium.be. Fiabilité: haute.
+DESCRIPTION:Date institutionnelle nationale. Source: belgium.be. Fiabilité
+ : haute.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
 CATEGORIES:Belgique\,Institutions\,Nation
 STATUS:CONFIRMED
@@ -382,29 +427,34 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20300915
 DTEND;VALUE=DATE:20300916
 SUMMARY:Fête de la Wallonie
-DESCRIPTION:Repere institutionnel de la Région wallonne (3e dimanche de septembre). Source: wallonie.be. Fiabilité: moyenne a haute.
+DESCRIPTION:Repère institutionnel de la Région wallonne (3e dimanche de s
+ eptembre). Source: wallonie.be. Fiabilité: moyenne à haute.
 URL:https://www.wallonie.be
 CATEGORIES:Belgique\,Institutions\,Wallonie
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:belgique-fetes-institutionnelles-fete-communaute-francaise-2030@facilabo.app
+UID:belgique-fetes-institutionnelles-fete-communaute-francaise-2030@facilab
+ o.app
 DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20300927
 DTEND;VALUE=DATE:20300928
 SUMMARY:Fête de la Communaute française
-DESCRIPTION:Date institutionnelle officielle de la Federation Wallonie-Bruxelles. Source: fwb.be. Fiabilité: haute.
+DESCRIPTION:Date institutionnelle officielle de la Fédération Wallonie-Br
+ uxelles. Source: fwb.be. Fiabilité: haute.
 URL:https://www.federation-wallonie-bruxelles.be
 CATEGORIES:Belgique\,Institutions\,Communaute
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:belgique-fetes-institutionnelles-fete-communaute-germanophone-2030@facilabo.app
+UID:belgique-fetes-institutionnelles-fete-communaute-germanophone-2030@faci
+ labo.app
 DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20301115
 DTEND;VALUE=DATE:20301116
 SUMMARY:Fête de la Communaute germanophone
-DESCRIPTION:Date institutionnelle de la Communaute germanophone. Source: ostbelgienlive.be. Fiabilité: haute.
+DESCRIPTION:Date institutionnelle de la Communaute germanophone. Source: os
+ tbelgienlive.be. Fiabilité: haute.
 URL:https://ostbelgienlive.be
 CATEGORIES:Belgique\,Institutions\,Communaute
 STATUS:CONFIRMED
@@ -415,7 +465,8 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20310508
 DTEND;VALUE=DATE:20310509
 SUMMARY:Fête de la Région de Bruxelles-Capitale (Iris)
-DESCRIPTION:Fête institutionnelle regionale a Bruxelles. Source: région.brussels. Fiabilité: moyenne a haute selon programmation annuelle.
+DESCRIPTION:Fête institutionnelle régionale a Bruxelles. Source: région.
+ brussels. Fiabilité: moyenne à haute selon programmation annuelle.
 URL:https://be.brussels
 CATEGORIES:Belgique\,Institutions\,Bruxelles
 STATUS:CONFIRMED
@@ -426,18 +477,21 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20310509
 DTEND;VALUE=DATE:20310510
 SUMMARY:Jour de l Europe (institutions UE a Bruxelles)
-DESCRIPTION:Repere institutionnel annuel. Source: europa.eu + institutions belges. Fiabilité: haute.
+DESCRIPTION:Repère institutionnel annuel. Source: europa.eu + institutions
+  belges. Fiabilité: haute.
 URL:https://europa.eu/europe-day
 CATEGORIES:Belgique\,Institutions\,Europe
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:belgique-fetes-institutionnelles-fete-communaute-flamande-2031@facilabo.app
+UID:belgique-fetes-institutionnelles-fete-communaute-flamande-2031@facilabo
+ .app
 DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20310711
 DTEND;VALUE=DATE:20310712
 SUMMARY:Fête de la Communaute flamande
-DESCRIPTION:Date institutionnelle officielle de la Communaute flamande. Source: vlaanderen.be. Fiabilité: haute.
+DESCRIPTION:Date institutionnelle officielle de la Communaute flamande. Sou
+ rce: vlaanderen.be. Fiabilité: haute.
 URL:https://www.vlaanderen.be
 CATEGORIES:Belgique\,Institutions\,Communaute
 STATUS:CONFIRMED
@@ -448,7 +502,8 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20310721
 DTEND;VALUE=DATE:20310722
 SUMMARY:Fête nationale belge (institutions)
-DESCRIPTION:Date institutionnelle nationale. Source: belgium.be. Fiabilité: haute.
+DESCRIPTION:Date institutionnelle nationale. Source: belgium.be. Fiabilité
+ : haute.
 URL:https://www.belgium.be/fr/la_belgique/jours_feries
 CATEGORIES:Belgique\,Institutions\,Nation
 STATUS:CONFIRMED
@@ -459,29 +514,34 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20310921
 DTEND;VALUE=DATE:20310922
 SUMMARY:Fête de la Wallonie
-DESCRIPTION:Repere institutionnel de la Région wallonne (3e dimanche de septembre). Source: wallonie.be. Fiabilité: moyenne a haute.
+DESCRIPTION:Repère institutionnel de la Région wallonne (3e dimanche de s
+ eptembre). Source: wallonie.be. Fiabilité: moyenne à haute.
 URL:https://www.wallonie.be
 CATEGORIES:Belgique\,Institutions\,Wallonie
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:belgique-fetes-institutionnelles-fete-communaute-francaise-2031@facilabo.app
+UID:belgique-fetes-institutionnelles-fete-communaute-francaise-2031@facilab
+ o.app
 DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20310927
 DTEND;VALUE=DATE:20310928
 SUMMARY:Fête de la Communaute française
-DESCRIPTION:Date institutionnelle officielle de la Federation Wallonie-Bruxelles. Source: fwb.be. Fiabilité: haute.
+DESCRIPTION:Date institutionnelle officielle de la Fédération Wallonie-Br
+ uxelles. Source: fwb.be. Fiabilité: haute.
 URL:https://www.federation-wallonie-bruxelles.be
 CATEGORIES:Belgique\,Institutions\,Communaute
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:belgique-fetes-institutionnelles-fete-communaute-germanophone-2031@facilabo.app
+UID:belgique-fetes-institutionnelles-fete-communaute-germanophone-2031@faci
+ labo.app
 DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20311115
 DTEND;VALUE=DATE:20311116
 SUMMARY:Fête de la Communaute germanophone
-DESCRIPTION:Date institutionnelle de la Communaute germanophone. Source: ostbelgienlive.be. Fiabilité: haute.
+DESCRIPTION:Date institutionnelle de la Communaute germanophone. Source: os
+ tbelgienlive.be. Fiabilité: haute.
 URL:https://ostbelgienlive.be
 CATEGORIES:Belgique\,Institutions\,Communaute
 STATUS:CONFIRMED

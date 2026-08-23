@@ -3,8 +3,9 @@ VERSION:2.0
 PRODID:-//FacilAbo//Calendrier Culture Ceremonies//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
-X-WR-CALNAME:Culture Ceremonies
-X-WR-CALDESC:Oscars, Cesars, Grammys et Emmy Awards (dates officielles et previsionnelles)
+X-WR-CALNAME:Culture Cérémonies
+X-WR-CALDESC:Oscars, Cesars, Grammys et Emmy Awards (dates officielles et p
+ revisionnelles)
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Paris
@@ -32,7 +33,7 @@ DTEND;VALUE=DATE:20250303
 SUMMARY:Oscars 2025
 DESCRIPTION:97th Academy Awards (date officielle)
 URL:https://www.oscars.org/
-CATEGORIES:Culture,Ceremonies
+CATEGORIES:Culture,Cérémonies
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -41,9 +42,9 @@ DTSTAMP:20260205T120000Z
 DTSTART;VALUE=DATE:20250228
 DTEND;VALUE=DATE:20250301
 SUMMARY:Cesars 2025
-DESCRIPTION:50e ceremonie des Cesars (date officielle)
+DESCRIPTION:50e cérémonie des Cesars (date officielle)
 URL:https://www.academie-cinema.org/
-CATEGORIES:Culture,Ceremonies
+CATEGORIES:Culture,Cérémonies
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -54,7 +55,7 @@ DTEND;VALUE=DATE:20250203
 SUMMARY:Grammys 2025
 DESCRIPTION:67th Grammy Awards (date officielle)
 URL:https://www.grammy.com/
-CATEGORIES:Culture,Ceremonies
+CATEGORIES:Culture,Cérémonies
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -65,7 +66,7 @@ DTEND;VALUE=DATE:20250915
 SUMMARY:Emmy Awards 2025
 DESCRIPTION:Primetime Emmy Awards (date officielle)
 URL:https://www.emmys.com/
-CATEGORIES:Culture,Ceremonies
+CATEGORIES:Culture,Cérémonies
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -76,7 +77,7 @@ DTEND;VALUE=DATE:20260316
 SUMMARY:Oscars 2026
 DESCRIPTION:98th Academy Awards (date officielle)
 URL:https://www.oscars.org/
-CATEGORIES:Culture,Ceremonies
+CATEGORIES:Culture,Cérémonies
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -85,9 +86,9 @@ DTSTAMP:20260205T120000Z
 DTSTART;VALUE=DATE:20260226
 DTEND;VALUE=DATE:20260227
 SUMMARY:Cesars 2026
-DESCRIPTION:51e ceremonie des Cesars (date officielle)
+DESCRIPTION:51e cérémonie des Cesars (date officielle)
 URL:https://www.academie-cinema.org/
-CATEGORIES:Culture,Ceremonies
+CATEGORIES:Culture,Cérémonies
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -98,7 +99,7 @@ DTEND;VALUE=DATE:20260202
 SUMMARY:Grammys 2026
 DESCRIPTION:68th Grammy Awards (date officielle)
 URL:https://www.grammy.com/
-CATEGORIES:Culture,Ceremonies
+CATEGORIES:Culture,Cérémonies
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -109,7 +110,7 @@ DTEND;VALUE=DATE:20260915
 SUMMARY:Emmy Awards 2026
 DESCRIPTION:Primetime Emmy Awards (date officielle)
 URL:https://www.emmys.com/
-CATEGORIES:Culture,Ceremonies
+CATEGORIES:Culture,Cérémonies
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -120,7 +121,7 @@ DTEND;VALUE=DATE:20270315
 SUMMARY:Oscars 2027
 DESCRIPTION:99th Academy Awards (date officielle)
 URL:https://www.oscars.org/
-CATEGORIES:Culture,Ceremonies
+CATEGORIES:Culture,Cérémonies
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -129,9 +130,10 @@ DTSTAMP:20260205T120000Z
 DTSTART;VALUE=DATE:20270226
 DTEND;VALUE=DATE:20270227
 SUMMARY:Cesars 2027
-DESCRIPTION:52e ceremonie des Cesars (date previsionnelle, attente annonce)
+DESCRIPTION:52e cérémonie des Cesars (date prévisionnelle, attente annon
+ ce)
 URL:https://www.academie-cinema.org/
-CATEGORIES:Culture,Ceremonies
+CATEGORIES:Culture,Cérémonies
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -140,9 +142,9 @@ DTSTAMP:20260205T120000Z
 DTSTART;VALUE=DATE:20270131
 DTEND;VALUE=DATE:20270201
 SUMMARY:Grammys 2027
-DESCRIPTION:69th Grammy Awards (date previsionnelle, attente annonce)
+DESCRIPTION:69th Grammy Awards (date prévisionnelle, attente annonce)
 URL:https://www.grammy.com/
-CATEGORIES:Culture,Ceremonies
+CATEGORIES:Culture,Cérémonies
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -151,9 +153,9 @@ DTSTAMP:20260205T120000Z
 DTSTART;VALUE=DATE:20270919
 DTEND;VALUE=DATE:20270920
 SUMMARY:Emmy Awards 2027
-DESCRIPTION:Primetime Emmy Awards (date previsionnelle, attente annonce)
+DESCRIPTION:Primetime Emmy Awards (date prévisionnelle, attente annonce)
 URL:https://www.emmys.com/
-CATEGORIES:Culture,Ceremonies
+CATEGORIES:Culture,Cérémonies
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -164,7 +166,7 @@ DTEND;VALUE=DATE:20280306
 SUMMARY:Oscars 2028
 DESCRIPTION:100th Academy Awards (date officielle)
 URL:https://www.oscars.org/
-CATEGORIES:Culture,Ceremonies
+CATEGORIES:Culture,Cérémonies
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -173,9 +175,10 @@ DTSTAMP:20260205T120000Z
 DTSTART;VALUE=DATE:20280225
 DTEND;VALUE=DATE:20280226
 SUMMARY:Cesars 2028
-DESCRIPTION:53e ceremonie des Cesars (date previsionnelle, attente annonce)
+DESCRIPTION:53e cérémonie des Cesars (date prévisionnelle, attente annon
+ ce)
 URL:https://www.academie-cinema.org/
-CATEGORIES:Culture,Ceremonies
+CATEGORIES:Culture,Cérémonies
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -184,9 +187,9 @@ DTSTAMP:20260205T120000Z
 DTSTART;VALUE=DATE:20280130
 DTEND;VALUE=DATE:20280131
 SUMMARY:Grammys 2028
-DESCRIPTION:70th Grammy Awards (date previsionnelle, attente annonce)
+DESCRIPTION:70th Grammy Awards (date prévisionnelle, attente annonce)
 URL:https://www.grammy.com/
-CATEGORIES:Culture,Ceremonies
+CATEGORIES:Culture,Cérémonies
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -195,9 +198,9 @@ DTSTAMP:20260205T120000Z
 DTSTART;VALUE=DATE:20280917
 DTEND;VALUE=DATE:20280918
 SUMMARY:Emmy Awards 2028
-DESCRIPTION:Primetime Emmy Awards (date previsionnelle, attente annonce)
+DESCRIPTION:Primetime Emmy Awards (date prévisionnelle, attente annonce)
 URL:https://www.emmys.com/
-CATEGORIES:Culture,Ceremonies
+CATEGORIES:Culture,Cérémonies
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -206,9 +209,9 @@ DTSTAMP:20260205T120000Z
 DTSTART;VALUE=DATE:20290304
 DTEND;VALUE=DATE:20290305
 SUMMARY:Oscars 2029
-DESCRIPTION:101st Academy Awards (date previsionnelle, attente annonce)
+DESCRIPTION:101st Academy Awards (date prévisionnelle, attente annonce)
 URL:https://www.oscars.org/
-CATEGORIES:Culture,Ceremonies
+CATEGORIES:Culture,Cérémonies
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -217,9 +220,10 @@ DTSTAMP:20260205T120000Z
 DTSTART;VALUE=DATE:20290223
 DTEND;VALUE=DATE:20290224
 SUMMARY:Cesars 2029
-DESCRIPTION:54e ceremonie des Cesars (date previsionnelle, attente annonce)
+DESCRIPTION:54e cérémonie des Cesars (date prévisionnelle, attente annon
+ ce)
 URL:https://www.academie-cinema.org/
-CATEGORIES:Culture,Ceremonies
+CATEGORIES:Culture,Cérémonies
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -228,9 +232,9 @@ DTSTAMP:20260205T120000Z
 DTSTART;VALUE=DATE:20290128
 DTEND;VALUE=DATE:20290129
 SUMMARY:Grammys 2029
-DESCRIPTION:71st Grammy Awards (date previsionnelle, attente annonce)
+DESCRIPTION:71st Grammy Awards (date prévisionnelle, attente annonce)
 URL:https://www.grammy.com/
-CATEGORIES:Culture,Ceremonies
+CATEGORIES:Culture,Cérémonies
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -239,9 +243,9 @@ DTSTAMP:20260205T120000Z
 DTSTART;VALUE=DATE:20290916
 DTEND;VALUE=DATE:20290917
 SUMMARY:Emmy Awards 2029
-DESCRIPTION:Primetime Emmy Awards (date previsionnelle, attente annonce)
+DESCRIPTION:Primetime Emmy Awards (date prévisionnelle, attente annonce)
 URL:https://www.emmys.com/
-CATEGORIES:Culture,Ceremonies
+CATEGORIES:Culture,Cérémonies
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -250,9 +254,9 @@ DTSTAMP:20260205T120000Z
 DTSTART;VALUE=DATE:20300303
 DTEND;VALUE=DATE:20300304
 SUMMARY:Oscars 2030
-DESCRIPTION:102nd Academy Awards (date previsionnelle, attente annonce)
+DESCRIPTION:102nd Academy Awards (date prévisionnelle, attente annonce)
 URL:https://www.oscars.org/
-CATEGORIES:Culture,Ceremonies
+CATEGORIES:Culture,Cérémonies
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -261,9 +265,10 @@ DTSTAMP:20260205T120000Z
 DTSTART;VALUE=DATE:20300222
 DTEND;VALUE=DATE:20300223
 SUMMARY:Cesars 2030
-DESCRIPTION:55e ceremonie des Cesars (date previsionnelle, attente annonce)
+DESCRIPTION:55e cérémonie des Cesars (date prévisionnelle, attente annon
+ ce)
 URL:https://www.academie-cinema.org/
-CATEGORIES:Culture,Ceremonies
+CATEGORIES:Culture,Cérémonies
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -272,9 +277,9 @@ DTSTAMP:20260205T120000Z
 DTSTART;VALUE=DATE:20300127
 DTEND;VALUE=DATE:20300128
 SUMMARY:Grammys 2030
-DESCRIPTION:72nd Grammy Awards (date previsionnelle, attente annonce)
+DESCRIPTION:72nd Grammy Awards (date prévisionnelle, attente annonce)
 URL:https://www.grammy.com/
-CATEGORIES:Culture,Ceremonies
+CATEGORIES:Culture,Cérémonies
 STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
@@ -283,9 +288,9 @@ DTSTAMP:20260205T120000Z
 DTSTART;VALUE=DATE:20300915
 DTEND;VALUE=DATE:20300916
 SUMMARY:Emmy Awards 2030
-DESCRIPTION:Primetime Emmy Awards (date previsionnelle, attente annonce)
+DESCRIPTION:Primetime Emmy Awards (date prévisionnelle, attente annonce)
 URL:https://www.emmys.com/
-CATEGORIES:Culture,Ceremonies
+CATEGORIES:Culture,Cérémonies
 STATUS:TENTATIVE
 END:VEVENT
 END:VCALENDAR

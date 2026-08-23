@@ -4,7 +4,8 @@ PRODID:-//FacilAbo//Sorties Patrimoine Culture Gratuite 2026//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Culture gratuite 2026
-X-WR-CALDESC:Choix recommande 2026: Nuit des musées, Fête de la musique, JEP, JEMA, archéologie, jardins et nature
+X-WR-CALDESC:Choix recommandé 2026: Nuit des musées, Fête de la musique,
+  JEP, JEMA, archéologie, jardins et nature
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Paris
@@ -30,7 +31,9 @@ DTSTAMP:20260622T120000Z
 DTSTART;VALUE=DATE:20260407
 DTEND;VALUE=DATE:20260413
 SUMMARY:Journées europeennes des Métiers d'Art
-DESCRIPTION:Édition 2026 des JEMA, rendez-vous gratuit autour des métiers d'art et du patrimoine vivant. Source officielle: journeesdesmetiersdart.fr
+DESCRIPTION:Édition 2026 des JEMA, rendez-vous gratuit autour des métiers
+  d'art et du patrimoine vivant. Source officielle: journeesdesmetiersdart.
+ fr
 LOCATION:France et Europe
 URL:https://www.journeesdesmetiersdart.fr/
 CATEGORIES:Sorties,Patrimoine,Métiers d'art
@@ -42,7 +45,8 @@ DTSTAMP:20260622T120000Z
 DTSTART;VALUE=DATE:20260520
 DTEND;VALUE=DATE:20260526
 SUMMARY:Fête de la Nature
-DESCRIPTION:Animations gratuites au contact de la nature partout en France. Source officielle: fetedelanature.com
+DESCRIPTION:Animations gratuites au contact de la nature partout en France.
+  Source officielle: fetedelanature.com
 LOCATION:France
 URL:https://fetedelanature.com/
 CATEGORIES:Sorties,Nature,Gratuit
@@ -53,8 +57,9 @@ UID:sorties-nuit-musees-2026@facilabo.app
 DTSTAMP:20260622T120000Z
 DTSTART;VALUE=DATE:20260523
 DTEND;VALUE=DATE:20260524
-SUMMARY:Nuit europeenne des musées
-DESCRIPTION:Ouverture nocturne exceptionnelle et souvent gratuite de musées participants. Source officielle: nuitdesmusees.culture.gouv.fr
+SUMMARY:Nuit européenne des musées
+DESCRIPTION:Ouverture nocturne exceptionnelle et souvent gratuite de musée
+ s participants. Source officielle: nuitdesmusees.culture.gouv.fr
 LOCATION:France et Europe
 URL:https://nuitdesmusees.culture.gouv.fr/
 CATEGORIES:Sorties,Musées,Gratuit
@@ -66,7 +71,9 @@ DTSTAMP:20260622T120000Z
 DTSTART;VALUE=DATE:20260605
 DTEND;VALUE=DATE:20260608
 SUMMARY:Rendez-vous aux jardins
-DESCRIPTION:23e édition des Rendez-vous aux jardins, organisée par le ministère de la Culture. Source officielle: rendezvousauxjardins.culture.gouv.fr
+DESCRIPTION:23e édition des Rendez-vous aux jardins, organisée par le min
+ istère de la Culture. Source officielle: rendezvousauxjardins.culture.gou
+ v.fr
 LOCATION:France et Europe
 URL:https://rendezvousauxjardins.culture.gouv.fr/
 CATEGORIES:Sorties,Jardins,Patrimoine
@@ -78,7 +85,9 @@ DTSTAMP:20260622T120000Z
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260615
 SUMMARY:Journées europeennes de l'archéologie
-DESCRIPTION:Rendez-vous national et europeen autour de l'archéologie, coordonné par le ministère de la Culture. Source officielle: journeesarcheologie.culture.gouv.fr
+DESCRIPTION:Rendez-vous national et europeen autour de l'archéologie, coor
+ donné par le ministère de la Culture. Source officielle: journeesarcheol
+ ogie.culture.gouv.fr
 LOCATION:France et Europe
 URL:https://journeesarcheologie.culture.gouv.fr/
 CATEGORIES:Sorties,Archéologie,Patrimoine
@@ -90,7 +99,8 @@ DTSTAMP:20260622T120000Z
 DTSTART;VALUE=DATE:20260621
 DTEND;VALUE=DATE:20260622
 SUMMARY:Fête de la musique
-DESCRIPTION:Concerts gratuits partout en France et dans le monde, le 21 juin. Source officielle: fetedelamusique.culture.gouv.fr
+DESCRIPTION:Concerts gratuits partout en France et dans le monde, le 21 jui
+ n. Source officielle: fetedelamusique.culture.gouv.fr
 LOCATION:France
 URL:https://fetedelamusique.culture.gouv.fr/
 CATEGORIES:Sorties,Musique,Gratuit
@@ -101,8 +111,10 @@ UID:sorties-journees-patrimoine-2026@facilabo.app
 DTSTAMP:20260622T120000Z
 DTSTART;VALUE=DATE:20260919
 DTEND;VALUE=DATE:20260921
-SUMMARY:Journées europeennes du patrimoine
-DESCRIPTION:Ouvertures exceptionnelles et visites autour du patrimoine, les 19 et 20 septembre 2026. Source officielle: journeesdupatrimoine.culture.gouv.fr
+SUMMARY:Journées européennes du patrimoine
+DESCRIPTION:Ouvertures exceptionnelles et visites autour du patrimoine, les
+  19 et 20 septembre 2026. Source officielle: journeesdupatrimoine.culture.
+ gouv.fr
 LOCATION:France
 URL:https://journeesdupatrimoine.culture.gouv.fr/
 CATEGORIES:Sorties,Patrimoine,Gratuit

@@ -14,7 +14,7 @@ DTEND;VALUE=DATE:20251218
 SUMMARY:Parcoursup - carte des formations 2026
 DESCRIPTION:Ouverture de la carte des formations Parcoursup 2026.
 URL:https://www.parcoursup.gouv.fr/calendrier
-CATEGORIES:Education,Parcoursup
+CATEGORIES:Éducation,Parcoursup
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -25,7 +25,7 @@ DTEND;VALUE=DATE:20260120
 SUMMARY:Parcoursup - inscriptions et vœux
 DESCRIPTION:Début des inscriptions et de la formulation des vœux.
 URL:https://www.parcoursup.gouv.fr/calendrier
-CATEGORIES:Education,Parcoursup
+CATEGORIES:Éducation,Parcoursup
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -36,7 +36,7 @@ DTEND;VALUE=DATE:20260313
 SUMMARY:Parcoursup - dernier jour pour formuler les vœux
 DESCRIPTION:Date limite nationale pour formuler ses vœux Parcoursup.
 URL:https://www.parcoursup.gouv.fr/calendrier
-CATEGORIES:Education,Parcoursup
+CATEGORIES:Éducation,Parcoursup
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -45,9 +45,10 @@ DTSTAMP:20260424T120000Z
 DTSTART;VALUE=DATE:20260401
 DTEND;VALUE=DATE:20260402
 SUMMARY:Parcoursup - confirmer le dossier
-DESCRIPTION:Dernier jour pour compléter son dossier et confirmer ses vœux.
+DESCRIPTION:Dernier jour pour compléter son dossier et confirmer ses vœux
+ .
 URL:https://www.parcoursup.gouv.fr/calendrier
-CATEGORIES:Education,Parcoursup
+CATEGORIES:Éducation,Parcoursup
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -56,9 +57,10 @@ DTSTAMP:20260424T120000Z
 DTSTART;VALUE=DATE:20260602
 DTEND;VALUE=DATE:20260603
 SUMMARY:Parcoursup - début de la phase principale
-DESCRIPTION:Début de la phase principale d'admission et premières réponses des formations.
+DESCRIPTION:Début de la phase principale d'admission et premières répons
+ es des formations.
 URL:https://www.parcoursup.gouv.fr/calendrier
-CATEGORIES:Education,Parcoursup
+CATEGORIES:Éducation,Parcoursup
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -67,9 +69,10 @@ DTSTAMP:20260424T120000Z
 DTSTART;VALUE=DATE:20260605
 DTEND;VALUE=DATE:20260609
 SUMMARY:Parcoursup - classer les vœux en attente
-DESCRIPTION:Classement des vœux en attente du vendredi 5 au lundi 8 juin 2026.
+DESCRIPTION:Classement des vœux en attente du vendredi 5 au lundi 8 juin 2
+ 026.
 URL:https://www.parcoursup.gouv.fr/calendrier
-CATEGORIES:Education,Parcoursup
+CATEGORIES:Éducation,Parcoursup
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -78,9 +81,10 @@ DTSTAMP:20260424T120000Z
 DTSTART;VALUE=DATE:20260611
 DTEND;VALUE=DATE:20260612
 SUMMARY:Parcoursup - début de la phase complémentaire
-DESCRIPTION:Possibilite de formuler jusqu'a 10 nouveaux vœux dans les formations disponibles.
+DESCRIPTION:Possibilite de formuler jusqu'a 10 nouveaux vœux dans les form
+ ations disponibles.
 URL:https://www.parcoursup.gouv.fr/calendrier
-CATEGORIES:Education,Parcoursup
+CATEGORIES:Éducation,Parcoursup
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -89,9 +93,10 @@ DTSTAMP:20260424T120000Z
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260620
 SUMMARY:Parcoursup - délais suspendus pendant le bac
-DESCRIPTION:Délais de réponse suspendus pendant les épreuves écrites du baccalaureat du 12 au 19 juin.
+DESCRIPTION:Délais de réponse suspendus pendant les épreuves écrites du
+  baccalauréat du 12 au 19 juin.
 URL:https://www.parcoursup.gouv.fr/calendrier
-CATEGORIES:Education,Parcoursup
+CATEGORIES:Éducation,Parcoursup
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -100,9 +105,11 @@ DTSTAMP:20260424T120000Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260702
 SUMMARY:Parcoursup - accompagnement CAES possible
-DESCRIPTION:À partir du 1er juillet, accompagnement possible par la commission d'accès a l'enseignement superieur si aucune proposition n'a été reçue.
+DESCRIPTION:À partir du 1er juillet, accompagnement possible par la commis
+ sion d'accès a l'enseignement superieur si aucune proposition n'a été r
+ eçue.
 URL:https://www.parcoursup.gouv.fr/calendrier
-CATEGORIES:Education,Parcoursup
+CATEGORIES:Éducation,Parcoursup
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -111,9 +118,10 @@ DTSTAMP:20260424T120000Z
 DTSTART;VALUE=DATE:20260707
 DTEND;VALUE=DATE:20260708
 SUMMARY:Parcoursup - inscription administrative après résultats
-DESCRIPTION:Après les résultats du baccalaureat, inscription administrative selon les modalités du dossier.
+DESCRIPTION:Après les résultats du baccalauréat, inscription administrat
+ ive selon les modalités du dossier.
 URL:https://www.parcoursup.gouv.fr/calendrier
-CATEGORIES:Education,Parcoursup
+CATEGORIES:Éducation,Parcoursup
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -124,7 +132,7 @@ DTEND;VALUE=DATE:20260712
 SUMMARY:Parcoursup - fin de la phase principale
 DESCRIPTION:Fin de la phase principale d'admission Parcoursup 2026.
 URL:https://www.parcoursup.gouv.fr/calendrier
-CATEGORIES:Education,Parcoursup
+CATEGORIES:Éducation,Parcoursup
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -133,9 +141,10 @@ DTSTAMP:20260424T120000Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260911
 SUMMARY:Parcoursup - fin de la phase complémentaire
-DESCRIPTION:Dernier jour pour recevoir une proposition d'admission en phase complémentaire.
+DESCRIPTION:Dernier jour pour recevoir une proposition d'admission en phase
+  complémentaire.
 URL:https://www.parcoursup.gouv.fr/calendrier
-CATEGORIES:Education,Parcoursup
+CATEGORIES:Éducation,Parcoursup
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

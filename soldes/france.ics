@@ -4,7 +4,7 @@ PRODID:-//FacilAbo//Calendrier Soldes France//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Soldes France
-X-WR-CALDESC:Dates des soldes d'hiver et d'été en France metropolitaine
+X-WR-CALDESC:Dates des soldes d'hiver et d'été en France métropolitaine
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Paris
@@ -30,7 +30,8 @@ DTSTAMP:20241212T120000Z
 DTSTART;VALUE=DATE:20250108
 DTEND;VALUE=DATE:20250109
 SUMMARY:Début des Soldes d'hiver
-DESCRIPTION:Début des soldes d'hiver en France metropolitaine - Durée 4 semaines
+DESCRIPTION:Début des soldes d'hiver en France métropolitaine - Durée 4 
+ semaines
 CATEGORIES:Soldes,Shopping
 STATUS:CONFIRMED
 END:VEVENT
@@ -40,7 +41,7 @@ DTSTAMP:20241212T120000Z
 DTSTART;VALUE=DATE:20250204
 DTEND;VALUE=DATE:20250205
 SUMMARY:Fin des Soldes d'hiver
-DESCRIPTION:Dernier jour des soldes d'hiver en France metropolitaine
+DESCRIPTION:Dernier jour des soldes d'hiver en France métropolitaine
 CATEGORIES:Soldes,Shopping
 STATUS:CONFIRMED
 END:VEVENT
@@ -50,7 +51,8 @@ DTSTAMP:20241212T120000Z
 DTSTART;VALUE=DATE:20250625
 DTEND;VALUE=DATE:20250626
 SUMMARY:Début des Soldes d'été
-DESCRIPTION:Début des soldes d'été en France metropolitaine - Durée 4 semaines
+DESCRIPTION:Début des soldes d'été en France métropolitaine - Durée 4 
+ semaines
 CATEGORIES:Soldes,Shopping
 STATUS:CONFIRMED
 END:VEVENT
@@ -60,7 +62,7 @@ DTSTAMP:20241212T120000Z
 DTSTART;VALUE=DATE:20250722
 DTEND;VALUE=DATE:20250723
 SUMMARY:Fin des Soldes d'été
-DESCRIPTION:Dernier jour des soldes d'été en France metropolitaine
+DESCRIPTION:Dernier jour des soldes d'été en France métropolitaine
 CATEGORIES:Soldes,Shopping
 STATUS:CONFIRMED
 END:VEVENT
@@ -70,7 +72,8 @@ DTSTAMP:20260107T120000Z
 DTSTART;VALUE=DATE:20260107
 DTEND;VALUE=DATE:20260108
 SUMMARY:Début des Soldes d'hiver
-DESCRIPTION:Début des soldes d'hiver en France metropolitaine - Durée 4 semaines (du 7 janvier au 3 février)
+DESCRIPTION:Début des soldes d'hiver en France métropolitaine - Durée 4 
+ semaines (du 7 janvier au 3 février)
 CATEGORIES:Soldes,Shopping
 STATUS:CONFIRMED
 END:VEVENT
@@ -80,7 +83,8 @@ DTSTAMP:20260107T120000Z
 DTSTART;VALUE=DATE:20260203
 DTEND;VALUE=DATE:20260204
 SUMMARY:Fin des Soldes d'hiver
-DESCRIPTION:Dernier jour des soldes d'hiver en France metropolitaine (3 février 2026)
+DESCRIPTION:Dernier jour des soldes d'hiver en France métropolitaine (3 f
+ évrier 2026)
 CATEGORIES:Soldes,Shopping
 STATUS:CONFIRMED
 END:VEVENT
@@ -90,7 +94,8 @@ DTSTAMP:20241212T120000Z
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260625
 SUMMARY:Début des Soldes d'été
-DESCRIPTION:Début des soldes d'été en France metropolitaine - Fin prolongee au 28 juillet 2026
+DESCRIPTION:Début des soldes d'été en France métropolitaine - Fin prolo
+ ngee au 28 juillet 2026
 CATEGORIES:Soldes,Shopping
 STATUS:CONFIRMED
 END:VEVENT
@@ -100,7 +105,8 @@ DTSTAMP:20241212T120000Z
 DTSTART;VALUE=DATE:20260728
 DTEND;VALUE=DATE:20260729
 SUMMARY:Fin des Soldes d'été
-DESCRIPTION:Dernier jour des soldes d'été en France metropolitaine - Prolongation exceptionnelle canicule 2026
+DESCRIPTION:Dernier jour des soldes d'été en France métropolitaine - Pro
+ longation exceptionnelle canicule 2026
 CATEGORIES:Soldes,Shopping
 STATUS:CONFIRMED
 END:VEVENT
@@ -110,7 +116,8 @@ DTSTAMP:20260107T120000Z
 DTSTART;VALUE=DATE:20270106
 DTEND;VALUE=DATE:20270107
 SUMMARY:Début des Soldes d'hiver
-DESCRIPTION:Début des soldes d'hiver en France metropolitaine - Durée 4 semaines (du 6 janvier au 2 février)
+DESCRIPTION:Début des soldes d'hiver en France métropolitaine - Durée 4 
+ semaines (du 6 janvier au 2 février)
 CATEGORIES:Soldes,Shopping
 STATUS:CONFIRMED
 END:VEVENT
@@ -120,7 +127,8 @@ DTSTAMP:20260107T120000Z
 DTSTART;VALUE=DATE:20270202
 DTEND;VALUE=DATE:20270203
 SUMMARY:Fin des Soldes d'hiver
-DESCRIPTION:Dernier jour des soldes d'hiver en France metropolitaine (2 février 2027)
+DESCRIPTION:Dernier jour des soldes d'hiver en France métropolitaine (2 f
+ évrier 2027)
 CATEGORIES:Soldes,Shopping
 STATUS:CONFIRMED
 END:VEVENT
@@ -130,7 +138,8 @@ DTSTAMP:20241212T120000Z
 DTSTART;VALUE=DATE:20270623
 DTEND;VALUE=DATE:20270624
 SUMMARY:Début des Soldes d'été
-DESCRIPTION:Début des soldes d'été en France metropolitaine - Durée 4 semaines
+DESCRIPTION:Début des soldes d'été en France métropolitaine - Durée 4 
+ semaines
 CATEGORIES:Soldes,Shopping
 STATUS:CONFIRMED
 END:VEVENT
@@ -140,7 +149,7 @@ DTSTAMP:20241212T120000Z
 DTSTART;VALUE=DATE:20270720
 DTEND;VALUE=DATE:20270721
 SUMMARY:Fin des Soldes d'été
-DESCRIPTION:Dernier jour des soldes d'été en France metropolitaine
+DESCRIPTION:Dernier jour des soldes d'été en France métropolitaine
 CATEGORIES:Soldes,Shopping
 STATUS:CONFIRMED
 END:VEVENT
@@ -150,7 +159,8 @@ DTSTAMP:20260107T120000Z
 DTSTART;VALUE=DATE:20280112
 DTEND;VALUE=DATE:20280113
 SUMMARY:Début des Soldes d'hiver
-DESCRIPTION:Début des soldes d'hiver en France metropolitaine - Durée 4 semaines (du 12 janvier au 8 février)
+DESCRIPTION:Début des soldes d'hiver en France métropolitaine - Durée 4 
+ semaines (du 12 janvier au 8 février)
 CATEGORIES:Soldes,Shopping
 STATUS:CONFIRMED
 END:VEVENT
@@ -160,7 +170,8 @@ DTSTAMP:20260107T120000Z
 DTSTART;VALUE=DATE:20280208
 DTEND;VALUE=DATE:20280209
 SUMMARY:Fin des Soldes d'hiver
-DESCRIPTION:Dernier jour des soldes d'hiver en France metropolitaine (8 février 2028)
+DESCRIPTION:Dernier jour des soldes d'hiver en France métropolitaine (8 f
+ évrier 2028)
 CATEGORIES:Soldes,Shopping
 STATUS:CONFIRMED
 END:VEVENT
@@ -170,7 +181,8 @@ DTSTAMP:20241212T120000Z
 DTSTART;VALUE=DATE:20280628
 DTEND;VALUE=DATE:20280629
 SUMMARY:Début des Soldes d'été
-DESCRIPTION:Début des soldes d'été en France metropolitaine - Durée 4 semaines
+DESCRIPTION:Début des soldes d'été en France métropolitaine - Durée 4 
+ semaines
 CATEGORIES:Soldes,Shopping
 STATUS:CONFIRMED
 END:VEVENT
@@ -180,7 +192,7 @@ DTSTAMP:20241212T120000Z
 DTSTART;VALUE=DATE:20280725
 DTEND;VALUE=DATE:20280726
 SUMMARY:Fin des Soldes d'été
-DESCRIPTION:Dernier jour des soldes d'été en France metropolitaine
+DESCRIPTION:Dernier jour des soldes d'été en France métropolitaine
 CATEGORIES:Soldes,Shopping
 STATUS:CONFIRMED
 END:VEVENT
@@ -190,7 +202,8 @@ DTSTAMP:20260107T120000Z
 DTSTART;VALUE=DATE:20290110
 DTEND;VALUE=DATE:20290111
 SUMMARY:Début des Soldes d'hiver
-DESCRIPTION:Début des soldes d'hiver en France metropolitaine - Durée 4 semaines (du 10 janvier au 6 février)
+DESCRIPTION:Début des soldes d'hiver en France métropolitaine - Durée 4 
+ semaines (du 10 janvier au 6 février)
 CATEGORIES:Soldes,Shopping
 STATUS:CONFIRMED
 END:VEVENT
@@ -200,7 +213,8 @@ DTSTAMP:20260107T120000Z
 DTSTART;VALUE=DATE:20290206
 DTEND;VALUE=DATE:20290207
 SUMMARY:Fin des Soldes d'hiver
-DESCRIPTION:Dernier jour des soldes d'hiver en France metropolitaine (6 février 2029)
+DESCRIPTION:Dernier jour des soldes d'hiver en France métropolitaine (6 f
+ évrier 2029)
 CATEGORIES:Soldes,Shopping
 STATUS:CONFIRMED
 END:VEVENT
@@ -210,7 +224,8 @@ DTSTAMP:20241212T120000Z
 DTSTART;VALUE=DATE:20290627
 DTEND;VALUE=DATE:20290628
 SUMMARY:Début des Soldes d'été
-DESCRIPTION:Début des soldes d'été en France metropolitaine - Durée 4 semaines
+DESCRIPTION:Début des soldes d'été en France métropolitaine - Durée 4 
+ semaines
 CATEGORIES:Soldes,Shopping
 STATUS:CONFIRMED
 END:VEVENT
@@ -220,7 +235,7 @@ DTSTAMP:20241212T120000Z
 DTSTART;VALUE=DATE:20290724
 DTEND;VALUE=DATE:20290725
 SUMMARY:Fin des Soldes d'été
-DESCRIPTION:Dernier jour des soldes d'été en France metropolitaine
+DESCRIPTION:Dernier jour des soldes d'été en France métropolitaine
 CATEGORIES:Soldes,Shopping
 STATUS:CONFIRMED
 END:VEVENT
@@ -230,7 +245,8 @@ DTSTAMP:20260107T120000Z
 DTSTART;VALUE=DATE:20300109
 DTEND;VALUE=DATE:20300110
 SUMMARY:Début des Soldes d'hiver
-DESCRIPTION:Début des soldes d'hiver en France metropolitaine - Durée 4 semaines (du 9 janvier au 5 février)
+DESCRIPTION:Début des soldes d'hiver en France métropolitaine - Durée 4 
+ semaines (du 9 janvier au 5 février)
 CATEGORIES:Soldes,Shopping
 STATUS:CONFIRMED
 END:VEVENT
@@ -240,7 +256,8 @@ DTSTAMP:20260107T120000Z
 DTSTART;VALUE=DATE:20300205
 DTEND;VALUE=DATE:20300206
 SUMMARY:Fin des Soldes d'hiver
-DESCRIPTION:Dernier jour des soldes d'hiver en France metropolitaine (5 février 2030)
+DESCRIPTION:Dernier jour des soldes d'hiver en France métropolitaine (5 f
+ évrier 2030)
 CATEGORIES:Soldes,Shopping
 STATUS:CONFIRMED
 END:VEVENT
@@ -250,7 +267,8 @@ DTSTAMP:20241212T120000Z
 DTSTART;VALUE=DATE:20300626
 DTEND;VALUE=DATE:20300627
 SUMMARY:Début des Soldes d'été
-DESCRIPTION:Début des soldes d'été en France metropolitaine - Durée 4 semaines
+DESCRIPTION:Début des soldes d'été en France métropolitaine - Durée 4 
+ semaines
 CATEGORIES:Soldes,Shopping
 STATUS:CONFIRMED
 END:VEVENT
@@ -260,7 +278,7 @@ DTSTAMP:20241212T120000Z
 DTSTART;VALUE=DATE:20300723
 DTEND;VALUE=DATE:20300724
 SUMMARY:Fin des Soldes d'été
-DESCRIPTION:Dernier jour des soldes d'été en France metropolitaine
+DESCRIPTION:Dernier jour des soldes d'été en France métropolitaine
 CATEGORIES:Soldes,Shopping
 STATUS:CONFIRMED
 END:VEVENT

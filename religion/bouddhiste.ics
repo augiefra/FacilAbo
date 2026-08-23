@@ -4,7 +4,8 @@ PRODID:-//FacilAbo//Calendrier Fetes Bouddhistes//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Fêtes Bouddhistes
-X-WR-CALDESC:Fêtes et observances bouddhistes (2025-2031) basees sur des calendriers publics.
+X-WR-CALDESC:Fêtes et observances bouddhistes (2025-2031) basées sur des 
+ calendriers publics.
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Paris
@@ -30,8 +31,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20250113
 DTEND;VALUE=DATE:20250114
 SUMMARY:Duruthu Poya
-DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri Lanka/India).
-URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri
+  Lanka/India).
+URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calen
+ dar.google.com/public
 CATEGORIES:Religion,Bouddhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -41,8 +44,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20250512
 DTEND;VALUE=DATE:20250513
 SUMMARY:Vesak
-DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri Lanka/India).
-URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri
+  Lanka/India).
+URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calen
+ dar.google.com/public
 CATEGORIES:Religion,Bouddhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -52,8 +57,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20250610
 DTEND;VALUE=DATE:20250611
 SUMMARY:Poson Poya
-DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri Lanka/India).
-URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri
+  Lanka/India).
+URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calen
+ dar.google.com/public
 CATEGORIES:Religion,Bouddhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -63,8 +70,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20250710
 DTEND;VALUE=DATE:20250711
 SUMMARY:Esala Poya
-DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri Lanka/India).
-URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri
+  Lanka/India).
+URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calen
+ dar.google.com/public
 CATEGORIES:Religion,Bouddhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -74,8 +83,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20260103
 DTEND;VALUE=DATE:20260104
 SUMMARY:Duruthu Poya
-DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri Lanka/India).
-URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri
+  Lanka/India).
+URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calen
+ dar.google.com/public
 CATEGORIES:Religion,Bouddhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -85,8 +96,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
 SUMMARY:Vesak
-DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri Lanka/India).
-URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri
+  Lanka/India).
+URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calen
+ dar.google.com/public
 CATEGORIES:Religion,Bouddhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -96,8 +109,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20260530
 DTEND;VALUE=DATE:20260531
 SUMMARY:Poson Poya
-DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri Lanka/India).
-URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri
+  Lanka/India).
+URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calen
+ dar.google.com/public
 CATEGORIES:Religion,Bouddhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -107,8 +122,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20260729
 DTEND;VALUE=DATE:20260730
 SUMMARY:Esala Poya
-DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri Lanka/India).
-URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri
+  Lanka/India).
+URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calen
+ dar.google.com/public
 CATEGORIES:Religion,Bouddhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -118,8 +135,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
 SUMMARY:Duruthu Poya
-DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri Lanka/India).
-URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri
+  Lanka/India).
+URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calen
+ dar.google.com/public
 CATEGORIES:Religion,Bouddhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -129,8 +148,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20270520
 DTEND;VALUE=DATE:20270521
 SUMMARY:Vesak
-DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri Lanka/India).
-URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri
+  Lanka/India).
+URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calen
+ dar.google.com/public
 CATEGORIES:Religion,Bouddhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -140,8 +161,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20270619
 DTEND;VALUE=DATE:20270620
 SUMMARY:Poson Poya
-DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri Lanka/India).
-URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri
+  Lanka/India).
+URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calen
+ dar.google.com/public
 CATEGORIES:Religion,Bouddhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -151,8 +174,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20270719
 DTEND;VALUE=DATE:20270720
 SUMMARY:Esala Poya
-DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri Lanka/India).
-URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri
+  Lanka/India).
+URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calen
+ dar.google.com/public
 CATEGORIES:Religion,Bouddhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -162,8 +187,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20280111
 DTEND;VALUE=DATE:20280112
 SUMMARY:Duruthu Poya
-DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri Lanka/India).
-URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri
+  Lanka/India).
+URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calen
+ dar.google.com/public
 CATEGORIES:Religion,Bouddhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -173,8 +200,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20280509
 DTEND;VALUE=DATE:20280510
 SUMMARY:Vesak
-DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri Lanka/India).
-URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri
+  Lanka/India).
+URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calen
+ dar.google.com/public
 CATEGORIES:Religion,Bouddhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -184,8 +213,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20280607
 DTEND;VALUE=DATE:20280608
 SUMMARY:Poson Poya
-DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri Lanka/India).
-URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri
+  Lanka/India).
+URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calen
+ dar.google.com/public
 CATEGORIES:Religion,Bouddhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -195,8 +226,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20280706
 DTEND;VALUE=DATE:20280707
 SUMMARY:Esala Poya
-DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri Lanka/India).
-URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri
+  Lanka/India).
+URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calen
+ dar.google.com/public
 CATEGORIES:Religion,Bouddhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -206,8 +239,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20290130
 DTEND;VALUE=DATE:20290131
 SUMMARY:Duruthu Poya
-DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri Lanka/India).
-URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri
+  Lanka/India).
+URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calen
+ dar.google.com/public
 CATEGORIES:Religion,Bouddhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -217,8 +252,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20290527
 DTEND;VALUE=DATE:20290528
 SUMMARY:Vesak
-DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri Lanka/India).
-URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri
+  Lanka/India).
+URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calen
+ dar.google.com/public
 CATEGORIES:Religion,Bouddhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -228,8 +265,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20290625
 DTEND;VALUE=DATE:20290626
 SUMMARY:Poson Poya
-DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri Lanka/India).
-URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri
+  Lanka/India).
+URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calen
+ dar.google.com/public
 CATEGORIES:Religion,Bouddhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -239,8 +278,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20290725
 DTEND;VALUE=DATE:20290726
 SUMMARY:Esala Poya
-DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri Lanka/India).
-URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri
+  Lanka/India).
+URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calen
+ dar.google.com/public
 CATEGORIES:Religion,Bouddhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -250,8 +291,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20300119
 DTEND;VALUE=DATE:20300120
 SUMMARY:Duruthu Poya
-DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri Lanka/India).
-URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri
+  Lanka/India).
+URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calen
+ dar.google.com/public
 CATEGORIES:Religion,Bouddhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -261,8 +304,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20300517
 DTEND;VALUE=DATE:20300518
 SUMMARY:Vesak
-DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri Lanka/India).
-URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri
+  Lanka/India).
+URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calen
+ dar.google.com/public
 CATEGORIES:Religion,Bouddhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -272,8 +317,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20300615
 DTEND;VALUE=DATE:20300616
 SUMMARY:Poson Poya
-DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri Lanka/India).
-URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri
+  Lanka/India).
+URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calen
+ dar.google.com/public
 CATEGORIES:Religion,Bouddhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -283,8 +330,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20300714
 DTEND;VALUE=DATE:20300715
 SUMMARY:Esala Poya
-DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri Lanka/India).
-URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri
+  Lanka/India).
+URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calen
+ dar.google.com/public
 CATEGORIES:Religion,Bouddhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -294,8 +343,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20310108
 DTEND;VALUE=DATE:20310109
 SUMMARY:Duruthu Poya
-DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri Lanka/India).
-URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri
+  Lanka/India).
+URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calen
+ dar.google.com/public
 CATEGORIES:Religion,Bouddhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -305,8 +356,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20310506
 DTEND;VALUE=DATE:20310507
 SUMMARY:Vesak
-DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri Lanka/India).
-URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri
+  Lanka/India).
+URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calen
+ dar.google.com/public
 CATEGORIES:Religion,Bouddhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -316,8 +369,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20310605
 DTEND;VALUE=DATE:20310606
 SUMMARY:Poson Poya
-DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri Lanka/India).
-URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri
+  Lanka/India).
+URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calen
+ dar.google.com/public
 CATEGORIES:Religion,Bouddhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -327,8 +382,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20310704
 DTEND;VALUE=DATE:20310705
 SUMMARY:Esala Poya
-DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri Lanka/India).
-URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri
+  Lanka/India).
+URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calen
+ dar.google.com/public
 CATEGORIES:Religion,Bouddhisme
 STATUS:CONFIRMED
 END:VEVENT

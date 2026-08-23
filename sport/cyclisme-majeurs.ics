@@ -4,7 +4,8 @@ PRODID:-//FacilAbo//Cyclisme Majeurs//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Cyclisme - Grandes courses
-X-WR-CALDESC:Monuments, Grands Tours, Mondiaux route, classiques WorldTour et championnats FR/Europe. Fenetre glissante 24 mois (J-30 -> J+730).
+X-WR-CALDESC:Monuments, Grands Tours, Mondiaux route, classiques WorldTour
+  et championnats FR/Europe. Fenêtre glissante 24 mois (J-30 -> J+730).
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Paris
@@ -150,7 +151,8 @@ DTSTAMP:20260226T120000Z
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260629
 SUMMARY:Championnats de France sur route
-DESCRIPTION:Championnat national - programme officiel du 25 au 28 juin 2026 (source: ffc.fr)
+DESCRIPTION:Championnat national - programme officiel du 25 au 28 juin 2026
+  (source: ffc.fr)
 CATEGORIES:Sport,Cyclisme,Championnat
 STATUS:CONFIRMED
 END:VEVENT
@@ -170,7 +172,8 @@ DTSTAMP:20260226T120000Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
 SUMMARY:Classique de Saint-Sebastien
-DESCRIPTION:Classique WorldTour - Source: uci.org / clasica-san-sebastian.com
+DESCRIPTION:Classique WorldTour - Source: uci.org / clasica-san-sebastian.c
+ om
 CATEGORIES:Sport,Cyclisme,Classique
 STATUS:CONFIRMED
 END:VEVENT
@@ -220,7 +223,8 @@ DTSTAMP:20260226T120000Z
 DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261008
 SUMMARY:Championnats d Europe sur route
-DESCRIPTION:Championnat continental - programme officiel du 3 au 7 octobre 2026 (source: uec.ch)
+DESCRIPTION:Championnat continental - programme officiel du 3 au 7 octobre
+  2026 (source: uec.ch)
 CATEGORIES:Sport,Cyclisme,Championnat
 STATUS:CONFIRMED
 END:VEVENT
@@ -230,7 +234,7 @@ DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:Championnats du monde UCI - Course en ligne femmes
-DESCRIPTION:Mondiaux route - epreuve elite.
+DESCRIPTION:Mondiaux route - épreuve elite.
 CATEGORIES:Sport,Cyclisme,Mondiaux
 STATUS:CONFIRMED
 END:VEVENT
@@ -240,7 +244,7 @@ DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20260927
 DTEND;VALUE=DATE:20260928
 SUMMARY:Championnats du monde UCI - Course en ligne hommes
-DESCRIPTION:Mondiaux route - epreuve elite.
+DESCRIPTION:Mondiaux route - épreuve elite.
 CATEGORIES:Sport,Cyclisme,Mondiaux
 STATUS:CONFIRMED
 END:VEVENT
@@ -260,7 +264,7 @@ DTSTAMP:20260226T120000Z
 DTSTART;VALUE=DATE:20270227
 DTEND;VALUE=DATE:20270228
 SUMMARY:Omloop Het Nieuwsblad
-DESCRIPTION:Classique WorldTour - date a confirmer par l organisateur.
+DESCRIPTION:Classique WorldTour - date à confirmer par l organisateur.
 CATEGORIES:Sport,Cyclisme,Classique
 STATUS:TENTATIVE
 END:VEVENT
@@ -270,7 +274,7 @@ DTSTAMP:20260226T120000Z
 DTSTART;VALUE=DATE:20270306
 DTEND;VALUE=DATE:20270307
 SUMMARY:Strade Bianche
-DESCRIPTION:Classique WorldTour - date a confirmer par l organisateur.
+DESCRIPTION:Classique WorldTour - date à confirmer par l organisateur.
 CATEGORIES:Sport,Cyclisme,Classique
 STATUS:TENTATIVE
 END:VEVENT
@@ -280,7 +284,7 @@ DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20270320
 DTEND;VALUE=DATE:20270321
 SUMMARY:Milan-San Remo (Monument)
-DESCRIPTION:Monument #1 - date a confirmer par l organisateur.
+DESCRIPTION:Monument #1 - date à confirmer par l organisateur.
 CATEGORIES:Sport,Cyclisme,Monument
 STATUS:TENTATIVE
 END:VEVENT
@@ -290,7 +294,7 @@ DTSTAMP:20260226T120000Z
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
 SUMMARY:E3 Saxo Classic
-DESCRIPTION:Classique WorldTour - date a confirmer par l organisateur.
+DESCRIPTION:Classique WorldTour - date à confirmer par l organisateur.
 CATEGORIES:Sport,Cyclisme,Classique
 STATUS:TENTATIVE
 END:VEVENT
@@ -300,7 +304,7 @@ DTSTAMP:20260226T120000Z
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
 SUMMARY:Gent-Wevelgem
-DESCRIPTION:Classique WorldTour - date a confirmer par l organisateur.
+DESCRIPTION:Classique WorldTour - date à confirmer par l organisateur.
 CATEGORIES:Sport,Cyclisme,Classique
 STATUS:TENTATIVE
 END:VEVENT
@@ -310,7 +314,7 @@ DTSTAMP:20260226T120000Z
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270401
 SUMMARY:A Travers la Flandre (Dwars door Vlaanderen)
-DESCRIPTION:Classique WorldTour - date a confirmer par l organisateur.
+DESCRIPTION:Classique WorldTour - date à confirmer par l organisateur.
 CATEGORIES:Sport,Cyclisme,Classique
 STATUS:TENTATIVE
 END:VEVENT
@@ -320,7 +324,7 @@ DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20270404
 DTEND;VALUE=DATE:20270405
 SUMMARY:Tour des Flandres (Monument)
-DESCRIPTION:Monument #2 - date a confirmer par l organisateur.
+DESCRIPTION:Monument #2 - date à confirmer par l organisateur.
 CATEGORIES:Sport,Cyclisme,Monument
 STATUS:TENTATIVE
 END:VEVENT
@@ -330,7 +334,7 @@ DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20270411
 DTEND;VALUE=DATE:20270412
 SUMMARY:Paris-Roubaix (Monument)
-DESCRIPTION:Monument #3 - date a confirmer par l organisateur.
+DESCRIPTION:Monument #3 - date à confirmer par l organisateur.
 CATEGORIES:Sport,Cyclisme,Monument
 STATUS:TENTATIVE
 END:VEVENT
@@ -340,7 +344,7 @@ DTSTAMP:20260226T120000Z
 DTSTART;VALUE=DATE:20270418
 DTEND;VALUE=DATE:20270419
 SUMMARY:Amstel Gold Race
-DESCRIPTION:Classique WorldTour - date a confirmer par l organisateur.
+DESCRIPTION:Classique WorldTour - date à confirmer par l organisateur.
 CATEGORIES:Sport,Cyclisme,Classique
 STATUS:TENTATIVE
 END:VEVENT
@@ -350,7 +354,7 @@ DTSTAMP:20260226T120000Z
 DTSTART;VALUE=DATE:20270421
 DTEND;VALUE=DATE:20270422
 SUMMARY:Fleche Wallonne
-DESCRIPTION:Classique WorldTour - date a confirmer par l organisateur.
+DESCRIPTION:Classique WorldTour - date à confirmer par l organisateur.
 CATEGORIES:Sport,Cyclisme,Classique
 STATUS:TENTATIVE
 END:VEVENT
@@ -360,7 +364,7 @@ DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20270425
 DTEND;VALUE=DATE:20270426
 SUMMARY:Liege-Bastogne-Liege (Monument)
-DESCRIPTION:Monument #4 - date a confirmer par l organisateur.
+DESCRIPTION:Monument #4 - date à confirmer par l organisateur.
 CATEGORIES:Sport,Cyclisme,Monument
 STATUS:TENTATIVE
 END:VEVENT
@@ -370,7 +374,7 @@ DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20270508
 DTEND;VALUE=DATE:20270531
 SUMMARY:Giro d Italia (Grand Tour)
-DESCRIPTION:Grand Tour #1 - date a confirmer par l organisateur.
+DESCRIPTION:Grand Tour #1 - date à confirmer par l organisateur.
 CATEGORIES:Sport,Cyclisme,Grand Tour
 STATUS:TENTATIVE
 END:VEVENT
@@ -380,7 +384,7 @@ DTSTAMP:20260226T120000Z
 DTSTART;VALUE=DATE:20270627
 DTEND;VALUE=DATE:20270628
 SUMMARY:Championnats de France sur route
-DESCRIPTION:Championnat national - date a confirmer par l organisateur.
+DESCRIPTION:Championnat national - date à confirmer par l organisateur.
 CATEGORIES:Sport,Cyclisme,Championnat
 STATUS:TENTATIVE
 END:VEVENT
@@ -390,7 +394,7 @@ DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20270703
 DTEND;VALUE=DATE:20270726
 SUMMARY:Tour de France (Grand Tour)
-DESCRIPTION:Grand Tour #2 - date a confirmer par l organisateur.
+DESCRIPTION:Grand Tour #2 - date à confirmer par l organisateur.
 CATEGORIES:Sport,Cyclisme,Grand Tour
 STATUS:TENTATIVE
 END:VEVENT
@@ -400,7 +404,7 @@ DTSTAMP:20260226T120000Z
 DTSTART;VALUE=DATE:20270731
 DTEND;VALUE=DATE:20270801
 SUMMARY:Classique de Saint-Sebastien
-DESCRIPTION:Classique WorldTour - date a confirmer par l organisateur.
+DESCRIPTION:Classique WorldTour - date à confirmer par l organisateur.
 CATEGORIES:Sport,Cyclisme,Classique
 STATUS:TENTATIVE
 END:VEVENT
@@ -410,7 +414,7 @@ DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20270821
 DTEND;VALUE=DATE:20270913
 SUMMARY:La Vuelta (Grand Tour)
-DESCRIPTION:Grand Tour #3 - date a confirmer par l organisateur.
+DESCRIPTION:Grand Tour #3 - date à confirmer par l organisateur.
 CATEGORIES:Sport,Cyclisme,Grand Tour
 STATUS:TENTATIVE
 END:VEVENT
@@ -420,7 +424,8 @@ DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20270824
 DTEND;VALUE=DATE:20270825
 SUMMARY:Championnats du monde UCI - Course en ligne femmes
-DESCRIPTION:Mondiaux route - epreuve elite (placeholder neutralise; dates detaillees UCI 2027 non finalisees).
+DESCRIPTION:Mondiaux route - épreuve elite (placeholder neutralise; dates
+  detaillees UCI 2027 non finalisees).
 CATEGORIES:Sport,Cyclisme,Mondiaux
 STATUS:TENTATIVE
 END:VEVENT
@@ -430,7 +435,8 @@ DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20270824
 DTEND;VALUE=DATE:20270825
 SUMMARY:Championnats du monde UCI - Course en ligne hommes
-DESCRIPTION:Mondiaux route - epreuve elite (placeholder neutralise; dates detaillees UCI 2027 non finalisees).
+DESCRIPTION:Mondiaux route - épreuve elite (placeholder neutralise; dates
+  detaillees UCI 2027 non finalisees).
 CATEGORIES:Sport,Cyclisme,Mondiaux
 STATUS:TENTATIVE
 END:VEVENT
@@ -440,7 +446,7 @@ DTSTAMP:20260226T120000Z
 DTSTART;VALUE=DATE:20270829
 DTEND;VALUE=DATE:20270830
 SUMMARY:Bretagne Classic
-DESCRIPTION:Classique WorldTour - date a confirmer par l organisateur.
+DESCRIPTION:Classique WorldTour - date à confirmer par l organisateur.
 CATEGORIES:Sport,Cyclisme,Classique
 STATUS:TENTATIVE
 END:VEVENT
@@ -450,7 +456,7 @@ DTSTAMP:20260226T120000Z
 DTSTART;VALUE=DATE:20270910
 DTEND;VALUE=DATE:20270911
 SUMMARY:Grand Prix de Quebec
-DESCRIPTION:Classique WorldTour - date a confirmer par l organisateur.
+DESCRIPTION:Classique WorldTour - date à confirmer par l organisateur.
 CATEGORIES:Sport,Cyclisme,Classique
 STATUS:TENTATIVE
 END:VEVENT
@@ -460,7 +466,7 @@ DTSTAMP:20260226T120000Z
 DTSTART;VALUE=DATE:20270912
 DTEND;VALUE=DATE:20270913
 SUMMARY:Grand Prix de Montreal
-DESCRIPTION:Classique WorldTour - date a confirmer par l organisateur.
+DESCRIPTION:Classique WorldTour - date à confirmer par l organisateur.
 CATEGORIES:Sport,Cyclisme,Classique
 STATUS:TENTATIVE
 END:VEVENT
@@ -470,7 +476,8 @@ DTSTAMP:20260226T120000Z
 DTSTART;VALUE=DATE:20271003
 DTEND;VALUE=DATE:20271008
 SUMMARY:Championnats d Europe sur route
-DESCRIPTION:Championnat continental - fenetre indicative automnale, date a confirmer par l organisateur.
+DESCRIPTION:Championnat continental - fenêtre indicative automnale, date
+  à confirmer par l organisateur.
 CATEGORIES:Sport,Cyclisme,Championnat
 STATUS:TENTATIVE
 END:VEVENT
@@ -480,7 +487,7 @@ DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20271009
 DTEND;VALUE=DATE:20271010
 SUMMARY:Il Lombardia (Monument)
-DESCRIPTION:Monument #5 - date a confirmer par l organisateur.
+DESCRIPTION:Monument #5 - date à confirmer par l organisateur.
 CATEGORIES:Sport,Cyclisme,Monument
 STATUS:TENTATIVE
 END:VEVENT

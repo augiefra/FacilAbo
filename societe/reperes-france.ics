@@ -4,7 +4,8 @@ PRODID:-//FacilAbo//Société Repères France//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Société - Repères France
-X-WR-CALDESC:Repères sociétaux France (2025-2032). Chevauchements volontaires possibles avec ecommerce/fêtes-commerciales.
+X-WR-CALDESC:Repères sociétaux France (2025-2032). Chevauchements volonta
+ ires possibles avec ecommerce/fêtes-commerciales.
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Paris
@@ -60,7 +61,8 @@ DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20250525
 DTEND;VALUE=DATE:20250526
 SUMMARY:Fête des Mères (France)
-DESCRIPTION:Repère France: dernier dimanche de mai (ou 1er dimanche de juin si Pentecôte).
+DESCRIPTION:Repère France: dernier dimanche de mai (ou 1er dimanche de jui
+ n si Pentecôte).
 CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
@@ -90,7 +92,8 @@ DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20251001
 DTEND;VALUE=DATE:20251002
 SUMMARY:Octobre Rose (France)
-DESCRIPTION:Lancement du mois de sensibilisation au dépistage du cancer du sein (1er octobre).
+DESCRIPTION:Lancement du mois de sensibilisation au dépistage du cancer du
+  sein (1er octobre).
 CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
@@ -130,7 +133,8 @@ DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20260531
 DTEND;VALUE=DATE:20260601
 SUMMARY:Fête des Mères (France)
-DESCRIPTION:Repère France: dernier dimanche de mai (ou 1er dimanche de juin si Pentecôte).
+DESCRIPTION:Repère France: dernier dimanche de mai (ou 1er dimanche de jui
+ n si Pentecôte).
 CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
@@ -160,7 +164,8 @@ DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:Octobre Rose (France)
-DESCRIPTION:Lancement du mois de sensibilisation au dépistage du cancer du sein (1er octobre).
+DESCRIPTION:Lancement du mois de sensibilisation au dépistage du cancer du
+  sein (1er octobre).
 CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
@@ -200,7 +205,8 @@ DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20270530
 DTEND;VALUE=DATE:20270531
 SUMMARY:Fête des Mères (France)
-DESCRIPTION:Repère France: dernier dimanche de mai (ou 1er dimanche de juin si Pentecôte).
+DESCRIPTION:Repère France: dernier dimanche de mai (ou 1er dimanche de jui
+ n si Pentecôte).
 CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
@@ -230,7 +236,8 @@ DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20271001
 DTEND;VALUE=DATE:20271002
 SUMMARY:Octobre Rose (France)
-DESCRIPTION:Lancement du mois de sensibilisation au dépistage du cancer du sein (1er octobre).
+DESCRIPTION:Lancement du mois de sensibilisation au dépistage du cancer du
+  sein (1er octobre).
 CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
@@ -270,7 +277,8 @@ DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20280528
 DTEND;VALUE=DATE:20280529
 SUMMARY:Fête des Mères (France)
-DESCRIPTION:Repère France: dernier dimanche de mai (ou 1er dimanche de juin si Pentecôte).
+DESCRIPTION:Repère France: dernier dimanche de mai (ou 1er dimanche de jui
+ n si Pentecôte).
 CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
@@ -300,7 +308,8 @@ DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20281001
 DTEND;VALUE=DATE:20281002
 SUMMARY:Octobre Rose (France)
-DESCRIPTION:Lancement du mois de sensibilisation au dépistage du cancer du sein (1er octobre).
+DESCRIPTION:Lancement du mois de sensibilisation au dépistage du cancer du
+  sein (1er octobre).
 CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
@@ -340,7 +349,8 @@ DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20290527
 DTEND;VALUE=DATE:20290528
 SUMMARY:Fête des Mères (France)
-DESCRIPTION:Repère France: dernier dimanche de mai (ou 1er dimanche de juin si Pentecôte).
+DESCRIPTION:Repère France: dernier dimanche de mai (ou 1er dimanche de jui
+ n si Pentecôte).
 CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
@@ -370,7 +380,8 @@ DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20291001
 DTEND;VALUE=DATE:20291002
 SUMMARY:Octobre Rose (France)
-DESCRIPTION:Lancement du mois de sensibilisation au dépistage du cancer du sein (1er octobre).
+DESCRIPTION:Lancement du mois de sensibilisation au dépistage du cancer du
+  sein (1er octobre).
 CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
@@ -410,7 +421,8 @@ DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20300526
 DTEND;VALUE=DATE:20300527
 SUMMARY:Fête des Mères (France)
-DESCRIPTION:Repère France: dernier dimanche de mai (ou 1er dimanche de juin si Pentecôte).
+DESCRIPTION:Repère France: dernier dimanche de mai (ou 1er dimanche de jui
+ n si Pentecôte).
 CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
@@ -440,7 +452,8 @@ DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20301001
 DTEND;VALUE=DATE:20301002
 SUMMARY:Octobre Rose (France)
-DESCRIPTION:Lancement du mois de sensibilisation au dépistage du cancer du sein (1er octobre).
+DESCRIPTION:Lancement du mois de sensibilisation au dépistage du cancer du
+  sein (1er octobre).
 CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
@@ -480,7 +493,8 @@ DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20310525
 DTEND;VALUE=DATE:20310526
 SUMMARY:Fête des Mères (France)
-DESCRIPTION:Repère France: dernier dimanche de mai (ou 1er dimanche de juin si Pentecôte).
+DESCRIPTION:Repère France: dernier dimanche de mai (ou 1er dimanche de jui
+ n si Pentecôte).
 CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
@@ -510,7 +524,8 @@ DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20311001
 DTEND;VALUE=DATE:20311002
 SUMMARY:Octobre Rose (France)
-DESCRIPTION:Lancement du mois de sensibilisation au dépistage du cancer du sein (1er octobre).
+DESCRIPTION:Lancement du mois de sensibilisation au dépistage du cancer du
+  sein (1er octobre).
 CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
@@ -550,7 +565,8 @@ DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20320530
 DTEND;VALUE=DATE:20320531
 SUMMARY:Fête des Mères (France)
-DESCRIPTION:Repère France: dernier dimanche de mai (ou 1er dimanche de juin si Pentecôte).
+DESCRIPTION:Repère France: dernier dimanche de mai (ou 1er dimanche de jui
+ n si Pentecôte).
 CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT
@@ -580,7 +596,8 @@ DTSTAMP:20260223T120000Z
 DTSTART;VALUE=DATE:20321001
 DTEND;VALUE=DATE:20321002
 SUMMARY:Octobre Rose (France)
-DESCRIPTION:Lancement du mois de sensibilisation au dépistage du cancer du sein (1er octobre).
+DESCRIPTION:Lancement du mois de sensibilisation au dépistage du cancer du
+  sein (1er octobre).
 CATEGORIES:Société,France,Repère
 STATUS:CONFIRMED
 END:VEVENT

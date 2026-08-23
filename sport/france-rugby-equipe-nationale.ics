@@ -4,7 +4,8 @@ PRODID:-//FacilAbo//Equipe de France Rugby//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Equipe de France Rugby
-X-WR-CALDESC:Matchs de l equipe de France de rugby - fenetre glissante 24 mois
+X-WR-CALDESC:Matchs de l equipe de France de rugby - fenêtre glissante 24
+  mois
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Paris
@@ -25,93 +26,125 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:sport-france-rugby-equipe-nationale-france-rugby-2026-11-07-fidji-nations-championship@facilabo.app
+UID:sport-france-rugby-equipe-nationale-france-rugby-2026-11-07-fidji-natio
+ ns-championship@facilabo.app
 DTSTAMP:20261107T000000Z
 DTSTART;TZID=Europe/Paris:20261107T211000
 DTEND;TZID=Europe/Paris:20261107T231000
 SUMMARY:France - Fidji
-DESCRIPTION:Competition: Championnat des Nations 2026 | Source: https://billetterie.ffr.fr/ | Provenance: fallback:rugby-france-autumn-nations-series
+DESCRIPTION:Compétition: Championnat des Nations 2026 | Source: https://bi
+ lletterie.ffr.fr/ | Provenance: fallback:rugby-france-autumn-nations-serie
+ s
 LOCATION:Groupama Stadium\, Lyon
 URL:https://billetterie.ffr.fr/
 CATEGORIES:Sport,Rugby,Equipe de France
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:sport-france-rugby-equipe-nationale-france-rugby-2026-11-13-afrique-du-sud-nations-championship@facilabo.app
+UID:sport-france-rugby-equipe-nationale-france-rugby-2026-11-13-afrique-du-
+ sud-nations-championship@facilabo.app
 DTSTAMP:20261113T000000Z
 DTSTART;TZID=Europe/Paris:20261113T211000
 DTEND;TZID=Europe/Paris:20261113T231000
 SUMMARY:France - Afrique du Sud
-DESCRIPTION:Competition: Championnat des Nations 2026 | Source: https://www.stadefrance.com/fr/billetterie/france-afrique-du-sud-2026 | Provenance: fallback:rugby-france-autumn-nations-series
+DESCRIPTION:Compétition: Championnat des Nations 2026 | Source: https://ww
+ w.stadefrance.com/fr/billetterie/france-afrique-du-sud-2026 | Provenance:
+  fallback:rugby-france-autumn-nations-series
 LOCATION:Stade de France\, Saint-Denis
 URL:https://www.stadefrance.com/fr/billetterie/france-afrique-du-sud-2026
 CATEGORIES:Sport,Rugby,Equipe de France
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:sport-france-rugby-equipe-nationale-france-rugby-2026-11-21-argentine-nations-championship@facilabo.app
+UID:sport-france-rugby-equipe-nationale-france-rugby-2026-11-21-argentine-n
+ ations-championship@facilabo.app
 DTSTAMP:20261121T000000Z
 DTSTART;TZID=Europe/Paris:20261121T211000
 DTEND;TZID=Europe/Paris:20261121T231000
 SUMMARY:France - Argentine
-DESCRIPTION:Competition: Championnat des Nations 2026 | Source: https://billetterie.ffr.fr/ | Provenance: fallback:rugby-france-autumn-nations-series
+DESCRIPTION:Compétition: Championnat des Nations 2026 | Source: https://bi
+ lletterie.ffr.fr/ | Provenance: fallback:rugby-france-autumn-nations-serie
+ s
 LOCATION:Stade de France\, Saint-Denis
 URL:https://billetterie.ffr.fr/
 CATEGORIES:Sport,Rugby,Equipe de France
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:sport-france-rugby-equipe-nationale-rugby-france-sixnations-m6n-202700-france-v-wales@facilabo.app
+UID:sport-france-rugby-equipe-nationale-rugby-france-sixnations-m6n-202700-
+ france-v-wales@facilabo.app
 DTSTAMP:20270206T000000Z
 DTSTART;TZID=Europe/Paris:20270206T174000
 DTEND;TZID=Europe/Paris:20270206T194000
 SUMMARY:France - Pays de Galles
-DESCRIPTION:Competition: Six Nations | External Match ID: 202700-france-v-wales | Source: https://www.sixnationsrugby.com/en/m6n/fixtures/202700/france-v-wales-06022027-1640 | Provenance: crawl:rugby-france-sixnations-m6n
-URL:https://www.sixnationsrugby.com/en/m6n/fixtures/202700/france-v-wales-06022027-1640
+DESCRIPTION:Compétition: Six Nations | External Match ID: 202700-france-v-
+ wales | Source: https://www.sixnationsrugby.com/en/m6n/fixtures/202700/fra
+ nce-v-wales-06022027-1640 | Provenance: crawl:rugby-france-sixnations-m6n
+URL:https://www.sixnationsrugby.com/en/m6n/fixtures/202700/france-v-wales-0
+ 6022027-1640
 CATEGORIES:Sport,Rugby,Equipe de France
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:sport-france-rugby-equipe-nationale-rugby-france-sixnations-m6n-202700-england-v-france@facilabo.app
+UID:sport-france-rugby-equipe-nationale-rugby-france-sixnations-m6n-202700-
+ england-v-france@facilabo.app
 DTSTAMP:20270214T000000Z
 DTSTART;TZID=Europe/Paris:20270214T161000
 DTEND;TZID=Europe/Paris:20270214T181000
 SUMMARY:Angleterre - France
-DESCRIPTION:Competition: Six Nations | External Match ID: 202700-england-v-france | Source: https://www.sixnationsrugby.com/en/m6n/fixtures/202700/england-v-france-14022027-1510 | Provenance: crawl:rugby-france-sixnations-m6n
-URL:https://www.sixnationsrugby.com/en/m6n/fixtures/202700/england-v-france-14022027-1510
+DESCRIPTION:Compétition: Six Nations | External Match ID: 202700-england-v
+ -france | Source: https://www.sixnationsrugby.com/en/m6n/fixtures/202700/e
+ ngland-v-france-14022027-1510 | Provenance: crawl:rugby-france-sixnations-
+ m6n
+URL:https://www.sixnationsrugby.com/en/m6n/fixtures/202700/england-v-france
+ -14022027-1510
 CATEGORIES:Sport,Rugby,Equipe de France
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:sport-france-rugby-equipe-nationale-rugby-france-sixnations-m6n-202700-france-v-scotland@facilabo.app
+UID:sport-france-rugby-equipe-nationale-rugby-france-sixnations-m6n-202700-
+ france-v-scotland@facilabo.app
 DTSTAMP:20270221T000000Z
 DTSTART;TZID=Europe/Paris:20270221T161000
 DTEND;TZID=Europe/Paris:20270221T181000
 SUMMARY:France - Ecosse
-DESCRIPTION:Competition: Six Nations | External Match ID: 202700-france-v-scotland | Source: https://www.sixnationsrugby.com/en/m6n/fixtures/202700/france-v-scotland-21022027-1510 | Provenance: crawl:rugby-france-sixnations-m6n
-URL:https://www.sixnationsrugby.com/en/m6n/fixtures/202700/france-v-scotland-21022027-1510
+DESCRIPTION:Compétition: Six Nations | External Match ID: 202700-france-v-
+ scotland | Source: https://www.sixnationsrugby.com/en/m6n/fixtures/202700/
+ france-v-scotland-21022027-1510 | Provenance: crawl:rugby-france-sixnation
+ s-m6n
+URL:https://www.sixnationsrugby.com/en/m6n/fixtures/202700/france-v-scotlan
+ d-21022027-1510
 CATEGORIES:Sport,Rugby,Equipe de France
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:sport-france-rugby-equipe-nationale-rugby-france-sixnations-m6n-202700-italy-v-france@facilabo.app
+UID:sport-france-rugby-equipe-nationale-rugby-france-sixnations-m6n-202700-
+ italy-v-france@facilabo.app
 DTSTAMP:20270306T000000Z
 DTSTART;TZID=Europe/Paris:20270306T151000
 DTEND;TZID=Europe/Paris:20270306T171000
 SUMMARY:Italie - France
-DESCRIPTION:Competition: Six Nations | External Match ID: 202700-italy-v-france | Source: https://www.sixnationsrugby.com/en/m6n/fixtures/202700/italy-v-france-06032027-1410 | Provenance: crawl:rugby-france-sixnations-m6n
-URL:https://www.sixnationsrugby.com/en/m6n/fixtures/202700/italy-v-france-06032027-1410
+DESCRIPTION:Compétition: Six Nations | External Match ID: 202700-italy-v-f
+ rance | Source: https://www.sixnationsrugby.com/en/m6n/fixtures/202700/ita
+ ly-v-france-06032027-1410 | Provenance: crawl:rugby-france-sixnations-m6n
+URL:https://www.sixnationsrugby.com/en/m6n/fixtures/202700/italy-v-france-0
+ 6032027-1410
 CATEGORIES:Sport,Rugby,Equipe de France
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:sport-france-rugby-equipe-nationale-rugby-france-sixnations-m6n-202700-ireland-v-france@facilabo.app
+UID:sport-france-rugby-equipe-nationale-rugby-france-sixnations-m6n-202700-
+ ireland-v-france@facilabo.app
 DTSTAMP:20270313T000000Z
 DTSTART;TZID=Europe/Paris:20270313T211000
 DTEND;TZID=Europe/Paris:20270313T231000
 SUMMARY:Irlande - France
-DESCRIPTION:Competition: Six Nations | External Match ID: 202700-ireland-v-france | Source: https://www.sixnationsrugby.com/en/m6n/fixtures/202700/ireland-v-france-13032027-2010 | Provenance: crawl:rugby-france-sixnations-m6n
-URL:https://www.sixnationsrugby.com/en/m6n/fixtures/202700/ireland-v-france-13032027-2010
+DESCRIPTION:Compétition: Six Nations | External Match ID: 202700-ireland-v
+ -france | Source: https://www.sixnationsrugby.com/en/m6n/fixtures/202700/i
+ reland-v-france-13032027-2010 | Provenance: crawl:rugby-france-sixnations-
+ m6n
+URL:https://www.sixnationsrugby.com/en/m6n/fixtures/202700/ireland-v-france
+ -13032027-2010
 CATEGORIES:Sport,Rugby,Equipe de France
 STATUS:CONFIRMED
 END:VEVENT

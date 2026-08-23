@@ -4,7 +4,8 @@ PRODID:-//FacilAbo//Sorties Fetes Traditions 2026//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Fêtes et traditions 2026
-X-WR-CALDESC:Grands carnavals, ferias et fêtes populaires localisées en France
+X-WR-CALDESC:Grands carnavals, ferias et fêtes populaires localisées en F
+ rance
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Paris
@@ -30,7 +31,9 @@ DTSTAMP:20260622T120000Z
 DTSTART;VALUE=DATE:20260213
 DTEND;VALUE=DATE:20260218
 SUMMARY:Carnaval de Granville
-DESCRIPTION:152e édition du Carnaval de Granville, fête populaire inscrite au patrimoine culturel immatériel de l'humanité. Source officielle: carnaval-de-granville.fr
+DESCRIPTION:152e édition du Carnaval de Granville, fête populaire inscrit
+ e au patrimoine culturel immatériel de l'humanité. Source officielle: ca
+ rnaval-de-granville.fr
 LOCATION:Granville, Manche, France
 URL:https://www.carnaval-de-granville.fr/
 CATEGORIES:Sorties,Carnaval,Traditions
@@ -42,7 +45,8 @@ DTSTAMP:20260622T120000Z
 DTSTART;VALUE=DATE:20260214
 DTEND;VALUE=DATE:20260302
 SUMMARY:Fête du Citron Menton
-DESCRIPTION:Fête du Citron 2026 a Menton. Source officielle: fête-du-citron.com
+DESCRIPTION:Fête du Citron 2026 a Menton. Source officielle: fête-du-citr
+ on.com
 LOCATION:Menton, Alpes-Maritimes, France
 URL:https://www.fete-du-citron.com/
 CATEGORIES:Sorties,Traditions,Gastronomie
@@ -54,7 +58,8 @@ DTSTAMP:20260622T120000Z
 DTSTART;VALUE=DATE:20260715
 DTEND;VALUE=DATE:20260720
 SUMMARY:Fêtes de Bayonne
-DESCRIPTION:Fêtes de Bayonne 2026, du 15 au 19 juillet. Source officielle: fêtes.bayonne.fr
+DESCRIPTION:Fêtes de Bayonne 2026, du 15 au 19 juillet. Source officielle:
+  fêtes.bayonne.fr
 LOCATION:Bayonne, Pyrenees-Atlantiques, France
 URL:https://fetes.bayonne.fr/
 CATEGORIES:Sorties,Fêtes populaires,Traditions
@@ -78,7 +83,8 @@ DTSTAMP:20260622T120000Z
 DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261209
 SUMMARY:Fête des Lumieres Lyon
-DESCRIPTION:Fête des Lumieres 2026, du 5 au 8 décembre a Lyon. Source officielle: fetedeslumieres.lyon.fr
+DESCRIPTION:Fête des Lumieres 2026, du 5 au 8 décembre a Lyon. Source off
+ icielle: fetedeslumieres.lyon.fr
 LOCATION:Lyon, Rhone, France
 URL:https://www.fetedeslumieres.lyon.fr/
 CATEGORIES:Sorties,Lumieres,Traditions

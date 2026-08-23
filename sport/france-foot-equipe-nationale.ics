@@ -4,7 +4,8 @@ PRODID:-//FacilAbo//Equipe de France Football//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Equipe de France Football
-X-WR-CALDESC:Matchs de l equipe de France de football - fenetre glissante 24 mois
+X-WR-CALDESC:Matchs de l equipe de France de football - fenêtre glissante
+  24 mois
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Paris
@@ -25,104 +26,135 @@ RRULE:FREQ=YEARLY;BYMONTH=10;BYDAY=-1SU
 END:STANDARD
 END:VTIMEZONE
 BEGIN:VEVENT
-UID:sport-france-foot-equipe-nationale-france-foot-2026-06-16-senegal-world-cup@facilabo.app
+UID:sport-france-foot-equipe-nationale-france-foot-2026-06-16-senegal-world
+ -cup@facilabo.app
 DTSTAMP:20260616T000000Z
 DTSTART;TZID=Europe/Paris:20260616T210000
 DTEND;TZID=Europe/Paris:20260616T230000
 SUMMARY:France - Senegal
-DESCRIPTION:Competition: Coupe du monde - Groupe I | Source: https://www.equipe-france.fr/football/masculin/calendrier | Provenance: fallback:football-france-uefa-qualifiers
+DESCRIPTION:Compétition: Coupe du monde - Groupe I | Source: https://www.e
+ quipe-france.fr/football/masculin/calendrier | Provenance: fallback:footba
+ ll-france-uefa-qualifiers
 LOCATION:Etats-Unis
 URL:https://www.equipe-france.fr/football/masculin/calendrier
 CATEGORIES:Sport,Football,Equipe de France
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:sport-france-foot-equipe-nationale-france-foot-2026-06-22-group-i-tbd@facilabo.app
+UID:sport-france-foot-equipe-nationale-france-foot-2026-06-22-group-i-tbd@f
+ acilabo.app
 DTSTAMP:20260622T000000Z
 DTSTART;TZID=Europe/Paris:20260622T230000
 DTEND;TZID=Europe/Paris:20260623T010000
 SUMMARY:France - Irak
-DESCRIPTION:Competition: Coupe du monde - Groupe I | Source: https://www.equipe-france.fr/football/masculin/calendrier | Provenance: fallback:football-france-uefa-qualifiers
+DESCRIPTION:Compétition: Coupe du monde - Groupe I | Source: https://www.e
+ quipe-france.fr/football/masculin/calendrier | Provenance: fallback:footba
+ ll-france-uefa-qualifiers
 LOCATION:Etats-Unis
 URL:https://www.equipe-france.fr/football/masculin/calendrier
 CATEGORIES:Sport,Football,Equipe de France
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:sport-france-foot-equipe-nationale-france-foot-2026-06-26-norvege-world-cup@facilabo.app
+UID:sport-france-foot-equipe-nationale-france-foot-2026-06-26-norvege-world
+ -cup@facilabo.app
 DTSTAMP:20260626T000000Z
 DTSTART;TZID=Europe/Paris:20260626T210000
 DTEND;TZID=Europe/Paris:20260626T230000
 SUMMARY:Norvege - France
-DESCRIPTION:Competition: Coupe du monde - Groupe I | Source: https://www.equipe-france.fr/football/masculin/calendrier | Provenance: fallback:football-france-uefa-qualifiers
+DESCRIPTION:Compétition: Coupe du monde - Groupe I | Source: https://www.e
+ quipe-france.fr/football/masculin/calendrier | Provenance: fallback:footba
+ ll-france-uefa-qualifiers
 LOCATION:Etats-Unis
 URL:https://www.equipe-france.fr/football/masculin/calendrier
 CATEGORIES:Sport,Football,Equipe de France
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:sport-france-foot-equipe-nationale-football-france-uefa-nations-league-2048011@facilabo.app
+UID:sport-france-foot-equipe-nationale-football-france-uefa-nations-league-
+ 2048011@facilabo.app
 DTSTAMP:20260925T000000Z
 DTSTART;TZID=Europe/Paris:20260925T204500
 DTEND;TZID=Europe/Paris:20260925T224500
 SUMMARY:Turquie - France
-DESCRIPTION:Competition: UEFA Nations League | External Match ID: 2048011 | Source: https://www.uefa.com/uefanationsleague/match/2048011--turkiye-vs-france/ | Provenance: crawl:football-france-uefa-nations-league
-URL:https://www.uefa.com/uefanationsleague/match/2048011--turkiye-vs-france/
+DESCRIPTION:Compétition: UEFA Nations League | External Match ID: 2048011
+  | Source: https://www.uefa.com/uefanationsleague/match/2048011--turkiye-v
+ s-france/ | Provenance: crawl:football-france-uefa-nations-league
+URL:https://www.uefa.com/uefanationsleague/match/2048011--turkiye-vs-france
+ /
 CATEGORIES:Sport,Football,Equipe de France
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:sport-france-foot-equipe-nationale-football-france-uefa-nations-league-2047989@facilabo.app
+UID:sport-france-foot-equipe-nationale-football-france-uefa-nations-league-
+ 2047989@facilabo.app
 DTSTAMP:20260928T000000Z
 DTSTART;TZID=Europe/Paris:20260928T204500
 DTEND;TZID=Europe/Paris:20260928T224500
 SUMMARY:Belgique - France
-DESCRIPTION:Competition: UEFA Nations League | External Match ID: 2047989 | Source: https://www.uefa.com/uefanationsleague/match/2047989--belgium-vs-france/ | Provenance: crawl:football-france-uefa-nations-league
-URL:https://www.uefa.com/uefanationsleague/match/2047989--belgium-vs-france/
+DESCRIPTION:Compétition: UEFA Nations League | External Match ID: 2047989
+  | Source: https://www.uefa.com/uefanationsleague/match/2047989--belgium-v
+ s-france/ | Provenance: crawl:football-france-uefa-nations-league
+URL:https://www.uefa.com/uefanationsleague/match/2047989--belgium-vs-france
+ /
 CATEGORIES:Sport,Football,Equipe de France
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:sport-france-foot-equipe-nationale-football-france-uefa-nations-league-2047960@facilabo.app
+UID:sport-france-foot-equipe-nationale-football-france-uefa-nations-league-
+ 2047960@facilabo.app
 DTSTAMP:20261002T000000Z
 DTSTART;TZID=Europe/Paris:20261002T204500
 DTEND;TZID=Europe/Paris:20261002T224500
 SUMMARY:France - Italie
-DESCRIPTION:Competition: UEFA Nations League | External Match ID: 2047960 | Source: https://www.uefa.com/uefanationsleague/match/2047960--france-vs-italy/ | Provenance: crawl:football-france-uefa-nations-league
+DESCRIPTION:Compétition: UEFA Nations League | External Match ID: 2047960
+  | Source: https://www.uefa.com/uefanationsleague/match/2047960--france-vs
+ -italy/ | Provenance: crawl:football-france-uefa-nations-league
 URL:https://www.uefa.com/uefanationsleague/match/2047960--france-vs-italy/
 CATEGORIES:Sport,Football,Equipe de France
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:sport-france-foot-equipe-nationale-football-france-uefa-nations-league-2047937@facilabo.app
+UID:sport-france-foot-equipe-nationale-football-france-uefa-nations-league-
+ 2047937@facilabo.app
 DTSTAMP:20261005T000000Z
 DTSTART;TZID=Europe/Paris:20261005T204500
 DTEND;TZID=Europe/Paris:20261005T224500
 SUMMARY:France - Belgique
-DESCRIPTION:Competition: UEFA Nations League | External Match ID: 2047937 | Source: https://www.uefa.com/uefanationsleague/match/2047937--france-vs-belgium/ | Provenance: crawl:football-france-uefa-nations-league
-URL:https://www.uefa.com/uefanationsleague/match/2047937--france-vs-belgium/
+DESCRIPTION:Compétition: UEFA Nations League | External Match ID: 2047937
+  | Source: https://www.uefa.com/uefanationsleague/match/2047937--france-vs
+ -belgium/ | Provenance: crawl:football-france-uefa-nations-league
+URL:https://www.uefa.com/uefanationsleague/match/2047937--france-vs-belgium
+ /
 CATEGORIES:Sport,Football,Equipe de France
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:sport-france-foot-equipe-nationale-football-france-uefa-nations-league-2047878@facilabo.app
+UID:sport-france-foot-equipe-nationale-football-france-uefa-nations-league-
+ 2047878@facilabo.app
 DTSTAMP:20261112T000000Z
 DTSTART;TZID=Europe/Paris:20261112T204500
 DTEND;TZID=Europe/Paris:20261112T224500
 SUMMARY:Italie - France
-DESCRIPTION:Competition: UEFA Nations League | External Match ID: 2047878 | Source: https://www.uefa.com/uefanationsleague/match/2047878--italy-vs-france/ | Provenance: crawl:football-france-uefa-nations-league
+DESCRIPTION:Compétition: UEFA Nations League | External Match ID: 2047878
+  | Source: https://www.uefa.com/uefanationsleague/match/2047878--italy-vs-
+ france/ | Provenance: crawl:football-france-uefa-nations-league
 URL:https://www.uefa.com/uefanationsleague/match/2047878--italy-vs-france/
 CATEGORIES:Sport,Football,Equipe de France
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:sport-france-foot-equipe-nationale-football-france-uefa-nations-league-2047898@facilabo.app
+UID:sport-france-foot-equipe-nationale-football-france-uefa-nations-league-
+ 2047898@facilabo.app
 DTSTAMP:20261115T000000Z
 DTSTART;TZID=Europe/Paris:20261115T204500
 DTEND;TZID=Europe/Paris:20261115T224500
 SUMMARY:France - Turquie
-DESCRIPTION:Competition: UEFA Nations League | External Match ID: 2047898 | Source: https://www.uefa.com/uefanationsleague/match/2047898--france-vs-turkiye/ | Provenance: crawl:football-france-uefa-nations-league
-URL:https://www.uefa.com/uefanationsleague/match/2047898--france-vs-turkiye/
+DESCRIPTION:Compétition: UEFA Nations League | External Match ID: 2047898
+  | Source: https://www.uefa.com/uefanationsleague/match/2047898--france-vs
+ -turkiye/ | Provenance: crawl:football-france-uefa-nations-league
+URL:https://www.uefa.com/uefanationsleague/match/2047898--france-vs-turkiye
+ /
 CATEGORIES:Sport,Football,Equipe de France
 STATUS:CONFIRMED
 END:VEVENT

@@ -4,7 +4,8 @@ PRODID:-//FacilAbo//suisse-romande-neuchatel-feries//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Suisse romande - Neuchâtel - Jours fériés
-X-WR-CALDESC:Jours fériés officiels du canton de Neuchâtel, hors conges supplementaires de l'administration.
+X-WR-CALDESC:Jours fériés officiels du canton de Neuchâtel, hors congés
+  supplémentaires de l'administration.
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Paris
@@ -30,18 +31,23 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20260101
 DTEND;VALUE=DATE:20260102
 SUMMARY:Nouvel An - Neuchâtel
-DESCRIPTION:Jours fériés officiels du canton de Neuchâtel\, hors conges supplementaires de l'administration. Source: https://www.ne.ch/themes/economie-et-emploi/jours-feries-officiels Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton de Neuchâtel\, hors congés
+  supplémentaires de l'administration. Source: https://www.ne.ch/themes/ec
+ onomie-et-emploi/jours-feries-officiels Fiabilité: high
 URL:https://www.ne.ch/themes/economie-et-emploi/jours-feries-officiels
 CATEGORIES:Pays,Suisse,Suisse romande,Neuchâtel,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:suisse-romande-neuchatel-feries-instauration-republique-2026@facilabo.app
+UID:suisse-romande-neuchatel-feries-instauration-republique-2026@facilabo.a
+ pp
 DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20260301
 DTEND;VALUE=DATE:20260302
 SUMMARY:Instauration de la République de Neuchâtel
-DESCRIPTION:Jours fériés officiels du canton de Neuchâtel\, hors conges supplementaires de l'administration. Source: https://www.ne.ch/themes/economie-et-emploi/jours-feries-officiels Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton de Neuchâtel\, hors congés
+  supplémentaires de l'administration. Source: https://www.ne.ch/themes/ec
+ onomie-et-emploi/jours-feries-officiels Fiabilité: high
 URL:https://www.ne.ch/themes/economie-et-emploi/jours-feries-officiels
 CATEGORIES:Pays,Suisse,Suisse romande,Neuchâtel,Fériés
 STATUS:CONFIRMED
@@ -52,7 +58,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20260403
 DTEND;VALUE=DATE:20260404
 SUMMARY:Vendredi Saint - Neuchâtel
-DESCRIPTION:Jours fériés officiels du canton de Neuchâtel\, hors conges supplementaires de l'administration. Source: https://www.ne.ch/themes/economie-et-emploi/jours-feries-officiels Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton de Neuchâtel\, hors congés
+  supplémentaires de l'administration. Source: https://www.ne.ch/themes/ec
+ onomie-et-emploi/jours-feries-officiels Fiabilité: high
 URL:https://www.ne.ch/themes/economie-et-emploi/jours-feries-officiels
 CATEGORIES:Pays,Suisse,Suisse romande,Neuchâtel,Fériés
 STATUS:CONFIRMED
@@ -63,7 +71,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
 SUMMARY:Fête du travail - Neuchâtel
-DESCRIPTION:Jours fériés officiels du canton de Neuchâtel\, hors conges supplementaires de l'administration. Source: https://www.ne.ch/themes/economie-et-emploi/jours-feries-officiels Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton de Neuchâtel\, hors congés
+  supplémentaires de l'administration. Source: https://www.ne.ch/themes/ec
+ onomie-et-emploi/jours-feries-officiels Fiabilité: high
 URL:https://www.ne.ch/themes/economie-et-emploi/jours-feries-officiels
 CATEGORIES:Pays,Suisse,Suisse romande,Neuchâtel,Fériés
 STATUS:CONFIRMED
@@ -74,7 +84,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260515
 SUMMARY:Ascension - Neuchâtel
-DESCRIPTION:Jours fériés officiels du canton de Neuchâtel\, hors conges supplementaires de l'administration. Source: https://www.ne.ch/themes/economie-et-emploi/jours-feries-officiels Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton de Neuchâtel\, hors congés
+  supplémentaires de l'administration. Source: https://www.ne.ch/themes/ec
+ onomie-et-emploi/jours-feries-officiels Fiabilité: high
 URL:https://www.ne.ch/themes/economie-et-emploi/jours-feries-officiels
 CATEGORIES:Pays,Suisse,Suisse romande,Neuchâtel,Fériés
 STATUS:CONFIRMED
@@ -85,7 +97,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
 SUMMARY:Fête nationale suisse - Neuchâtel
-DESCRIPTION:Jours fériés officiels du canton de Neuchâtel\, hors conges supplementaires de l'administration. Source: https://www.ne.ch/themes/economie-et-emploi/jours-feries-officiels Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton de Neuchâtel\, hors congés
+  supplémentaires de l'administration. Source: https://www.ne.ch/themes/ec
+ onomie-et-emploi/jours-feries-officiels Fiabilité: high
 URL:https://www.ne.ch/themes/economie-et-emploi/jours-feries-officiels
 CATEGORIES:Pays,Suisse,Suisse romande,Neuchâtel,Fériés
 STATUS:CONFIRMED
@@ -96,7 +110,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Noël - Neuchâtel
-DESCRIPTION:Jours fériés officiels du canton de Neuchâtel\, hors conges supplementaires de l'administration. Source: https://www.ne.ch/themes/economie-et-emploi/jours-feries-officiels Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton de Neuchâtel\, hors congés
+  supplémentaires de l'administration. Source: https://www.ne.ch/themes/ec
+ onomie-et-emploi/jours-feries-officiels Fiabilité: high
 URL:https://www.ne.ch/themes/economie-et-emploi/jours-feries-officiels
 CATEGORIES:Pays,Suisse,Suisse romande,Neuchâtel,Fériés
 STATUS:CONFIRMED
@@ -107,18 +123,23 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:Nouvel An - Neuchâtel
-DESCRIPTION:Jours fériés officiels du canton de Neuchâtel\, hors conges supplementaires de l'administration. Source: https://www.ne.ch/themes/economie-et-emploi/jours-feries-officiels Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton de Neuchâtel\, hors congés
+  supplémentaires de l'administration. Source: https://www.ne.ch/themes/ec
+ onomie-et-emploi/jours-feries-officiels Fiabilité: high
 URL:https://www.ne.ch/themes/economie-et-emploi/jours-feries-officiels
 CATEGORIES:Pays,Suisse,Suisse romande,Neuchâtel,Fériés
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:suisse-romande-neuchatel-feries-instauration-republique-2027@facilabo.app
+UID:suisse-romande-neuchatel-feries-instauration-republique-2027@facilabo.a
+ pp
 DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20270301
 DTEND;VALUE=DATE:20270302
 SUMMARY:Instauration de la République de Neuchâtel
-DESCRIPTION:Jours fériés officiels du canton de Neuchâtel\, hors conges supplementaires de l'administration. Source: https://www.ne.ch/themes/economie-et-emploi/jours-feries-officiels Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton de Neuchâtel\, hors congés
+  supplémentaires de l'administration. Source: https://www.ne.ch/themes/ec
+ onomie-et-emploi/jours-feries-officiels Fiabilité: high
 URL:https://www.ne.ch/themes/economie-et-emploi/jours-feries-officiels
 CATEGORIES:Pays,Suisse,Suisse romande,Neuchâtel,Fériés
 STATUS:CONFIRMED
@@ -129,7 +150,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
 SUMMARY:Vendredi Saint - Neuchâtel
-DESCRIPTION:Jours fériés officiels du canton de Neuchâtel\, hors conges supplementaires de l'administration. Source: https://www.ne.ch/themes/economie-et-emploi/jours-feries-officiels Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton de Neuchâtel\, hors congés
+  supplémentaires de l'administration. Source: https://www.ne.ch/themes/ec
+ onomie-et-emploi/jours-feries-officiels Fiabilité: high
 URL:https://www.ne.ch/themes/economie-et-emploi/jours-feries-officiels
 CATEGORIES:Pays,Suisse,Suisse romande,Neuchâtel,Fériés
 STATUS:CONFIRMED
@@ -140,7 +163,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
 SUMMARY:Fête du travail - Neuchâtel
-DESCRIPTION:Jours fériés officiels du canton de Neuchâtel\, hors conges supplementaires de l'administration. Source: https://www.ne.ch/themes/economie-et-emploi/jours-feries-officiels Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton de Neuchâtel\, hors congés
+  supplémentaires de l'administration. Source: https://www.ne.ch/themes/ec
+ onomie-et-emploi/jours-feries-officiels Fiabilité: high
 URL:https://www.ne.ch/themes/economie-et-emploi/jours-feries-officiels
 CATEGORIES:Pays,Suisse,Suisse romande,Neuchâtel,Fériés
 STATUS:CONFIRMED
@@ -151,7 +176,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20270506
 DTEND;VALUE=DATE:20270507
 SUMMARY:Ascension - Neuchâtel
-DESCRIPTION:Jours fériés officiels du canton de Neuchâtel\, hors conges supplementaires de l'administration. Source: https://www.ne.ch/themes/economie-et-emploi/jours-feries-officiels Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton de Neuchâtel\, hors congés
+  supplémentaires de l'administration. Source: https://www.ne.ch/themes/ec
+ onomie-et-emploi/jours-feries-officiels Fiabilité: high
 URL:https://www.ne.ch/themes/economie-et-emploi/jours-feries-officiels
 CATEGORIES:Pays,Suisse,Suisse romande,Neuchâtel,Fériés
 STATUS:CONFIRMED
@@ -162,7 +189,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20270801
 DTEND;VALUE=DATE:20270802
 SUMMARY:Fête nationale suisse - Neuchâtel
-DESCRIPTION:Jours fériés officiels du canton de Neuchâtel\, hors conges supplementaires de l'administration. Source: https://www.ne.ch/themes/economie-et-emploi/jours-feries-officiels Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton de Neuchâtel\, hors congés
+  supplémentaires de l'administration. Source: https://www.ne.ch/themes/ec
+ onomie-et-emploi/jours-feries-officiels Fiabilité: high
 URL:https://www.ne.ch/themes/economie-et-emploi/jours-feries-officiels
 CATEGORIES:Pays,Suisse,Suisse romande,Neuchâtel,Fériés
 STATUS:CONFIRMED
@@ -173,7 +202,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20271225
 DTEND;VALUE=DATE:20271226
 SUMMARY:Noël - Neuchâtel
-DESCRIPTION:Jours fériés officiels du canton de Neuchâtel\, hors conges supplementaires de l'administration. Source: https://www.ne.ch/themes/economie-et-emploi/jours-feries-officiels Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton de Neuchâtel\, hors congés
+  supplémentaires de l'administration. Source: https://www.ne.ch/themes/ec
+ onomie-et-emploi/jours-feries-officiels Fiabilité: high
 URL:https://www.ne.ch/themes/economie-et-emploi/jours-feries-officiels
 CATEGORIES:Pays,Suisse,Suisse romande,Neuchâtel,Fériés
 STATUS:CONFIRMED

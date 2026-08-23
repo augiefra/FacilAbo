@@ -4,7 +4,8 @@ PRODID:-//FacilAbo//Calendrier Fetes Juives//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Fêtes Juives
-X-WR-CALDESC:Fêtes juives importantes (2025-2031) basees sur des calendriers publics.
+X-WR-CALDESC:Fêtes juives importantes (2025-2031) basées sur des calendri
+ ers publics.
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Paris
@@ -31,7 +32,8 @@ DTSTART;VALUE=DATE:20250313
 DTEND;VALUE=DATE:20250314
 SUMMARY:Pourim
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -42,7 +44,8 @@ DTSTART;VALUE=DATE:20250413
 DTEND;VALUE=DATE:20250414
 SUMMARY:Pessah (jour 1)
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -53,7 +56,8 @@ DTSTART;VALUE=DATE:20250602
 DTEND;VALUE=DATE:20250603
 SUMMARY:Chavouot
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -64,7 +68,8 @@ DTSTART;VALUE=DATE:20250802
 DTEND;VALUE=DATE:20250803
 SUMMARY:Tisha Beav
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -75,7 +80,8 @@ DTSTART;VALUE=DATE:20250922
 DTEND;VALUE=DATE:20250923
 SUMMARY:Roch Hachana
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -86,7 +92,8 @@ DTSTART;VALUE=DATE:20251001
 DTEND;VALUE=DATE:20251002
 SUMMARY:Yom Kippour
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -97,7 +104,8 @@ DTSTART;VALUE=DATE:20251007
 DTEND;VALUE=DATE:20251008
 SUMMARY:Souccot (jour 1)
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -108,7 +116,8 @@ DTSTART;VALUE=DATE:20251014
 DTEND;VALUE=DATE:20251015
 SUMMARY:Chemini Atseret
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -119,7 +128,8 @@ DTSTART;VALUE=DATE:20251215
 DTEND;VALUE=DATE:20251216
 SUMMARY:Hanoucca (jour 1)
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -130,7 +140,8 @@ DTSTART;VALUE=DATE:20260302
 DTEND;VALUE=DATE:20260303
 SUMMARY:Pourim
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -141,7 +152,8 @@ DTSTART;VALUE=DATE:20260402
 DTEND;VALUE=DATE:20260403
 SUMMARY:Pessah (jour 1)
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -152,7 +164,8 @@ DTSTART;VALUE=DATE:20260522
 DTEND;VALUE=DATE:20260523
 SUMMARY:Chavouot
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -163,7 +176,8 @@ DTSTART;VALUE=DATE:20260722
 DTEND;VALUE=DATE:20260723
 SUMMARY:Tisha Beav
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -174,7 +188,8 @@ DTSTART;VALUE=DATE:20260911
 DTEND;VALUE=DATE:20260912
 SUMMARY:Roch Hachana
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -185,7 +200,8 @@ DTSTART;VALUE=DATE:20260920
 DTEND;VALUE=DATE:20260921
 SUMMARY:Yom Kippour
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -196,7 +212,8 @@ DTSTART;VALUE=DATE:20260926
 DTEND;VALUE=DATE:20260927
 SUMMARY:Souccot (jour 1)
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -207,7 +224,8 @@ DTSTART;VALUE=DATE:20261003
 DTEND;VALUE=DATE:20261004
 SUMMARY:Chemini Atseret
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -218,7 +236,8 @@ DTSTART;VALUE=DATE:20261205
 DTEND;VALUE=DATE:20261206
 SUMMARY:Hanoucca (jour 1)
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -229,7 +248,8 @@ DTSTART;VALUE=DATE:20270322
 DTEND;VALUE=DATE:20270323
 SUMMARY:Pourim
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -240,7 +260,8 @@ DTSTART;VALUE=DATE:20270422
 DTEND;VALUE=DATE:20270423
 SUMMARY:Pessah (jour 1)
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -251,7 +272,8 @@ DTSTART;VALUE=DATE:20270611
 DTEND;VALUE=DATE:20270612
 SUMMARY:Chavouot
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -262,7 +284,8 @@ DTSTART;VALUE=DATE:20270811
 DTEND;VALUE=DATE:20270812
 SUMMARY:Tisha Beav
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -273,7 +296,8 @@ DTSTART;VALUE=DATE:20271001
 DTEND;VALUE=DATE:20271002
 SUMMARY:Roch Hachana
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -284,7 +308,8 @@ DTSTART;VALUE=DATE:20271010
 DTEND;VALUE=DATE:20271011
 SUMMARY:Yom Kippour
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -295,7 +320,8 @@ DTSTART;VALUE=DATE:20271016
 DTEND;VALUE=DATE:20271017
 SUMMARY:Souccot (jour 1)
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -306,7 +332,8 @@ DTSTART;VALUE=DATE:20271023
 DTEND;VALUE=DATE:20271024
 SUMMARY:Chemini Atseret
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -317,7 +344,8 @@ DTSTART;VALUE=DATE:20271225
 DTEND;VALUE=DATE:20271226
 SUMMARY:Hanoucca (jour 1)
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -328,7 +356,8 @@ DTSTART;VALUE=DATE:20280311
 DTEND;VALUE=DATE:20280312
 SUMMARY:Pourim
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -339,7 +368,8 @@ DTSTART;VALUE=DATE:20280411
 DTEND;VALUE=DATE:20280412
 SUMMARY:Pessah (jour 1)
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -350,7 +380,8 @@ DTSTART;VALUE=DATE:20280531
 DTEND;VALUE=DATE:20280601
 SUMMARY:Chavouot
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -361,7 +392,8 @@ DTSTART;VALUE=DATE:20280731
 DTEND;VALUE=DATE:20280801
 SUMMARY:Tisha Beav
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -372,7 +404,8 @@ DTSTART;VALUE=DATE:20280920
 DTEND;VALUE=DATE:20280921
 SUMMARY:Roch Hachana
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -383,7 +416,8 @@ DTSTART;VALUE=DATE:20280929
 DTEND;VALUE=DATE:20280930
 SUMMARY:Yom Kippour
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -394,7 +428,8 @@ DTSTART;VALUE=DATE:20281005
 DTEND;VALUE=DATE:20281006
 SUMMARY:Souccot (jour 1)
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -405,7 +440,8 @@ DTSTART;VALUE=DATE:20281012
 DTEND;VALUE=DATE:20281013
 SUMMARY:Chemini Atseret
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -416,7 +452,8 @@ DTSTART;VALUE=DATE:20281213
 DTEND;VALUE=DATE:20281214
 SUMMARY:Hanoucca (jour 1)
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -427,7 +464,8 @@ DTSTART;VALUE=DATE:20290228
 DTEND;VALUE=DATE:20290301
 SUMMARY:Pourim
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -438,7 +476,8 @@ DTSTART;VALUE=DATE:20290331
 DTEND;VALUE=DATE:20290401
 SUMMARY:Pessah (jour 1)
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -449,7 +488,8 @@ DTSTART;VALUE=DATE:20290520
 DTEND;VALUE=DATE:20290521
 SUMMARY:Chavouot
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -460,7 +500,8 @@ DTSTART;VALUE=DATE:20290721
 DTEND;VALUE=DATE:20290722
 SUMMARY:Tisha Beav
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -471,7 +512,8 @@ DTSTART;VALUE=DATE:20290909
 DTEND;VALUE=DATE:20290910
 SUMMARY:Roch Hachana
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -482,7 +524,8 @@ DTSTART;VALUE=DATE:20290918
 DTEND;VALUE=DATE:20290919
 SUMMARY:Yom Kippour
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -493,7 +536,8 @@ DTSTART;VALUE=DATE:20290924
 DTEND;VALUE=DATE:20290925
 SUMMARY:Souccot (jour 1)
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -504,7 +548,8 @@ DTSTART;VALUE=DATE:20291001
 DTEND;VALUE=DATE:20291002
 SUMMARY:Chemini Atseret
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -515,7 +560,8 @@ DTSTART;VALUE=DATE:20291202
 DTEND;VALUE=DATE:20291203
 SUMMARY:Hanoucca (jour 1)
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -526,7 +572,8 @@ DTSTART;VALUE=DATE:20300318
 DTEND;VALUE=DATE:20300319
 SUMMARY:Pourim
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -537,7 +584,8 @@ DTSTART;VALUE=DATE:20300418
 DTEND;VALUE=DATE:20300419
 SUMMARY:Pessah (jour 1)
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -548,7 +596,8 @@ DTSTART;VALUE=DATE:20300607
 DTEND;VALUE=DATE:20300608
 SUMMARY:Chavouot
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -559,7 +608,8 @@ DTSTART;VALUE=DATE:20300807
 DTEND;VALUE=DATE:20300808
 SUMMARY:Tisha Beav
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -570,7 +620,8 @@ DTSTART;VALUE=DATE:20300927
 DTEND;VALUE=DATE:20300928
 SUMMARY:Roch Hachana
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -581,7 +632,8 @@ DTSTART;VALUE=DATE:20301006
 DTEND;VALUE=DATE:20301007
 SUMMARY:Yom Kippour
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -592,7 +644,8 @@ DTSTART;VALUE=DATE:20301012
 DTEND;VALUE=DATE:20301013
 SUMMARY:Souccot (jour 1)
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -603,7 +656,8 @@ DTSTART;VALUE=DATE:20301019
 DTEND;VALUE=DATE:20301020
 SUMMARY:Chemini Atseret
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -614,7 +668,8 @@ DTSTART;VALUE=DATE:20301221
 DTEND;VALUE=DATE:20301222
 SUMMARY:Hanoucca (jour 1)
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -625,7 +680,8 @@ DTSTART;VALUE=DATE:20310308
 DTEND;VALUE=DATE:20310309
 SUMMARY:Pourim
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -636,7 +692,8 @@ DTSTART;VALUE=DATE:20310408
 DTEND;VALUE=DATE:20310409
 SUMMARY:Pessah (jour 1)
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -647,7 +704,8 @@ DTSTART;VALUE=DATE:20310528
 DTEND;VALUE=DATE:20310529
 SUMMARY:Chavouot
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -658,7 +716,8 @@ DTSTART;VALUE=DATE:20310728
 DTEND;VALUE=DATE:20310729
 SUMMARY:Tisha Beav
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -669,7 +728,8 @@ DTSTART;VALUE=DATE:20310917
 DTEND;VALUE=DATE:20310918
 SUMMARY:Roch Hachana
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -680,7 +740,8 @@ DTSTART;VALUE=DATE:20310926
 DTEND;VALUE=DATE:20310927
 SUMMARY:Yom Kippour
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -691,7 +752,8 @@ DTSTART;VALUE=DATE:20311002
 DTEND;VALUE=DATE:20311003
 SUMMARY:Souccot (jour 1)
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -702,7 +764,8 @@ DTSTART;VALUE=DATE:20311009
 DTEND;VALUE=DATE:20311010
 SUMMARY:Chemini Atseret
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -713,7 +776,8 @@ DTSTART;VALUE=DATE:20311210
 DTEND;VALUE=DATE:20311211
 SUMMARY:Hanoucca (jour 1)
 DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.calendar.google.com/public
+URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
 END:VEVENT

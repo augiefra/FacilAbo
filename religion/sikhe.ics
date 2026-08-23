@@ -4,7 +4,8 @@ PRODID:-//FacilAbo//Calendrier Fetes Sikhes//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Fêtes Sikhes
-X-WR-CALDESC:Fêtes sikhes importantes (2025-2031) basees sur des calendriers publics.
+X-WR-CALDESC:Fêtes sikhes importantes (2025-2031) basées sur des calendri
+ ers publics.
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Paris
@@ -30,8 +31,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20250212
 DTEND;VALUE=DATE:20250213
 SUMMARY:Guru Ravidas Jayanti
-DESCRIPTION:Fête sikhe importante (source: Google Public Holidays - India).
-URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête sikhe importante (source: Google Public Holidays - India)
+ .
+URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Sikhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -41,8 +44,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20250413
 DTEND;VALUE=DATE:20250414
 SUMMARY:Vaisakhi
-DESCRIPTION:Fête sikhe importante (source: Google Public Holidays - India).
-URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête sikhe importante (source: Google Public Holidays - India)
+ .
+URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Sikhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -52,8 +57,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20251105
 DTEND;VALUE=DATE:20251106
 SUMMARY:Guru Nanak Jayanti
-DESCRIPTION:Fête sikhe importante (source: Google Public Holidays - India).
-URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête sikhe importante (source: Google Public Holidays - India)
+ .
+URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Sikhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -63,8 +70,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20251124
 DTEND;VALUE=DATE:20251125
 SUMMARY:Martyre de Guru Tegh Bahadur
-DESCRIPTION:Fête sikhe importante (source: Google Public Holidays - India).
-URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête sikhe importante (source: Google Public Holidays - India)
+ .
+URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Sikhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -74,8 +83,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20260201
 DTEND;VALUE=DATE:20260202
 SUMMARY:Guru Ravidas Jayanti
-DESCRIPTION:Fête sikhe importante (source: Google Public Holidays - India).
-URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête sikhe importante (source: Google Public Holidays - India)
+ .
+URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Sikhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -85,8 +96,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20260414
 DTEND;VALUE=DATE:20260415
 SUMMARY:Vaisakhi
-DESCRIPTION:Fête sikhe importante (source: Google Public Holidays - India).
-URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête sikhe importante (source: Google Public Holidays - India)
+ .
+URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Sikhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -96,8 +109,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Martyre de Guru Tegh Bahadur
-DESCRIPTION:Fête sikhe importante (source: Google Public Holidays - India).
-URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête sikhe importante (source: Google Public Holidays - India)
+ .
+URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Sikhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -107,8 +122,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20261124
 DTEND;VALUE=DATE:20261125
 SUMMARY:Guru Nanak Jayanti
-DESCRIPTION:Fête sikhe importante (source: Google Public Holidays - India).
-URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête sikhe importante (source: Google Public Holidays - India)
+ .
+URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Sikhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -118,8 +135,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20270414
 DTEND;VALUE=DATE:20270415
 SUMMARY:Vaisakhi
-DESCRIPTION:Fête sikhe importante (source: Google Public Holidays - India).
-URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête sikhe importante (source: Google Public Holidays - India)
+ .
+URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Sikhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -129,8 +148,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20271114
 DTEND;VALUE=DATE:20271115
 SUMMARY:Guru Nanak Jayanti
-DESCRIPTION:Fête sikhe importante (source: Google Public Holidays - India).
-URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête sikhe importante (source: Google Public Holidays - India)
+ .
+URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Sikhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -140,8 +161,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20271124
 DTEND;VALUE=DATE:20271125
 SUMMARY:Martyre de Guru Tegh Bahadur
-DESCRIPTION:Fête sikhe importante (source: Google Public Holidays - India).
-URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête sikhe importante (source: Google Public Holidays - India)
+ .
+URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Sikhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -151,8 +174,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20280413
 DTEND;VALUE=DATE:20280414
 SUMMARY:Vaisakhi
-DESCRIPTION:Fête sikhe importante (source: Google Public Holidays - India).
-URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête sikhe importante (source: Google Public Holidays - India)
+ .
+URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Sikhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -162,8 +187,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20281102
 DTEND;VALUE=DATE:20281103
 SUMMARY:Guru Nanak Jayanti
-DESCRIPTION:Fête sikhe importante (source: Google Public Holidays - India).
-URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête sikhe importante (source: Google Public Holidays - India)
+ .
+URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Sikhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -173,8 +200,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20281124
 DTEND;VALUE=DATE:20281125
 SUMMARY:Martyre de Guru Tegh Bahadur
-DESCRIPTION:Fête sikhe importante (source: Google Public Holidays - India).
-URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête sikhe importante (source: Google Public Holidays - India)
+ .
+URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Sikhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -184,8 +213,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20290414
 DTEND;VALUE=DATE:20290415
 SUMMARY:Vaisakhi
-DESCRIPTION:Fête sikhe importante (source: Google Public Holidays - India).
-URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête sikhe importante (source: Google Public Holidays - India)
+ .
+URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Sikhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -195,8 +226,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20291121
 DTEND;VALUE=DATE:20291122
 SUMMARY:Guru Nanak Jayanti
-DESCRIPTION:Fête sikhe importante (source: Google Public Holidays - India).
-URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête sikhe importante (source: Google Public Holidays - India)
+ .
+URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Sikhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -206,8 +239,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20291124
 DTEND;VALUE=DATE:20291125
 SUMMARY:Martyre de Guru Tegh Bahadur
-DESCRIPTION:Fête sikhe importante (source: Google Public Holidays - India).
-URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête sikhe importante (source: Google Public Holidays - India)
+ .
+URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Sikhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -217,8 +252,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20300414
 DTEND;VALUE=DATE:20300415
 SUMMARY:Vaisakhi
-DESCRIPTION:Fête sikhe importante (source: Google Public Holidays - India).
-URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête sikhe importante (source: Google Public Holidays - India)
+ .
+URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Sikhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -228,8 +265,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20301110
 DTEND;VALUE=DATE:20301111
 SUMMARY:Guru Nanak Jayanti
-DESCRIPTION:Fête sikhe importante (source: Google Public Holidays - India).
-URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête sikhe importante (source: Google Public Holidays - India)
+ .
+URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Sikhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -239,8 +278,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20301124
 DTEND;VALUE=DATE:20301125
 SUMMARY:Martyre de Guru Tegh Bahadur
-DESCRIPTION:Fête sikhe importante (source: Google Public Holidays - India).
-URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête sikhe importante (source: Google Public Holidays - India)
+ .
+URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Sikhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -250,8 +291,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20310414
 DTEND;VALUE=DATE:20310415
 SUMMARY:Vaisakhi
-DESCRIPTION:Fête sikhe importante (source: Google Public Holidays - India).
-URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête sikhe importante (source: Google Public Holidays - India)
+ .
+URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Sikhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -261,8 +304,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20311124
 DTEND;VALUE=DATE:20311125
 SUMMARY:Martyre de Guru Tegh Bahadur
-DESCRIPTION:Fête sikhe importante (source: Google Public Holidays - India).
-URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête sikhe importante (source: Google Public Holidays - India)
+ .
+URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Sikhisme
 STATUS:CONFIRMED
 END:VEVENT
@@ -272,8 +317,10 @@ DTSTAMP:20260206T081127Z
 DTSTART;VALUE=DATE:20311128
 DTEND;VALUE=DATE:20311129
 SUMMARY:Guru Nanak Jayanti
-DESCRIPTION:Fête sikhe importante (source: Google Public Holidays - India).
-URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.calendar.google.com/public
+DESCRIPTION:Fête sikhe importante (source: Google Public Holidays - India)
+ .
+URL:https://calendar.google.com/calendar/ical/en.indian%23holiday@group.v.c
+ alendar.google.com/public
 CATEGORIES:Religion,Sikhisme
 STATUS:CONFIRMED
 END:VEVENT

@@ -12,9 +12,11 @@ DTSTAMP:20260424T120000Z
 DTSTART;VALUE=DATE:20260511
 DTEND;VALUE=DATE:20260523
 SUMMARY:Bac pro - maths / physique-chimie
-DESCRIPTION:Épreuves pratiques et écrites sur support informatique du 11 au 22 mai 2026.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
-CATEGORIES:Education,Examens,Bac
+DESCRIPTION:Épreuves pratiques et écrites sur support informatique du 11 
+ au 22 mai 2026.
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
+ parcoursup-le-calendrier-2026-341384
+CATEGORIES:Éducation,Examens,Bac
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -23,9 +25,11 @@ DTSTAMP:20260424T120000Z
 DTSTART;VALUE=DATE:20260518
 DTEND;VALUE=DATE:20260522
 SUMMARY:BTS - épreuves écrites communes
-DESCRIPTION:Épreuves écrites communes du BTS du lundi 18 au jeudi 21 mai 2026.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
-CATEGORIES:Education,Examens,BTS
+DESCRIPTION:Épreuves écrites communes du BTS du lundi 18 au jeudi 21 mai 
+ 2026.
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
+ parcoursup-le-calendrier-2026-341384
+CATEGORIES:Éducation,Examens,BTS
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -35,8 +39,9 @@ DTSTART;VALUE=DATE:20260518
 DTEND;VALUE=DATE:20260519
 SUMMARY:Brevet professionnel - session de printemps
 DESCRIPTION:Épreuve d'expression et connaissance du monde.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
-CATEGORIES:Education,Examens,BP
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
+ parcoursup-le-calendrier-2026-341384
+CATEGORIES:Éducation,Examens,BP
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -46,8 +51,9 @@ DTSTART;VALUE=DATE:20260520
 DTEND;VALUE=DATE:20260522
 SUMMARY:Bac pro - langues vivantes
 DESCRIPTION:Langue vivante A le 20 mai, langue vivante B le 21 mai 2026.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
-CATEGORIES:Education,Examens,Bac
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
+ parcoursup-le-calendrier-2026-341384
+CATEGORIES:Éducation,Examens,Bac
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -56,9 +62,11 @@ DTSTAMP:20260424T120000Z
 DTSTART;VALUE=DATE:20260528
 DTEND;VALUE=DATE:20260529
 SUMMARY:Bac pro - français et histoire-géographie
-DESCRIPTION:Épreuves de français puis histoire-géographie / enseignement moral et civique.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
-CATEGORIES:Education,Examens,Bac
+DESCRIPTION:Épreuves de français puis histoire-géographie / enseignement
+  moral et civique.
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
+ parcoursup-le-calendrier-2026-341384
+CATEGORIES:Éducation,Examens,Bac
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -66,10 +74,11 @@ UID:examens-2026-20260529-bac-pro-arts-eco@facilabo.app
 DTSTAMP:20260424T120000Z
 DTSTART;VALUE=DATE:20260529
 DTEND;VALUE=DATE:20260530
-SUMMARY:Bac pro - arts appliques et economie
-DESCRIPTION:Arts appliques, economie-droit et economie-gestion.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
-CATEGORIES:Education,Examens,Bac
+SUMMARY:Bac pro - arts appliques et économie
+DESCRIPTION:Arts appliques, économie-droit et économie-gestion.
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
+ parcoursup-le-calendrier-2026-341384
+CATEGORIES:Éducation,Examens,Bac
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -79,8 +88,9 @@ DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260602
 SUMMARY:Bac pro - prevention sante environnement
 DESCRIPTION:Épreuve de prevention, sante et environnement.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
-CATEGORIES:Education,Examens,Bac
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
+ parcoursup-le-calendrier-2026-341384
+CATEGORIES:Éducation,Examens,Bac
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -89,9 +99,11 @@ DTSTAMP:20260424T120000Z
 DTSTART;VALUE=DATE:20260608
 DTEND;VALUE=DATE:20260610
 SUMMARY:CAP - épreuves écrites générales
-DESCRIPTION:Épreuves écrites d'enseignement général les 8 et 9 juin 2026.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
-CATEGORIES:Education,Examens,CAP
+DESCRIPTION:Épreuves écrites d'enseignement général les 8 et 9 juin 202
+ 6.
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
+ parcoursup-le-calendrier-2026-341384
+CATEGORIES:Éducation,Examens,CAP
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -100,9 +112,11 @@ DTSTAMP:20260424T120000Z
 DTSTART;VALUE=DATE:20260611
 DTEND;VALUE=DATE:20260612
 SUMMARY:Bac - français anticipe
-DESCRIPTION:Épreuve ecrite anticipee de français du bac général et technologique.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
-CATEGORIES:Education,Examens,Bac
+DESCRIPTION:Épreuve écrite anticipee de français du bac général et tec
+ hnologique.
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
+ parcoursup-le-calendrier-2026-341384
+CATEGORIES:Éducation,Examens,Bac
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -110,10 +124,11 @@ UID:examens-2026-20260612-bac-maths-anticipees@facilabo.app
 DTSTAMP:20260424T120000Z
 DTSTART;VALUE=DATE:20260612
 DTEND;VALUE=DATE:20260613
-SUMMARY:Bac - mathematiques anticipees
-DESCRIPTION:Épreuve ecrite anticipee de mathematiques.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
-CATEGORIES:Education,Examens,Bac
+SUMMARY:Bac - mathématiques anticipees
+DESCRIPTION:Épreuve écrite anticipee de mathématiques.
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
+ parcoursup-le-calendrier-2026-341384
+CATEGORIES:Éducation,Examens,Bac
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -123,8 +138,9 @@ DTSTART;VALUE=DATE:20260615
 DTEND;VALUE=DATE:20260616
 SUMMARY:Bac général / techno - philosophie
 DESCRIPTION:Épreuve de philosophie du bac général et technologique.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
-CATEGORIES:Education,Examens,Bac
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
+ parcoursup-le-calendrier-2026-341384
+CATEGORIES:Éducation,Examens,Bac
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -133,9 +149,11 @@ DTSTAMP:20260424T120000Z
 DTSTART;VALUE=DATE:20260615
 DTEND;VALUE=DATE:20260617
 SUMMARY:BMA - enseignements generaux
-DESCRIPTION:Français, histoire-géographie EMC puis langues vivantes les 15 et 16 juin 2026.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
-CATEGORIES:Education,Examens,BMA
+DESCRIPTION:Français, histoire-géographie EMC puis langues vivantes les 1
+ 5 et 16 juin 2026.
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
+ parcoursup-le-calendrier-2026-341384
+CATEGORIES:Éducation,Examens,BMA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -144,9 +162,11 @@ DTSTAMP:20260424T120000Z
 DTSTART;VALUE=DATE:20260616
 DTEND;VALUE=DATE:20260619
 SUMMARY:Bac général / techno - specialites
-DESCRIPTION:Épreuves écrites de specialites du mardi 16 au jeudi 18 juin 2026.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
-CATEGORIES:Education,Examens,Bac
+DESCRIPTION:Épreuves écrites de specialites du mardi 16 au jeudi 18 juin 
+ 2026.
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
+ parcoursup-le-calendrier-2026-341384
+CATEGORIES:Éducation,Examens,Bac
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -155,9 +175,11 @@ DTSTAMP:20260424T120000Z
 DTSTART;VALUE=DATE:20260622
 DTEND;VALUE=DATE:20260702
 SUMMARY:Bac général / techno - Grand oral
-DESCRIPTION:Grand oral organise par les academies entre le 22 juin et le 1er juillet 2026.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
-CATEGORIES:Education,Examens,Bac
+DESCRIPTION:Grand oral organise par les academies entre le 22 juin et le 1e
+ r juillet 2026.
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
+ parcoursup-le-calendrier-2026-341384
+CATEGORIES:Éducation,Examens,Bac
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -167,8 +189,9 @@ DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260625
 SUMMARY:Bac pro - oral de projet
 DESCRIPTION:Épreuve orale de projet a compter du 24 juin 2026.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
-CATEGORIES:Education,Examens,Bac
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
+ parcoursup-le-calendrier-2026-341384
+CATEGORIES:Éducation,Examens,Bac
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -178,8 +201,9 @@ DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
 SUMMARY:Brevet - français
 DESCRIPTION:Première journée des épreuves écrites communes du DNB.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
-CATEGORIES:Education,Examens,Brevet
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
+ parcoursup-le-calendrier-2026-341384
+CATEGORIES:Éducation,Examens,Brevet
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -189,8 +213,9 @@ DTSTART;VALUE=DATE:20260629
 DTEND;VALUE=DATE:20260630
 SUMMARY:Brevet - histoire-géographie et sciences
 DESCRIPTION:Deuxieme journée des épreuves écrites communes du DNB.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
-CATEGORIES:Education,Examens,Brevet
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
+ parcoursup-le-calendrier-2026-341384
+CATEGORIES:Éducation,Examens,Brevet
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -198,10 +223,11 @@ UID:examens-2026-20260630-brevet-maths-langue@facilabo.app
 DTSTAMP:20260424T120000Z
 DTSTART;VALUE=DATE:20260630
 DTEND;VALUE=DATE:20260701
-SUMMARY:Brevet - mathematiques et langue vivante
+SUMMARY:Brevet - mathématiques et langue vivante
 DESCRIPTION:Troisieme journée des épreuves écrites communes du DNB.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
-CATEGORIES:Education,Examens,Brevet
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
+ parcoursup-le-calendrier-2026-341384
+CATEGORIES:Éducation,Examens,Brevet
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -210,9 +236,11 @@ DTSTAMP:20260424T120000Z
 DTSTART;VALUE=DATE:20260707
 DTEND;VALUE=DATE:20260708
 SUMMARY:Bac - résultats
-DESCRIPTION:Résultats du baccalaureat communiques à partir du 7 juillet 2026.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
-CATEGORIES:Education,Examens,Bac
+DESCRIPTION:Résultats du baccalauréat communiques à partir du 7 juillet 
+ 2026.
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
+ parcoursup-le-calendrier-2026-341384
+CATEGORIES:Éducation,Examens,Bac
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -221,9 +249,11 @@ DTSTAMP:20260424T120000Z
 DTSTART;VALUE=DATE:20260709
 DTEND;VALUE=DATE:20260711
 SUMMARY:Bac - rattrapage / second groupe
-DESCRIPTION:Épreuves du second groupe jusqu'au 9 juillet, au plus tard le 10 juillet midi selon les voies.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
-CATEGORIES:Education,Examens,Bac
+DESCRIPTION:Épreuves du second groupe jusqu'au 9 juillet, au plus tard le 
+ 10 juillet midi selon les voies.
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
+ parcoursup-le-calendrier-2026-341384
+CATEGORIES:Éducation,Examens,Bac
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -232,9 +262,11 @@ DTSTAMP:20260424T120000Z
 DTSTART;VALUE=DATE:20260907
 DTEND;VALUE=DATE:20260911
 SUMMARY:Bac général / techno - remplacement
-DESCRIPTION:Épreuves écrites de remplacement du lundi 7 au jeudi 10 septembre 2026.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
-CATEGORIES:Education,Examens,Bac
+DESCRIPTION:Épreuves écrites de remplacement du lundi 7 au jeudi 10 septe
+ mbre 2026.
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
+ parcoursup-le-calendrier-2026-341384
+CATEGORIES:Éducation,Examens,Bac
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -243,9 +275,11 @@ DTSTAMP:20260424T120000Z
 DTSTART;VALUE=DATE:20260910
 DTEND;VALUE=DATE:20260912
 SUMMARY:Brevet - session de remplacement
-DESCRIPTION:Épreuves communes de remplacement du DNB les 10 et 11 septembre 2026.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
-CATEGORIES:Education,Examens,Brevet
+DESCRIPTION:Épreuves communes de remplacement du DNB les 10 et 11 septembr
+ e 2026.
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
+ parcoursup-le-calendrier-2026-341384
+CATEGORIES:Éducation,Examens,Brevet
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -254,9 +288,11 @@ DTSTAMP:20260424T120000Z
 DTSTART;VALUE=DATE:20260914
 DTEND;VALUE=DATE:20260916
 SUMMARY:CAP - remplacement enseignement général
-DESCRIPTION:Épreuves de remplacement des enseignements generaux les 14 et 15 septembre 2026.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
-CATEGORIES:Education,Examens,CAP
+DESCRIPTION:Épreuves de remplacement des enseignements generaux les 14 et 
+ 15 septembre 2026.
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
+ parcoursup-le-calendrier-2026-341384
+CATEGORIES:Éducation,Examens,CAP
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -265,9 +301,11 @@ DTSTAMP:20260424T120000Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261006
 SUMMARY:Brevet professionnel - remplacement printemps / automne
-DESCRIPTION:Épreuve d'expression et connaissance du monde de remplacement printemps et session automne.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
-CATEGORIES:Education,Examens,BP
+DESCRIPTION:Épreuve d'expression et connaissance du monde de remplacement 
+ printemps et session automne.
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
+ parcoursup-le-calendrier-2026-341384
+CATEGORIES:Éducation,Examens,BP
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
@@ -277,8 +315,9 @@ DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Brevet professionnel - remplacement automne
 DESCRIPTION:Épreuve de remplacement de la session d'automne.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-parcoursup-le-calendrier-2026-341384
-CATEGORIES:Education,Examens,BP
+URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
+ parcoursup-le-calendrier-2026-341384
+CATEGORIES:Éducation,Examens,BP
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

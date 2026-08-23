@@ -18,12 +18,11 @@ LOCATION:New York New Jersey Stadium\, New Jersey\, Etats-Unis
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CATEGORIES:Coupe du Monde 2026
-DESCRIPTION:Match FIFA 17\nPhase de groupes\nStade: New York New Jersey St
- adium\nVille: New Jersey\nHoraire source: 2026-06-16T19:00:00Z (FIFA Worl
- d Cup 2026 live API)\nScore officiel: France 3 - 1 Senegal\nSource: https
- ://api.fifa.com/api/v3/calendar/matches?language=en&idCompetition=17&idSe
- ason=285023&count=200\nUID stable FacilAbo derive du numero de match FIFA
- .
+DESCRIPTION:Match FIFA 17\nPhase de groupes\nStade: New York New Jersey Sta
+ dium\nVille: New Jersey\nHoraire source: 2026-06-16T19:00:00Z (FIFA World
+  Cup 2026 live API)\nScore officiel: France 3 - 1 Senegal\nSource: https:/
+ /api.fifa.com/api/v3/calendar/matches?language=en&idCompetition=17&idSeaso
+ n=285023&count=200\nUID stable FacilAbo dérivé du numéro de match FIFA.
 URL:https://api.fifa.com/api/v3/calendar/matches?language=en&idCompetition
  =17&idSeason=285023&count=200
 END:VEVENT
@@ -41,7 +40,7 @@ DESCRIPTION:Match FIFA 42\nPhase de groupes\nStade: Philadelphia Stadium\n
  Ville: Philadelphia\nHoraire source: 2026-06-22T21:00:00Z (FIFA World Cup
   2026 live API)\nScore officiel: France 3 - 0 Irak\nSource: https://api.f
  ifa.com/api/v3/calendar/matches?language=en&idCompetition=17&idSeason=285
- 023&count=200\nUID stable FacilAbo derive du numero de match FIFA.
+ 023&count=200\nUID stable FacilAbo dérivé du numéro de match FIFA.
 URL:https://api.fifa.com/api/v3/calendar/matches?language=en&idCompetition
  =17&idSeason=285023&count=200
 END:VEVENT
@@ -59,7 +58,7 @@ DESCRIPTION:Match FIFA 61\nPhase de groupes\nStade: Boston Stadium\nVille:
   Boston\nHoraire source: 2026-06-26T19:00:00Z (FIFA World Cup 2026 live A
  PI)\nScore officiel: Norvege 1 - 4 France\nSource: https://api.fifa.com/a
  pi/v3/calendar/matches?language=en&idCompetition=17&idSeason=285023&count
- =200\nUID stable FacilAbo derive du numero de match FIFA.
+ =200\nUID stable FacilAbo dérivé du numéro de match FIFA.
 URL:https://api.fifa.com/api/v3/calendar/matches?language=en&idCompetition
  =17&idSeason=285023&count=200
 END:VEVENT
@@ -73,11 +72,11 @@ LOCATION:New York New Jersey Stadium\, New Jersey\, Etats-Unis
 STATUS:CONFIRMED
 TRANSP:OPAQUE
 CATEGORIES:Coupe du Monde 2026
-DESCRIPTION:Match FIFA 77\n16es de finale\nStade: New York New Jersey Stad
- ium\nVille: New Jersey\nHoraire source: 2026-06-30T21:00:00Z (FIFA World 
- Cup 2026 live API)\nScore officiel: France 3 - 0 Suede\nSource: https://a
- pi.fifa.com/api/v3/calendar/matches?language=en&idCompetition=17&idSeason
- =285023&count=200\nUID stable FacilAbo derive du numero de match FIFA.
+DESCRIPTION:Match FIFA 77\n16es de finale\nStade: New York New Jersey Stadi
+ um\nVille: New Jersey\nHoraire source: 2026-06-30T21:00:00Z (FIFA World Cu
+ p 2026 live API)\nScore officiel: France 3 - 0 Suede\nSource: https://api.
+ fifa.com/api/v3/calendar/matches?language=en&idCompetition=17&idSeason=285
+ 023&count=200\nUID stable FacilAbo dérivé du numéro de match FIFA.
 URL:https://api.fifa.com/api/v3/calendar/matches?language=en&idCompetition
  =17&idSeason=285023&count=200
 END:VEVENT
@@ -95,7 +94,7 @@ DESCRIPTION:Match FIFA 89\n8es de finale\nStade: Philadelphia Stadium\nVil
  le: Philadelphia\nHoraire source: 2026-07-04T21:00:00Z (FIFA World Cup 20
  26 live API)\nScore officiel: Paraguay 0 - 1 France\nSource: https://api.
  fifa.com/api/v3/calendar/matches?language=en&idCompetition=17&idSeason=28
- 5023&count=200\nUID stable FacilAbo derive du numero de match FIFA.
+ 5023&count=200\nUID stable FacilAbo dérivé du numéro de match FIFA.
 URL:https://api.fifa.com/api/v3/calendar/matches?language=en&idCompetition
  =17&idSeason=285023&count=200
 END:VEVENT
@@ -113,7 +112,7 @@ DESCRIPTION:Match FIFA 97\nQuarts de finale\nStade: Boston Stadium\nVille:
   Boston\nHoraire source: 2026-07-09T20:00:00Z (FIFA World Cup 2026 live A
  PI)\nScore officiel: France 2 - 0 Maroc\nSource: https://api.fifa.com/api
  /v3/calendar/matches?language=en&idCompetition=17&idSeason=285023&count=2
- 00\nUID stable FacilAbo derive du numero de match FIFA.
+ 00\nUID stable FacilAbo dérivé du numéro de match FIFA.
 URL:https://api.fifa.com/api/v3/calendar/matches?language=en&idCompetition
  =17&idSeason=285023&count=200
 END:VEVENT
@@ -131,7 +130,7 @@ DESCRIPTION:Match FIFA 101\nDemi-finales\nStade: Dallas Stadium\nVille: Da
  llas\nHoraire source: 2026-07-14T19:00:00Z (FIFA World Cup 2026 live API)
  \nScore officiel: France 0 - 2 Espagne\nSource: https://api.fifa.com/api/
  v3/calendar/matches?language=en&idCompetition=17&idSeason=285023&count=20
- 0\nUID stable FacilAbo derive du numero de match FIFA.
+ 0\nUID stable FacilAbo dérivé du numéro de match FIFA.
 URL:https://api.fifa.com/api/v3/calendar/matches?language=en&idCompetition
  =17&idSeason=285023&count=200
 END:VEVENT
@@ -149,7 +148,7 @@ DESCRIPTION:Match FIFA 103\nBronze final\nStade: Miami Stadium\nVille: Mia
  mi\nHoraire source: 2026-07-18T21:00:00Z (FIFA World Cup 2026 live API)\n
  Score officiel: France 4 - 6 Angleterre\nSource: https://api.fifa.com/api
  /v3/calendar/matches?language=en&idCompetition=17&idSeason=285023&count=2
- 00\nUID stable FacilAbo derive du numero de match FIFA.
+ 00\nUID stable FacilAbo dérivé du numéro de match FIFA.
 URL:https://api.fifa.com/api/v3/calendar/matches?language=en&idCompetition
  =17&idSeason=285023&count=200
 END:VEVENT

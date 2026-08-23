@@ -30,7 +30,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20260101
 DTEND;VALUE=DATE:20260102
 SUMMARY:Nouvel An - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -41,7 +43,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20260102
 DTEND;VALUE=DATE:20260103
 SUMMARY:2 janvier - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -52,7 +56,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20260403
 DTEND;VALUE=DATE:20260404
 SUMMARY:Vendredi saint - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -63,7 +69,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20260405
 DTEND;VALUE=DATE:20260406
 SUMMARY:Pâques - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -74,7 +82,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20260406
 DTEND;VALUE=DATE:20260407
 SUMMARY:Lundi de Pâques - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -85,7 +95,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
 SUMMARY:Fête du travail - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -96,7 +108,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260515
 SUMMARY:Ascension - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -106,8 +120,10 @@ UID:suisse-romande-jura-feries-pentecote-2026@facilabo.app
 DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20260524
 DTEND;VALUE=DATE:20260525
-SUMMARY:Pentecote - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+SUMMARY:Pentecôte - Jura
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -117,8 +133,10 @@ UID:suisse-romande-jura-feries-lundi-pentecote-2026@facilabo.app
 DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20260525
 DTEND;VALUE=DATE:20260526
-SUMMARY:Lundi de Pentecote - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+SUMMARY:Lundi de Pentecôte - Jura
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -129,7 +147,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20260604
 DTEND;VALUE=DATE:20260605
 SUMMARY:Fête-Dieu - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -140,7 +160,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20260623
 DTEND;VALUE=DATE:20260624
 SUMMARY:Fête de l indépendance - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -151,7 +173,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
 SUMMARY:Fête nationale suisse - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -162,7 +186,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20260815
 DTEND;VALUE=DATE:20260816
 SUMMARY:Assomption - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -173,7 +199,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20261101
 DTEND;VALUE=DATE:20261102
 SUMMARY:Toussaint - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -184,7 +212,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20261225
 DTEND;VALUE=DATE:20261226
 SUMMARY:Noël - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -195,7 +225,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20270101
 DTEND;VALUE=DATE:20270102
 SUMMARY:Nouvel An - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -206,7 +238,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270103
 SUMMARY:2 janvier - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -217,7 +251,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270327
 SUMMARY:Vendredi saint - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -228,7 +264,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20270328
 DTEND;VALUE=DATE:20270329
 SUMMARY:Pâques - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -239,7 +277,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20270329
 DTEND;VALUE=DATE:20270330
 SUMMARY:Lundi de Pâques - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -250,7 +290,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
 SUMMARY:Fête du travail - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -261,7 +303,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20270506
 DTEND;VALUE=DATE:20270507
 SUMMARY:Ascension - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -271,8 +315,10 @@ UID:suisse-romande-jura-feries-pentecote-2027@facilabo.app
 DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20270516
 DTEND;VALUE=DATE:20270517
-SUMMARY:Pentecote - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+SUMMARY:Pentecôte - Jura
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -282,8 +328,10 @@ UID:suisse-romande-jura-feries-lundi-pentecote-2027@facilabo.app
 DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20270517
 DTEND;VALUE=DATE:20270518
-SUMMARY:Lundi de Pentecote - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+SUMMARY:Lundi de Pentecôte - Jura
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -294,7 +342,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20270527
 DTEND;VALUE=DATE:20270528
 SUMMARY:Fête-Dieu - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -305,7 +355,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20270623
 DTEND;VALUE=DATE:20270624
 SUMMARY:Fête de l indépendance - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -316,7 +368,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20270801
 DTEND;VALUE=DATE:20270802
 SUMMARY:Fête nationale suisse - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -327,7 +381,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20270815
 DTEND;VALUE=DATE:20270816
 SUMMARY:Assomption - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -338,7 +394,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20271101
 DTEND;VALUE=DATE:20271102
 SUMMARY:Toussaint - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -349,7 +407,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20271225
 DTEND;VALUE=DATE:20271226
 SUMMARY:Noël - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -360,7 +420,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20280101
 DTEND;VALUE=DATE:20280102
 SUMMARY:Nouvel An - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -371,7 +433,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20280102
 DTEND;VALUE=DATE:20280103
 SUMMARY:2 janvier - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -382,7 +446,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20280414
 DTEND;VALUE=DATE:20280415
 SUMMARY:Vendredi saint - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -393,7 +459,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20280416
 DTEND;VALUE=DATE:20280417
 SUMMARY:Pâques - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -404,7 +472,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20280417
 DTEND;VALUE=DATE:20280418
 SUMMARY:Lundi de Pâques - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -415,7 +485,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20280501
 DTEND;VALUE=DATE:20280502
 SUMMARY:Fête du travail - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -426,7 +498,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20280525
 DTEND;VALUE=DATE:20280526
 SUMMARY:Ascension - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -436,8 +510,10 @@ UID:suisse-romande-jura-feries-pentecote-2028@facilabo.app
 DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20280604
 DTEND;VALUE=DATE:20280605
-SUMMARY:Pentecote - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+SUMMARY:Pentecôte - Jura
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -447,8 +523,10 @@ UID:suisse-romande-jura-feries-lundi-pentecote-2028@facilabo.app
 DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20280605
 DTEND;VALUE=DATE:20280606
-SUMMARY:Lundi de Pentecote - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+SUMMARY:Lundi de Pentecôte - Jura
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -459,7 +537,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20280615
 DTEND;VALUE=DATE:20280616
 SUMMARY:Fête-Dieu - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -470,7 +550,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20280623
 DTEND;VALUE=DATE:20280624
 SUMMARY:Fête de l indépendance - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -481,7 +563,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20280801
 DTEND;VALUE=DATE:20280802
 SUMMARY:Fête nationale suisse - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -492,7 +576,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20280815
 DTEND;VALUE=DATE:20280816
 SUMMARY:Assomption - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -503,7 +589,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20281101
 DTEND;VALUE=DATE:20281102
 SUMMARY:Toussaint - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -514,7 +602,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20281225
 DTEND;VALUE=DATE:20281226
 SUMMARY:Noël - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -525,7 +615,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20290101
 DTEND;VALUE=DATE:20290102
 SUMMARY:Nouvel An - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -536,7 +628,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20290102
 DTEND;VALUE=DATE:20290103
 SUMMARY:2 janvier - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -547,7 +641,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20290330
 DTEND;VALUE=DATE:20290331
 SUMMARY:Vendredi saint - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -558,7 +654,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20290401
 DTEND;VALUE=DATE:20290402
 SUMMARY:Pâques - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -569,7 +667,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20290402
 DTEND;VALUE=DATE:20290403
 SUMMARY:Lundi de Pâques - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -580,7 +680,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20290501
 DTEND;VALUE=DATE:20290502
 SUMMARY:Fête du travail - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -591,7 +693,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20290510
 DTEND;VALUE=DATE:20290511
 SUMMARY:Ascension - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -601,8 +705,10 @@ UID:suisse-romande-jura-feries-pentecote-2029@facilabo.app
 DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20290520
 DTEND;VALUE=DATE:20290521
-SUMMARY:Pentecote - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+SUMMARY:Pentecôte - Jura
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -612,8 +718,10 @@ UID:suisse-romande-jura-feries-lundi-pentecote-2029@facilabo.app
 DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20290521
 DTEND;VALUE=DATE:20290522
-SUMMARY:Lundi de Pentecote - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+SUMMARY:Lundi de Pentecôte - Jura
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -624,7 +732,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20290531
 DTEND;VALUE=DATE:20290601
 SUMMARY:Fête-Dieu - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -635,7 +745,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20290623
 DTEND;VALUE=DATE:20290624
 SUMMARY:Fête de l indépendance - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -646,7 +758,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20290801
 DTEND;VALUE=DATE:20290802
 SUMMARY:Fête nationale suisse - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -657,7 +771,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20290815
 DTEND;VALUE=DATE:20290816
 SUMMARY:Assomption - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -668,7 +784,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20291101
 DTEND;VALUE=DATE:20291102
 SUMMARY:Toussaint - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -679,7 +797,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20291225
 DTEND;VALUE=DATE:20291226
 SUMMARY:Noël - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -690,7 +810,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20300101
 DTEND;VALUE=DATE:20300102
 SUMMARY:Nouvel An - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -701,7 +823,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20300102
 DTEND;VALUE=DATE:20300103
 SUMMARY:2 janvier - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -712,7 +836,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20300419
 DTEND;VALUE=DATE:20300420
 SUMMARY:Vendredi saint - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -723,7 +849,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20300421
 DTEND;VALUE=DATE:20300422
 SUMMARY:Pâques - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -734,7 +862,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20300422
 DTEND;VALUE=DATE:20300423
 SUMMARY:Lundi de Pâques - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -745,7 +875,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20300501
 DTEND;VALUE=DATE:20300502
 SUMMARY:Fête du travail - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -756,7 +888,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20300530
 DTEND;VALUE=DATE:20300531
 SUMMARY:Ascension - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -766,8 +900,10 @@ UID:suisse-romande-jura-feries-pentecote-2030@facilabo.app
 DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20300609
 DTEND;VALUE=DATE:20300610
-SUMMARY:Pentecote - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+SUMMARY:Pentecôte - Jura
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -777,8 +913,10 @@ UID:suisse-romande-jura-feries-lundi-pentecote-2030@facilabo.app
 DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20300610
 DTEND;VALUE=DATE:20300611
-SUMMARY:Lundi de Pentecote - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+SUMMARY:Lundi de Pentecôte - Jura
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -789,7 +927,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20300620
 DTEND;VALUE=DATE:20300621
 SUMMARY:Fête-Dieu - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -800,7 +940,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20300623
 DTEND;VALUE=DATE:20300624
 SUMMARY:Fête de l indépendance - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -811,7 +953,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20300801
 DTEND;VALUE=DATE:20300802
 SUMMARY:Fête nationale suisse - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -822,7 +966,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20300815
 DTEND;VALUE=DATE:20300816
 SUMMARY:Assomption - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -833,7 +979,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20301101
 DTEND;VALUE=DATE:20301102
 SUMMARY:Toussaint - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -844,7 +992,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20301225
 DTEND;VALUE=DATE:20301226
 SUMMARY:Noël - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -855,7 +1005,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20310101
 DTEND;VALUE=DATE:20310102
 SUMMARY:Nouvel An - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -866,7 +1018,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20310102
 DTEND;VALUE=DATE:20310103
 SUMMARY:2 janvier - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -877,7 +1031,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20310411
 DTEND;VALUE=DATE:20310412
 SUMMARY:Vendredi saint - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -888,7 +1044,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20310413
 DTEND;VALUE=DATE:20310414
 SUMMARY:Pâques - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -899,7 +1057,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20310414
 DTEND;VALUE=DATE:20310415
 SUMMARY:Lundi de Pâques - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -910,7 +1070,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20310501
 DTEND;VALUE=DATE:20310502
 SUMMARY:Fête du travail - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -921,7 +1083,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20310522
 DTEND;VALUE=DATE:20310523
 SUMMARY:Ascension - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -931,8 +1095,10 @@ UID:suisse-romande-jura-feries-pentecote-2031@facilabo.app
 DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20310601
 DTEND;VALUE=DATE:20310602
-SUMMARY:Pentecote - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+SUMMARY:Pentecôte - Jura
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -942,8 +1108,10 @@ UID:suisse-romande-jura-feries-lundi-pentecote-2031@facilabo.app
 DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20310602
 DTEND;VALUE=DATE:20310603
-SUMMARY:Lundi de Pentecote - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+SUMMARY:Lundi de Pentecôte - Jura
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -954,7 +1122,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20310612
 DTEND;VALUE=DATE:20310613
 SUMMARY:Fête-Dieu - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -965,7 +1135,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20310623
 DTEND;VALUE=DATE:20310624
 SUMMARY:Fête de l indépendance - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -976,7 +1148,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20310801
 DTEND;VALUE=DATE:20310802
 SUMMARY:Fête nationale suisse - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -987,7 +1161,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20310815
 DTEND;VALUE=DATE:20310816
 SUMMARY:Assomption - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -998,7 +1174,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20311101
 DTEND;VALUE=DATE:20311102
 SUMMARY:Toussaint - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED
@@ -1009,7 +1187,9 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20311225
 DTEND;VALUE=DATE:20311226
 SUMMARY:Noël - Jura
-DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. Source: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabilité: high
+DESCRIPTION:Jours fériés officiels du canton du Jura\, canton précise. S
+ ource: https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948 Fiabil
+ ité: high
 URL:https://rsju.jura.ch/fr/viewdocument.html?idn=20105&id=38948
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Fériés
 STATUS:CONFIRMED

@@ -4,7 +4,8 @@ PRODID:-//FacilAbo//suisse-romande-jura-vacances//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Suisse romande - Jura - Vacances scolaires
-X-WR-CALDESC:Vacances et conges scolaires du canton du Jura, sans melange avec d'autres cantons.
+X-WR-CALDESC:Vacances et congés scolaires du canton du Jura, sans melange 
+ avec d'autres cantons.
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Paris
@@ -30,8 +31,12 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20260216
 DTEND;VALUE=DATE:20260221
 SUMMARY:Semaine de relâche hivernale - Jura
-DESCRIPTION:Vacances et conges scolaires du canton du Jura\, sans melange avec d'autres cantons. Source: https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html Fiabilité: high
-URL:https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html
+DESCRIPTION:Vacances et congés scolaires du canton du Jura\, sans melange 
+ avec d'autres cantons. Source: https://www.jura.ch/fr/Autorites/Administra
+ tion/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-
+ scolaires.html Fiabilité: high
+URL:https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobli
+ gatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Vacances scolaires
 STATUS:CONFIRMED
 END:VEVENT
@@ -41,8 +46,12 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20260403
 DTEND;VALUE=DATE:20260418
 SUMMARY:Vacances de Pâques - Jura
-DESCRIPTION:Vacances et conges scolaires du canton du Jura\, sans melange avec d'autres cantons. Source: https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html Fiabilité: high
-URL:https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html
+DESCRIPTION:Vacances et congés scolaires du canton du Jura\, sans melange 
+ avec d'autres cantons. Source: https://www.jura.ch/fr/Autorites/Administra
+ tion/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-
+ scolaires.html Fiabilité: high
+URL:https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobli
+ gatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Vacances scolaires
 STATUS:CONFIRMED
 END:VEVENT
@@ -52,8 +61,12 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20260501
 DTEND;VALUE=DATE:20260502
 SUMMARY:Fête du travail - Jura
-DESCRIPTION:Vacances et conges scolaires du canton du Jura\, sans melange avec d'autres cantons. Source: https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html Fiabilité: high
-URL:https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html
+DESCRIPTION:Vacances et congés scolaires du canton du Jura\, sans melange 
+ avec d'autres cantons. Source: https://www.jura.ch/fr/Autorites/Administra
+ tion/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-
+ scolaires.html Fiabilité: high
+URL:https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobli
+ gatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Vacances scolaires
 STATUS:CONFIRMED
 END:VEVENT
@@ -63,8 +76,12 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20260514
 DTEND;VALUE=DATE:20260516
 SUMMARY:Ascension - Jura
-DESCRIPTION:Vacances et conges scolaires du canton du Jura\, sans melange avec d'autres cantons. Source: https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html Fiabilité: high
-URL:https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html
+DESCRIPTION:Vacances et congés scolaires du canton du Jura\, sans melange 
+ avec d'autres cantons. Source: https://www.jura.ch/fr/Autorites/Administra
+ tion/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-
+ scolaires.html Fiabilité: high
+URL:https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobli
+ gatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Vacances scolaires
 STATUS:CONFIRMED
 END:VEVENT
@@ -73,9 +90,13 @@ UID:suisse-romande-jura-vacances-pentecote-2026-2026@facilabo.app
 DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20260525
 DTEND;VALUE=DATE:20260526
-SUMMARY:Lundi de Pentecote - Jura
-DESCRIPTION:Vacances et conges scolaires du canton du Jura\, sans melange avec d'autres cantons. Source: https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html Fiabilité: high
-URL:https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html
+SUMMARY:Lundi de Pentecôte - Jura
+DESCRIPTION:Vacances et congés scolaires du canton du Jura\, sans melange 
+ avec d'autres cantons. Source: https://www.jura.ch/fr/Autorites/Administra
+ tion/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-
+ scolaires.html Fiabilité: high
+URL:https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobli
+ gatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Vacances scolaires
 STATUS:CONFIRMED
 END:VEVENT
@@ -85,8 +106,12 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20260604
 DTEND;VALUE=DATE:20260605
 SUMMARY:Fête-Dieu - Jura
-DESCRIPTION:Vacances et conges scolaires du canton du Jura\, sans melange avec d'autres cantons. Source: https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html Fiabilité: high
-URL:https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html
+DESCRIPTION:Vacances et congés scolaires du canton du Jura\, sans melange 
+ avec d'autres cantons. Source: https://www.jura.ch/fr/Autorites/Administra
+ tion/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-
+ scolaires.html Fiabilité: high
+URL:https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobli
+ gatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Vacances scolaires
 STATUS:CONFIRMED
 END:VEVENT
@@ -96,8 +121,12 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20260623
 DTEND;VALUE=DATE:20260624
 SUMMARY:Fête de l indépendance - Jura
-DESCRIPTION:Vacances et conges scolaires du canton du Jura\, sans melange avec d'autres cantons. Source: https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html Fiabilité: high
-URL:https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html
+DESCRIPTION:Vacances et congés scolaires du canton du Jura\, sans melange 
+ avec d'autres cantons. Source: https://www.jura.ch/fr/Autorites/Administra
+ tion/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-
+ scolaires.html Fiabilité: high
+URL:https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobli
+ gatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Vacances scolaires
 STATUS:CONFIRMED
 END:VEVENT
@@ -107,8 +136,12 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20260706
 DTEND;VALUE=DATE:20260815
 SUMMARY:Vacances d été - Jura
-DESCRIPTION:Vacances et conges scolaires du canton du Jura\, sans melange avec d'autres cantons. Source: https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html Fiabilité: high
-URL:https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html
+DESCRIPTION:Vacances et congés scolaires du canton du Jura\, sans melange 
+ avec d'autres cantons. Source: https://www.jura.ch/fr/Autorites/Administra
+ tion/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-
+ scolaires.html Fiabilité: high
+URL:https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobli
+ gatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Vacances scolaires
 STATUS:CONFIRMED
 END:VEVENT
@@ -118,8 +151,12 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20261005
 DTEND;VALUE=DATE:20261017
 SUMMARY:Vacances d automne - Jura
-DESCRIPTION:Vacances et conges scolaires du canton du Jura\, sans melange avec d'autres cantons. Source: https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html Fiabilité: high
-URL:https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html
+DESCRIPTION:Vacances et congés scolaires du canton du Jura\, sans melange 
+ avec d'autres cantons. Source: https://www.jura.ch/fr/Autorites/Administra
+ tion/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-
+ scolaires.html Fiabilité: high
+URL:https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobli
+ gatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Vacances scolaires
 STATUS:CONFIRMED
 END:VEVENT
@@ -129,8 +166,12 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20261224
 DTEND;VALUE=DATE:20270109
 SUMMARY:Vacances de Noël - Jura
-DESCRIPTION:Vacances et conges scolaires du canton du Jura\, sans melange avec d'autres cantons. Source: https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html Fiabilité: high
-URL:https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html
+DESCRIPTION:Vacances et congés scolaires du canton du Jura\, sans melange 
+ avec d'autres cantons. Source: https://www.jura.ch/fr/Autorites/Administra
+ tion/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-
+ scolaires.html Fiabilité: high
+URL:https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobli
+ gatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Vacances scolaires
 STATUS:CONFIRMED
 END:VEVENT
@@ -140,8 +181,12 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20270215
 DTEND;VALUE=DATE:20270220
 SUMMARY:Semaine de relâche hivernale - Jura
-DESCRIPTION:Vacances et conges scolaires du canton du Jura\, sans melange avec d'autres cantons. Source: https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html Fiabilité: high
-URL:https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html
+DESCRIPTION:Vacances et congés scolaires du canton du Jura\, sans melange 
+ avec d'autres cantons. Source: https://www.jura.ch/fr/Autorites/Administra
+ tion/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-
+ scolaires.html Fiabilité: high
+URL:https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobli
+ gatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Vacances scolaires
 STATUS:CONFIRMED
 END:VEVENT
@@ -151,8 +196,12 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20270326
 DTEND;VALUE=DATE:20270410
 SUMMARY:Vacances de Pâques - Jura
-DESCRIPTION:Vacances et conges scolaires du canton du Jura\, sans melange avec d'autres cantons. Source: https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html Fiabilité: high
-URL:https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html
+DESCRIPTION:Vacances et congés scolaires du canton du Jura\, sans melange 
+ avec d'autres cantons. Source: https://www.jura.ch/fr/Autorites/Administra
+ tion/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-
+ scolaires.html Fiabilité: high
+URL:https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobli
+ gatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Vacances scolaires
 STATUS:CONFIRMED
 END:VEVENT
@@ -162,8 +211,12 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20270501
 DTEND;VALUE=DATE:20270502
 SUMMARY:Fête du travail - Jura
-DESCRIPTION:Vacances et conges scolaires du canton du Jura\, sans melange avec d'autres cantons. Source: https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html Fiabilité: high
-URL:https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html
+DESCRIPTION:Vacances et congés scolaires du canton du Jura\, sans melange 
+ avec d'autres cantons. Source: https://www.jura.ch/fr/Autorites/Administra
+ tion/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-
+ scolaires.html Fiabilité: high
+URL:https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobli
+ gatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Vacances scolaires
 STATUS:CONFIRMED
 END:VEVENT
@@ -173,8 +226,12 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20270506
 DTEND;VALUE=DATE:20270508
 SUMMARY:Ascension - Jura
-DESCRIPTION:Vacances et conges scolaires du canton du Jura\, sans melange avec d'autres cantons. Source: https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html Fiabilité: high
-URL:https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html
+DESCRIPTION:Vacances et congés scolaires du canton du Jura\, sans melange 
+ avec d'autres cantons. Source: https://www.jura.ch/fr/Autorites/Administra
+ tion/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-
+ scolaires.html Fiabilité: high
+URL:https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobli
+ gatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Vacances scolaires
 STATUS:CONFIRMED
 END:VEVENT
@@ -183,9 +240,13 @@ UID:suisse-romande-jura-vacances-pentecote-2027-2027@facilabo.app
 DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20270517
 DTEND;VALUE=DATE:20270518
-SUMMARY:Lundi de Pentecote - Jura
-DESCRIPTION:Vacances et conges scolaires du canton du Jura\, sans melange avec d'autres cantons. Source: https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html Fiabilité: high
-URL:https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html
+SUMMARY:Lundi de Pentecôte - Jura
+DESCRIPTION:Vacances et congés scolaires du canton du Jura\, sans melange 
+ avec d'autres cantons. Source: https://www.jura.ch/fr/Autorites/Administra
+ tion/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-
+ scolaires.html Fiabilité: high
+URL:https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobli
+ gatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Vacances scolaires
 STATUS:CONFIRMED
 END:VEVENT
@@ -195,8 +256,12 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20270527
 DTEND;VALUE=DATE:20270528
 SUMMARY:Fête-Dieu - Jura
-DESCRIPTION:Vacances et conges scolaires du canton du Jura\, sans melange avec d'autres cantons. Source: https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html Fiabilité: high
-URL:https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html
+DESCRIPTION:Vacances et congés scolaires du canton du Jura\, sans melange 
+ avec d'autres cantons. Source: https://www.jura.ch/fr/Autorites/Administra
+ tion/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-
+ scolaires.html Fiabilité: high
+URL:https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobli
+ gatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Vacances scolaires
 STATUS:CONFIRMED
 END:VEVENT
@@ -206,8 +271,12 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20270623
 DTEND;VALUE=DATE:20270624
 SUMMARY:Fête de l indépendance - Jura
-DESCRIPTION:Vacances et conges scolaires du canton du Jura\, sans melange avec d'autres cantons. Source: https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html Fiabilité: high
-URL:https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html
+DESCRIPTION:Vacances et congés scolaires du canton du Jura\, sans melange 
+ avec d'autres cantons. Source: https://www.jura.ch/fr/Autorites/Administra
+ tion/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-
+ scolaires.html Fiabilité: high
+URL:https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobli
+ gatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Vacances scolaires
 STATUS:CONFIRMED
 END:VEVENT
@@ -217,8 +286,12 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20270705
 DTEND;VALUE=DATE:20270814
 SUMMARY:Vacances d été - Jura
-DESCRIPTION:Vacances et conges scolaires du canton du Jura\, sans melange avec d'autres cantons. Source: https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html Fiabilité: high
-URL:https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html
+DESCRIPTION:Vacances et congés scolaires du canton du Jura\, sans melange 
+ avec d'autres cantons. Source: https://www.jura.ch/fr/Autorites/Administra
+ tion/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-
+ scolaires.html Fiabilité: high
+URL:https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobli
+ gatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Vacances scolaires
 STATUS:CONFIRMED
 END:VEVENT
@@ -228,8 +301,12 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20271004
 DTEND;VALUE=DATE:20271016
 SUMMARY:Vacances d automne - Jura
-DESCRIPTION:Vacances et conges scolaires du canton du Jura\, sans melange avec d'autres cantons. Source: https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html Fiabilité: high
-URL:https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html
+DESCRIPTION:Vacances et congés scolaires du canton du Jura\, sans melange 
+ avec d'autres cantons. Source: https://www.jura.ch/fr/Autorites/Administra
+ tion/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-
+ scolaires.html Fiabilité: high
+URL:https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobli
+ gatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Vacances scolaires
 STATUS:CONFIRMED
 END:VEVENT
@@ -239,8 +316,12 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20271101
 DTEND;VALUE=DATE:20271102
 SUMMARY:Toussaint - Jura
-DESCRIPTION:Vacances et conges scolaires du canton du Jura\, sans melange avec d'autres cantons. Source: https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html Fiabilité: high
-URL:https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html
+DESCRIPTION:Vacances et congés scolaires du canton du Jura\, sans melange 
+ avec d'autres cantons. Source: https://www.jura.ch/fr/Autorites/Administra
+ tion/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-
+ scolaires.html Fiabilité: high
+URL:https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobli
+ gatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Vacances scolaires
 STATUS:CONFIRMED
 END:VEVENT
@@ -250,8 +331,12 @@ DTSTAMP:20260506T120000Z
 DTSTART;VALUE=DATE:20271224
 DTEND;VALUE=DATE:20280108
 SUMMARY:Vacances de Noël - Jura
-DESCRIPTION:Vacances et conges scolaires du canton du Jura\, sans melange avec d'autres cantons. Source: https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html Fiabilité: high
-URL:https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html
+DESCRIPTION:Vacances et congés scolaires du canton du Jura\, sans melange 
+ avec d'autres cantons. Source: https://www.jura.ch/fr/Autorites/Administra
+ tion/DFNS/Formation-postobligatoire-SFP/CEJEF/Vacances-scolaires/Vacances-
+ scolaires.html Fiabilité: high
+URL:https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobli
+ gatoire-SFP/CEJEF/Vacances-scolaires/Vacances-scolaires.html
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Vacances scolaires
 STATUS:CONFIRMED
 END:VEVENT

@@ -3,8 +3,9 @@ VERSION:2.0
 PRODID:-//FacilAbo//Belgique Soldes et Attente//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
-X-WR-CALNAME:Belgique - Soldes legaux et périodes d attente
-X-WR-CALDESC:Soldes d hiver/été et périodes d attente en Belgique (2026-2031)
+X-WR-CALNAME:Belgique - Soldes légaux et périodes d attente
+X-WR-CALDESC:Soldes d hiver/été et périodes d attente en Belgique (2026-
+ 2031)
 X-WR-TIMEZONE:Europe/Brussels
 BEGIN:VTIMEZONE
 TZID:Europe/Brussels
@@ -30,7 +31,9 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20260103
 DTEND;VALUE=DATE:20260201
 SUMMARY:Soldes d hiver - Belgique
-DESCRIPTION:Période légale des soldes d hiver. Source: https://economie.fgov.be/fr/themes/ventes/soldes. Fiabilité: haute sauf adaptation legislative.
+DESCRIPTION:Période légale des soldes d hiver. Source: https://economie.f
+ gov.be/fr/themes/ventes/soldes. Fiabilité: haute sauf adaptation législa
+ tive.
 URL:https://economie.fgov.be/fr/themes/ventes/soldes
 CATEGORIES:Belgique\,Soldes\,Consommation
 STATUS:CONFIRMED
@@ -41,7 +44,8 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20260601
 DTEND;VALUE=DATE:20260701
 SUMMARY:Période d attente avant soldes d été - Belgique
-DESCRIPTION:Période légale d attente pre-soldes d été. Source: https://economie.fgov.be/fr/themes/ventes/soldes. Fiabilité: haute.
+DESCRIPTION:Période légale d attente pre-soldes d été. Source: https://
+ economie.fgov.be/fr/themes/ventes/soldes. Fiabilité: haute.
 URL:https://economie.fgov.be/fr/themes/ventes/soldes
 CATEGORIES:Belgique\,Soldes\,Consommation
 STATUS:CONFIRMED
@@ -52,7 +56,9 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20260701
 DTEND;VALUE=DATE:20260801
 SUMMARY:Soldes d été - Belgique
-DESCRIPTION:Période légale des soldes d été. Source: https://economie.fgov.be/fr/themes/ventes/soldes. Fiabilité: haute sauf adaptation legislative.
+DESCRIPTION:Période légale des soldes d été. Source: https://economie.f
+ gov.be/fr/themes/ventes/soldes. Fiabilité: haute sauf adaptation législa
+ tive.
 URL:https://economie.fgov.be/fr/themes/ventes/soldes
 CATEGORIES:Belgique\,Soldes\,Consommation
 STATUS:CONFIRMED
@@ -63,7 +69,9 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20261202
 DTEND;VALUE=DATE:20270102
 SUMMARY:Période d attente avant soldes d hiver - Belgique
-DESCRIPTION:Période légale d attente pre-soldes d hiver. Source: https://economie.fgov.be/fr/themes/ventes/soldes. Fiabilité: haute. Note: en 2027 les soldes avancent au 2 jan (le 3 tombe un dimanche).
+DESCRIPTION:Période légale d attente pre-soldes d hiver. Source: https://
+ economie.fgov.be/fr/themes/ventes/soldes. Fiabilité: haute. Note: en 2027
+  les soldes avancent au 2 jan (le 3 tombe un dimanche).
 URL:https://economie.fgov.be/fr/themes/ventes/soldes
 CATEGORIES:Belgique\,Soldes\,Consommation
 STATUS:CONFIRMED
@@ -74,7 +82,9 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20270102
 DTEND;VALUE=DATE:20270201
 SUMMARY:Soldes d hiver - Belgique
-DESCRIPTION:Période légale des soldes d hiver (début 2 jan car le 3 tombe un dimanche). Source: https://economie.fgov.be/fr/themes/ventes/soldes. Fiabilité: haute.
+DESCRIPTION:Période légale des soldes d hiver (début 2 jan car le 3 tomb
+ e un dimanche). Source: https://economie.fgov.be/fr/themes/ventes/soldes. 
+ Fiabilité: haute.
 URL:https://economie.fgov.be/fr/themes/ventes/soldes
 CATEGORIES:Belgique\,Soldes\,Consommation
 STATUS:CONFIRMED
@@ -85,7 +95,8 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20270601
 DTEND;VALUE=DATE:20270701
 SUMMARY:Période d attente avant soldes d été - Belgique
-DESCRIPTION:Période légale d attente pre-soldes d été. Source: https://economie.fgov.be/fr/themes/ventes/soldes. Fiabilité: haute.
+DESCRIPTION:Période légale d attente pre-soldes d été. Source: https://
+ economie.fgov.be/fr/themes/ventes/soldes. Fiabilité: haute.
 URL:https://economie.fgov.be/fr/themes/ventes/soldes
 CATEGORIES:Belgique\,Soldes\,Consommation
 STATUS:CONFIRMED
@@ -96,7 +107,9 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20270701
 DTEND;VALUE=DATE:20270801
 SUMMARY:Soldes d été - Belgique
-DESCRIPTION:Période légale des soldes d été. Source: https://economie.fgov.be/fr/themes/ventes/soldes. Fiabilité: haute sauf adaptation legislative.
+DESCRIPTION:Période légale des soldes d été. Source: https://economie.f
+ gov.be/fr/themes/ventes/soldes. Fiabilité: haute sauf adaptation législa
+ tive.
 URL:https://economie.fgov.be/fr/themes/ventes/soldes
 CATEGORIES:Belgique\,Soldes\,Consommation
 STATUS:CONFIRMED
@@ -107,7 +120,8 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20271203
 DTEND;VALUE=DATE:20280103
 SUMMARY:Période d attente avant soldes d hiver - Belgique
-DESCRIPTION:Période légale d attente pre-soldes d hiver. Source: https://economie.fgov.be/fr/themes/ventes/soldes. Fiabilité: haute.
+DESCRIPTION:Période légale d attente pre-soldes d hiver. Source: https://
+ economie.fgov.be/fr/themes/ventes/soldes. Fiabilité: haute.
 URL:https://economie.fgov.be/fr/themes/ventes/soldes
 CATEGORIES:Belgique\,Soldes\,Consommation
 STATUS:CONFIRMED
@@ -118,7 +132,9 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20280103
 DTEND;VALUE=DATE:20280201
 SUMMARY:Soldes d hiver - Belgique
-DESCRIPTION:Période légale des soldes d hiver. Source: https://economie.fgov.be/fr/themes/ventes/soldes. Fiabilité: haute sauf adaptation legislative.
+DESCRIPTION:Période légale des soldes d hiver. Source: https://economie.f
+ gov.be/fr/themes/ventes/soldes. Fiabilité: haute sauf adaptation législa
+ tive.
 URL:https://economie.fgov.be/fr/themes/ventes/soldes
 CATEGORIES:Belgique\,Soldes\,Consommation
 STATUS:CONFIRMED
@@ -129,7 +145,8 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20280601
 DTEND;VALUE=DATE:20280701
 SUMMARY:Période d attente avant soldes d été - Belgique
-DESCRIPTION:Période légale d attente pre-soldes d été. Source: https://economie.fgov.be/fr/themes/ventes/soldes. Fiabilité: haute.
+DESCRIPTION:Période légale d attente pre-soldes d été. Source: https://
+ economie.fgov.be/fr/themes/ventes/soldes. Fiabilité: haute.
 URL:https://economie.fgov.be/fr/themes/ventes/soldes
 CATEGORIES:Belgique\,Soldes\,Consommation
 STATUS:CONFIRMED
@@ -140,7 +157,9 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20280701
 DTEND;VALUE=DATE:20280801
 SUMMARY:Soldes d été - Belgique
-DESCRIPTION:Période légale des soldes d été. Source: https://economie.fgov.be/fr/themes/ventes/soldes. Fiabilité: haute sauf adaptation legislative.
+DESCRIPTION:Période légale des soldes d été. Source: https://economie.f
+ gov.be/fr/themes/ventes/soldes. Fiabilité: haute sauf adaptation législa
+ tive.
 URL:https://economie.fgov.be/fr/themes/ventes/soldes
 CATEGORIES:Belgique\,Soldes\,Consommation
 STATUS:CONFIRMED
@@ -151,7 +170,8 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20281203
 DTEND;VALUE=DATE:20290103
 SUMMARY:Période d attente avant soldes d hiver - Belgique
-DESCRIPTION:Période légale d attente pre-soldes d hiver. Source: https://economie.fgov.be/fr/themes/ventes/soldes. Fiabilité: haute.
+DESCRIPTION:Période légale d attente pre-soldes d hiver. Source: https://
+ economie.fgov.be/fr/themes/ventes/soldes. Fiabilité: haute.
 URL:https://economie.fgov.be/fr/themes/ventes/soldes
 CATEGORIES:Belgique\,Soldes\,Consommation
 STATUS:CONFIRMED
@@ -162,7 +182,9 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20290103
 DTEND;VALUE=DATE:20290201
 SUMMARY:Soldes d hiver - Belgique
-DESCRIPTION:Période légale des soldes d hiver. Source: https://economie.fgov.be/fr/themes/ventes/soldes. Fiabilité: haute sauf adaptation legislative.
+DESCRIPTION:Période légale des soldes d hiver. Source: https://economie.f
+ gov.be/fr/themes/ventes/soldes. Fiabilité: haute sauf adaptation législa
+ tive.
 URL:https://economie.fgov.be/fr/themes/ventes/soldes
 CATEGORIES:Belgique\,Soldes\,Consommation
 STATUS:CONFIRMED
@@ -173,7 +195,10 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20290531
 DTEND;VALUE=DATE:20290630
 SUMMARY:Période d attente avant soldes d été - Belgique
-DESCRIPTION:Période légale d attente pre-soldes d été. En 2029, le 1er juillet tombe un dimanche et l ouverture des soldes est avancee au 30 juin. Source: https://economie.fgov.be/fr/themes/ventes/soldes. Fiabilité: haute.
+DESCRIPTION:Période légale d attente pre-soldes d été. En 2029, le 1er 
+ juillet tombe un dimanche et l ouverture des soldes est avancee au 30 juin
+ . Source: https://economie.fgov.be/fr/themes/ventes/soldes. Fiabilité: ha
+ ute.
 URL:https://economie.fgov.be/fr/themes/ventes/soldes
 CATEGORIES:Belgique\,Soldes\,Consommation
 STATUS:CONFIRMED
@@ -184,7 +209,10 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20290630
 DTEND;VALUE=DATE:20290801
 SUMMARY:Soldes d été - Belgique
-DESCRIPTION:Période légale des soldes d été (début avance au 30 juin en 2029 car le 1er juillet tombe un dimanche). Source: https://economie.fgov.be/fr/themes/ventes/soldes. Fiabilité: haute sauf adaptation legislative.
+DESCRIPTION:Période légale des soldes d été (début avance au 30 juin e
+ n 2029 car le 1er juillet tombe un dimanche). Source: https://economie.fgo
+ v.be/fr/themes/ventes/soldes. Fiabilité: haute sauf adaptation législati
+ ve.
 URL:https://economie.fgov.be/fr/themes/ventes/soldes
 CATEGORIES:Belgique\,Soldes\,Consommation
 STATUS:CONFIRMED
@@ -195,7 +223,8 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20291203
 DTEND;VALUE=DATE:20300103
 SUMMARY:Période d attente avant soldes d hiver - Belgique
-DESCRIPTION:Période légale d attente pre-soldes d hiver. Source: https://economie.fgov.be/fr/themes/ventes/soldes. Fiabilité: haute.
+DESCRIPTION:Période légale d attente pre-soldes d hiver. Source: https://
+ economie.fgov.be/fr/themes/ventes/soldes. Fiabilité: haute.
 URL:https://economie.fgov.be/fr/themes/ventes/soldes
 CATEGORIES:Belgique\,Soldes\,Consommation
 STATUS:CONFIRMED
@@ -206,7 +235,9 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20300103
 DTEND;VALUE=DATE:20300201
 SUMMARY:Soldes d hiver - Belgique
-DESCRIPTION:Période légale des soldes d hiver. Source: https://economie.fgov.be/fr/themes/ventes/soldes. Fiabilité: haute sauf adaptation legislative.
+DESCRIPTION:Période légale des soldes d hiver. Source: https://economie.f
+ gov.be/fr/themes/ventes/soldes. Fiabilité: haute sauf adaptation législa
+ tive.
 URL:https://economie.fgov.be/fr/themes/ventes/soldes
 CATEGORIES:Belgique\,Soldes\,Consommation
 STATUS:CONFIRMED
@@ -217,7 +248,8 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20300601
 DTEND;VALUE=DATE:20300701
 SUMMARY:Période d attente avant soldes d été - Belgique
-DESCRIPTION:Période légale d attente pre-soldes d été. Source: https://economie.fgov.be/fr/themes/ventes/soldes. Fiabilité: haute.
+DESCRIPTION:Période légale d attente pre-soldes d été. Source: https://
+ economie.fgov.be/fr/themes/ventes/soldes. Fiabilité: haute.
 URL:https://economie.fgov.be/fr/themes/ventes/soldes
 CATEGORIES:Belgique\,Soldes\,Consommation
 STATUS:CONFIRMED
@@ -228,7 +260,9 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20300701
 DTEND;VALUE=DATE:20300801
 SUMMARY:Soldes d été - Belgique
-DESCRIPTION:Période légale des soldes d été. Source: https://economie.fgov.be/fr/themes/ventes/soldes. Fiabilité: haute sauf adaptation legislative.
+DESCRIPTION:Période légale des soldes d été. Source: https://economie.f
+ gov.be/fr/themes/ventes/soldes. Fiabilité: haute sauf adaptation législa
+ tive.
 URL:https://economie.fgov.be/fr/themes/ventes/soldes
 CATEGORIES:Belgique\,Soldes\,Consommation
 STATUS:CONFIRMED
@@ -239,7 +273,8 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20301203
 DTEND;VALUE=DATE:20310103
 SUMMARY:Période d attente avant soldes d hiver - Belgique
-DESCRIPTION:Période légale d attente pre-soldes d hiver. Source: https://economie.fgov.be/fr/themes/ventes/soldes. Fiabilité: haute.
+DESCRIPTION:Période légale d attente pre-soldes d hiver. Source: https://
+ economie.fgov.be/fr/themes/ventes/soldes. Fiabilité: haute.
 URL:https://economie.fgov.be/fr/themes/ventes/soldes
 CATEGORIES:Belgique\,Soldes\,Consommation
 STATUS:CONFIRMED
@@ -250,7 +285,9 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20310103
 DTEND;VALUE=DATE:20310201
 SUMMARY:Soldes d hiver - Belgique
-DESCRIPTION:Période légale des soldes d hiver. Source: https://economie.fgov.be/fr/themes/ventes/soldes. Fiabilité: haute sauf adaptation legislative.
+DESCRIPTION:Période légale des soldes d hiver. Source: https://economie.f
+ gov.be/fr/themes/ventes/soldes. Fiabilité: haute sauf adaptation législa
+ tive.
 URL:https://economie.fgov.be/fr/themes/ventes/soldes
 CATEGORIES:Belgique\,Soldes\,Consommation
 STATUS:CONFIRMED
@@ -261,7 +298,8 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20310601
 DTEND;VALUE=DATE:20310701
 SUMMARY:Période d attente avant soldes d été - Belgique
-DESCRIPTION:Période légale d attente pre-soldes d été. Source: https://economie.fgov.be/fr/themes/ventes/soldes. Fiabilité: haute.
+DESCRIPTION:Période légale d attente pre-soldes d été. Source: https://
+ economie.fgov.be/fr/themes/ventes/soldes. Fiabilité: haute.
 URL:https://economie.fgov.be/fr/themes/ventes/soldes
 CATEGORIES:Belgique\,Soldes\,Consommation
 STATUS:CONFIRMED
@@ -272,7 +310,9 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20310701
 DTEND;VALUE=DATE:20310801
 SUMMARY:Soldes d été - Belgique
-DESCRIPTION:Période légale des soldes d été. Source: https://economie.fgov.be/fr/themes/ventes/soldes. Fiabilité: haute sauf adaptation legislative.
+DESCRIPTION:Période légale des soldes d été. Source: https://economie.f
+ gov.be/fr/themes/ventes/soldes. Fiabilité: haute sauf adaptation législa
+ tive.
 URL:https://economie.fgov.be/fr/themes/ventes/soldes
 CATEGORIES:Belgique\,Soldes\,Consommation
 STATUS:CONFIRMED
@@ -283,7 +323,8 @@ DTSTAMP:20260210T120000Z
 DTSTART;VALUE=DATE:20311203
 DTEND;VALUE=DATE:20320103
 SUMMARY:Période d attente avant soldes d hiver - Belgique
-DESCRIPTION:Période légale d attente pre-soldes d hiver. Source: https://economie.fgov.be/fr/themes/ventes/soldes. Fiabilité: haute.
+DESCRIPTION:Période légale d attente pre-soldes d hiver. Source: https://
+ economie.fgov.be/fr/themes/ventes/soldes. Fiabilité: haute.
 URL:https://economie.fgov.be/fr/themes/ventes/soldes
 CATEGORIES:Belgique\,Soldes\,Consommation
 STATUS:CONFIRMED
