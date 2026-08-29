@@ -4,7 +4,7 @@ PRODID:-//FacilAbo//Conferences Tech-Gaming//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Conferences Tech/Gaming
-X-WR-CALDESC:Conferences Tech/Gaming officielles - MVP 2026
+X-WR-CALDESC:Conferences Tech/Gaming officielles - couverture 2026-2027
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Paris
@@ -141,6 +141,82 @@ SUMMARY:BlizzCon 2026
 DESCRIPTION:BlizzCon - dates officielles. Source officielle: https://news.blizzard.com/en-us/article/24188065/blizzcon-returns-in-2026
 LOCATION:Anaheim\, USA
 URL:https://news.blizzard.com/en-us/article/24188065/blizzcon-returns-in-2026
+CATEGORIES:Culture,Tech,Gaming
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:culture-tech-gaming-ces-2027-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270106
+DTEND;VALUE=DATE:20270110
+SUMMARY:CES 2027
+DESCRIPTION:Consumer Technology Association - dates officielles 2027. Sourc
+ e officielle: https://www.ces.tech/press-releases/ces-asia-unveiled-seoul-
+ heads-to-kes-on-the-road-to-ces-2027
+LOCATION:Las Vegas\, USA
+URL:https://www.ces.tech/press-releases/ces-asia-unveiled-seoul-heads-to-ke
+ s-on-the-road-to-ces-2027
+CATEGORIES:Culture,Tech,Gaming
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:culture-tech-gaming-google-cloud-next-2027-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270413
+DTEND;VALUE=DATE:20270416
+SUMMARY:Google Cloud Next 2027
+DESCRIPTION:Conference Google Cloud Next - dates officielles 2027. Source o
+ fficielle: https://cloud.google.com/blog/topics/google-cloud-next/google-c
+ loud-next-2026-wrap-up
+LOCATION:Las Vegas\, USA
+URL:https://cloud.google.com/blog/topics/google-cloud-next/google-cloud-nex
+ t-2026-wrap-up
+CATEGORIES:Culture,Tech,Gaming
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:culture-tech-gaming-pax-east-2027-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270422
+DTEND;VALUE=DATE:20270426
+SUMMARY:PAX East 2027
+DESCRIPTION:Festival PAX East - dates officielles 2027. Source officielle:
+  https://east.paxsite.com/
+LOCATION:Thomas M. Menino Convention & Exhibition Center\, 415 Summer St\,
+  Boston\, MA 02210\, USA
+URL:https://east.paxsite.com/
+CATEGORIES:Culture,Tech,Gaming
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:culture-tech-gaming-siggraph-2027-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270808
+DTEND;VALUE=DATE:20270813
+SUMMARY:SIGGRAPH 2027
+DESCRIPTION:Conference ACM SIGGRAPH - dates officielles 2027\; Anaheim conf
+ irme\, lieu exact a publier. Source officielle: https://s2026.siggraph.org
+ /siggraph-2026-unites-global-computer-graphics-community-in-los-angeles-wi
+ th-landmark-keynotes-inaugural-games-summit-and-ai-innovation/
+LOCATION:Anaheim\, California\, USA
+URL:https://s2026.siggraph.org/siggraph-2026-unites-global-computer-graphic
+ s-community-in-los-angeles-with-landmark-keynotes-inaugural-games-summit-a
+ nd-ai-innovation/
+CATEGORIES:Culture,Tech,Gaming
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:culture-tech-gaming-gamescom-dev-2027-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270823
+DTEND;VALUE=DATE:20270825
+SUMMARY:gamescom dev 2027
+DESCRIPTION:Conference gamescom dev - dates officielles 2027. Source offici
+ elle: https://www.gamescom.global/en/gamescom-congress-2026-concludes-with
+ -record-attendance-and-the-federal-presidents-first-ever-visit
+LOCATION:Cologne\, Germany
+URL:https://www.gamescom.global/en/gamescom-congress-2026-concludes-with-re
+ cord-attendance-and-the-federal-presidents-first-ever-visit
 CATEGORIES:Culture,Tech,Gaming
 STATUS:CONFIRMED
 END:VEVENT

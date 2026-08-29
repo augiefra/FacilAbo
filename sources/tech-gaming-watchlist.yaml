@@ -1,6 +1,7 @@
 {
   "version": 1,
-  "generated_at": "2026-02-06",
+  "generated_at": "2026-08-29",
+  "coverage": "2026-2027",
   "timezone_default": "Europe/Paris",
   "cadence_hours": 6,
   "sources": [
@@ -211,6 +212,111 @@
         "location": "Anaheim, USA",
         "status": "CONFIRMED",
         "dtstamp": "20260206T120000Z",
+        "categories": ["Culture", "Tech", "Gaming"]
+      }
+    },
+    {
+      "slug": "ces-2027",
+      "event_name": "CES 2027",
+      "source_url": "https://www.ces.tech/press-releases/ces-asia-unveiled-seoul-heads-to-kes-on-the-road-to-ces-2027",
+      "selector_rule": "Find the official 2027 date range on CTA pages",
+      "timezone_source": "America/Los_Angeles",
+      "confidence_rule": "high_if_date_explicit",
+      "enabled": true,
+      "watch_only": false,
+      "event": {
+        "summary": "CES 2027",
+        "description": "Consumer Technology Association - dates officielles 2027.",
+        "start_date": "2027-01-06",
+        "end_date": "2027-01-09",
+        "timed": false,
+        "location": "Las Vegas, USA",
+        "status": "CONFIRMED",
+        "dtstamp": "20260829T120000Z",
+        "categories": ["Culture", "Tech", "Gaming"]
+      }
+    },
+    {
+      "slug": "google-cloud-next-2027",
+      "event_name": "Google Cloud Next 2027",
+      "source_url": "https://cloud.google.com/blog/topics/google-cloud-next/google-cloud-next-2026-wrap-up",
+      "selector_rule": "Find the official 2027 date range in Google Cloud announcements",
+      "timezone_source": "America/Los_Angeles",
+      "confidence_rule": "high_if_date_explicit",
+      "enabled": true,
+      "watch_only": false,
+      "event": {
+        "summary": "Google Cloud Next 2027",
+        "description": "Conference Google Cloud Next - dates officielles 2027.",
+        "start_date": "2027-04-13",
+        "end_date": "2027-04-15",
+        "timed": false,
+        "location": "Las Vegas, USA",
+        "status": "CONFIRMED",
+        "dtstamp": "20260829T120000Z",
+        "categories": ["Culture", "Tech", "Gaming"]
+      }
+    },
+    {
+      "slug": "pax-east-2027",
+      "event_name": "PAX East 2027",
+      "source_url": "https://east.paxsite.com/",
+      "selector_rule": "Find the official 2027 date range for PAX East",
+      "timezone_source": "America/New_York",
+      "confidence_rule": "high_if_date_explicit",
+      "enabled": true,
+      "watch_only": false,
+      "event": {
+        "summary": "PAX East 2027",
+        "description": "Festival PAX East - dates officielles 2027.",
+        "start_date": "2027-04-22",
+        "end_date": "2027-04-25",
+        "timed": false,
+        "location": "Thomas M. Menino Convention & Exhibition Center, 415 Summer St, Boston, MA 02210, USA",
+        "status": "CONFIRMED",
+        "dtstamp": "20260829T120000Z",
+        "categories": ["Culture", "Tech", "Gaming"]
+      }
+    },
+    {
+      "slug": "siggraph-2027",
+      "event_name": "SIGGRAPH 2027",
+      "source_url": "https://s2026.siggraph.org/siggraph-2026-unites-global-computer-graphics-community-in-los-angeles-with-landmark-keynotes-inaugural-games-summit-and-ai-innovation/",
+      "selector_rule": "Find the official 2027 conference date range in SIGGRAPH pages",
+      "timezone_source": "America/Los_Angeles",
+      "confidence_rule": "high_if_date_explicit",
+      "enabled": true,
+      "watch_only": false,
+      "event": {
+        "summary": "SIGGRAPH 2027",
+        "description": "Conference ACM SIGGRAPH - dates officielles 2027; Anaheim confirme, lieu exact a publier.",
+        "start_date": "2027-08-08",
+        "end_date": "2027-08-12",
+        "timed": false,
+        "location": "Anaheim, California, USA",
+        "status": "CONFIRMED",
+        "dtstamp": "20260829T120000Z",
+        "categories": ["Culture", "Tech", "Gaming"]
+      }
+    },
+    {
+      "slug": "gamescom-dev-2027",
+      "event_name": "gamescom dev 2027",
+      "source_url": "https://www.gamescom.global/en/gamescom-congress-2026-concludes-with-record-attendance-and-the-federal-presidents-first-ever-visit",
+      "selector_rule": "Find the official 2027 gamescom dev dates in gamescom announcements",
+      "timezone_source": "Europe/Berlin",
+      "confidence_rule": "high_if_date_explicit",
+      "enabled": true,
+      "watch_only": false,
+      "event": {
+        "summary": "gamescom dev 2027",
+        "description": "Conference gamescom dev - dates officielles 2027.",
+        "start_date": "2027-08-23",
+        "end_date": "2027-08-24",
+        "timed": false,
+        "location": "Cologne, Germany",
+        "status": "CONFIRMED",
+        "dtstamp": "20260829T120000Z",
         "categories": ["Culture", "Tech", "Gaming"]
       }
     },

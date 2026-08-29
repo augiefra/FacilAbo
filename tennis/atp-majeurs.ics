@@ -1,10 +1,10 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//FacilAbo//Tennis ATP Majeurs 2026//FR
+PRODID:-//FacilAbo//Tennis ATP Majeurs 2026-2027//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
-X-WR-CALNAME:Tennis ATP Majeurs 2026
-X-WR-CALDESC:Grand Chelem + Masters 1000 + ATP Finals
+X-WR-CALNAME:Tennis ATP Majeurs 2026-2027
+X-WR-CALDESC:Grand Chelem + Masters 1000 + ATP Finals - saisons 2026-2027
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Paris
@@ -176,6 +176,150 @@ SUMMARY:🏆 ATP Finals (Finals)
 DESCRIPTION:ATP Finals - Turin, Italie - Tournoi des 8 meilleurs joueurs de la saison
 LOCATION:Turin, Italie
 CATEGORIES:Tennis,Finals
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:australian-open-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270201
+SUMMARY:🏆 Open d'Australie (Grand Chelem)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Melbourne\, Australie
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,Grand Chelem
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:indianwells-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270315
+SUMMARY:⭐ BNP Paribas Open (Masters 1000)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Indian Wells\, Etats-Unis
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,Masters 1000
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:miami-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270329
+SUMMARY:⭐ Miami Open presented by Itaú (Masters 1000)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Miami\, Etats-Unis
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,Masters 1000
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:montecarlo-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270412
+SUMMARY:⭐ Rolex Monte-Carlo Masters (Masters 1000)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Monte-Carlo\, Monaco
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,Masters 1000
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:madrid-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270503
+SUMMARY:⭐ Mutua Madrid Open (Masters 1000)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Madrid\, Espagne
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,Masters 1000
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:rome-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270517
+SUMMARY:⭐ Internazionali BNL d'Italia (Masters 1000)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Rome\, Italie
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,Masters 1000
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:roland-garros-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270607
+SUMMARY:🏆 Roland-Garros (Grand Chelem)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Paris\, France
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,Grand Chelem
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wimbledon-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270712
+SUMMARY:🏆 Wimbledon (Grand Chelem)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Londres\, Royaume-Uni
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,Grand Chelem
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:toronto-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270813
+SUMMARY:⭐ National Bank Open presented by Rogers (Masters 1000)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Toronto\, Canada
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,Masters 1000
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:us-open-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270913
+SUMMARY:🏆 US Open (Grand Chelem)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:New York\, Etats-Unis
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,Grand Chelem
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:shanghai-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20271006
+DTEND;VALUE=DATE:20271018
+SUMMARY:⭐ Rolex Shanghai Masters (Masters 1000)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Shanghai\, Chine
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,Masters 1000
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:paris-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20271101
+DTEND;VALUE=DATE:20271108
+SUMMARY:⭐ Rolex Paris Masters (Masters 1000)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Paris\, France
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,Masters 1000
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

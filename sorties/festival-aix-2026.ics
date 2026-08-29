@@ -1,10 +1,10 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//FacilAbo//Sorties Festival Aix 2026//FR
+PRODID:-//FacilAbo//Sorties Festival Aix 2026-2027//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
-X-WR-CALNAME:Festival d'Aix-en-Provence 2026
-X-WR-CALDESC:Festival d'Aix-en-Provence, du 2 au 21 juillet 2026
+X-WR-CALNAME:Festival d'Aix-en-Provence 2026-2027
+X-WR-CALDESC:Festival d'Aix-en-Provence, éditions 2026 et 2027
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Paris
@@ -33,6 +33,19 @@ SUMMARY:Festival d'Aix-en-Provence
 DESCRIPTION:Festival d'Aix-en-Provence 2026, du 2 au 21 juillet. Source officielle: festival-aix.com
 LOCATION:Aix-en-Provence, Bouches-du-Rhone, France
 URL:https://festival-aix.com/
+CATEGORIES:Sorties,Festival,Culture
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sorties-festival-aix-dedie-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270701
+DTEND;VALUE=DATE:20270721
+SUMMARY:Festival d'Aix-en-Provence
+DESCRIPTION:Festival d'Aix-en-Provence 2027, du 1er au 20 juillet.Source of
+ ficielle: festival-aix.com/accueil-du-festival
+LOCATION:Aix-en-Provence, France
+URL:https://festival-aix.com/accueil-du-festival
 CATEGORIES:Sorties,Festival,Culture
 STATUS:CONFIRMED
 END:VEVENT

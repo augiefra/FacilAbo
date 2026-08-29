@@ -1,11 +1,11 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//FacilAbo//Sorties Fetes Traditions 2026//FR
+PRODID:-//FacilAbo//Sorties Fetes Traditions 2026-2027//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
-X-WR-CALNAME:Fêtes et traditions 2026
-X-WR-CALDESC:Grands carnavals, ferias et fêtes populaires localisées en F
- rance
+X-WR-CALNAME:Fêtes et traditions 2026-2027
+X-WR-CALDESC:Grands carnavals, ferias et fêtes populaires en France
+ (2026-2027)
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Paris
@@ -88,6 +88,33 @@ DESCRIPTION:Fête des Lumieres 2026, du 5 au 8 décembre a Lyon. Source off
 LOCATION:Lyon, Rhone, France
 URL:https://www.fetedeslumieres.lyon.fr/
 CATEGORIES:Sorties,Lumieres,Traditions
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sorties-carnaval-granville-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270205
+DTEND;VALUE=DATE:20270210
+SUMMARY:Carnaval de Granville
+DESCRIPTION:153e Carnaval de Granville, du 5 au 9 février 2027.Source offi
+ cielle: carnaval-de-granville.fr
+LOCATION:Granville, France
+URL:https://www.carnaval-de-granville.fr/rendez-vous-du-5-au-9-fevrier-2027
+ -pour-le-153eme-carnaval-de-granville/
+CATEGORIES:Sorties,Carnaval,Traditions
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sorties-fete-citron-menton-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270301
+SUMMARY:Fête du Citron® à Menton
+DESCRIPTION:Fête du Citron® à Menton, du 13 au 28 février 2027.Source o
+ fficielle: fete-du-citron.com
+LOCATION:Menton, Alpes-Maritimes, France
+URL:https://www.fete-du-citron.com/-Agenda-de-la-Fete-.html
+CATEGORIES:Sorties,Traditions,Gastronomie
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

@@ -89,6 +89,29 @@ function escapeIcsText(value) {
     .replace(/;/g, '\\;');
 }
 
+function foldIcsLine(line, limit = 75) {
+  const folded = [];
+  let remaining = line;
+  let first = true;
+
+  while (Buffer.byteLength(remaining, 'utf8') > (first ? limit : limit - 1)) {
+    const byteLimit = first ? limit : limit - 1;
+    let chunk = '';
+    for (const character of remaining) {
+      if (Buffer.byteLength(chunk + character, 'utf8') > byteLimit) break;
+      chunk += character;
+    }
+    chunk = chunk.replace(/ +$/u, '');
+    if (!chunk) fail(`Unable to fold ICS line: ${line}`);
+    folded.push(`${first ? '' : ' '}${chunk}`);
+    remaining = remaining.slice(chunk.length);
+    first = false;
+  }
+
+  folded.push(`${first ? '' : ' '}${remaining}`);
+  return folded;
+}
+
 function formatDateForIcs(dateString) {
   return dateString.replace(/-/g, '');
 }
@@ -153,7 +176,10 @@ function buildVevent(source) {
   lines.push(`STATUS:${event.status || 'CONFIRMED'}`);
   lines.push('END:VEVENT');
 
-  return lines.join('\n');
+  const serializedLines = Number(year) >= 2027
+    ? lines.flatMap((line) => foldIcsLine(line))
+    : lines;
+  return serializedLines.join('\n');
 }
 
 function buildCalendar(config) {
@@ -169,7 +195,7 @@ function buildCalendar(config) {
     'METHOD:PUBLISH',
     'CALSCALE:GREGORIAN',
     'X-WR-CALNAME:Conferences Tech/Gaming',
-    'X-WR-CALDESC:Conferences Tech/Gaming officielles - MVP 2026',
+    `X-WR-CALDESC:Conferences Tech/Gaming officielles - couverture ${config.coverage || 'courante'}`,
     'X-WR-TIMEZONE:Europe/Paris',
     'BEGIN:VTIMEZONE',
     'TZID:Europe/Paris',

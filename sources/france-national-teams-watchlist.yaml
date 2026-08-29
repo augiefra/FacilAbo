@@ -208,6 +208,63 @@
       ]
     },
     {
+      "slug": "rugby-france-rwc-2027-official",
+      "sport": "rugby",
+      "source_url": "https://resources.worldrugby-rims.pulselive.com/worldrugby/document/2026/02/02/d096842d-5029-42fc-9720-3eaa66d27134/RWC-2027_Match-Schedule_All.pdf",
+      "parser": "ics",
+      "selector_rule": "Official World Rugby RWC 2027 schedule PDF; fallback-only until a structured World Rugby fixture feed is available",
+      "timezone_source": "Australia/Melbourne",
+      "timezone_sources": ["Australia/Melbourne", "Australia/Brisbane", "Australia/Sydney"],
+      "confidence_rule": "high_if_official_match_uuid_and_local_kickoff_are_present",
+      "enabled": true,
+      "watch_only": false,
+      "crawl_enabled": false,
+      "include_keywords": ["france"],
+      "exclude_keywords": ["u20", "women", "feminine", "feminin", "sevens", "7s"],
+      "categories": ["Sport", "Rugby", "Equipe de France"],
+      "fallback_events": [
+        {
+          "uid_key": "france-rugby-rwc-2027-ad7110fd-1629-4e93-af79-60968eb0a85b",
+          "official_match_id": "ad7110fd-1629-4e93-af79-60968eb0a85b",
+          "dtstamp": "20260829T120000Z",
+          "summary": "France - États-Unis",
+          "timed": true,
+          "start_datetime": "2027-10-02T09:45:00",
+          "end_datetime": "2027-10-02T11:45:00",
+          "location": "Docklands Stadium, Melbourne | Narrm",
+          "competition": "Coupe du monde masculine 2027 - Poule E",
+          "source_url": "https://www.rugbyworldcup.com/2027/fr/match/ad7110fd-1629-4e93-af79-60968eb0a85b",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "france-rugby-rwc-2027-e0941c8b-0cc8-4d2d-9fb2-18a3c9d65db9",
+          "official_match_id": "e0941c8b-0cc8-4d2d-9fb2-18a3c9d65db9",
+          "dtstamp": "20260829T120000Z",
+          "summary": "France - Japon",
+          "timed": true,
+          "start_datetime": "2027-10-09T10:45:00",
+          "end_datetime": "2027-10-09T12:45:00",
+          "location": "Brisbane Stadium, Brisbane | Meeanjin",
+          "competition": "Coupe du monde masculine 2027 - Poule E",
+          "source_url": "https://www.rugbyworldcup.com/2027/fr/match/e0941c8b-0cc8-4d2d-9fb2-18a3c9d65db9",
+          "status": "CONFIRMED"
+        },
+        {
+          "uid_key": "france-rugby-rwc-2027-782f5044-7c82-467c-b471-d27cb1a2d482",
+          "official_match_id": "782f5044-7c82-467c-b471-d27cb1a2d482",
+          "dtstamp": "20260829T120000Z",
+          "summary": "France - Samoa",
+          "timed": true,
+          "start_datetime": "2027-10-17T10:45:00",
+          "end_datetime": "2027-10-17T12:45:00",
+          "location": "Sydney Football Stadium, Sydney | Gadigal",
+          "competition": "Coupe du monde masculine 2027 - Poule E",
+          "source_url": "https://www.rugbyworldcup.com/2027/fr/match/782f5044-7c82-467c-b471-d27cb1a2d482",
+          "status": "CONFIRMED"
+        }
+      ]
+    },
+    {
       "slug": "rugby-france-ffr-watch",
       "sport": "rugby",
       "source_url": "https://www.ffr.fr/equipes-de-france/",

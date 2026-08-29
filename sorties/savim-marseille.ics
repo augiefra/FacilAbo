@@ -1,11 +1,11 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//FacilAbo//Sorties SAVIM Marseille 2026//FR
+PRODID:-//FacilAbo//Sorties SAVIM Marseille 2026-2027//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
-X-WR-CALNAME:SAVIM Marseille 2026
-X-WR-CALDESC:SAVIM Marseille, salon des vins et de la gastronomie au Parc C
- hanot
+X-WR-CALNAME:SAVIM Marseille 2026-2027
+X-WR-CALDESC:SAVIM Marseille, éditions 2026 et printemps 2027
+ au Parc Chanot
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Paris
@@ -50,6 +50,19 @@ DESCRIPTION:38e édition de SAVIM automne, du 20 au 23 novembre 2026 au Par
 LOCATION:Parc Chanot, Marseille, France
 URL:https://www.salons-savim.fr/marseille/infos-pratiques-salon-savim-marse
  ille/
+CATEGORIES:Sorties,Salon,Vins et gastronomie
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sorties-savim-marseille-printemps-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270326
+DTEND;VALUE=DATE:20270330
+SUMMARY:SAVIM Marseille printemps
+DESCRIPTION:25e édition de SAVIM de printemps, du 26 au 29 mars 2027.Parc
+  Chanot, Marseille. Source officielle: salons-savim.fr
+LOCATION:Parc Chanot, Marseille, France
+URL:https://www.salons-savim.fr/savim/les-4-salons-savim-vin-gastronomie/
 CATEGORIES:Sorties,Salon,Vins et gastronomie
 STATUS:CONFIRMED
 END:VEVENT

@@ -1,10 +1,10 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//FacilAbo//Sorties Salons Grand Public 2026//FR
+PRODID:-//FacilAbo//Sorties Salons Grand Public 2026-2027//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
-X-WR-CALNAME:Salons grand public 2026
-X-WR-CALDESC:Japan Expo Paris et Paris Games Week 2026
+X-WR-CALNAME:Salons grand public 2026-2027
+X-WR-CALDESC:Japan Expo Paris 2026-2027; Paris Games Week 2026
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Paris
@@ -46,6 +46,19 @@ DESCRIPTION:Paris Games Week 2026, du 22 au 25 octobre a Paris Expo Porte de Ver
 LOCATION:Paris Expo Porte de Versailles, Paris, France
 URL:https://www.parisgamesweek.com/
 CATEGORIES:Sorties,Salon,Jeux video
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sorties-japan-expo-paris-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270708
+DTEND;VALUE=DATE:20270712
+SUMMARY:Japan Expo Paris
+DESCRIPTION:Japan Expo Paris 2027, du 8 au 11 juillet.Lieu et horaires 2027
+  non précisés sur la page officielle.Source officielle: paris.japan-expo
+ .com/fr
+URL:https://paris.japan-expo.com/fr
+CATEGORIES:Sorties,Salon,Culture pop
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

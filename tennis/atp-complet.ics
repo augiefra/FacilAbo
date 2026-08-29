@@ -1,10 +1,11 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//FacilAbo//Tennis ATP 2026//FR
+PRODID:-//FacilAbo//Tennis ATP 2026-2027//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
-X-WR-CALNAME:Tennis ATP 2026
-X-WR-CALDESC:Calendrier complet ATP - Grand Chelem, Masters 1000, ATP 500, ATP 250, ATP Finals
+X-WR-CALNAME:Tennis ATP 2026-2027
+X-WR-CALDESC:Calendrier ATP 2026-2027 - Grand Chelem, Masters 1000,
+ ATP 500, ATP 250, ATP Finals
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Paris
@@ -671,6 +672,717 @@ SUMMARY:🏆 ATP Finals (Finals)
 DESCRIPTION:ATP Finals - Turin, Italie - Tournoi des 8 meilleurs joueurs de la saison
 LOCATION:Turin, Italie
 CATEGORIES:Tennis,Finals
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:united-cup-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270101
+DTEND;VALUE=DATE:20270111
+SUMMARY:🏆 United Cup
+DESCRIPTION:United Cup 2027 | Source ATP Partnerships officielle | Horaires
+  non publies\, evenement all-day.
+LOCATION:Perth/Sydney\, Australie
+URL:https://www.atptour.com/-/media/files/partnerships/2026-atp-partnership
+ s-brochure.pdf
+CATEGORIES:Tennis,United Cup
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:brisbane-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270111
+SUMMARY:🎾 Brisbane International (ATP 250)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Brisbane\, Australie
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,ATP 250
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hongkong-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270111
+SUMMARY:🎾 Bank of China Hong Kong Tennis Open (ATP 250)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Hong Kong\, Hong Kong
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,ATP 250
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:adelaide-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270117
+SUMMARY:🎾 Adelaide International (ATP 250)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Adelaide\, Australie
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,ATP 250
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:auckland-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270117
+SUMMARY:🎾 ASB Classic (ATP 250)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Auckland\, Nouvelle-Zelande
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,ATP 250
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:australian-open-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270117
+DTEND;VALUE=DATE:20270201
+SUMMARY:🏆 Open d'Australie (Grand Chelem)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Melbourne\, Australie
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,Grand Chelem
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:montpellier-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270201
+DTEND;VALUE=DATE:20270208
+SUMMARY:🎾 Open Occitanie (ATP 250)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Montpellier\, France
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,ATP 250
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dallas-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270215
+SUMMARY:🎾 Nexo Dallas Open (ATP 500)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Dallas\, Etats-Unis
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,ATP 500
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:rotterdam-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270215
+SUMMARY:🎾 ABN AMRO Open (ATP 500)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Rotterdam\, Pays-Bas
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,ATP 500
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:buenosaires-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270208
+DTEND;VALUE=DATE:20270215
+SUMMARY:🎾 IEB+ Argentina Open (ATP 250)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Buenos Aires\, Argentine
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,ATP 250
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:doha-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270221
+SUMMARY:🎾 Qatar ExxonMobil Open (ATP 500)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Doha\, Qatar
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,ATP 500
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:rio-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270222
+SUMMARY:🎾 Rio Open presented by Claro (ATP 500)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Rio de Janeiro\, Bresil
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,ATP 500
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:delraybeach-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270215
+DTEND;VALUE=DATE:20270222
+SUMMARY:🎾 Delray Beach Open (ATP 250)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Delray Beach\, Etats-Unis
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,ATP 250
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:acapulco-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270228
+SUMMARY:🎾 Abierto Mexicano Telcel (ATP 500)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Acapulco\, Mexique
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,ATP 500
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:dubai-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270228
+SUMMARY:🎾 Dubai Duty Free Tennis Championships (ATP 500)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Dubai\, Emirats arabes unis
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,ATP 500
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:santiago-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270222
+DTEND;VALUE=DATE:20270301
+SUMMARY:🎾 BCI Seguros Chile Open (ATP 250)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Santiago\, Chili
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,ATP 250
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:indianwells-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270303
+DTEND;VALUE=DATE:20270315
+SUMMARY:⭐ BNP Paribas Open (Masters 1000)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Indian Wells\, Etats-Unis
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,Masters 1000
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:miami-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270317
+DTEND;VALUE=DATE:20270329
+SUMMARY:⭐ Miami Open presented by Itaú (Masters 1000)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Miami\, Etats-Unis
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,Masters 1000
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bucharest-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270405
+SUMMARY:🎾 Tiriac Open (ATP 250)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Bucarest\, Roumanie
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,ATP 250
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:houston-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270405
+SUMMARY:🎾 U.S. Men's Clay Court Championship (ATP 250)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Houston\, Etats-Unis
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,ATP 250
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:marrakech-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270329
+DTEND;VALUE=DATE:20270405
+SUMMARY:🎾 Grand Prix Hassan II (ATP 250)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Marrakech\, Maroc
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,ATP 250
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:montecarlo-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270412
+SUMMARY:⭐ Rolex Monte-Carlo Masters (Masters 1000)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Monte-Carlo\, Monaco
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,Masters 1000
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:barcelona-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270419
+SUMMARY:🎾 Barcelona Open Banc Sabadell (ATP 500)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Barcelone\, Espagne
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,ATP 500
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:munich-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270412
+DTEND;VALUE=DATE:20270419
+SUMMARY:🎾 BMW Open by Bitpanda (ATP 500)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Munich\, Allemagne
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,ATP 500
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:madrid-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270503
+SUMMARY:⭐ Mutua Madrid Open (Masters 1000)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Madrid\, Espagne
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,Masters 1000
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:rome-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270505
+DTEND;VALUE=DATE:20270517
+SUMMARY:⭐ Internazionali BNL d'Italia (Masters 1000)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Rome\, Italie
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,Masters 1000
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hamburg-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270523
+SUMMARY:🎾 Hamburg Open (ATP 500)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Hambourg\, Allemagne
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,ATP 500
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:geneva-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270523
+SUMMARY:🎾 Gonet Geneva Open (ATP 250)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Geneve\, Suisse
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,ATP 250
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:roland-garros-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270607
+SUMMARY:🏆 Roland-Garros (Grand Chelem)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Paris\, France
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,Grand Chelem
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hertogenbosch-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270607
+DTEND;VALUE=DATE:20270614
+SUMMARY:🎾 Libema Open (ATP 250)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:'s-Hertogenbosch\, Pays-Bas
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,ATP 250
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:stuttgart-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270607
+DTEND;VALUE=DATE:20270614
+SUMMARY:🎾 BOSS OPEN (ATP 250)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Stuttgart\, Allemagne
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,ATP 250
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:halle-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270621
+SUMMARY:🎾 Terra Wortmann Open (ATP 500)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Halle\, Allemagne
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,ATP 500
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:queens-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270621
+SUMMARY:🎾 HSBC Championships (ATP 500)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Londres\, Royaume-Uni
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,ATP 500
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:mallorca-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270627
+SUMMARY:🎾 Vanda Pharmaceuticals Mallorca Championships (ATP 250)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Majorque\, Espagne
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,ATP 250
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:eastbourne-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270627
+SUMMARY:🎾 Lexus Eastbourne Open (ATP 250)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Eastbourne\, Royaume-Uni
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,ATP 250
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:wimbledon-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270712
+SUMMARY:🏆 Wimbledon (Grand Chelem)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Londres\, Royaume-Uni
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,Grand Chelem
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:bastad-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270712
+DTEND;VALUE=DATE:20270719
+SUMMARY:🎾 Nordea Open (ATP 250)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Bastad\, Suede
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,ATP 250
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:gstaad-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270712
+DTEND;VALUE=DATE:20270719
+SUMMARY:🎾 EFG Swiss Open Gstaad (ATP 250)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Gstaad\, Suisse
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,ATP 250
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:umag-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270712
+DTEND;VALUE=DATE:20270719
+SUMMARY:🎾 Plava Laguna Croatia Open Umag (ATP 250)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Umag\, Croatie
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,ATP 250
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:kitzbuhel-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270719
+DTEND;VALUE=DATE:20270725
+SUMMARY:🎾 Generali Open (ATP 250)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Kitzbuhel\, Autriche
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,ATP 250
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:estoril-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270719
+DTEND;VALUE=DATE:20270726
+SUMMARY:🎾 Millennium Estoril Open (ATP 250)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Estoril\, Portugal
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,ATP 250
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:washington-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270726
+DTEND;VALUE=DATE:20270802
+SUMMARY:🎾 Mubadala Citi DC Open (ATP 500)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Washington\, D.C.\, Etats-Unis
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,ATP 500
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:loscabos-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270726
+DTEND;VALUE=DATE:20270801
+SUMMARY:🎾 Mifel Tennis Open by Telcel Oppo (ATP 250)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Los Cabos\, Mexique
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,ATP 250
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:toronto-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270813
+SUMMARY:⭐ National Bank Open presented by Rogers (Masters 1000)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Toronto\, Canada
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,Masters 1000
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:winstonsalem-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270822
+DTEND;VALUE=DATE:20270829
+SUMMARY:🎾 Winston-Salem Open (ATP 250)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Winston-Salem\, Etats-Unis
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,ATP 250
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:us-open-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270913
+SUMMARY:🏆 US Open (Grand Chelem)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:New York\, Etats-Unis
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,Grand Chelem
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:chengdu-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270922
+DTEND;VALUE=DATE:20270929
+SUMMARY:🎾 Chengdu Open (ATP 250)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Chengdu\, Chine
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,ATP 250
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:hangzhou-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270922
+DTEND;VALUE=DATE:20270929
+SUMMARY:🎾 Hangzhou Open (ATP 250)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Hangzhou\, Chine
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,ATP 250
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:laver-cup-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270924
+DTEND;VALUE=DATE:20270927
+SUMMARY:🏆 Laver Cup
+DESCRIPTION:Laver Cup 2027 | Source ATP officielle du 2026-06-17 | Horaires
+  non publies\, evenement all-day.
+LOCATION:Inglewood/Los Angeles\, Etats-Unis
+URL:https://www.atptour.com/en/news/laver-cup-2027-los-angeles
+CATEGORIES:Tennis,Laver Cup
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:tokyo-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270929
+DTEND;VALUE=DATE:20271006
+SUMMARY:🎾 Kinoshita Group Japan Open Tennis Championships (ATP 500)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Tokyo\, Japon
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,ATP 500
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:beijing-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270929
+DTEND;VALUE=DATE:20271006
+SUMMARY:🎾 China Open (ATP 500)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Pekin\, Chine
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,ATP 500
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:shanghai-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20271006
+DTEND;VALUE=DATE:20271018
+SUMMARY:⭐ Rolex Shanghai Masters (Masters 1000)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Shanghai\, Chine
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,Masters 1000
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:almaty-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20271018
+DTEND;VALUE=DATE:20271025
+SUMMARY:🎾 Almaty Open (ATP 250)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Almaty\, Kazakhstan
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,ATP 250
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:stockholm-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20271018
+DTEND;VALUE=DATE:20271025
+SUMMARY:🎾 BYBIT Stockholm Open (ATP 250)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Stockholm\, Suede
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,ATP 250
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:lyon-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20271018
+DTEND;VALUE=DATE:20271025
+SUMMARY:🎾 Grand Prix Auvergne-Rhône-Alpes (ATP 250)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Lyon\, France
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,ATP 250
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:basel-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20271025
+DTEND;VALUE=DATE:20271101
+SUMMARY:🎾 Swiss Indoors Basel (ATP 500)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Bale\, Suisse
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,ATP 500
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:vienna-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20271025
+DTEND;VALUE=DATE:20271101
+SUMMARY:🎾 Erste Bank Open (ATP 500)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Vienne\, Autriche
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,ATP 500
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:paris-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20271101
+DTEND;VALUE=DATE:20271108
+SUMMARY:⭐ Rolex Paris Masters (Masters 1000)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Paris\, France
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,Masters 1000
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:brussels-atp-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20271107
+DTEND;VALUE=DATE:20271114
+SUMMARY:🎾 BNP Paribas Fortis European Open (ATP 250)
+DESCRIPTION:Calendrier ATP 2027 officiel (etat 2026-06-18) | all-day.
+LOCATION:Bruxelles\, Belgique
+URL:https://www.atptour.com/en/news/2027-atp-tour-calendar-release
+CATEGORIES:Tennis,ATP 250
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

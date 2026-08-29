@@ -1,10 +1,11 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//FacilAbo//Elections et Scrutins 2026//FR
+PRODID:-//FacilAbo//Elections et Scrutins 2026-2027//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
-X-WR-CALNAME:Élections et scrutins 2026
-X-WR-CALDESC:Dates utiles des scrutins nationaux confirmés par les sources officielles 2026
+X-WR-CALNAME:Élections et scrutins 2026-2027
+X-WR-CALDESC:Dates utiles des scrutins nationaux confirmés par les sourc
+ es officielles 2026-2027
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Paris
@@ -53,5 +54,61 @@ SUMMARY:Élections sénatoriales 2026
 DESCRIPTION:Date officielle des élections sénatoriales 2026 publiée par le ministère de l'Intérieur.
 CATEGORIES:Société,Élections,France
 STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:societe-elections-scrutins-2027-presidentielle-1er-tour-dimanche@facila
+ bo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:Élection présidentielle 2027 - 1er tour (dimanche)
+DESCRIPTION:Premier tour présidentiel 2027; date officielle du dimanche.
+CATEGORIES:Société,Élections,France
+LOCATION:France métropolitaine\, La Réunion\, Mayotte\, Nouvelle-Calédon
+ ie\, Wallis-et-Futuna
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:societe-elections-scrutins-2027-presidentielle-1er-tour-samedi@facilabo
+ .app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270417
+DTEND;VALUE=DATE:20270418
+SUMMARY:Élection présidentielle 2027 - 1er tour (samedi)
+DESCRIPTION:Premier tour présidentiel 2027; date officielle du samedi.
+CATEGORIES:Société,Élections,France
+LOCATION:Guadeloupe\, Guyane\, Martinique\, Polynésie française\, Saint-B
+ arthélemy\, Saint-Martin\, Saint-Pierre-et-Miquelon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:societe-elections-scrutins-2027-presidentielle-2e-tour-dimanche@facilab
+ o.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:Élection présidentielle 2027 - 2e tour (dimanche)
+DESCRIPTION:Second tour présidentiel 2027; date officielle du dimanche.
+CATEGORIES:Société,Élections,France
+LOCATION:France métropolitaine\, La Réunion\, Mayotte\, Nouvelle-Calédon
+ ie\, Wallis-et-Futuna
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:societe-elections-scrutins-2027-presidentielle-2e-tour-samedi@facilabo.
+ app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270501
+DTEND;VALUE=DATE:20270502
+SUMMARY:Élection présidentielle 2027 - 2e tour (samedi)
+DESCRIPTION:Second tour présidentiel 2027; date officielle du samedi.
+CATEGORIES:Société,Élections,France
+LOCATION:Guadeloupe\, Guyane\, Martinique\, Polynésie française\, Saint-B
+ arthélemy\, Saint-Martin\, Saint-Pierre-et-Miquelon
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
 END:VEVENT
 END:VCALENDAR

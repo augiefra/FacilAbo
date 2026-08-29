@@ -1,11 +1,11 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//FacilAbo//Sorties Patrimoine Culture Gratuite 2026//FR
+PRODID:-//FacilAbo//Sorties Patrimoine Culture Gratuite 2026-2027//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
-X-WR-CALNAME:Culture gratuite 2026
-X-WR-CALDESC:Choix recommandé 2026: Nuit des musées, Fête de la musique,
-  JEP, JEMA, archéologie, jardins et nature
+X-WR-CALNAME:Culture gratuite 2026-2027
+X-WR-CALDESC:Choix recommandé 2026-2027: Nuit des musées,
+ Fête de la musique, JEP, JEMA, archéologie, jardins et nature
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Paris
@@ -118,6 +118,35 @@ DESCRIPTION:Ouvertures exceptionnelles et visites autour du patrimoine, les
 LOCATION:France
 URL:https://journeesdupatrimoine.culture.gouv.fr/
 CATEGORIES:Sorties,Patrimoine,Gratuit
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sorties-fete-nature-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270524
+SUMMARY:Fête de la Nature
+DESCRIPTION:Fête de la Nature 2027, du 19 au 23 mai, partout en France.Sou
+ rce officielle: fetedelanature.com
+LOCATION:France
+URL:https://fetedelanature.com/actualites/la-fete-de-la-nature-2027-se-tien
+ dra-du-19-au-23-mai
+CATEGORIES:Sorties,Nature,Gratuit
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sorties-rendezvous-jardins-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270607
+SUMMARY:Rendez-vous aux jardins
+DESCRIPTION:Rendez-vous aux jardins 2027, du 4 au 6 juin.Thème : « Gazons
+ , pelouses et prairies ». Source officielle:rendezvousauxjardins.culture.
+ gouv.fr
+LOCATION:France, outre-mer et pays européens participants
+URL:https://rendezvousauxjardins.culture.gouv.fr/actualites/rendez-vous-aux
+ -jardins-2026-un-week-end-fertile-en-decouvertes
+CATEGORIES:Sorties,Jardins,Patrimoine
 STATUS:CONFIRMED
 END:VEVENT
 END:VCALENDAR

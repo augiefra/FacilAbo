@@ -3,11 +3,11 @@ VERSION:2.0
 PRODID:-//FacilAbo//WEC//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
-X-WR-CALNAME:WEC - Championnat du monde d endurance
-X-WR-CALDESC:Agenda FIA WEC 2026. Un événement par manche officielle. Rep
- resentation date-only tant que l horaire de départ n est pas publié. Sai
- son 2026 complete avec 8 manches datees, dont Barcelone du 16 au 18 octobr
- e et Monza du 6 au 8 novembre 2026.
+X-WR-CALNAME:WEC - Championnat du monde d endurance 2026-2027
+X-WR-CALDESC:Agenda FIA WEC 2026-2027. Un événement par manche off
+ icielle.
+ Representation date-only tant que l horaire de départ n est pas publié.
+ Saisons 2026 et 2027; 9 manches WEC 2027, sans Prologue.
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Paris
@@ -140,6 +140,132 @@ DESCRIPTION:Round 8 FIA WEC 2026 | Source officielle: https://www.fiawec.co
 LOCATION:Monza, Italie
 URL:https://www.fiawec.com/en/news/fia-wec-and-fia-confirm-venues-for-final
  -two-rounds-of-2026/13698
+CATEGORIES:Sport,Endurance,WEC
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-wec-qatar-1812-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270325
+DTEND;VALUE=DATE:20270328
+SUMMARY:Qatar 1812 km
+DESCRIPTION:Manche 1 FIA WEC 2027 | Calendrier officiel publie le 2026-06-1
+ 2 | Horaire non publie, evenement all-day.
+LOCATION:Qatar, Qatar
+URL:https://www.fiawec.com/en/news/fia-wec-reveals-nine-round-2027-calendar
+ -as-series-expands/13598
+CATEGORIES:Sport,Endurance,WEC
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-wec-imola-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270409
+DTEND;VALUE=DATE:20270412
+SUMMARY:6 Heures d Imola
+DESCRIPTION:Manche 2 FIA WEC 2027 | Calendrier officiel publie le 2026-06-1
+ 2 | Horaire non publie, evenement all-day.
+LOCATION:Imola, Italie
+URL:https://www.fiawec.com/en/news/fia-wec-reveals-nine-round-2027-calendar
+ -as-series-expands/13598
+CATEGORIES:Sport,Endurance,WEC
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-wec-silverstone-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270423
+DTEND;VALUE=DATE:20270426
+SUMMARY:6 Heures de Silverstone
+DESCRIPTION:Manche 3 FIA WEC 2027 | Calendrier officiel publie le 2026-06-1
+ 2 | Horaire non publie, evenement all-day.
+LOCATION:Silverstone, Royaume-Uni
+URL:https://www.fiawec.com/en/news/fia-wec-reveals-nine-round-2027-calendar
+ -as-series-expands/13598
+CATEGORIES:Sport,Endurance,WEC
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-wec-spa-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270513
+DTEND;VALUE=DATE:20270516
+SUMMARY:TotalEnergies 6 Heures de Spa-Francorchamps
+DESCRIPTION:Manche 4 FIA WEC 2027 | Calendrier officiel publie le 2026-06-1
+ 2 | Horaire non publie, evenement all-day.
+LOCATION:Spa-Francorchamps, Belgique
+URL:https://www.fiawec.com/en/news/fia-wec-reveals-nine-round-2027-calendar
+ -as-series-expands/13598
+CATEGORIES:Sport,Endurance,WEC
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-wec-lemans-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270614
+SUMMARY:24 Heures du Mans
+DESCRIPTION:Manche 5 FIA WEC 2027 | Calendrier officiel publie le 2026-06-1
+ 2 | Horaire non publie, evenement all-day.
+LOCATION:Le Mans, France
+URL:https://www.fiawec.com/en/news/fia-wec-reveals-nine-round-2027-calendar
+ -as-series-expands/13598
+CATEGORIES:Sport,Endurance,WEC
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-wec-saopaulo-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270712
+SUMMARY:6 Heures de Sao Paulo
+DESCRIPTION:Manche 6 FIA WEC 2027 | Calendrier officiel publie le 2026-06-1
+ 2 | Horaire non publie, evenement all-day.
+LOCATION:Sao Paulo, Bresil
+URL:https://www.fiawec.com/en/news/fia-wec-reveals-nine-round-2027-calendar
+ -as-series-expands/13598
+CATEGORIES:Sport,Endurance,WEC
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-wec-austin-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270913
+SUMMARY:Lone Star Le Mans
+DESCRIPTION:Manche 7 FIA WEC 2027 | Calendrier officiel publie le 2026-06-1
+ 2 | Horaire non publie, evenement all-day.
+LOCATION:Austin, Etats-Unis
+URL:https://www.fiawec.com/en/news/fia-wec-reveals-nine-round-2027-calendar
+ -as-series-expands/13598
+CATEGORIES:Sport,Endurance,WEC
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-wec-fuji-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270924
+DTEND;VALUE=DATE:20270927
+SUMMARY:6 Heures de Fuji
+DESCRIPTION:Manche 8 FIA WEC 2027 | Calendrier officiel publie le 2026-06-1
+ 2 | Horaire non publie, evenement all-day.
+LOCATION:Fuji, Japon
+URL:https://www.fiawec.com/en/news/fia-wec-reveals-nine-round-2027-calendar
+ -as-series-expands/13598
+CATEGORIES:Sport,Endurance,WEC
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-wec-bahrain-2027@facilabo.app
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20271104
+DTEND;VALUE=DATE:20271107
+SUMMARY:Bapco Energies 8 Heures de Bahrain
+DESCRIPTION:Manche 9 FIA WEC 2027 | Calendrier officiel publie le 2026-06-1
+ 2 | Horaire non publie, evenement all-day.
+LOCATION:Sakhir, Bahrein
+URL:https://www.fiawec.com/en/news/fia-wec-reveals-nine-round-2027-calendar
+ -as-series-expands/13598
 CATEGORIES:Sport,Endurance,WEC
 STATUS:CONFIRMED
 END:VEVENT

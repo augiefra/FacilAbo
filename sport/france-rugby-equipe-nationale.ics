@@ -148,4 +148,52 @@ URL:https://www.sixnationsrugby.com/en/m6n/fixtures/202700/ireland-v-france
 CATEGORIES:Sport,Rugby,Equipe de France
 STATUS:CONFIRMED
 END:VEVENT
+BEGIN:VEVENT
+UID:sport-france-rugby-equipe-nationale-france-rugby-rwc-2027-ad7110fd-1629
+ -4e93-af79-60968eb0a85b@facilabo.app
+DTSTAMP:20271002T000000Z
+DTSTART;TZID=Europe/Paris:20271002T094500
+DTEND;TZID=Europe/Paris:20271002T114500
+SUMMARY:France - États-Unis
+DESCRIPTION:Competition: Coupe du monde masculine 2027 - Poule E | Source:
+  https://www.rugbyworldcup.com/2027/fr/match/ad7110fd-1629-4e93-af79-60968
+ eb0a85b | Provenance: fallback:rugby-france-rwc-2027-official
+LOCATION:Docklands Stadium\, Melbourne | Narrm
+URL:https://www.rugbyworldcup.com/2027/fr/match/ad7110fd-1629-4e93-af79-609
+ 68eb0a85b
+CATEGORIES:Sport,Rugby,Equipe de France
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-france-rugby-equipe-nationale-france-rugby-rwc-2027-e0941c8b-0cc8
+ -4d2d-9fb2-18a3c9d65db9@facilabo.app
+DTSTAMP:20271009T000000Z
+DTSTART;TZID=Europe/Paris:20271009T104500
+DTEND;TZID=Europe/Paris:20271009T124500
+SUMMARY:France - Japon
+DESCRIPTION:Competition: Coupe du monde masculine 2027 - Poule E | Source:
+  https://www.rugbyworldcup.com/2027/fr/match/e0941c8b-0cc8-4d2d-9fb2-18a3c
+ 9d65db9 | Provenance: fallback:rugby-france-rwc-2027-official
+LOCATION:Brisbane Stadium\, Brisbane | Meeanjin
+URL:https://www.rugbyworldcup.com/2027/fr/match/e0941c8b-0cc8-4d2d-9fb2-18a
+ 3c9d65db9
+CATEGORIES:Sport,Rugby,Equipe de France
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:sport-france-rugby-equipe-nationale-france-rugby-rwc-2027-782f5044-7c82
+ -467c-b471-d27cb1a2d482@facilabo.app
+DTSTAMP:20271017T000000Z
+DTSTART;TZID=Europe/Paris:20271017T104500
+DTEND;TZID=Europe/Paris:20271017T124500
+SUMMARY:France - Samoa
+DESCRIPTION:Competition: Coupe du monde masculine 2027 - Poule E | Source:
+  https://www.rugbyworldcup.com/2027/fr/match/782f5044-7c82-467c-b471-d27cb
+ 1a2d482 | Provenance: fallback:rugby-france-rwc-2027-official
+LOCATION:Sydney Football Stadium\, Sydney | Gadigal
+URL:https://www.rugbyworldcup.com/2027/fr/match/782f5044-7c82-467c-b471-d27
+ cb1a2d482
+CATEGORIES:Sport,Rugby,Equipe de France
+STATUS:CONFIRMED
+END:VEVENT
 END:VCALENDAR

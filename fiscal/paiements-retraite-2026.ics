@@ -147,9 +147,9 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fiscal-paiements-retraite-2026-202612@facilabo.app
-DTSTAMP:20260707T120000Z
-DTSTART;VALUE=DATE:20261209
-DTEND;VALUE=DATE:20261210
+DTSTAMP:20260829T120000Z
+DTSTART;VALUE=DATE:20270108
+DTEND;VALUE=DATE:20270109
 SUMMARY:Paiement retraite - Assurance retraite
 DESCRIPTION:Date de versement selon le calendrier officiel Assurance retrai
  te 2026. Le délai effectif dépend de l'établissement financier.

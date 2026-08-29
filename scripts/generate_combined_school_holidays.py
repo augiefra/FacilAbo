@@ -19,6 +19,7 @@ DEFAULT_SOURCES = {
     "B": "https://fr.ftp.opendatasoft.com/openscol/fr-en-calendrier-scolaire/Zone-B.ics",
     "C": "https://fr.ftp.opendatasoft.com/openscol/fr-en-calendrier-scolaire/Zone-C.ics",
 }
+DEFAULT_SUPPLEMENTAL_SOURCE = "sources/france-vacances-scolaires-2027-2028.json"
 
 
 @dataclass(frozen=True)
@@ -68,6 +69,15 @@ def normalized_key(summary: str) -> str:
     return re.sub(r"[^a-z0-9]+", "-", ascii_summary.casefold()).strip("-")
 
 
+def combined_event_uid(event: CombinedEvent) -> str:
+    zones_key = "".join(sorted(event.zones)).lower()
+    summary_key = normalized_key(event.summary)
+    return (
+        f"vacances-toutes-zones-{summary_key}-{event.start:%Y%m%d}-"
+        f"{event.end:%Y%m%d}-{zones_key}@facilabo.app"
+    )
+
+
 def parse_source(raw_text: str) -> tuple[list[SourceEvent], str]:
     lines = unfold_ical(raw_text)
     events: list[SourceEvent] = []
@@ -105,6 +115,68 @@ def parse_source(raw_text: str) -> tuple[list[SourceEvent], str]:
     if not events:
         raise ValueError("No usable VEVENT found in source calendar")
     return events, max(dtstamps, default="19700101T000000Z")
+
+
+def parse_supplemental_source(path: Path) -> dict[str, list[SourceEvent]]:
+    """Load an official static supplement when the upstream ICS has not caught up."""
+    payload = json.loads(path.read_text(encoding="utf-8"))
+    if not isinstance(payload, dict) or not isinstance(payload.get("source"), dict):
+        raise ValueError(f"Invalid supplemental source metadata: {path}")
+    if not payload["source"].get("url"):
+        raise ValueError(f"Supplemental source URL is required: {path}")
+
+    raw_events = payload.get("events")
+    if not isinstance(raw_events, list) or not raw_events:
+        raise ValueError(f"Supplemental source has no events: {path}")
+
+    expected_zones = set(DEFAULT_SOURCES)
+    zone_events: dict[str, list[SourceEvent]] = {zone: [] for zone in expected_zones}
+    for index, raw_event in enumerate(raw_events):
+        if not isinstance(raw_event, dict):
+            raise ValueError(f"Invalid supplemental event #{index + 1}: {path}")
+
+        summary = raw_event.get("summary")
+        zones = raw_event.get("zones")
+        if not isinstance(summary, str) or not summary.strip():
+            raise ValueError(f"Supplemental event #{index + 1} has no summary: {path}")
+        if (
+            not isinstance(zones, list)
+            or not zones
+            or len(set(zones)) != len(zones)
+            or not set(zones).issubset(expected_zones)
+        ):
+            raise ValueError(f"Invalid zones for supplemental event #{index + 1}: {path}")
+
+        kind = raw_event.get("kind", "period")
+        if kind == "marker":
+            marker = raw_event.get("date")
+            if not isinstance(marker, str):
+                raise ValueError(f"Marker has no date for supplemental event #{index + 1}: {path}")
+            try:
+                start = date.fromisoformat(marker)
+            except ValueError as error:
+                raise ValueError(f"Invalid marker date {marker!r}: {path}") from error
+            end = start + timedelta(days=1)
+        elif kind == "period":
+            start_raw = raw_event.get("start")
+            end_raw = raw_event.get("end")
+            if not isinstance(start_raw, str) or not isinstance(end_raw, str):
+                raise ValueError(f"Period has no start/end for supplemental event #{index + 1}: {path}")
+            try:
+                start = date.fromisoformat(start_raw)
+                end = date.fromisoformat(end_raw)
+            except ValueError as error:
+                raise ValueError(f"Invalid period dates for supplemental event #{index + 1}: {path}") from error
+            if end <= start:
+                raise ValueError(f"Period must have an exclusive end after its start: {path}")
+        else:
+            raise ValueError(f"Unsupported supplemental event kind {kind!r}: {path}")
+
+        source_event = SourceEvent(summary=summary.strip(), start=start, end=end)
+        for zone in zones:
+            zone_events[zone].append(source_event)
+
+    return zone_events
 
 
 def combine_zone_events(zone_events: dict[str, list[SourceEvent]]) -> list[CombinedEvent]:
@@ -200,7 +272,29 @@ def fold_ical_line(line: str, limit: int = 73) -> list[str]:
     return folded or [""]
 
 
-def build_calendar(events: list[CombinedEvent], dtstamp: str) -> str:
+def parse_event_dtstamps(path: Path) -> dict[str, str]:
+    """Read existing VEVENT DTSTAMP values so regeneration does not churn history."""
+    current: list[str] | None = None
+    preserved: dict[str, str] = {}
+    for line in unfold_ical(path.read_text(encoding="utf-8")):
+        if line == "BEGIN:VEVENT":
+            current = []
+        elif line == "END:VEVENT" and current is not None:
+            uid = field_value(current, "UID")
+            dtstamp = field_value(current, "DTSTAMP")
+            if uid and dtstamp and re.match(r"^\d{8}T\d{6}Z$", dtstamp):
+                preserved[uid] = dtstamp
+            current = None
+        elif current is not None:
+            current.append(line)
+    return preserved
+
+
+def build_calendar(
+    events: list[CombinedEvent],
+    dtstamp: str,
+    preserved_dtstamps: dict[str, str] | None = None,
+) -> str:
     lines = [
         "BEGIN:VCALENDAR",
         "VERSION:2.0",
@@ -214,12 +308,7 @@ def build_calendar(events: list[CombinedEvent], dtstamp: str) -> str:
     ]
 
     for event in events:
-        zones_key = "".join(sorted(event.zones)).lower()
-        summary_key = normalized_key(event.summary)
-        uid = (
-            f"vacances-toutes-zones-{summary_key}-{event.start:%Y%m%d}-"
-            f"{event.end:%Y%m%d}-{zones_key}@facilabo.app"
-        )
+        uid = combined_event_uid(event)
         label = zone_label(event.zones)
         description = (
             f"Zones concernées : {label}. Segment calculé à partir des calendriers "
@@ -230,7 +319,7 @@ def build_calendar(events: list[CombinedEvent], dtstamp: str) -> str:
         event_lines = [
             "BEGIN:VEVENT",
             f"UID:{uid}",
-            f"DTSTAMP:{dtstamp}",
+            f"DTSTAMP:{(preserved_dtstamps or {}).get(uid, dtstamp)}",
             f"DTSTART;VALUE=DATE:{event.start:%Y%m%d}",
             f"DTEND;VALUE=DATE:{event.end:%Y%m%d}",
             f"SUMMARY:{escape_ical_text(f'{event.summary} — {label}')}",
@@ -265,11 +354,7 @@ def update_anchor_manifest(path: Path, events: list[CombinedEvent]) -> None:
         "mode": "exact",
         "events": [
             {
-                "uid": (
-                    f"vacances-toutes-zones-{normalized_key(event.summary)}-"
-                    f"{event.start:%Y%m%d}-{event.end:%Y%m%d}-"
-                    f"{''.join(sorted(event.zones)).lower()}@facilabo.app"
-                ),
+                "uid": combined_event_uid(event),
                 "dtstart": event.start.strftime("%Y%m%d"),
                 "dtend": event.end.strftime("%Y%m%d"),
             }
@@ -305,6 +390,24 @@ def main() -> int:
     parser.add_argument("--mirror-output", help="Optional second output path for the iOS repo mirror.")
     parser.add_argument("--anchor-manifest", help="Optional date-anchor JSON manifest to update.")
     parser.add_argument(
+        "--supplemental-source",
+        default=str(script_root / DEFAULT_SUPPLEMENTAL_SOURCE),
+        help="Optional static official supplement for years missing from the upstream ICS.",
+    )
+    parser.add_argument(
+        "--no-supplemental-source",
+        action="store_true",
+        help="Do not load the default static official supplement.",
+    )
+    parser.add_argument(
+        "--dtstamp",
+        help="Override the VEVENT DTSTAMP (YYYYMMDDTHHMMSSZ).",
+    )
+    parser.add_argument(
+        "--preserve-dtstamps-from",
+        help="Existing ICS whose VEVENT DTSTAMP values must be retained by UID.",
+    )
+    parser.add_argument(
         "--from-year",
         type=int,
         default=2024,
@@ -319,12 +422,25 @@ def main() -> int:
         zone_events[zone] = events
         dtstamps.append(dtstamp)
 
+    if not args.no_supplemental_source:
+        supplemental_events = parse_supplemental_source(Path(args.supplemental_source))
+        for zone in ("A", "B", "C"):
+            zone_events[zone].extend(supplemental_events[zone])
+
     combined = [
         event
         for event in combine_zone_events(zone_events)
         if event.end > date(args.from_year, 1, 1)
     ]
-    calendar_text = build_calendar(combined, max(dtstamps))
+    dtstamp = args.dtstamp or max(dtstamps)
+    if not re.match(r"^\d{8}T\d{6}Z$", dtstamp):
+        raise ValueError(f"Invalid DTSTAMP: {dtstamp}")
+    preserved_dtstamps = (
+        parse_event_dtstamps(Path(args.preserve_dtstamps_from))
+        if args.preserve_dtstamps_from
+        else {}
+    )
+    calendar_text = build_calendar(combined, dtstamp, preserved_dtstamps)
 
     output_paths = [Path(args.output)]
     if args.mirror_output:
