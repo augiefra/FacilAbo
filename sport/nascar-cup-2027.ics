@@ -1,0 +1,595 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//FacilAbo//NASCAR Cup Series 2027//FR
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:NASCAR Cup Series 2027
+X-WR-CALDESC:Les 39 dates officielles de la NASCAR Cup Series 2027. Horaire
+ s et diffuseurs non inclus.
+X-WR-TIMEZONE:Europe/Paris
+BEGIN:VEVENT
+UID:nascar-cup-clash-daytona-2027@facilabo.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270213
+DTEND;VALUE=DATE:20270214
+SUMMARY:NASCAR Cup - Wheatley Vodka Clash
+DESCRIPTION:NASCAR Cup Series 2027. Date et circuit officiels NASCAR. Horai
+ re à confirmer.
+LOCATION:Daytona International Speedway
+URL:https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confi
+ rmed-dates-tracks-for-all-three-national-series/
+CATEGORIES:Sport,NASCAR,NASCAR Cup Series
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-cup-duel-daytona-2027@facilabo.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270218
+DTEND;VALUE=DATE:20270219
+SUMMARY:NASCAR Cup - Duel at Daytona
+DESCRIPTION:NASCAR Cup Series 2027. Date et circuit officiels NASCAR. Horai
+ re à confirmer.
+LOCATION:Daytona International Speedway
+URL:https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confi
+ rmed-dates-tracks-for-all-three-national-series/
+CATEGORIES:Sport,NASCAR,NASCAR Cup Series
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-cup-daytona-500-2027@facilabo.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
+SUMMARY:NASCAR Cup - Daytona 500
+DESCRIPTION:NASCAR Cup Series 2027. Date et circuit officiels NASCAR. Horai
+ re à confirmer.
+LOCATION:Daytona International Speedway
+URL:https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confi
+ rmed-dates-tracks-for-all-three-national-series/
+CATEGORIES:Sport,NASCAR,NASCAR Cup Series
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-cup-echopark-spring-2027@facilabo.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270228
+DTEND;VALUE=DATE:20270301
+SUMMARY:NASCAR Cup - Autotrader 400
+DESCRIPTION:NASCAR Cup Series 2027. Date et circuit officiels NASCAR. Horai
+ re à confirmer.
+LOCATION:EchoPark Speedway
+URL:https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confi
+ rmed-dates-tracks-for-all-three-national-series/
+CATEGORIES:Sport,NASCAR,NASCAR Cup Series
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-cup-cota-2027@facilabo.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270307
+DTEND;VALUE=DATE:20270308
+SUMMARY:NASCAR Cup - DuraMAX Texas Grand Prix
+DESCRIPTION:NASCAR Cup Series 2027. Date et circuit officiels NASCAR. Horai
+ re à confirmer.
+LOCATION:Circuit of The Americas
+URL:https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confi
+ rmed-dates-tracks-for-all-three-national-series/
+CATEGORIES:Sport,NASCAR,NASCAR Cup Series
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-cup-phoenix-spring-2027@facilabo.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270314
+DTEND;VALUE=DATE:20270315
+SUMMARY:NASCAR Cup - Phoenix Raceway
+DESCRIPTION:NASCAR Cup Series 2027. Date et circuit officiels NASCAR. Horai
+ re à confirmer.
+LOCATION:Phoenix Raceway
+URL:https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confi
+ rmed-dates-tracks-for-all-three-national-series/
+CATEGORIES:Sport,NASCAR,NASCAR Cup Series
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-cup-las-vegas-spring-2027@facilabo.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270321
+DTEND;VALUE=DATE:20270322
+SUMMARY:NASCAR Cup - Las Vegas Motor Speedway
+DESCRIPTION:NASCAR Cup Series 2027. Date et circuit officiels NASCAR. Horai
+ re à confirmer.
+LOCATION:Las Vegas Motor Speedway
+URL:https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confi
+ rmed-dates-tracks-for-all-three-national-series/
+CATEGORIES:Sport,NASCAR,NASCAR Cup Series
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-cup-darlington-spring-2027@facilabo.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270404
+DTEND;VALUE=DATE:20270405
+SUMMARY:NASCAR Cup - Darlington Raceway
+DESCRIPTION:NASCAR Cup Series 2027. Date et circuit officiels NASCAR. Horai
+ re à confirmer.
+LOCATION:Darlington Raceway
+URL:https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confi
+ rmed-dates-tracks-for-all-three-national-series/
+CATEGORIES:Sport,NASCAR,NASCAR Cup Series
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-cup-bristol-spring-2027@facilabo.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270411
+DTEND;VALUE=DATE:20270412
+SUMMARY:NASCAR Cup - Bristol Motor Speedway
+DESCRIPTION:NASCAR Cup Series 2027. Date et circuit officiels NASCAR. Horai
+ re à confirmer.
+LOCATION:Bristol Motor Speedway
+URL:https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confi
+ rmed-dates-tracks-for-all-three-national-series/
+CATEGORIES:Sport,NASCAR,NASCAR Cup Series
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-cup-martinsville-spring-2027@facilabo.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270418
+DTEND;VALUE=DATE:20270419
+SUMMARY:NASCAR Cup - Cook Out 400
+DESCRIPTION:NASCAR Cup Series 2027. Date et circuit officiels NASCAR. Horai
+ re à confirmer.
+LOCATION:Martinsville Speedway
+URL:https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confi
+ rmed-dates-tracks-for-all-three-national-series/
+CATEGORIES:Sport,NASCAR,NASCAR Cup Series
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-cup-talladega-spring-2027@facilabo.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270425
+DTEND;VALUE=DATE:20270426
+SUMMARY:NASCAR Cup - Jack Link's 500
+DESCRIPTION:NASCAR Cup Series 2027. Date et circuit officiels NASCAR. Horai
+ re à confirmer.
+LOCATION:Talladega Superspeedway
+URL:https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confi
+ rmed-dates-tracks-for-all-three-national-series/
+CATEGORIES:Sport,NASCAR,NASCAR Cup Series
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-cup-texas-2027@facilabo.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270502
+DTEND;VALUE=DATE:20270503
+SUMMARY:NASCAR Cup - Würth 400 presented by Liqui Moly
+DESCRIPTION:NASCAR Cup Series 2027. Date et circuit officiels NASCAR. Horai
+ re à confirmer.
+LOCATION:Texas Motor Speedway
+URL:https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confi
+ rmed-dates-tracks-for-all-three-national-series/
+CATEGORIES:Sport,NASCAR,NASCAR Cup Series
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-cup-kansas-spring-2027@facilabo.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270509
+DTEND;VALUE=DATE:20270510
+SUMMARY:NASCAR Cup - Kansas Speedway
+DESCRIPTION:NASCAR Cup Series 2027. Date et circuit officiels NASCAR. Horai
+ re à confirmer.
+LOCATION:Kansas Speedway
+URL:https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confi
+ rmed-dates-tracks-for-all-three-national-series/
+CATEGORIES:Sport,NASCAR,NASCAR Cup Series
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-cup-dover-2027@facilabo.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270516
+DTEND;VALUE=DATE:20270517
+SUMMARY:NASCAR Cup - Dover Motor Speedway
+DESCRIPTION:NASCAR Cup Series 2027. Date et circuit officiels NASCAR. Horai
+ re à confirmer.
+LOCATION:Dover Motor Speedway
+URL:https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confi
+ rmed-dates-tracks-for-all-three-national-series/
+CATEGORIES:Sport,NASCAR,NASCAR Cup Series
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-cup-all-star-north-wilkesboro-2027@facilabo.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270523
+DTEND;VALUE=DATE:20270524
+SUMMARY:NASCAR Cup - All-Star Race
+DESCRIPTION:NASCAR Cup Series 2027. Date et circuit officiels NASCAR. Horai
+ re à confirmer.
+LOCATION:North Wilkesboro Speedway
+URL:https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confi
+ rmed-dates-tracks-for-all-three-national-series/
+CATEGORIES:Sport,NASCAR,NASCAR Cup Series
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-cup-charlotte-coca-cola-600-2027@facilabo.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270530
+DTEND;VALUE=DATE:20270531
+SUMMARY:NASCAR Cup - Coca-Cola 600
+DESCRIPTION:NASCAR Cup Series 2027. Date et circuit officiels NASCAR. Horai
+ re à confirmer.
+LOCATION:Charlotte Motor Speedway
+URL:https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confi
+ rmed-dates-tracks-for-all-three-national-series/
+CATEGORIES:Sport,NASCAR,NASCAR Cup Series
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-cup-nashville-2027@facilabo.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270606
+DTEND;VALUE=DATE:20270607
+SUMMARY:NASCAR Cup - Nashville Superspeedway
+DESCRIPTION:NASCAR Cup Series 2027. Date et circuit officiels NASCAR. Horai
+ re à confirmer.
+LOCATION:Nashville Superspeedway
+URL:https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confi
+ rmed-dates-tracks-for-all-three-national-series/
+CATEGORIES:Sport,NASCAR,NASCAR Cup Series
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-cup-pocono-2027@facilabo.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270613
+DTEND;VALUE=DATE:20270614
+SUMMARY:NASCAR Cup - Great American Getaway 400 presented by VISIT PA
+DESCRIPTION:NASCAR Cup Series 2027. Date et circuit officiels NASCAR. Horai
+ re à confirmer.
+LOCATION:Pocono Raceway
+URL:https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confi
+ rmed-dates-tracks-for-all-three-national-series/
+CATEGORIES:Sport,NASCAR,NASCAR Cup Series
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-cup-michigan-2027@facilabo.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270620
+DTEND;VALUE=DATE:20270621
+SUMMARY:NASCAR Cup - Michigan International Speedway
+DESCRIPTION:NASCAR Cup Series 2027. Date et circuit officiels NASCAR. Horai
+ re à confirmer.
+LOCATION:Michigan International Speedway
+URL:https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confi
+ rmed-dates-tracks-for-all-three-national-series/
+CATEGORIES:Sport,NASCAR,NASCAR Cup Series
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-cup-chicagoland-2027@facilabo.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270627
+DTEND;VALUE=DATE:20270628
+SUMMARY:NASCAR Cup - Chicagoland Speedway
+DESCRIPTION:NASCAR Cup Series 2027. Date et circuit officiels NASCAR. Horai
+ re à confirmer.
+LOCATION:Chicagoland Speedway
+URL:https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confi
+ rmed-dates-tracks-for-all-three-national-series/
+CATEGORIES:Sport,NASCAR,NASCAR Cup Series
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-cup-iowa-2027@facilabo.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270704
+DTEND;VALUE=DATE:20270705
+SUMMARY:NASCAR Cup - Iowa Speedway
+DESCRIPTION:NASCAR Cup Series 2027. Date et circuit officiels NASCAR. Horai
+ re à confirmer.
+LOCATION:Iowa Speedway
+URL:https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confi
+ rmed-dates-tracks-for-all-three-national-series/
+CATEGORIES:Sport,NASCAR,NASCAR Cup Series
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-cup-sonoma-2027@facilabo.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270711
+DTEND;VALUE=DATE:20270712
+SUMMARY:NASCAR Cup - Toyota/Save Mart 350
+DESCRIPTION:NASCAR Cup Series 2027. Date et circuit officiels NASCAR. Horai
+ re à confirmer.
+LOCATION:Sonoma Raceway
+URL:https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confi
+ rmed-dates-tracks-for-all-three-national-series/
+CATEGORIES:Sport,NASCAR,NASCAR Cup Series
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-cup-echopark-summer-2027@facilabo.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
+SUMMARY:NASCAR Cup - Dollar Tree 400
+DESCRIPTION:NASCAR Cup Series 2027. Date et circuit officiels NASCAR. Horai
+ re à confirmer.
+LOCATION:EchoPark Speedway
+URL:https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confi
+ rmed-dates-tracks-for-all-three-national-series/
+CATEGORIES:Sport,NASCAR,NASCAR Cup Series
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-cup-indianapolis-brickyard-400-2027@facilabo.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270725
+DTEND;VALUE=DATE:20270726
+SUMMARY:NASCAR Cup - Brickyard 400
+DESCRIPTION:NASCAR Cup Series 2027. Date et circuit officiels NASCAR. Horai
+ re à confirmer.
+LOCATION:Indianapolis Motor Speedway
+URL:https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confi
+ rmed-dates-tracks-for-all-three-national-series/
+CATEGORIES:Sport,NASCAR,NASCAR Cup Series
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-cup-naval-base-coronado-2027@facilabo.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270801
+DTEND;VALUE=DATE:20270802
+SUMMARY:NASCAR Cup - Naval Base Coronado
+DESCRIPTION:NASCAR Cup Series 2027. Date et circuit officiels NASCAR. Horai
+ re à confirmer.
+LOCATION:Naval Base Coronado
+URL:https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confi
+ rmed-dates-tracks-for-all-three-national-series/
+CATEGORIES:Sport,NASCAR,NASCAR Cup Series
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-cup-bristol-night-2027@facilabo.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270814
+DTEND;VALUE=DATE:20270815
+SUMMARY:NASCAR Cup - Bass Pro Shops Night Race
+DESCRIPTION:NASCAR Cup Series 2027. Date et circuit officiels NASCAR. Horai
+ re à confirmer.
+LOCATION:Bristol Motor Speedway
+URL:https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confi
+ rmed-dates-tracks-for-all-three-national-series/
+CATEGORIES:Sport,NASCAR,NASCAR Cup Series
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-cup-gateway-2027@facilabo.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270822
+DTEND;VALUE=DATE:20270823
+SUMMARY:NASCAR Cup - Enjoy Illinois 300
+DESCRIPTION:NASCAR Cup Series 2027. Date et circuit officiels NASCAR. Horai
+ re à confirmer.
+LOCATION:World Wide Technology Raceway
+URL:https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confi
+ rmed-dates-tracks-for-all-three-national-series/
+CATEGORIES:Sport,NASCAR,NASCAR Cup Series
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-cup-daytona-summer-2027@facilabo.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270828
+DTEND;VALUE=DATE:20270829
+SUMMARY:NASCAR Cup - Coke Zero Sugar 400
+DESCRIPTION:NASCAR Cup Series 2027. Date et circuit officiels NASCAR. Horai
+ re à confirmer.
+LOCATION:Daytona International Speedway
+URL:https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confi
+ rmed-dates-tracks-for-all-three-national-series/
+CATEGORIES:Sport,NASCAR,NASCAR Cup Series
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-cup-darlington-southern-500-2027@facilabo.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270905
+DTEND;VALUE=DATE:20270906
+SUMMARY:NASCAR Cup - Southern 500
+DESCRIPTION:NASCAR Cup Series 2027. Date et circuit officiels NASCAR. Horai
+ re à confirmer.
+LOCATION:Darlington Raceway
+URL:https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confi
+ rmed-dates-tracks-for-all-three-national-series/
+CATEGORIES:Sport,NASCAR,NASCAR Cup Series
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-cup-richmond-2027@facilabo.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270911
+DTEND;VALUE=DATE:20270912
+SUMMARY:NASCAR Cup - Richmond Raceway
+DESCRIPTION:NASCAR Cup Series 2027. Date et circuit officiels NASCAR. Horai
+ re à confirmer.
+LOCATION:Richmond Raceway
+URL:https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confi
+ rmed-dates-tracks-for-all-three-national-series/
+CATEGORIES:Sport,NASCAR,NASCAR Cup Series
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-cup-watkins-glen-2027@facilabo.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270919
+DTEND;VALUE=DATE:20270920
+SUMMARY:NASCAR Cup - Watkins Glen International
+DESCRIPTION:NASCAR Cup Series 2027. Date et circuit officiels NASCAR. Horai
+ re à confirmer.
+LOCATION:Watkins Glen International
+URL:https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confi
+ rmed-dates-tracks-for-all-three-national-series/
+CATEGORIES:Sport,NASCAR,NASCAR Cup Series
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-cup-new-hampshire-2027@facilabo.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20270926
+DTEND;VALUE=DATE:20270927
+SUMMARY:NASCAR Cup - New Hampshire Motor Speedway
+DESCRIPTION:NASCAR Cup Series 2027. Date et circuit officiels NASCAR. Horai
+ re à confirmer.
+LOCATION:New Hampshire Motor Speedway
+URL:https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confi
+ rmed-dates-tracks-for-all-three-national-series/
+CATEGORIES:Sport,NASCAR,NASCAR Cup Series
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-cup-kansas-fall-2027@facilabo.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20271003
+DTEND;VALUE=DATE:20271004
+SUMMARY:NASCAR Cup - Kansas Speedway
+DESCRIPTION:NASCAR Cup Series 2027. Date et circuit officiels NASCAR. Horai
+ re à confirmer.
+LOCATION:Kansas Speedway
+URL:https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confi
+ rmed-dates-tracks-for-all-three-national-series/
+CATEGORIES:Sport,NASCAR,NASCAR Cup Series
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-cup-las-vegas-fall-2027@facilabo.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20271010
+DTEND;VALUE=DATE:20271011
+SUMMARY:NASCAR Cup - Las Vegas Motor Speedway
+DESCRIPTION:NASCAR Cup Series 2027. Date et circuit officiels NASCAR. Horai
+ re à confirmer.
+LOCATION:Las Vegas Motor Speedway
+URL:https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confi
+ rmed-dates-tracks-for-all-three-national-series/
+CATEGORIES:Sport,NASCAR,NASCAR Cup Series
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-cup-charlotte-fall-2027@facilabo.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20271017
+DTEND;VALUE=DATE:20271018
+SUMMARY:NASCAR Cup - Charlotte Motor Speedway
+DESCRIPTION:NASCAR Cup Series 2027. Date et circuit officiels NASCAR. Horai
+ re à confirmer.
+LOCATION:Charlotte Motor Speedway
+URL:https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confi
+ rmed-dates-tracks-for-all-three-national-series/
+CATEGORIES:Sport,NASCAR,NASCAR Cup Series
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-cup-phoenix-fall-2027@facilabo.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20271024
+DTEND;VALUE=DATE:20271025
+SUMMARY:NASCAR Cup - Freeway Insurance 500
+DESCRIPTION:NASCAR Cup Series 2027. Date et circuit officiels NASCAR. Horai
+ re à confirmer.
+LOCATION:Phoenix Raceway
+URL:https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confi
+ rmed-dates-tracks-for-all-three-national-series/
+CATEGORIES:Sport,NASCAR,NASCAR Cup Series
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-cup-talladega-fall-2027@facilabo.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20271031
+DTEND;VALUE=DATE:20271101
+SUMMARY:NASCAR Cup - YellaWood 500
+DESCRIPTION:NASCAR Cup Series 2027. Date et circuit officiels NASCAR. Horai
+ re à confirmer.
+LOCATION:Talladega Superspeedway
+URL:https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confi
+ rmed-dates-tracks-for-all-three-national-series/
+CATEGORIES:Sport,NASCAR,NASCAR Cup Series
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-cup-martinsville-fall-2027@facilabo.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20271107
+DTEND;VALUE=DATE:20271108
+SUMMARY:NASCAR Cup - Xfinity 500
+DESCRIPTION:NASCAR Cup Series 2027. Date et circuit officiels NASCAR. Horai
+ re à confirmer.
+LOCATION:Martinsville Speedway
+URL:https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confi
+ rmed-dates-tracks-for-all-three-national-series/
+CATEGORIES:Sport,NASCAR,NASCAR Cup Series
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:nascar-cup-homestead-miami-2027@facilabo.app
+DTSTAMP:20260829T000000Z
+DTSTART;VALUE=DATE:20271114
+DTEND;VALUE=DATE:20271115
+SUMMARY:NASCAR Cup - Homestead-Miami Speedway
+DESCRIPTION:NASCAR Cup Series 2027. Date et circuit officiels NASCAR. Horai
+ re à confirmer.
+LOCATION:Homestead-Miami Speedway
+URL:https://www.nascar.com/news-media/2026/08/26/2027-nascar-schedule-confi
+ rmed-dates-tracks-for-all-three-national-series/
+CATEGORIES:Sport,NASCAR,NASCAR Cup Series
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
