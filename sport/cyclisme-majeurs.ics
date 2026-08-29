@@ -391,12 +391,12 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sport-cyclisme-majeurs-tour-de-france-2027@facilabo.app
 DTSTAMP:20260223T120000Z
-DTSTART;VALUE=DATE:20270703
+DTSTART;VALUE=DATE:20270702
 DTEND;VALUE=DATE:20270726
 SUMMARY:Tour de France (Grand Tour)
-DESCRIPTION:Grand Tour #2 - date à confirmer par l organisateur.
+DESCRIPTION:Grand Tour #2 - dates officielles publiées par l organisateur.
 CATEGORIES:Sport,Cyclisme,Grand Tour
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sport-cyclisme-majeurs-classique-saint-sebastien-2027@facilabo.app
@@ -411,44 +411,44 @@ END:VEVENT
 BEGIN:VEVENT
 UID:sport-cyclisme-majeurs-vuelta-2027@facilabo.app
 DTSTAMP:20260223T120000Z
-DTSTART;VALUE=DATE:20270821
-DTEND;VALUE=DATE:20270913
+DTSTART;VALUE=DATE:20270904
+DTEND;VALUE=DATE:20270927
 SUMMARY:La Vuelta (Grand Tour)
-DESCRIPTION:Grand Tour #3 - date à confirmer par l organisateur.
+DESCRIPTION:Grand Tour #3 - dates officielles publiées par l organisateur.
 CATEGORIES:Sport,Cyclisme,Grand Tour
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sport-cyclisme-majeurs-uci-worlds-women-road-2027@facilabo.app
 DTSTAMP:20260223T120000Z
-DTSTART;VALUE=DATE:20270824
-DTEND;VALUE=DATE:20270825
+DTSTART;VALUE=DATE:20270905
+DTEND;VALUE=DATE:20270906
 SUMMARY:Championnats du monde UCI - Course en ligne femmes
-DESCRIPTION:Mondiaux route - épreuve elite (placeholder neutralise; dates
-  detaillees UCI 2027 non finalisees).
+DESCRIPTION:Mondiaux route - épreuve elite (date officielle publiée par l
+  UCI).
 CATEGORIES:Sport,Cyclisme,Mondiaux
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sport-cyclisme-majeurs-uci-worlds-men-road-2027@facilabo.app
 DTSTAMP:20260223T120000Z
-DTSTART;VALUE=DATE:20270824
-DTEND;VALUE=DATE:20270825
+DTSTART;VALUE=DATE:20270829
+DTEND;VALUE=DATE:20270830
 SUMMARY:Championnats du monde UCI - Course en ligne hommes
-DESCRIPTION:Mondiaux route - épreuve elite (placeholder neutralise; dates
-  detaillees UCI 2027 non finalisees).
+DESCRIPTION:Mondiaux route - épreuve elite (date officielle publiée par l
+  UCI).
 CATEGORIES:Sport,Cyclisme,Mondiaux
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sport-cyclisme-majeurs-bretagne-classic-2027@facilabo.app
 DTSTAMP:20260226T120000Z
-DTSTART;VALUE=DATE:20270829
-DTEND;VALUE=DATE:20270830
+DTSTART;VALUE=DATE:20270822
+DTEND;VALUE=DATE:20270823
 SUMMARY:Bretagne Classic
-DESCRIPTION:Classique WorldTour - date à confirmer par l organisateur.
+DESCRIPTION:Classique WorldTour - date officielle publiée par l organisateur.
 CATEGORIES:Sport,Cyclisme,Classique
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sport-cyclisme-majeurs-grand-prix-quebec-2027@facilabo.app

@@ -127,11 +127,11 @@ END:VEVENT
 BEGIN:VEVENT
 UID:culture-ceremonies-cesars-2027@facilabo.app
 DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20270226
-DTEND;VALUE=DATE:20270227
+DTSTART;VALUE=DATE:20270225
+DTEND;VALUE=DATE:20270226
 SUMMARY:Cesars 2027
-DESCRIPTION:52e cérémonie des Cesars (date prévisionnelle, attente annon
- ce)
+DESCRIPTION:52e cérémonie des Cesars (date officielle publiée par l Acad
+ émie, sous réserve de modification)
 URL:https://www.academie-cinema.org/
 CATEGORIES:Culture,Cérémonies
 STATUS:TENTATIVE
@@ -139,13 +139,14 @@ END:VEVENT
 BEGIN:VEVENT
 UID:culture-ceremonies-grammys-2027@facilabo.app
 DTSTAMP:20260205T120000Z
-DTSTART;VALUE=DATE:20270131
-DTEND;VALUE=DATE:20270201
+DTSTART;VALUE=DATE:20270207
+DTEND;VALUE=DATE:20270208
 SUMMARY:Grammys 2027
-DESCRIPTION:69th Grammy Awards (date prévisionnelle, attente annonce)
+DESCRIPTION:69th Grammy Awards (date officielle annoncée par la Recording
+  Academy)
 URL:https://www.grammy.com/
 CATEGORIES:Culture,Cérémonies
-STATUS:TENTATIVE
+STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:culture-ceremonies-emmy-2027@facilabo.app
