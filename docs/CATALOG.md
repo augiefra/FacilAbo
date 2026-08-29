@@ -80,7 +80,7 @@
 ## Education feeds
 
 - `education/vacances-toutes-zones.ics` (slug: `vacances-toutes-zones`) - zones A, B et C dans un feed lisible sans tripler les événements; périodes communes fusionnées et périodes décalées segmentées par zones actives
-- `education/examens-2026.ics` (slug: `education-examens-2026`) - reperes nationaux utiles des examens 2026: bac, brevet, CAP, BTS, BP et BMA
+- `education/examens-2026.ics` (slug: `education-examens-2026`) - session 2027 publiée par le ministère : bac, brevet, CAP, BP, BMA et brevet de technicien. Le chemin et le slug restent historiques pour préserver les abonnements actifs.
 - `education/parcoursup-2026.ics` (slug: `education-parcoursup-2026`) - grandes echeances Parcoursup 2026
 
 ## Sport feeds
@@ -105,7 +105,7 @@
 - Luxembourg: `UID = <slug>-<normalized-event-key>-<year>@facilabo.app`; les ponts restent des opportunites editoriales a confirmer selon employeur.
 - Suisse romande: `UID = suisse-romande-<canton>-<type>-<event-key>-<year>@facilabo.app`; chaque flux reste cantonal et ne doit jamais etre presente comme Suisse entiere.
 - Canada/Quebec: `UID = canada-feries-publics-<event-key>-<year>@facilabo.app` et `UID = canada-quebec-feries-<event-key>-<year>@facilabo.app`; ne jamais presenter `canada-feries-publics` comme une couverture provinciale exhaustive.
-- Examens / Parcoursup 2026: `UID = examens-2026-<date>-<type>@facilabo.app` ou `parcoursup-2026-<date>-<type>@facilabo.app`; corriger le contenu en place sans changer les UIDs.
+- Examens : le feed actif `education/examens-2026.ics` conserve son chemin, son slug et ses UIDs historiques (`examens-2026-...@facilabo.app`) lors du renouvellement annuel ; les nouveaux événements 2027 utilisent `examens-2027-<date>-<type>@facilabo.app`. Corriger le contenu en place sans casser les abonnements.
 - Sorties 2026: `UID = sorties-<event-key>-2026@facilabo.app`; les marches de Noel restent separes par ville, et Kaysersberg garde un UID par week-end pour eviter d'occuper les jours de semaine.
 - Coupe du Monde 2026: `UID = worldcup-2026-match-<numero FIFA>@facilabo.app`; mettre a jour les affiches en place sans changer l'UID.
 - Apres qualification France/Belgique, ajouter les numeros de match FIFA correspondants dans `facilabo-api/lib/worldcup-2026-routes.ts`, puis redeployer l'API pour enrichir le slug existant sans recreer d'abonnement.

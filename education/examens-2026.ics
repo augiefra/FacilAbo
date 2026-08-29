@@ -1,322 +1,582 @@
 BEGIN:VCALENDAR
 VERSION:2.0
-PRODID:-//FacilAbo//Examens 2026//FR
+PRODID:-//FacilAbo//Examens 2027//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
-X-WR-CALNAME:Examens 2026
-X-WR-CALDESC:Bac, brevet, CAP, BTS, BP et BMA - repères nationaux utiles
+X-WR-CALNAME:Examens 2027
+X-WR-CALDESC:Bac, brevet, CAP, BP, BMA et brevet de technicien - repères n
+ ationaux 2027
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
-UID:examens-2026-20260511-bac-pro-maths-physique@facilabo.app
-DTSTAMP:20260424T120000Z
-DTSTART;VALUE=DATE:20260511
-DTEND;VALUE=DATE:20260523
-SUMMARY:Bac pro - maths / physique-chimie
-DESCRIPTION:Épreuves pratiques et écrites sur support informatique du 11 
- au 22 mai 2026.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
- parcoursup-le-calendrier-2026-341384
-CATEGORIES:Éducation,Examens,Bac
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:examens-2026-20260518-bts-epreuves-communes@facilabo.app
-DTSTAMP:20260424T120000Z
-DTSTART;VALUE=DATE:20260518
-DTEND;VALUE=DATE:20260522
-SUMMARY:BTS - épreuves écrites communes
-DESCRIPTION:Épreuves écrites communes du BTS du lundi 18 au jeudi 21 mai 
- 2026.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
- parcoursup-le-calendrier-2026-341384
-CATEGORIES:Éducation,Examens,BTS
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
 UID:examens-2026-20260518-bp-expression-printemps@facilabo.app
-DTSTAMP:20260424T120000Z
-DTSTART;VALUE=DATE:20260518
-DTEND;VALUE=DATE:20260519
-SUMMARY:Brevet professionnel - session de printemps
-DESCRIPTION:Épreuve d'expression et connaissance du monde.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
- parcoursup-le-calendrier-2026-341384
+DTSTAMP:20260824T120000Z
+DTSTART;VALUE=DATE:20270519
+DTEND;VALUE=DATE:20270520
+SUMMARY:Brevet professionnel - expression et connaissance du monde
+DESCRIPTION:Épreuve de la session de printemps le mercredi 19 mai 2027.
+URL:https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N
 CATEGORIES:Éducation,Examens,BP
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:examens-2026-20260520-bac-pro-langues@facilabo.app
-DTSTAMP:20260424T120000Z
-DTSTART;VALUE=DATE:20260520
-DTEND;VALUE=DATE:20260522
-SUMMARY:Bac pro - langues vivantes
-DESCRIPTION:Langue vivante A le 20 mai, langue vivante B le 21 mai 2026.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
- parcoursup-le-calendrier-2026-341384
-CATEGORIES:Éducation,Examens,Bac
+UID:examens-2026-20260518-bts-epreuves-communes@facilabo.app
+DTSTAMP:20260824T120000Z
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270602
+SUMMARY:Brevet de technicien métiers de la musique - session normale
+DESCRIPTION:Épreuves écrites de la première série les 27\, 28\, 31 mai et
+  1er juin 2027.
+URL:https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N
+CATEGORIES:Éducation,Examens,Brevet de technicien
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:examens-2026-20260528-bac-pro-francais-hg@facilabo.app
-DTSTAMP:20260424T120000Z
-DTSTART;VALUE=DATE:20260528
-DTEND;VALUE=DATE:20260529
-SUMMARY:Bac pro - français et histoire-géographie
-DESCRIPTION:Épreuves de français puis histoire-géographie / enseignement
-  moral et civique.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
- parcoursup-le-calendrier-2026-341384
-CATEGORIES:Éducation,Examens,Bac
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:examens-2026-20260529-bac-pro-arts-eco@facilabo.app
-DTSTAMP:20260424T120000Z
-DTSTART;VALUE=DATE:20260529
-DTEND;VALUE=DATE:20260530
-SUMMARY:Bac pro - arts appliques et économie
-DESCRIPTION:Arts appliques, économie-droit et économie-gestion.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
- parcoursup-le-calendrier-2026-341384
-CATEGORIES:Éducation,Examens,Bac
-STATUS:CONFIRMED
-END:VEVENT
-BEGIN:VEVENT
-UID:examens-2026-20260601-bac-pro-pse@facilabo.app
-DTSTAMP:20260424T120000Z
-DTSTART;VALUE=DATE:20260601
-DTEND;VALUE=DATE:20260602
-SUMMARY:Bac pro - prevention sante environnement
-DESCRIPTION:Épreuve de prevention, sante et environnement.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
- parcoursup-le-calendrier-2026-341384
-CATEGORIES:Éducation,Examens,Bac
+UID:examens-2027-20270527-brevet-technicien-francais@facilabo.app
+DTSTAMP:20260824T120000Z
+DTSTART;VALUE=DATE:20270527
+DTEND;VALUE=DATE:20270528
+SUMMARY:Brevet de technicien métiers de la musique - français
+DESCRIPTION:Épreuve de français le jeudi 27 mai 2027.
+URL:https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N
+CATEGORIES:Éducation,Examens,Brevet de technicien
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:examens-2026-20260608-cap-ecrits-generaux@facilabo.app
-DTSTAMP:20260424T120000Z
-DTSTART;VALUE=DATE:20260608
-DTEND;VALUE=DATE:20260610
-SUMMARY:CAP - épreuves écrites générales
-DESCRIPTION:Épreuves écrites d'enseignement général les 8 et 9 juin 202
- 6.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
- parcoursup-le-calendrier-2026-341384
+DTSTAMP:20260824T120000Z
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270603
+SUMMARY:CAP - épreuves écrites d'enseignement général
+DESCRIPTION:Épreuves écrites de la session normale les lundi 31 mai\, mard
+ i 1er et mercredi 2 juin 2027.
+URL:https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N
 CATEGORIES:Éducation,Examens,CAP
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:examens-2026-20260611-bac-francais-anticipe@facilabo.app
-DTSTAMP:20260424T120000Z
-DTSTART;VALUE=DATE:20260611
-DTEND;VALUE=DATE:20260612
-SUMMARY:Bac - français anticipe
-DESCRIPTION:Épreuve écrite anticipee de français du bac général et tec
- hnologique.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
- parcoursup-le-calendrier-2026-341384
+UID:examens-2027-20270601-bac-pro-experimentales@facilabo.app
+DTSTAMP:20260824T120000Z
+DTSTART;VALUE=DATE:20270601
+DTEND;VALUE=DATE:20270605
+SUMMARY:Bac professionnel - compétences expérimentales
+DESCRIPTION:Évaluation des compétences expérimentales de physique-chimie e
+ t SVT du mardi 1er au vendredi 4 juin 2027.
+URL:https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N
 CATEGORIES:Éducation,Examens,Bac
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:examens-2026-20260612-bac-maths-anticipees@facilabo.app
-DTSTAMP:20260424T120000Z
-DTSTART;VALUE=DATE:20260612
-DTEND;VALUE=DATE:20260613
-SUMMARY:Bac - mathématiques anticipees
-DESCRIPTION:Épreuve écrite anticipee de mathématiques.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
- parcoursup-le-calendrier-2026-341384
+UID:examens-2027-20270602-bac-langues-candidats-individuels@facilabo.app
+DTSTAMP:20260824T120000Z
+DTSTART;VALUE=DATE:20270602
+DTEND;VALUE=DATE:20270605
+SUMMARY:Bac - évaluations ponctuelles de langues vivantes
+DESCRIPTION:Évaluations écrites de langues vivantes pour les candidats ind
+ ividuels les 2\, 3 et 4 juin 2027.
+URL:https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N
 CATEGORIES:Éducation,Examens,Bac
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
-UID:examens-2026-20260615-bac-philosophie@facilabo.app
-DTSTAMP:20260424T120000Z
-DTSTART;VALUE=DATE:20260615
-DTEND;VALUE=DATE:20260616
-SUMMARY:Bac général / techno - philosophie
-DESCRIPTION:Épreuve de philosophie du bac général et technologique.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
- parcoursup-le-calendrier-2026-341384
+UID:examens-2026-20260511-bac-pro-maths-physique@facilabo.app
+DTSTAMP:20260824T120000Z
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270605
+SUMMARY:Bac professionnel - épreuves écrites\, premier bloc
+DESCRIPTION:Épreuves écrites nationales du baccalauréat professionnel les
+  jeudi 3 et vendredi 4 juin 2027.
+URL:https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N
+CATEGORIES:Éducation,Examens,Bac
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:examens-2026-20260520-bac-pro-langues@facilabo.app
+DTSTAMP:20260824T120000Z
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270605
+SUMMARY:Bac professionnel - langues vivantes
+DESCRIPTION:Langue vivante A le jeudi 3 juin et langue vivante B le vendre
+ di 4 juin 2027.
+URL:https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N
 CATEGORIES:Éducation,Examens,Bac
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:examens-2026-20260615-bma-enseignements-generaux@facilabo.app
-DTSTAMP:20260424T120000Z
-DTSTART;VALUE=DATE:20260615
-DTEND;VALUE=DATE:20260617
-SUMMARY:BMA - enseignements generaux
-DESCRIPTION:Français, histoire-géographie EMC puis langues vivantes les 1
- 5 et 16 juin 2026.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
- parcoursup-le-calendrier-2026-341384
+DTSTAMP:20260824T120000Z
+DTSTART;VALUE=DATE:20270603
+DTEND;VALUE=DATE:20270604
+SUMMARY:BMA - langues vivantes
+DESCRIPTION:Épreuves de langues vivantes du brevet des métiers d'art le je
+ udi 3 juin 2027.
+URL:https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N
 CATEGORIES:Éducation,Examens,BMA
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:examens-2026-20260529-bac-pro-arts-eco@facilabo.app
+DTSTAMP:20260824T120000Z
+DTSTART;VALUE=DATE:20270607
+DTEND;VALUE=DATE:20270608
+SUMMARY:Bac professionnel - arts appliqués
+DESCRIPTION:Épreuve d'arts appliqués et cultures artistiques le lundi 7 ju
+ in 2027.
+URL:https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N
+CATEGORIES:Éducation,Examens,Bac
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:examens-2027-20270607-bac-pro-ecrits-bloc-2@facilabo.app
+DTSTAMP:20260824T120000Z
+DTSTART;VALUE=DATE:20270607
+DTEND;VALUE=DATE:20270610
+SUMMARY:Bac professionnel - épreuves écrites\, deuxième bloc
+DESCRIPTION:Épreuves écrites nationales du lundi 7 au mercredi 9 juin 2027
+ .
+URL:https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N
+CATEGORIES:Éducation,Examens,Bac
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:examens-2026-20260528-bac-pro-francais-hg@facilabo.app
+DTSTAMP:20260824T120000Z
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270609
+SUMMARY:Bac professionnel - français
+DESCRIPTION:Épreuve de français le mardi 8 juin 2027.
+URL:https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N
+CATEGORIES:Éducation,Examens,Bac
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:examens-2027-20270608-bma-francais@facilabo.app
+DTSTAMP:20260824T120000Z
+DTSTART;VALUE=DATE:20270608
+DTEND;VALUE=DATE:20270609
+SUMMARY:BMA - français
+DESCRIPTION:Épreuve de français du brevet des métiers d'art le mardi 8 jui
+ n 2027.
+URL:https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N
+CATEGORIES:Éducation,Examens,BMA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:examens-2027-20270609-bac-pro-hg-emc@facilabo.app
+DTSTAMP:20260824T120000Z
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+SUMMARY:Bac professionnel - histoire-géographie et EMC
+DESCRIPTION:Épreuve d'histoire-géographie et enseignement moral et civique
+  le mercredi 9 juin 2027.
+URL:https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N
+CATEGORIES:Éducation,Examens,Bac
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:examens-2027-20270609-bma-hg-emc@facilabo.app
+DTSTAMP:20260824T120000Z
+DTSTART;VALUE=DATE:20270609
+DTEND;VALUE=DATE:20270610
+SUMMARY:BMA - histoire-géographie et EMC
+DESCRIPTION:Épreuve d'histoire-géographie et enseignement moral et civique
+  du brevet des métiers d'art le mercredi 9 juin 2027.
+URL:https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N
+CATEGORIES:Éducation,Examens,BMA
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:examens-2026-20260601-bac-pro-pse@facilabo.app
+DTSTAMP:20260824T120000Z
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270615
+SUMMARY:Bac professionnel - prévention\, santé et environnement
+DESCRIPTION:Épreuve de prévention\, santé et environnement le lundi 14 jui
+ n 2027.
+URL:https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N
+CATEGORIES:Éducation,Examens,Bac
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:examens-2026-20260615-bac-philosophie@facilabo.app
+DTSTAMP:20260824T120000Z
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270615
+SUMMARY:Bac général et technologique - philosophie
+DESCRIPTION:Épreuve de philosophie le lundi 14 juin 2027 au matin.
+URL:https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N
+CATEGORIES:Éducation,Examens,Bac
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:examens-2027-20270614-bac-pro-ecrits-bloc-3@facilabo.app
+DTSTAMP:20260824T120000Z
+DTSTART;VALUE=DATE:20270614
+DTEND;VALUE=DATE:20270626
+SUMMARY:Bac professionnel - épreuves écrites\, troisième bloc
+DESCRIPTION:Période nationale des épreuves écrites du lundi 14 au vendredi
+  25 juin 2027.
+URL:https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N
+CATEGORIES:Éducation,Examens,Bac
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:examens-2026-20260611-bac-francais-anticipe@facilabo.app
+DTSTAMP:20260824T120000Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:Bac général et technologique - français
+DESCRIPTION:Épreuve écrite anticipée de français le mardi 15 juin 2027 au
+  matin.
+URL:https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N
+CATEGORIES:Éducation,Examens,Bac
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:examens-2027-20270615-bac-pro-economie@facilabo.app
+DTSTAMP:20260824T120000Z
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:Bac professionnel - économie-droit et économie-gestion
+DESCRIPTION:Épreuves d'économie-droit et d'économie-gestion le mardi 15 ju
+ in 2027.
+URL:https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N
+CATEGORIES:Éducation,Examens,Bac
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:examens-2026-20260616-bac-specialites@facilabo.app
-DTSTAMP:20260424T120000Z
-DTSTART;VALUE=DATE:20260616
-DTEND;VALUE=DATE:20260619
-SUMMARY:Bac général / techno - specialites
-DESCRIPTION:Épreuves écrites de specialites du mardi 16 au jeudi 18 juin 
- 2026.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
- parcoursup-le-calendrier-2026-341384
+DTSTAMP:20260824T120000Z
+DTSTART;VALUE=DATE:20270616
+DTEND;VALUE=DATE:20270619
+SUMMARY:Bac général et technologique - spécialités
+DESCRIPTION:Épreuves écrites de spécialités du mercredi 16 au vendredi 18
+  juin 2027 au matin.
+URL:https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N
+CATEGORIES:Éducation,Examens,Bac
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:examens-2026-20260612-bac-maths-anticipees@facilabo.app
+DTSTAMP:20260824T120000Z
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270622
+SUMMARY:Bac général et technologique - mathématiques
+DESCRIPTION:Épreuve écrite anticipée de mathématiques le lundi 21 juin 202
+ 7 au matin.
+URL:https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N
 CATEGORIES:Éducation,Examens,Bac
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:examens-2026-20260622-bac-grand-oral@facilabo.app
-DTSTAMP:20260424T120000Z
-DTSTART;VALUE=DATE:20260622
-DTEND;VALUE=DATE:20260702
-SUMMARY:Bac général / techno - Grand oral
-DESCRIPTION:Grand oral organise par les academies entre le 22 juin et le 1e
- r juillet 2026.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
- parcoursup-le-calendrier-2026-341384
+DTSTAMP:20260824T120000Z
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270703
+SUMMARY:Bac général et technologique - Grand oral
+DESCRIPTION:Grand oral organisé par les académies à compter du lundi 21 ju
+ in et au plus tard jusqu'au vendredi 2 juillet 2027.
+URL:https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N
 CATEGORIES:Éducation,Examens,Bac
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:examens-2026-20260624-bac-pro-oral-projet@facilabo.app
-DTSTAMP:20260424T120000Z
-DTSTART;VALUE=DATE:20260624
-DTEND;VALUE=DATE:20260625
-SUMMARY:Bac pro - oral de projet
-DESCRIPTION:Épreuve orale de projet a compter du 24 juin 2026.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
- parcoursup-le-calendrier-2026-341384
+DTSTAMP:20260824T120000Z
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270710
+SUMMARY:Bac professionnel - oral de projet
+DESCRIPTION:Épreuve orale de projet du baccalauréat professionnel à compte
+ r du lundi 21 juin 2027.
+URL:https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N
+CATEGORIES:Éducation,Examens,Bac
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:examens-2027-20270621-bac-francais-oral@facilabo.app
+DTSTAMP:20260824T120000Z
+DTSTART;VALUE=DATE:20270621
+DTEND;VALUE=DATE:20270710
+SUMMARY:Bac général et technologique - oral de français
+DESCRIPTION:Épreuve orale de français organisée par les académies à compte
+ r du lundi 21 juin et au plus tard jusqu'au vendredi 9 juillet 2027.
+URL:https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N
 CATEGORIES:Éducation,Examens,Bac
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:examens-2026-20260626-brevet-francais@facilabo.app
-DTSTAMP:20260424T120000Z
-DTSTART;VALUE=DATE:20260626
-DTEND;VALUE=DATE:20260627
-SUMMARY:Brevet - français
-DESCRIPTION:Première journée des épreuves écrites communes du DNB.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
- parcoursup-le-calendrier-2026-341384
+DTSTAMP:20260824T120000Z
+DTSTART;VALUE=DATE:20270624
+DTEND;VALUE=DATE:20270625
+SUMMARY:Brevet - épreuves écrites communes\, jour 1
+DESCRIPTION:Première journée des épreuves écrites communes du diplôme nati
+ onal du brevet le jeudi 24 juin 2027.
+URL:https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N
 CATEGORIES:Éducation,Examens,Brevet
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:examens-2026-20260629-brevet-hg-sciences@facilabo.app
-DTSTAMP:20260424T120000Z
-DTSTART;VALUE=DATE:20260629
-DTEND;VALUE=DATE:20260630
-SUMMARY:Brevet - histoire-géographie et sciences
-DESCRIPTION:Deuxieme journée des épreuves écrites communes du DNB.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
- parcoursup-le-calendrier-2026-341384
+DTSTAMP:20260824T120000Z
+DTSTART;VALUE=DATE:20270625
+DTEND;VALUE=DATE:20270626
+SUMMARY:Brevet - épreuves écrites communes\, jour 2
+DESCRIPTION:Deuxième journée des épreuves écrites communes du diplôme nati
+ onal du brevet le vendredi 25 juin 2027.
+URL:https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N
 CATEGORIES:Éducation,Examens,Brevet
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:examens-2026-20260630-brevet-maths-langue@facilabo.app
-DTSTAMP:20260424T120000Z
-DTSTART;VALUE=DATE:20260630
-DTEND;VALUE=DATE:20260701
-SUMMARY:Brevet - mathématiques et langue vivante
-DESCRIPTION:Troisieme journée des épreuves écrites communes du DNB.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
- parcoursup-le-calendrier-2026-341384
+DTSTAMP:20260824T120000Z
+DTSTART;VALUE=DATE:20270628
+DTEND;VALUE=DATE:20270629
+SUMMARY:Brevet - épreuves écrites communes\, jour 3
+DESCRIPTION:Troisième journée des épreuves écrites communes du diplôme nat
+ ional du brevet le lundi 28 juin 2027.
+URL:https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N
+CATEGORIES:Éducation,Examens,Brevet
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:examens-2027-20270629-brevet-langue@facilabo.app
+DTSTAMP:20260824T120000Z
+DTSTART;VALUE=DATE:20270629
+DTEND;VALUE=DATE:20270630
+SUMMARY:Brevet - langue vivante étrangère spécifique
+DESCRIPTION:Épreuve spécifique de langue vivante étrangère le mardi 29 jui
+ n 2027.
+URL:https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N
 CATEGORIES:Éducation,Examens,Brevet
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:examens-2026-20260707-resultats-bac@facilabo.app
-DTSTAMP:20260424T120000Z
-DTSTART;VALUE=DATE:20260707
-DTEND;VALUE=DATE:20260708
-SUMMARY:Bac - résultats
-DESCRIPTION:Résultats du baccalauréat communiques à partir du 7 juillet 
- 2026.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
- parcoursup-le-calendrier-2026-341384
+DTSTAMP:20260824T120000Z
+DTSTART;VALUE=DATE:20270706
+DTEND;VALUE=DATE:20270707
+SUMMARY:Bac - communication des résultats
+DESCRIPTION:Communication des résultats du baccalauréat à compter du mardi
+  6 juillet 2027.
+URL:https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N
 CATEGORIES:Éducation,Examens,Bac
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:examens-2026-20260709-bac-rattrapage@facilabo.app
-DTSTAMP:20260424T120000Z
-DTSTART;VALUE=DATE:20260709
-DTEND;VALUE=DATE:20260711
-SUMMARY:Bac - rattrapage / second groupe
-DESCRIPTION:Épreuves du second groupe jusqu'au 9 juillet, au plus tard le 
- 10 juillet midi selon les voies.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
- parcoursup-le-calendrier-2026-341384
+DTSTAMP:20260824T120000Z
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270710
+SUMMARY:Bac - second groupe et épreuve de contrôle
+DESCRIPTION:Épreuves du second groupe du bac général et technologique et é
+ preuve de contrôle du bac professionnel jusqu'au vendredi 9 juillet 2027.
+URL:https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N
 CATEGORIES:Éducation,Examens,Bac
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:examens-2027-20270709-fin-session@facilabo.app
+DTSTAMP:20260824T120000Z
+DTSTART;VALUE=DATE:20270709
+DTEND;VALUE=DATE:20270710
+SUMMARY:Fin de la session des examens 2027
+DESCRIPTION:La session 2027 se termine le vendredi 9 juillet 2027 pour tou
+ s les examens.
+URL:https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N
+CATEGORIES:Éducation,Examens
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:examens-2026-20260907-bac-remplacement@facilabo.app
-DTSTAMP:20260424T120000Z
-DTSTART;VALUE=DATE:20260907
-DTEND;VALUE=DATE:20260911
-SUMMARY:Bac général / techno - remplacement
-DESCRIPTION:Épreuves écrites de remplacement du lundi 7 au jeudi 10 septe
- mbre 2026.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
- parcoursup-le-calendrier-2026-341384
+DTSTAMP:20260824T120000Z
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270910
+SUMMARY:Bac général et technologique - remplacement
+DESCRIPTION:Épreuves écrites de remplacement du lundi 6 au jeudi 9 septemb
+ re 2027.
+URL:https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N
+CATEGORIES:Éducation,Examens,Bac
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:examens-2027-20270906-bac-pro-remplacement-francais-arts@facilabo.app
+DTSTAMP:20260824T120000Z
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270907
+SUMMARY:Bac professionnel - remplacement français et arts
+DESCRIPTION:Épreuves de français et d'arts appliqués de remplacement le lu
+ ndi 6 septembre 2027.
+URL:https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N
+CATEGORIES:Éducation,Examens,Bac
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:examens-2027-20270906-bac-pro-remplacement@facilabo.app
+DTSTAMP:20260824T120000Z
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270917
+SUMMARY:Bac professionnel - remplacement
+DESCRIPTION:Épreuves écrites de remplacement du baccalauréat professionnel
+  du lundi 6 au vendredi 10 septembre et du lundi 13 au jeudi 16 septembre
+  2027.
+URL:https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N
+CATEGORIES:Éducation,Examens,Bac
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:examens-2027-20270906-brevet-technicien-remplacement@facilabo.app
+DTSTAMP:20260824T120000Z
+DTSTART;VALUE=DATE:20270906
+DTEND;VALUE=DATE:20270910
+SUMMARY:Brevet de technicien métiers de la musique - remplacement
+DESCRIPTION:Épreuves écrites de la première série de remplacement les lund
+ i 6\, mardi 7\, mercredi 8 et jeudi 9 septembre 2027.
+URL:https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N
+CATEGORIES:Éducation,Examens,Brevet de technicien
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:examens-2027-20270907-bac-pro-remplacement-hg-pse@facilabo.app
+DTSTAMP:20260824T120000Z
+DTSTART;VALUE=DATE:20270907
+DTEND;VALUE=DATE:20270908
+SUMMARY:Bac professionnel - remplacement histoire-géographie et PSE
+DESCRIPTION:Épreuves d'histoire-géographie\, EMC et prévention santé envir
+ onnement de remplacement le mardi 7 septembre 2027.
+URL:https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N
+CATEGORIES:Éducation,Examens,Bac
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:examens-2027-20270908-bac-pro-remplacement-economie@facilabo.app
+DTSTAMP:20260824T120000Z
+DTSTART;VALUE=DATE:20270908
+DTEND;VALUE=DATE:20270909
+SUMMARY:Bac professionnel - remplacement économie
+DESCRIPTION:Épreuves d'économie-droit et d'économie-gestion de remplacemen
+ t le mercredi 8 septembre 2027.
+URL:https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N
 CATEGORIES:Éducation,Examens,Bac
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:examens-2026-20260910-brevet-remplacement@facilabo.app
-DTSTAMP:20260424T120000Z
-DTSTART;VALUE=DATE:20260910
-DTEND;VALUE=DATE:20260912
-SUMMARY:Brevet - session de remplacement
-DESCRIPTION:Épreuves communes de remplacement du DNB les 10 et 11 septembr
- e 2026.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
- parcoursup-le-calendrier-2026-341384
+DTSTAMP:20260824T120000Z
+DTSTART;VALUE=DATE:20270909
+DTEND;VALUE=DATE:20270911
+SUMMARY:Brevet - épreuves communes de remplacement
+DESCRIPTION:Épreuves écrites communes de remplacement du diplôme national
+  du brevet les jeudi 9 et vendredi 10 septembre 2027.
+URL:https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N
+CATEGORIES:Éducation,Examens,Brevet
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:examens-2027-20270906-bac-francais-remplacement@facilabo.app
+DTSTAMP:20260824T120000Z
+DTSTART;VALUE=DATE:20270909
+DTEND;VALUE=DATE:20270910
+SUMMARY:Bac général et technologique - français de remplacement
+DESCRIPTION:Épreuve écrite anticipée de français de remplacement le jeudi
+  9 septembre 2027.
+URL:https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N
+CATEGORIES:Éducation,Examens,Bac
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:examens-2027-20270909-bac-pro-remplacement-lva@facilabo.app
+DTSTAMP:20260824T120000Z
+DTSTART;VALUE=DATE:20270909
+DTEND;VALUE=DATE:20270910
+SUMMARY:Bac professionnel - remplacement langue vivante A
+DESCRIPTION:Épreuve de langue vivante A de remplacement le jeudi 9 septemb
+ re 2027.
+URL:https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N
+CATEGORIES:Éducation,Examens,Bac
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:examens-2027-20270910-bac-maths-remplacement@facilabo.app
+DTSTAMP:20260824T120000Z
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270911
+SUMMARY:Bac général et technologique - mathématiques de remplacement
+DESCRIPTION:Épreuve écrite anticipée de mathématiques de remplacement le v
+ endredi 10 septembre 2027 au matin.
+URL:https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N
+CATEGORIES:Éducation,Examens,Bac
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:examens-2027-20270910-bac-pro-remplacement-lvb@facilabo.app
+DTSTAMP:20260824T120000Z
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270911
+SUMMARY:Bac professionnel - remplacement langue vivante B
+DESCRIPTION:Épreuve de langue vivante B de remplacement le vendredi 10 sep
+ tembre 2027.
+URL:https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N
+CATEGORIES:Éducation,Examens,Bac
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
+UID:examens-2027-20270910-brevet-langue-remplacement@facilabo.app
+DTSTAMP:20260824T120000Z
+DTSTART;VALUE=DATE:20270910
+DTEND;VALUE=DATE:20270911
+SUMMARY:Brevet - langue vivante étrangère de remplacement
+DESCRIPTION:Épreuve spécifique de langue vivante étrangère de remplacement
+  le vendredi 10 septembre 2027.
+URL:https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N
 CATEGORIES:Éducation,Examens,Brevet
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:examens-2026-20260914-cap-remplacement@facilabo.app
-DTSTAMP:20260424T120000Z
-DTSTART;VALUE=DATE:20260914
-DTEND;VALUE=DATE:20260916
-SUMMARY:CAP - remplacement enseignement général
-DESCRIPTION:Épreuves de remplacement des enseignements generaux les 14 et 
- 15 septembre 2026.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
- parcoursup-le-calendrier-2026-341384
+DTSTAMP:20260824T120000Z
+DTSTART;VALUE=DATE:20270913
+DTEND;VALUE=DATE:20270915
+SUMMARY:CAP - épreuves écrites de remplacement
+DESCRIPTION:Épreuves écrites d'enseignement général de remplacement les lu
+ ndi 13 et mardi 14 septembre 2027.
+URL:https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N
 CATEGORIES:Éducation,Examens,CAP
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:examens-2027-20270913-bac-langues-remplacement@facilabo.app
+DTSTAMP:20260824T120000Z
+DTSTART;VALUE=DATE:20270913
+DTEND;VALUE=DATE:20270915
+SUMMARY:Bac - évaluations de langues vivantes de remplacement
+DESCRIPTION:Évaluations ponctuelles écrites de langues vivantes de remplac
+ ement les lundi 13 et mardi 14 septembre 2027.
+URL:https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N
+CATEGORIES:Éducation,Examens,Bac
+STATUS:CONFIRMED
+END:VEVENT
+BEGIN:VEVENT
 UID:examens-2026-20261005-bp-remplacement-printemps@facilabo.app
-DTSTAMP:20260424T120000Z
-DTSTART;VALUE=DATE:20261005
-DTEND;VALUE=DATE:20261006
-SUMMARY:Brevet professionnel - remplacement printemps / automne
-DESCRIPTION:Épreuve d'expression et connaissance du monde de remplacement 
- printemps et session automne.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
- parcoursup-le-calendrier-2026-341384
+DTSTAMP:20260824T120000Z
+DTSTART;VALUE=DATE:20271005
+DTEND;VALUE=DATE:20271006
+SUMMARY:Brevet professionnel - remplacement de printemps
+DESCRIPTION:Épreuve de remplacement d'expression et connaissance du monde
+  le mardi 5 octobre 2027.
+URL:https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N
 CATEGORIES:Éducation,Examens,BP
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:examens-2026-20261125-bp-remplacement-automne@facilabo.app
-DTSTAMP:20260424T120000Z
-DTSTART;VALUE=DATE:20261125
-DTEND;VALUE=DATE:20261126
-SUMMARY:Brevet professionnel - remplacement automne
-DESCRIPTION:Épreuve de remplacement de la session d'automne.
-URL:https://www.education.gouv.fr/reussir-au-lycee/baccalaureat-brevet-cap-
- parcoursup-le-calendrier-2026-341384
+DTSTAMP:20260824T120000Z
+DTSTART;VALUE=DATE:20271125
+DTEND;VALUE=DATE:20271126
+SUMMARY:Brevet professionnel - remplacement d'automne
+DESCRIPTION:Épreuve de remplacement d'expression et connaissance du monde
+  le jeudi 25 novembre 2027.
+URL:https://www.education.gouv.fr/bo/2026/Special2/MENE2622686N
 CATEGORIES:Éducation,Examens,BP
 STATUS:CONFIRMED
 END:VEVENT

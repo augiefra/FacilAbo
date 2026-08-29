@@ -25,7 +25,7 @@ Examples:
 - `https://raw.githubusercontent.com/augiefra/facilabo/main/canada/quebec-feries.ics`
 - `https://raw.githubusercontent.com/augiefra/facilabo/main/fiscal/france.ics`
 - `https://raw.githubusercontent.com/augiefra/facilabo/main/fiscal/paye-fonction-publique.ics`
-- `https://raw.githubusercontent.com/augiefra/facilabo/main/education/examens-2026.ics`
+- `https://raw.githubusercontent.com/augiefra/facilabo/main/education/examens-2026.ics` (session 2027, chemin historique conservé pour les abonnés)
 - `https://raw.githubusercontent.com/augiefra/facilabo/main/education/parcoursup-2026.ics`
 - `https://raw.githubusercontent.com/augiefra/facilabo/main/sport/wec.ics`
 - `https://raw.githubusercontent.com/augiefra/facilabo/main/sport/rugby-top-14-complet.ics`
