@@ -144,42 +144,47 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-bouddhiste-vesak-2027@facilabo.app
-DTSTAMP:20260206T081127Z
+DTSTAMP:20260907T145415Z
 DTSTART;VALUE=DATE:20270520
 DTEND;VALUE=DATE:20270521
-SUMMARY:Vesak
-DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri
-  Lanka/India).
-URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calen
- dar.google.com/public
+SUMMARY:Vesak / Buddha Purnima (Inde)
+DESCRIPTION:Date de Buddha Purnima selon le calendrier indien Drik Panchang
+ . La célébration varie selon les traditions : au Sri Lanka\, Vesak Poya 
+ est fixé au 19 mai 2027.
+URL:https://www.drikpanchang.com/calendars/indian/indiancalendar.html?year=
+ 2027
 CATEGORIES:Religion,Bouddhisme
 STATUS:CONFIRMED
+SEQUENCE:1
+LAST-MODIFIED:20260907T145415Z
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-bouddhiste-poson-poya-2027@facilabo.app
-DTSTAMP:20260206T081127Z
-DTSTART;VALUE=DATE:20270619
-DTEND;VALUE=DATE:20270620
+DTSTAMP:20260907T145415Z
+DTSTART;VALUE=DATE:20270618
+DTEND;VALUE=DATE:20270619
 SUMMARY:Poson Poya
-DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri
-  Lanka/India).
-URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calen
- dar.google.com/public
+DESCRIPTION:Observance bouddhiste au Sri Lanka. Date officielle publiée pa
+ r la Banque centrale du Sri Lanka.
+URL:https://www.cbsl.gov.lk/en/about/about-the-bank/bank-holidays-2027
 CATEGORIES:Religion,Bouddhisme
 STATUS:CONFIRMED
+SEQUENCE:1
+LAST-MODIFIED:20260907T145415Z
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-bouddhiste-esala-poya-2027@facilabo.app
-DTSTAMP:20260206T081127Z
-DTSTART;VALUE=DATE:20270719
-DTEND;VALUE=DATE:20270720
+DTSTAMP:20260907T145415Z
+DTSTART;VALUE=DATE:20270718
+DTEND;VALUE=DATE:20270719
 SUMMARY:Esala Poya
-DESCRIPTION:Fête/observance bouddhiste (source: Google Public Holidays Sri
-  Lanka/India).
-URL:https://calendar.google.com/calendar/ical/en.lk%23holiday@group.v.calen
- dar.google.com/public
+DESCRIPTION:Observance bouddhiste au Sri Lanka. Date officielle publiée pa
+ r la Banque centrale du Sri Lanka.
+URL:https://www.cbsl.gov.lk/en/about/about-the-bank/bank-holidays-2027
 CATEGORIES:Religion,Bouddhisme
 STATUS:CONFIRMED
+SEQUENCE:1
+LAST-MODIFIED:20260907T145415Z
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-bouddhiste-duruthu-poya-2028@facilabo.app

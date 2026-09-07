@@ -146,6 +146,22 @@ CATEGORIES:Administration,Retraite
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
+UID:fiscal-paiements-retraite-2026-20261209@facilabo.app
+DTSTAMP:20260907T145425Z
+LAST-MODIFIED:20260907T145425Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261209
+DTEND;VALUE=DATE:20261210
+SUMMARY:Paiement retraite - Assurance retraite
+DESCRIPTION:Versement de la mensualité de novembre 2026 le 9 décembre 202
+ 6 selon le calendrier officiel Assurance retraite. Le délai effectif dép
+ end de l'établissement financier.
+CATEGORIES:Administration,Retraite
+STATUS:CONFIRMED
+URL:https://www.lassuranceretraite.fr/portail-info/home/retraite/paiements-
+ retraite/calendrier-paiement-retraite.html
+END:VEVENT
+BEGIN:VEVENT
 UID:fiscal-paiements-retraite-2026-202612@facilabo.app
 DTSTAMP:20260829T120000Z
 DTSTART;VALUE=DATE:20270108

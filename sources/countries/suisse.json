@@ -58,6 +58,7 @@
       "confidence": "high",
       "usage": "Base legale officielle RSJU 555.1 listant les jours feries officiels du canton du Jura."
     },
+    {"id": "jura-school-holidays-2028", "title": "Jura - arrêté du 10 mars 2026, calendrier scolaire 2025-2028", "url": "https://www.jura.ch/Htdocs/Files/v/7396061d5ed4f3aefc1bca05ea928a318eb15410931645cf5cf0776004b370f2.pdf", "confidence": "high", "usage": "Arrêté officiel fixant les vacances et congés des écoles publiques jusqu’à la fin du cycle2027-2028 ; dates2028 vérifiées le7septembre2026."},
     {
       "id": "jura-school-holidays",
       "title": "Jura - vacances scolaires",
@@ -326,7 +327,7 @@
       "timezone": "Europe/Paris",
       "categories": ["Pays", "Suisse", "Suisse romande", "Jura", "Vacances scolaires"],
       "kind": "events",
-      "coverage": "2026-2027",
+      "coverage": "2026-2028",
       "events": [
         { "key": "relache-hivernale-2026", "summary": "Semaine de relache hivernale - Jura", "start_date": "2026-02-16", "end_date": "2026-02-20", "type": "school_holiday", "source_id": "jura-school-holidays", "confidence": "high" },
         { "key": "paques-2026", "summary": "Vacances de Paques - Jura", "start_date": "2026-04-03", "end_date": "2026-04-17", "type": "school_holiday", "source_id": "jura-school-holidays", "confidence": "high" },
@@ -348,7 +349,15 @@
         { "key": "ete-2027", "summary": "Vacances d ete - Jura", "start_date": "2027-07-05", "end_date": "2027-08-13", "type": "school_holiday", "source_id": "jura-school-holidays", "confidence": "high" },
         { "key": "automne-2027", "summary": "Vacances d automne - Jura", "start_date": "2027-10-04", "end_date": "2027-10-15", "type": "school_holiday", "source_id": "jura-school-holidays", "confidence": "high" },
         { "key": "toussaint-2027", "summary": "Toussaint - Jura", "start_date": "2027-11-01", "end_date": "2027-11-01", "type": "school_holiday", "source_id": "jura-school-holidays", "confidence": "high" },
-        { "key": "noel-2027", "summary": "Vacances de Noel - Jura", "start_date": "2027-12-24", "end_date": "2028-01-07", "type": "school_holiday", "source_id": "jura-school-holidays", "confidence": "high" }
+        { "key": "noel-2027", "summary": "Vacances de Noel - Jura", "start_date": "2027-12-24", "end_date": "2028-01-07", "type": "school_holiday", "source_id": "jura-school-holidays", "confidence": "high" },
+        {"key": "relache-hivernale-2028", "summary": "Semaine de relâche hivernale - Jura", "start_date": "2028-02-21", "end_date": "2028-02-25", "type": "school_holiday", "source_id": "jura-school-holidays-2028", "confidence": "high"},
+        {"key": "paques-2028", "summary": "Vacances de Pâques - Jura", "start_date": "2028-04-14", "end_date": "2028-04-28", "type": "school_holiday", "source_id": "jura-school-holidays-2028", "confidence": "high"},
+        {"key": "fete-travail-2028", "summary": "Fête du travail - Jura", "start_date": "2028-05-01", "end_date": "2028-05-01", "type": "school_holiday", "source_id": "jura-school-holidays-2028", "confidence": "high"},
+        {"key": "ascension-2028", "summary": "Ascension - Jura", "start_date": "2028-05-25", "end_date": "2028-05-26", "type": "school_holiday", "source_id": "jura-school-holidays-2028", "confidence": "high"},
+        {"key": "pentecote-2028", "summary": "Lundi de Pentecôte - Jura", "start_date": "2028-06-05", "end_date": "2028-06-05", "type": "school_holiday", "source_id": "jura-school-holidays-2028", "confidence": "high"},
+        {"key": "fete-dieu-2028", "summary": "Fête-Dieu - Jura", "start_date": "2028-06-15", "end_date": "2028-06-15", "type": "school_holiday", "source_id": "jura-school-holidays-2028", "confidence": "high"},
+        {"key": "fete-independance-2028", "summary": "Fête de l’indépendance - Jura", "start_date": "2028-06-23", "end_date": "2028-06-23", "type": "school_holiday", "source_id": "jura-school-holidays-2028", "confidence": "high"},
+        {"key": "ete-2028", "summary": "Vacances d’été - Jura", "start_date": "2028-07-03", "end_date": "2028-08-18", "type": "school_holiday", "source_id": "jura-school-holidays-2028", "confidence": "high"}
       ]
     }
   ],

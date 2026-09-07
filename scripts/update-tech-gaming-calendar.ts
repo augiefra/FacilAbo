@@ -137,7 +137,7 @@ function eventSortKey(source) {
   return `${source.event.start_date}T00:00:00`;
 }
 
-function buildVevent(source) {
+function buildVevent(source, previousEvents) {
   const event = source.event;
   const year = event.timed ? event.start_datetime.slice(0, 4) : event.start_date.slice(0, 4);
   const lines = [
@@ -176,13 +176,34 @@ function buildVevent(source) {
   lines.push(`STATUS:${event.status || 'CONFIRMED'}`);
   lines.push('END:VEVENT');
 
+  const previous = previousEvents.get(lines[1]);
+  if (previous) {
+    const previousLines = previous.replace(/\r?\n[ \t]/g, '').split(/\r?\n/);
+    const isRevision = (line) => /^(DTSTAMP|LAST-MODIFIED|SEQUENCE):/.test(line);
+    const content = (items) => items.filter((line) => !isRevision(line)).sort().join('\n');
+    if (content(previousLines) === content(lines)) return previous;
+
+    const previousSequence = previousLines.find((line) => line.startsWith('SEQUENCE:'));
+    const sequence = previousSequence ? Number(previousSequence.slice('SEQUENCE:'.length)) : 0;
+    if (!Number.isInteger(sequence) || sequence < 0) fail(`Invalid SEQUENCE for ${lines[1]}`);
+    const timestamp = new Date().toISOString().replace(/[-:]/g, '').replace(/\.\d{3}Z$/, 'Z');
+    lines[2] = `DTSTAMP:${timestamp}`;
+    lines.splice(3, 0, `LAST-MODIFIED:${timestamp}`, `SEQUENCE:${sequence + 1}`);
+  }
+
   const serializedLines = Number(year) >= 2027
     ? lines.flatMap((line) => foldIcsLine(line))
     : lines;
   return serializedLines.join('\n');
 }
 
-function buildCalendar(config) {
+function buildCalendar(config, currentCalendar) {
+  const previousEvents = new Map();
+  for (const match of currentCalendar.matchAll(/BEGIN:VEVENT\r?\n[\s\S]*?END:VEVENT/g)) {
+    const event = match[0];
+    const uid = event.replace(/\r?\n[ \t]/g, '').split(/\r?\n/).find((line) => line.startsWith('UID:'));
+    if (uid) previousEvents.set(uid, event);
+  }
   const activeSources = config.sources
     .filter((source) => source.enabled === true && !source.watch_only)
     .filter((source) => source.event && typeof source.event === 'object')
@@ -217,7 +238,7 @@ function buildCalendar(config) {
     'END:VTIMEZONE'
   ];
 
-  const body = activeSources.map((source) => buildVevent(source));
+  const body = activeSources.map((source) => buildVevent(source, previousEvents));
   const footer = ['END:VCALENDAR'];
 
   return {
@@ -276,9 +297,8 @@ function main() {
   }
 
   const config = loadConfig(watchlistPath);
-  const { calendarText, eventCount } = buildCalendar(config);
-
   const canonicalCurrent = fs.existsSync(canonicalPath) ? fs.readFileSync(canonicalPath, 'utf8') : '';
+  const { calendarText, eventCount } = buildCalendar(config, canonicalCurrent);
   const canonicalChanged = canonicalCurrent !== calendarText;
 
   let mirrorChanged = false;

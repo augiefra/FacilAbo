@@ -4,7 +4,8 @@ PRODID:-//FacilAbo//Calendrier Fiscal France//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Calendrier Fiscal France
-X-WR-CALDESC:Dates limites des déclarations et paiements d'impôts en France
+X-WR-CALDESC:Dates limites des déclarations et paiements d'impôts en Fran
+ ce
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VTIMEZONE
 TZID:Europe/Paris
@@ -40,7 +41,8 @@ DTSTAMP:20241212T120000Z
 DTSTART;VALUE=DATE:20250522
 DTEND;VALUE=DATE:20250523
 SUMMARY:Déclaration revenus en ligne - Zone 1
-DESCRIPTION:Date limite déclaration en ligne - Départements 01 à 19 et non-résidents
+DESCRIPTION:Date limite déclaration en ligne - Départements 01 à 19 et n
+ on-résidents
 CATEGORIES:Fiscalité,Impôts
 STATUS:CONFIRMED
 END:VEVENT
@@ -70,7 +72,8 @@ DTSTAMP:20241212T120000Z
 DTSTART;VALUE=DATE:20251015
 DTEND;VALUE=DATE:20251016
 SUMMARY:Taxe foncière - Date limite
-DESCRIPTION:Date limite de paiement de la taxe foncière (20 octobre si paiement en ligne)
+DESCRIPTION:Date limite de paiement de la taxe foncière (20 octobre si pai
+ ement en ligne)
 CATEGORIES:Fiscalité,Impôts
 STATUS:CONFIRMED
 END:VEVENT
@@ -80,19 +83,25 @@ DTSTAMP:20241212T120000Z
 DTSTART;VALUE=DATE:20251020
 DTEND;VALUE=DATE:20251021
 SUMMARY:Taxe foncière - Paiement en ligne
-DESCRIPTION:Date limite de paiement en ligne ou par prélèvement de la taxe foncière
+DESCRIPTION:Date limite de paiement en ligne ou par prélèvement de la tax
+ e foncière
 CATEGORIES:Fiscalité,Impôts
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fiscal-ifi-2025@facilabo.app
-DTSTAMP:20241212T120000Z
+DTSTAMP:20260907T145425Z
 DTSTART;VALUE=DATE:20250605
 DTEND;VALUE=DATE:20250606
-SUMMARY:IFI - Déclaration
-DESCRIPTION:Date limite de déclaration de l'Impôt sur la Fortune Immobilière
+SUMMARY:IFI - Déclaration en ligne - Zone 3
+DESCRIPTION:Déclaration IFI en ligne pour les départements 55 à 976 (zon
+ e 3). Pour les zones 1 et 2 et les déclarations papier\, suivre la date l
+ imite de déclaration des revenus correspondante.
 CATEGORIES:Fiscalité,Impôts
 STATUS:CONFIRMED
+URL:https://www.impots.gouv.fr/particulier/declaration-de-lifi
+LAST-MODIFIED:20260907T145425Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:fiscal-decla-papier-2026@facilabo.app
@@ -110,7 +119,8 @@ DTSTAMP:20241212T120000Z
 DTSTART;VALUE=DATE:20260521
 DTEND;VALUE=DATE:20260522
 SUMMARY:Déclaration revenus en ligne - Zone 1
-DESCRIPTION:Date limite déclaration en ligne - Départements 01 à 19 et non-résidents
+DESCRIPTION:Date limite déclaration en ligne - Départements 01 à 19 et n
+ on-résidents
 CATEGORIES:Fiscalité,Impôts
 STATUS:CONFIRMED
 END:VEVENT
@@ -140,7 +150,8 @@ DTSTAMP:20241212T120000Z
 DTSTART;VALUE=DATE:20261015
 DTEND;VALUE=DATE:20261016
 SUMMARY:Taxe foncière - Date limite
-DESCRIPTION:Date limite de paiement de la taxe foncière (20 octobre si paiement en ligne)
+DESCRIPTION:Date limite de paiement de la taxe foncière (20 octobre si pai
+ ement en ligne)
 CATEGORIES:Fiscalité,Impôts
 STATUS:CONFIRMED
 END:VEVENT
@@ -150,298 +161,460 @@ DTSTAMP:20241212T120000Z
 DTSTART;VALUE=DATE:20261020
 DTEND;VALUE=DATE:20261021
 SUMMARY:Taxe foncière - Paiement en ligne
-DESCRIPTION:Date limite de paiement en ligne ou par prélèvement de la taxe foncière
+DESCRIPTION:Date limite de paiement en ligne ou par prélèvement de la tax
+ e foncière
 CATEGORIES:Fiscalité,Impôts
 STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:fiscal-decla-papier-2027@facilabo.app
-DTSTAMP:20241212T120000Z
+DTSTAMP:20260907T145425Z
 DTSTART;VALUE=DATE:20270518
 DTEND;VALUE=DATE:20270519
-SUMMARY:Déclaration revenus (papier)
-DESCRIPTION:Date limite de dépôt de la déclaration de revenus papier
+SUMMARY:Déclaration revenus (papier) (prévisionnel)
+DESCRIPTION:Date prévisionnelle non annoncée officiellement pour cette an
+ née. À confirmer auprès de la source officielle. Date limite de dépôt
+  de la déclaration de revenus papier
 CATEGORIES:Fiscalité,Impôts
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+URL:https://www.service-public.gouv.fr/particuliers/vosdroits/F359
+LAST-MODIFIED:20260907T145425Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:fiscal-decla-zone1-2027@facilabo.app
-DTSTAMP:20241212T120000Z
+DTSTAMP:20260907T145425Z
 DTSTART;VALUE=DATE:20270520
 DTEND;VALUE=DATE:20270521
-SUMMARY:Déclaration revenus en ligne - Zone 1
-DESCRIPTION:Date limite déclaration en ligne - Départements 01 à 19 et non-résidents
+SUMMARY:Déclaration revenus en ligne - Zone 1 (prévisionnel)
+DESCRIPTION:Date prévisionnelle non annoncée officiellement pour cette an
+ née. À confirmer auprès de la source officielle. Date limite déclarati
+ on en ligne - Départements 01 à 19 et non-résidents
 CATEGORIES:Fiscalité,Impôts
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+URL:https://www.service-public.gouv.fr/particuliers/vosdroits/F359
+LAST-MODIFIED:20260907T145425Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:fiscal-decla-zone2-2027@facilabo.app
-DTSTAMP:20241212T120000Z
+DTSTAMP:20260907T145425Z
 DTSTART;VALUE=DATE:20270527
 DTEND;VALUE=DATE:20270528
-SUMMARY:Déclaration revenus en ligne - Zone 2
-DESCRIPTION:Date limite déclaration en ligne - Départements 20 à 54
+SUMMARY:Déclaration revenus en ligne - Zone 2 (prévisionnel)
+DESCRIPTION:Date prévisionnelle non annoncée officiellement pour cette an
+ née. À confirmer auprès de la source officielle. Date limite déclarati
+ on en ligne - Départements 20 à 54
 CATEGORIES:Fiscalité,Impôts
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+URL:https://www.service-public.gouv.fr/particuliers/vosdroits/F359
+LAST-MODIFIED:20260907T145425Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:fiscal-decla-zone3-2027@facilabo.app
-DTSTAMP:20241212T120000Z
+DTSTAMP:20260907T145425Z
 DTSTART;VALUE=DATE:20270603
 DTEND;VALUE=DATE:20270604
-SUMMARY:Déclaration revenus en ligne - Zone 3
-DESCRIPTION:Date limite déclaration en ligne - Départements 55 à 976
+SUMMARY:Déclaration revenus en ligne - Zone 3 (prévisionnel)
+DESCRIPTION:Date prévisionnelle non annoncée officiellement pour cette an
+ née. À confirmer auprès de la source officielle. Date limite déclarati
+ on en ligne - Départements 55 à 976
 CATEGORIES:Fiscalité,Impôts
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+URL:https://www.service-public.gouv.fr/particuliers/vosdroits/F359
+LAST-MODIFIED:20260907T145425Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:fiscal-taxe-fonciere-2027@facilabo.app
-DTSTAMP:20241212T120000Z
+DTSTAMP:20260907T145425Z
 DTSTART;VALUE=DATE:20271015
 DTEND;VALUE=DATE:20271016
-SUMMARY:Taxe foncière - Date limite
-DESCRIPTION:Date limite de paiement de la taxe foncière (20 octobre si paiement en ligne)
+SUMMARY:Taxe foncière - Date limite (prévisionnel)
+DESCRIPTION:Date prévisionnelle non annoncée officiellement pour cette an
+ née. À confirmer auprès de la source officielle. Date limite de paiemen
+ t de la taxe foncière (20 octobre si paiement en ligne)
 CATEGORIES:Fiscalité,Impôts
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+URL:https://www.impots.gouv.fr/particulier/questions/quelle-date-vais-je-re
+ cevoir-mon-avis-de-taxe-fonciere-et-quand-dois-je-la
+LAST-MODIFIED:20260907T145425Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:fiscal-taxe-fonciere-enligne-2027@facilabo.app
-DTSTAMP:20241212T120000Z
+DTSTAMP:20260907T145425Z
 DTSTART;VALUE=DATE:20271020
 DTEND;VALUE=DATE:20271021
-SUMMARY:Taxe foncière - Paiement en ligne
-DESCRIPTION:Date limite de paiement en ligne ou par prélèvement de la taxe foncière
+SUMMARY:Taxe foncière - Paiement en ligne (prévisionnel)
+DESCRIPTION:Date prévisionnelle non annoncée officiellement pour cette an
+ née. À confirmer auprès de la source officielle. Date limite de paiemen
+ t en ligne ou par prélèvement de la taxe foncière
 CATEGORIES:Fiscalité,Impôts
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+URL:https://www.impots.gouv.fr/particulier/questions/quelle-date-vais-je-re
+ cevoir-mon-avis-de-taxe-fonciere-et-quand-dois-je-la
+LAST-MODIFIED:20260907T145425Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:fiscal-ifi-2026@facilabo.app
-DTSTAMP:20260107T120000Z
+DTSTAMP:20260907T145425Z
 DTSTART;VALUE=DATE:20260604
 DTEND;VALUE=DATE:20260605
-SUMMARY:IFI - Déclaration
-DESCRIPTION:Date limite de déclaration de l'Impôt sur la Fortune Immobilière (coïncide avec Zone 3)
+SUMMARY:IFI - Déclaration en ligne - Zone 3
+DESCRIPTION:Déclaration IFI en ligne pour les départements 55 à 976 (zon
+ e 3). Pour les zones 1 et 2 et les déclarations papier\, suivre la date l
+ imite de déclaration des revenus correspondante.
 CATEGORIES:Fiscalité,Impôts
 STATUS:CONFIRMED
+URL:https://www.impots.gouv.fr/particulier/declaration-de-lifi
+LAST-MODIFIED:20260907T145425Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:fiscal-ifi-2027@facilabo.app
-DTSTAMP:20260106T120000Z
+DTSTAMP:20260907T145425Z
 DTSTART;VALUE=DATE:20270603
 DTEND;VALUE=DATE:20270604
-SUMMARY:IFI - Déclaration
-DESCRIPTION:Date limite de déclaration de l'Impôt sur la Fortune Immobilière
+SUMMARY:IFI - Déclaration en ligne - Zone 3 (prévisionnel)
+DESCRIPTION:Date prévisionnelle non annoncée officiellement pour cette an
+ née. À confirmer auprès de la source officielle. Déclaration IFI en li
+ gne pour les départements 55 à 976 (zone 3). Pour les zones 1 et 2 et le
+ s déclarations papier\, suivre la date limite de déclaration des revenus
+  correspondante.
 CATEGORIES:Fiscalité,Impôts
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+URL:https://www.impots.gouv.fr/particulier/declaration-de-lifi
+LAST-MODIFIED:20260907T145425Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:fiscal-decla-papier-2028@facilabo.app
-DTSTAMP:20260106T120000Z
+DTSTAMP:20260907T145425Z
 DTSTART;VALUE=DATE:20280516
 DTEND;VALUE=DATE:20280517
-SUMMARY:Déclaration revenus (papier)
-DESCRIPTION:Date limite de dépôt de la déclaration de revenus papier
+SUMMARY:Déclaration revenus (papier) (prévisionnel)
+DESCRIPTION:Date prévisionnelle non annoncée officiellement pour cette an
+ née. À confirmer auprès de la source officielle. Date limite de dépôt
+  de la déclaration de revenus papier
 CATEGORIES:Fiscalité,Impôts
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+URL:https://www.service-public.gouv.fr/particuliers/vosdroits/F359
+LAST-MODIFIED:20260907T145425Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:fiscal-decla-zone1-2028@facilabo.app
-DTSTAMP:20260106T120000Z
+DTSTAMP:20260907T145425Z
 DTSTART;VALUE=DATE:20280518
 DTEND;VALUE=DATE:20280519
-SUMMARY:Déclaration revenus en ligne - Zone 1
-DESCRIPTION:Date limite déclaration en ligne - Départements 01 à 19 et non-résidents
+SUMMARY:Déclaration revenus en ligne - Zone 1 (prévisionnel)
+DESCRIPTION:Date prévisionnelle non annoncée officiellement pour cette an
+ née. À confirmer auprès de la source officielle. Date limite déclarati
+ on en ligne - Départements 01 à 19 et non-résidents
 CATEGORIES:Fiscalité,Impôts
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+URL:https://www.service-public.gouv.fr/particuliers/vosdroits/F359
+LAST-MODIFIED:20260907T145425Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:fiscal-decla-zone2-2028@facilabo.app
-DTSTAMP:20260106T120000Z
+DTSTAMP:20260907T145425Z
 DTSTART;VALUE=DATE:20280525
 DTEND;VALUE=DATE:20280526
-SUMMARY:Déclaration revenus en ligne - Zone 2
-DESCRIPTION:Date limite déclaration en ligne - Départements 20 à 54
+SUMMARY:Déclaration revenus en ligne - Zone 2 (prévisionnel)
+DESCRIPTION:Date prévisionnelle non annoncée officiellement pour cette an
+ née. À confirmer auprès de la source officielle. Date limite déclarati
+ on en ligne - Départements 20 à 54
 CATEGORIES:Fiscalité,Impôts
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+URL:https://www.service-public.gouv.fr/particuliers/vosdroits/F359
+LAST-MODIFIED:20260907T145425Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:fiscal-decla-zone3-2028@facilabo.app
-DTSTAMP:20260106T120000Z
+DTSTAMP:20260907T145425Z
 DTSTART;VALUE=DATE:20280601
 DTEND;VALUE=DATE:20280602
-SUMMARY:Déclaration revenus en ligne - Zone 3
-DESCRIPTION:Date limite déclaration en ligne - Départements 55 à 976
+SUMMARY:Déclaration revenus en ligne - Zone 3 (prévisionnel)
+DESCRIPTION:Date prévisionnelle non annoncée officiellement pour cette an
+ née. À confirmer auprès de la source officielle. Date limite déclarati
+ on en ligne - Départements 55 à 976
 CATEGORIES:Fiscalité,Impôts
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+URL:https://www.service-public.gouv.fr/particuliers/vosdroits/F359
+LAST-MODIFIED:20260907T145425Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:fiscal-ifi-2028@facilabo.app
-DTSTAMP:20260106T120000Z
+DTSTAMP:20260907T145425Z
 DTSTART;VALUE=DATE:20280601
 DTEND;VALUE=DATE:20280602
-SUMMARY:IFI - Déclaration
-DESCRIPTION:Date limite de déclaration de l'Impôt sur la Fortune Immobilière
+SUMMARY:IFI - Déclaration en ligne - Zone 3 (prévisionnel)
+DESCRIPTION:Date prévisionnelle non annoncée officiellement pour cette an
+ née. À confirmer auprès de la source officielle. Déclaration IFI en li
+ gne pour les départements 55 à 976 (zone 3). Pour les zones 1 et 2 et le
+ s déclarations papier\, suivre la date limite de déclaration des revenus
+  correspondante.
 CATEGORIES:Fiscalité,Impôts
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+URL:https://www.impots.gouv.fr/particulier/declaration-de-lifi
+LAST-MODIFIED:20260907T145425Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:fiscal-taxe-fonciere-2028@facilabo.app
-DTSTAMP:20260106T120000Z
+DTSTAMP:20260907T145425Z
 DTSTART;VALUE=DATE:20281015
 DTEND;VALUE=DATE:20281016
-SUMMARY:Taxe foncière - Date limite
-DESCRIPTION:Date limite de paiement de la taxe foncière (20 octobre si paiement en ligne)
+SUMMARY:Taxe foncière - Date limite (prévisionnel)
+DESCRIPTION:Date prévisionnelle non annoncée officiellement pour cette an
+ née. À confirmer auprès de la source officielle. Date limite de paiemen
+ t de la taxe foncière (20 octobre si paiement en ligne)
 CATEGORIES:Fiscalité,Impôts
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+URL:https://www.impots.gouv.fr/particulier/questions/quelle-date-vais-je-re
+ cevoir-mon-avis-de-taxe-fonciere-et-quand-dois-je-la
+LAST-MODIFIED:20260907T145425Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:fiscal-taxe-fonciere-enligne-2028@facilabo.app
-DTSTAMP:20260106T120000Z
+DTSTAMP:20260907T145425Z
 DTSTART;VALUE=DATE:20281020
 DTEND;VALUE=DATE:20281021
-SUMMARY:Taxe foncière - Paiement en ligne
-DESCRIPTION:Date limite de paiement en ligne ou par prélèvement de la taxe foncière
+SUMMARY:Taxe foncière - Paiement en ligne (prévisionnel)
+DESCRIPTION:Date prévisionnelle non annoncée officiellement pour cette an
+ née. À confirmer auprès de la source officielle. Date limite de paiemen
+ t en ligne ou par prélèvement de la taxe foncière
 CATEGORIES:Fiscalité,Impôts
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+URL:https://www.impots.gouv.fr/particulier/questions/quelle-date-vais-je-re
+ cevoir-mon-avis-de-taxe-fonciere-et-quand-dois-je-la
+LAST-MODIFIED:20260907T145425Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:fiscal-decla-papier-2029@facilabo.app
-DTSTAMP:20260106T120000Z
+DTSTAMP:20260907T145425Z
 DTSTART;VALUE=DATE:20290522
 DTEND;VALUE=DATE:20290523
-SUMMARY:Déclaration revenus (papier)
-DESCRIPTION:Date limite de dépôt de la déclaration de revenus papier
+SUMMARY:Déclaration revenus (papier) (prévisionnel)
+DESCRIPTION:Date prévisionnelle non annoncée officiellement pour cette an
+ née. À confirmer auprès de la source officielle. Date limite de dépôt
+  de la déclaration de revenus papier
 CATEGORIES:Fiscalité,Impôts
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+URL:https://www.service-public.gouv.fr/particuliers/vosdroits/F359
+LAST-MODIFIED:20260907T145425Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:fiscal-decla-zone1-2029@facilabo.app
-DTSTAMP:20260106T120000Z
+DTSTAMP:20260907T145425Z
 DTSTART;VALUE=DATE:20290524
 DTEND;VALUE=DATE:20290525
-SUMMARY:Déclaration revenus en ligne - Zone 1
-DESCRIPTION:Date limite déclaration en ligne - Départements 01 à 19 et non-résidents
+SUMMARY:Déclaration revenus en ligne - Zone 1 (prévisionnel)
+DESCRIPTION:Date prévisionnelle non annoncée officiellement pour cette an
+ née. À confirmer auprès de la source officielle. Date limite déclarati
+ on en ligne - Départements 01 à 19 et non-résidents
 CATEGORIES:Fiscalité,Impôts
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+URL:https://www.service-public.gouv.fr/particuliers/vosdroits/F359
+LAST-MODIFIED:20260907T145425Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:fiscal-decla-zone2-2029@facilabo.app
-DTSTAMP:20260106T120000Z
+DTSTAMP:20260907T145425Z
 DTSTART;VALUE=DATE:20290531
 DTEND;VALUE=DATE:20290601
-SUMMARY:Déclaration revenus en ligne - Zone 2
-DESCRIPTION:Date limite déclaration en ligne - Départements 20 à 54
+SUMMARY:Déclaration revenus en ligne - Zone 2 (prévisionnel)
+DESCRIPTION:Date prévisionnelle non annoncée officiellement pour cette an
+ née. À confirmer auprès de la source officielle. Date limite déclarati
+ on en ligne - Départements 20 à 54
 CATEGORIES:Fiscalité,Impôts
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+URL:https://www.service-public.gouv.fr/particuliers/vosdroits/F359
+LAST-MODIFIED:20260907T145425Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:fiscal-decla-zone3-2029@facilabo.app
-DTSTAMP:20260106T120000Z
+DTSTAMP:20260907T145425Z
 DTSTART;VALUE=DATE:20290607
 DTEND;VALUE=DATE:20290608
-SUMMARY:Déclaration revenus en ligne - Zone 3
-DESCRIPTION:Date limite déclaration en ligne - Départements 55 à 976
+SUMMARY:Déclaration revenus en ligne - Zone 3 (prévisionnel)
+DESCRIPTION:Date prévisionnelle non annoncée officiellement pour cette an
+ née. À confirmer auprès de la source officielle. Date limite déclarati
+ on en ligne - Départements 55 à 976
 CATEGORIES:Fiscalité,Impôts
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+URL:https://www.service-public.gouv.fr/particuliers/vosdroits/F359
+LAST-MODIFIED:20260907T145425Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:fiscal-ifi-2029@facilabo.app
-DTSTAMP:20260106T120000Z
+DTSTAMP:20260907T145425Z
 DTSTART;VALUE=DATE:20290607
 DTEND;VALUE=DATE:20290608
-SUMMARY:IFI - Déclaration
-DESCRIPTION:Date limite de déclaration de l'Impôt sur la Fortune Immobilière
+SUMMARY:IFI - Déclaration en ligne - Zone 3 (prévisionnel)
+DESCRIPTION:Date prévisionnelle non annoncée officiellement pour cette an
+ née. À confirmer auprès de la source officielle. Déclaration IFI en li
+ gne pour les départements 55 à 976 (zone 3). Pour les zones 1 et 2 et le
+ s déclarations papier\, suivre la date limite de déclaration des revenus
+  correspondante.
 CATEGORIES:Fiscalité,Impôts
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+URL:https://www.impots.gouv.fr/particulier/declaration-de-lifi
+LAST-MODIFIED:20260907T145425Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:fiscal-taxe-fonciere-2029@facilabo.app
-DTSTAMP:20260106T120000Z
+DTSTAMP:20260907T145425Z
 DTSTART;VALUE=DATE:20291015
 DTEND;VALUE=DATE:20291016
-SUMMARY:Taxe foncière - Date limite
-DESCRIPTION:Date limite de paiement de la taxe foncière (20 octobre si paiement en ligne)
+SUMMARY:Taxe foncière - Date limite (prévisionnel)
+DESCRIPTION:Date prévisionnelle non annoncée officiellement pour cette an
+ née. À confirmer auprès de la source officielle. Date limite de paiemen
+ t de la taxe foncière (20 octobre si paiement en ligne)
 CATEGORIES:Fiscalité,Impôts
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+URL:https://www.impots.gouv.fr/particulier/questions/quelle-date-vais-je-re
+ cevoir-mon-avis-de-taxe-fonciere-et-quand-dois-je-la
+LAST-MODIFIED:20260907T145425Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:fiscal-taxe-fonciere-enligne-2029@facilabo.app
-DTSTAMP:20260106T120000Z
+DTSTAMP:20260907T145425Z
 DTSTART;VALUE=DATE:20291020
 DTEND;VALUE=DATE:20291021
-SUMMARY:Taxe foncière - Paiement en ligne
-DESCRIPTION:Date limite de paiement en ligne ou par prélèvement de la taxe foncière
+SUMMARY:Taxe foncière - Paiement en ligne (prévisionnel)
+DESCRIPTION:Date prévisionnelle non annoncée officiellement pour cette an
+ née. À confirmer auprès de la source officielle. Date limite de paiemen
+ t en ligne ou par prélèvement de la taxe foncière
 CATEGORIES:Fiscalité,Impôts
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+URL:https://www.impots.gouv.fr/particulier/questions/quelle-date-vais-je-re
+ cevoir-mon-avis-de-taxe-fonciere-et-quand-dois-je-la
+LAST-MODIFIED:20260907T145425Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:fiscal-decla-papier-2030@facilabo.app
-DTSTAMP:20260106T120000Z
+DTSTAMP:20260907T145425Z
 DTSTART;VALUE=DATE:20300521
 DTEND;VALUE=DATE:20300522
-SUMMARY:Déclaration revenus (papier)
-DESCRIPTION:Date limite de dépôt de la déclaration de revenus papier
+SUMMARY:Déclaration revenus (papier) (prévisionnel)
+DESCRIPTION:Date prévisionnelle non annoncée officiellement pour cette an
+ née. À confirmer auprès de la source officielle. Date limite de dépôt
+  de la déclaration de revenus papier
 CATEGORIES:Fiscalité,Impôts
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+URL:https://www.service-public.gouv.fr/particuliers/vosdroits/F359
+LAST-MODIFIED:20260907T145425Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:fiscal-decla-zone1-2030@facilabo.app
-DTSTAMP:20260106T120000Z
+DTSTAMP:20260907T145425Z
 DTSTART;VALUE=DATE:20300523
 DTEND;VALUE=DATE:20300524
-SUMMARY:Déclaration revenus en ligne - Zone 1
-DESCRIPTION:Date limite déclaration en ligne - Départements 01 à 19 et non-résidents
+SUMMARY:Déclaration revenus en ligne - Zone 1 (prévisionnel)
+DESCRIPTION:Date prévisionnelle non annoncée officiellement pour cette an
+ née. À confirmer auprès de la source officielle. Date limite déclarati
+ on en ligne - Départements 01 à 19 et non-résidents
 CATEGORIES:Fiscalité,Impôts
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+URL:https://www.service-public.gouv.fr/particuliers/vosdroits/F359
+LAST-MODIFIED:20260907T145425Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:fiscal-decla-zone2-2030@facilabo.app
-DTSTAMP:20260106T120000Z
+DTSTAMP:20260907T145425Z
 DTSTART;VALUE=DATE:20300530
 DTEND;VALUE=DATE:20300531
-SUMMARY:Déclaration revenus en ligne - Zone 2
-DESCRIPTION:Date limite déclaration en ligne - Départements 20 à 54
+SUMMARY:Déclaration revenus en ligne - Zone 2 (prévisionnel)
+DESCRIPTION:Date prévisionnelle non annoncée officiellement pour cette an
+ née. À confirmer auprès de la source officielle. Date limite déclarati
+ on en ligne - Départements 20 à 54
 CATEGORIES:Fiscalité,Impôts
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+URL:https://www.service-public.gouv.fr/particuliers/vosdroits/F359
+LAST-MODIFIED:20260907T145425Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:fiscal-decla-zone3-2030@facilabo.app
-DTSTAMP:20260106T120000Z
+DTSTAMP:20260907T145425Z
 DTSTART;VALUE=DATE:20300606
 DTEND;VALUE=DATE:20300607
-SUMMARY:Déclaration revenus en ligne - Zone 3
-DESCRIPTION:Date limite déclaration en ligne - Départements 55 à 976
+SUMMARY:Déclaration revenus en ligne - Zone 3 (prévisionnel)
+DESCRIPTION:Date prévisionnelle non annoncée officiellement pour cette an
+ née. À confirmer auprès de la source officielle. Date limite déclarati
+ on en ligne - Départements 55 à 976
 CATEGORIES:Fiscalité,Impôts
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+URL:https://www.service-public.gouv.fr/particuliers/vosdroits/F359
+LAST-MODIFIED:20260907T145425Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:fiscal-ifi-2030@facilabo.app
-DTSTAMP:20260106T120000Z
+DTSTAMP:20260907T145425Z
 DTSTART;VALUE=DATE:20300606
 DTEND;VALUE=DATE:20300607
-SUMMARY:IFI - Déclaration
-DESCRIPTION:Date limite de déclaration de l'Impôt sur la Fortune Immobilière
+SUMMARY:IFI - Déclaration en ligne - Zone 3 (prévisionnel)
+DESCRIPTION:Date prévisionnelle non annoncée officiellement pour cette an
+ née. À confirmer auprès de la source officielle. Déclaration IFI en li
+ gne pour les départements 55 à 976 (zone 3). Pour les zones 1 et 2 et le
+ s déclarations papier\, suivre la date limite de déclaration des revenus
+  correspondante.
 CATEGORIES:Fiscalité,Impôts
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+URL:https://www.impots.gouv.fr/particulier/declaration-de-lifi
+LAST-MODIFIED:20260907T145425Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:fiscal-taxe-fonciere-2030@facilabo.app
-DTSTAMP:20260106T120000Z
+DTSTAMP:20260907T145425Z
 DTSTART;VALUE=DATE:20301015
 DTEND;VALUE=DATE:20301016
-SUMMARY:Taxe foncière - Date limite
-DESCRIPTION:Date limite de paiement de la taxe foncière (20 octobre si paiement en ligne)
+SUMMARY:Taxe foncière - Date limite (prévisionnel)
+DESCRIPTION:Date prévisionnelle non annoncée officiellement pour cette an
+ née. À confirmer auprès de la source officielle. Date limite de paiemen
+ t de la taxe foncière (20 octobre si paiement en ligne)
 CATEGORIES:Fiscalité,Impôts
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+URL:https://www.impots.gouv.fr/particulier/questions/quelle-date-vais-je-re
+ cevoir-mon-avis-de-taxe-fonciere-et-quand-dois-je-la
+LAST-MODIFIED:20260907T145425Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:fiscal-taxe-fonciere-enligne-2030@facilabo.app
-DTSTAMP:20260106T120000Z
+DTSTAMP:20260907T145425Z
 DTSTART;VALUE=DATE:20301020
 DTEND;VALUE=DATE:20301021
-SUMMARY:Taxe foncière - Paiement en ligne
-DESCRIPTION:Date limite de paiement en ligne ou par prélèvement de la taxe foncière
+SUMMARY:Taxe foncière - Paiement en ligne (prévisionnel)
+DESCRIPTION:Date prévisionnelle non annoncée officiellement pour cette an
+ née. À confirmer auprès de la source officielle. Date limite de paiemen
+ t en ligne ou par prélèvement de la taxe foncière
 CATEGORIES:Fiscalité,Impôts
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+URL:https://www.impots.gouv.fr/particulier/questions/quelle-date-vais-je-re
+ cevoir-mon-avis-de-taxe-fonciere-et-quand-dois-je-la
+LAST-MODIFIED:20260907T145425Z
+SEQUENCE:1
 END:VEVENT
 END:VCALENDAR

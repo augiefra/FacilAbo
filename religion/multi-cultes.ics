@@ -378,29 +378,35 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-multi-cultes-roch-hachana-2026@facilabo.app
-DTSTAMP:20260206T081127Z
+DTSTAMP:20260907T145415Z
 DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260914
 SUMMARY:Roch Hachana
-DESCRIPTION:Fête religieuse multi-cultes (sélection d'événements majeur
- s, sources publiques).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
- alendar.google.com/public
+DESCRIPTION:Commence le 11 septembre 2026 au coucher du soleil et se termin
+ e le 13 septembre 2026 à la tombée de la nuit. La plage affichée couvre
+  les jours civils concernés \; les horaires dépendent du lieu. Dates pou
+ r la diaspora\, source : Hebcal.
+URL:https://www.hebcal.com/holidays/2026
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
+SEQUENCE:1
+LAST-MODIFIED:20260907T145415Z
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-multi-cultes-yom-kippour-2026@facilabo.app
-DTSTAMP:20260206T081127Z
+DTSTAMP:20260907T145415Z
 DTSTART;VALUE=DATE:20260920
-DTEND;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
 SUMMARY:Yom Kippour
-DESCRIPTION:Fête religieuse multi-cultes (sélection d'événements majeur
- s, sources publiques).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
- alendar.google.com/public
+DESCRIPTION:Commence le 20 septembre 2026 au coucher du soleil et se termin
+ e le 21 septembre 2026 à la tombée de la nuit. La plage affichée couvre
+  les jours civils concernés \; les horaires dépendent du lieu. Dates pou
+ r la diaspora\, source : Hebcal.
+URL:https://www.hebcal.com/holidays/2026
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
+SEQUENCE:1
+LAST-MODIFIED:20260907T145415Z
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-multi-cultes-diwali-2026@facilabo.app
@@ -547,29 +553,35 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-multi-cultes-roch-hachana-2027@facilabo.app
-DTSTAMP:20260206T081127Z
+DTSTAMP:20260907T145415Z
 DTSTART;VALUE=DATE:20271001
-DTEND;VALUE=DATE:20271002
+DTEND;VALUE=DATE:20271004
 SUMMARY:Roch Hachana
-DESCRIPTION:Fête religieuse multi-cultes (sélection d'événements majeur
- s, sources publiques).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
- alendar.google.com/public
+DESCRIPTION:Commence le 1 octobre 2027 au coucher du soleil et se termine l
+ e 3 octobre 2027 à la tombée de la nuit. La plage affichée couvre les j
+ ours civils concernés \; les horaires dépendent du lieu. Dates pour la d
+ iaspora\, source : Hebcal.
+URL:https://www.hebcal.com/holidays/2027
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
+SEQUENCE:1
+LAST-MODIFIED:20260907T145415Z
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-multi-cultes-yom-kippour-2027@facilabo.app
-DTSTAMP:20260206T081127Z
+DTSTAMP:20260907T145415Z
 DTSTART;VALUE=DATE:20271010
-DTEND;VALUE=DATE:20271011
+DTEND;VALUE=DATE:20271012
 SUMMARY:Yom Kippour
-DESCRIPTION:Fête religieuse multi-cultes (sélection d'événements majeur
- s, sources publiques).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
- alendar.google.com/public
+DESCRIPTION:Commence le 10 octobre 2027 au coucher du soleil et se termine 
+ le 11 octobre 2027 à la tombée de la nuit. La plage affichée couvre les
+  jours civils concernés \; les horaires dépendent du lieu. Dates pour la
+  diaspora\, source : Hebcal.
+URL:https://www.hebcal.com/holidays/2027
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
+SEQUENCE:1
+LAST-MODIFIED:20260907T145415Z
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-multi-cultes-diwali-2027@facilabo.app

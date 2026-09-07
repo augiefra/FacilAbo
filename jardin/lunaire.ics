@@ -1076,13 +1076,16 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:lune-pl-20270220@facilabo.app
-DTSTAMP:20241218T120000Z
-DTSTART;VALUE=DATE:20270220
-DTEND;VALUE=DATE:20270221
+DTSTAMP:20260907T145415Z
+DTSTART;VALUE=DATE:20270221
+DTEND;VALUE=DATE:20270222
 SUMMARY:Pleine Lune - Recolte
-DESCRIPTION:Période ideale pour recolter et cueillir. Les plantes sont au maximum de leur vitalite.
+DESCRIPTION:Période ideale pour recolter et cueillir. Les plantes sont au 
+ maximum de leur vitalite.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
+SEQUENCE:1
+LAST-MODIFIED:20260907T145415Z
 END:VEVENT
 BEGIN:VEVENT
 UID:lune-dq-20270228@facilabo.app
@@ -1136,33 +1139,42 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:lune-nl-20270406@facilabo.app
-DTSTAMP:20241218T120000Z
-DTSTART;VALUE=DATE:20270406
-DTEND;VALUE=DATE:20270407
+DTSTAMP:20260907T145415Z
+DTSTART;VALUE=DATE:20270407
+DTEND;VALUE=DATE:20270408
 SUMMARY:Nouvelle Lune - Légumes-racines
-DESCRIPTION:Bon pour planter les légumes-racines: carottes, navets, betteraves, pommes de terre. La sève descend vers les racines.
+DESCRIPTION:Bon pour planter les légumes-racines: carottes, navets, better
+ aves, pommes de terre. La sève descend vers les racines.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
+SEQUENCE:1
+LAST-MODIFIED:20260907T145415Z
 END:VEVENT
 BEGIN:VEVENT
 UID:lune-1q-20270413@facilabo.app
-DTSTAMP:20241218T120000Z
-DTSTART;VALUE=DATE:20270413
-DTEND;VALUE=DATE:20270414
+DTSTAMP:20260907T145415Z
+DTSTART;VALUE=DATE:20270414
+DTEND;VALUE=DATE:20270415
 SUMMARY:Premier Quartier - Légumes-feuilles
-DESCRIPTION:Bon pour planter les légumes-feuilles: salades, épinards, choux, poireaux. La sève monte dans les parties aeriennes.
+DESCRIPTION:Bon pour planter les légumes-feuilles: salades, épinards, cho
+ ux, poireaux. La sève monte dans les parties aeriennes.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
+SEQUENCE:1
+LAST-MODIFIED:20260907T145415Z
 END:VEVENT
 BEGIN:VEVENT
 UID:lune-pl-20270420@facilabo.app
-DTSTAMP:20241218T120000Z
-DTSTART;VALUE=DATE:20270420
-DTEND;VALUE=DATE:20270421
+DTSTAMP:20260907T145415Z
+DTSTART;VALUE=DATE:20270421
+DTEND;VALUE=DATE:20270422
 SUMMARY:Pleine Lune - Recolte
-DESCRIPTION:Période ideale pour recolter et cueillir. Les plantes sont au maximum de leur vitalite.
+DESCRIPTION:Période ideale pour recolter et cueillir. Les plantes sont au 
+ maximum de leur vitalite.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
+SEQUENCE:1
+LAST-MODIFIED:20260907T145415Z
 END:VEVENT
 BEGIN:VEVENT
 UID:lune-dq-20270428@facilabo.app
@@ -1356,13 +1368,16 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:lune-pl-20270915@facilabo.app
-DTSTAMP:20241218T120000Z
-DTSTART;VALUE=DATE:20270915
-DTEND;VALUE=DATE:20270916
+DTSTAMP:20260907T145415Z
+DTSTART;VALUE=DATE:20270916
+DTEND;VALUE=DATE:20270917
 SUMMARY:Pleine Lune - Recolte
-DESCRIPTION:Période ideale pour recolter et cueillir. Les plantes sont au maximum de leur vitalite.
+DESCRIPTION:Période ideale pour recolter et cueillir. Les plantes sont au 
+ maximum de leur vitalite.
 CATEGORIES:Jardin,Lune
 STATUS:CONFIRMED
+SEQUENCE:1
+LAST-MODIFIED:20260907T145415Z
 END:VEVENT
 BEGIN:VEVENT
 UID:lune-dq-20270923@facilabo.app

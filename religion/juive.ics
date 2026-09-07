@@ -183,27 +183,35 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-juive-roch-hachana-2026@facilabo.app
-DTSTAMP:20260206T081127Z
+DTSTAMP:20260907T145415Z
 DTSTART;VALUE=DATE:20260911
-DTEND;VALUE=DATE:20260912
+DTEND;VALUE=DATE:20260914
 SUMMARY:Roch Hachana
-DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
- alendar.google.com/public
+DESCRIPTION:Commence le 11 septembre 2026 au coucher du soleil et se termin
+ e le 13 septembre 2026 à la tombée de la nuit. La plage affichée couvre
+  les jours civils concernés \; les horaires dépendent du lieu. Dates pou
+ r la diaspora\, source : Hebcal.
+URL:https://www.hebcal.com/holidays/2026
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
+SEQUENCE:1
+LAST-MODIFIED:20260907T145415Z
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-juive-yom-kippour-2026@facilabo.app
-DTSTAMP:20260206T081127Z
+DTSTAMP:20260907T145415Z
 DTSTART;VALUE=DATE:20260920
-DTEND;VALUE=DATE:20260921
+DTEND;VALUE=DATE:20260922
 SUMMARY:Yom Kippour
-DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
- alendar.google.com/public
+DESCRIPTION:Commence le 20 septembre 2026 au coucher du soleil et se termin
+ e le 21 septembre 2026 à la tombée de la nuit. La plage affichée couvre
+  les jours civils concernés \; les horaires dépendent du lieu. Dates pou
+ r la diaspora\, source : Hebcal.
+URL:https://www.hebcal.com/holidays/2026
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
+SEQUENCE:1
+LAST-MODIFIED:20260907T145415Z
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-juive-souccot-(jour-1)-2026@facilabo.app
@@ -243,15 +251,19 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-juive-pourim-2027@facilabo.app
-DTSTAMP:20260206T081127Z
+DTSTAMP:20260907T145415Z
 DTSTART;VALUE=DATE:20270322
-DTEND;VALUE=DATE:20270323
+DTEND;VALUE=DATE:20270324
 SUMMARY:Pourim
-DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
- alendar.google.com/public
+DESCRIPTION:Commence le 22 mars 2027 au coucher du soleil et se termine le 
+ 23 mars 2027 à la tombée de la nuit. La plage affichée couvre les jours
+  civils concernés \; les horaires dépendent du lieu. Dates pour la diasp
+ ora\, source : Hebcal.
+URL:https://www.hebcal.com/holidays/2027
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
+SEQUENCE:1
+LAST-MODIFIED:20260907T145415Z
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-juive-pessah-(jour-1)-2027@facilabo.app
@@ -279,39 +291,51 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-juive-tisha-beav-2027@facilabo.app
-DTSTAMP:20260206T081127Z
+DTSTAMP:20260907T145415Z
 DTSTART;VALUE=DATE:20270811
-DTEND;VALUE=DATE:20270812
+DTEND;VALUE=DATE:20270813
 SUMMARY:Tisha Beav
-DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
- alendar.google.com/public
+DESCRIPTION:Commence le 11 août 2027 au coucher du soleil et se termine le
+  12 août 2027 à la tombée de la nuit. La plage affichée couvre les jou
+ rs civils concernés \; les horaires dépendent du lieu. Dates pour la dia
+ spora\, source : Hebcal.
+URL:https://www.hebcal.com/holidays/2027
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
+SEQUENCE:1
+LAST-MODIFIED:20260907T145415Z
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-juive-roch-hachana-2027@facilabo.app
-DTSTAMP:20260206T081127Z
+DTSTAMP:20260907T145415Z
 DTSTART;VALUE=DATE:20271001
-DTEND;VALUE=DATE:20271002
+DTEND;VALUE=DATE:20271004
 SUMMARY:Roch Hachana
-DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
- alendar.google.com/public
+DESCRIPTION:Commence le 1 octobre 2027 au coucher du soleil et se termine l
+ e 3 octobre 2027 à la tombée de la nuit. La plage affichée couvre les j
+ ours civils concernés \; les horaires dépendent du lieu. Dates pour la d
+ iaspora\, source : Hebcal.
+URL:https://www.hebcal.com/holidays/2027
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
+SEQUENCE:1
+LAST-MODIFIED:20260907T145415Z
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-juive-yom-kippour-2027@facilabo.app
-DTSTAMP:20260206T081127Z
+DTSTAMP:20260907T145415Z
 DTSTART;VALUE=DATE:20271010
-DTEND;VALUE=DATE:20271011
+DTEND;VALUE=DATE:20271012
 SUMMARY:Yom Kippour
-DESCRIPTION:Fête juive importante (source: Google Public Holidays).
-URL:https://calendar.google.com/calendar/ical/en.jewish%23holiday@group.v.c
- alendar.google.com/public
+DESCRIPTION:Commence le 10 octobre 2027 au coucher du soleil et se termine 
+ le 11 octobre 2027 à la tombée de la nuit. La plage affichée couvre les
+  jours civils concernés \; les horaires dépendent du lieu. Dates pour la
+  diaspora\, source : Hebcal.
+URL:https://www.hebcal.com/holidays/2027
 CATEGORIES:Religion,Judaisme
 STATUS:CONFIRMED
+SEQUENCE:1
+LAST-MODIFIED:20260907T145415Z
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-juive-souccot-(jour-1)-2027@facilabo.app

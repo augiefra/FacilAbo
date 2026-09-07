@@ -8487,15 +8487,17 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-saints-francais-20261207@facilabo.app
-DTSTAMP:20260206T134241Z
+DTSTAMP:20260907T145415Z
 DTSTART;VALUE=DATE:20261207
 DTEND;VALUE=DATE:20261208
-SUMMARY:Sainte Ambroise
+SUMMARY:Saint Ambroise
 DESCRIPTION:Calendrier quotidien du saint/fête du jour (référentiel publ
  ic, édition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
 STATUS:CONFIRMED
+SEQUENCE:1
+LAST-MODIFIED:20260907T145415Z
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-saints-francais-20261208@facilabo.app
@@ -12867,15 +12869,17 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-saints-francais-20271207@facilabo.app
-DTSTAMP:20260206T134241Z
+DTSTAMP:20260907T145415Z
 DTSTART;VALUE=DATE:20271207
 DTEND;VALUE=DATE:20271208
-SUMMARY:Sainte Ambroise
+SUMMARY:Saint Ambroise
 DESCRIPTION:Calendrier quotidien du saint/fête du jour (référentiel publ
  ic, édition FacilAbo).
 URL:https://github.com/theofidry/ephemeris
 CATEGORIES:Religion,Saints
 STATUS:CONFIRMED
+SEQUENCE:1
+LAST-MODIFIED:20260907T145415Z
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-saints-francais-20271208@facilabo.app

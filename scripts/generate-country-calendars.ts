@@ -3,7 +3,7 @@
 const fs = require('fs');
 const path = require('path');
 
-const DTSTAMP = '20260506T120000Z';
+const DTSTAMP = new Date().toISOString().replace(/[-:]/g, '').replace(/\.\d{3}/, '');
 
 function parseArgs(argv) {
   const args = {
@@ -340,6 +340,35 @@ function ensureDirectoryFor(filePath) {
   fs.mkdirSync(path.dirname(filePath), { recursive: true });
 }
 
+function preserveEventRevisions(content, previous) {
+  if (!previous) return content;
+  const revisionFields = new Set(['DTSTAMP', 'LAST-MODIFIED', 'SEQUENCE']);
+  const records = (text) => [...text.replace(/\r?\n[ \t]/g, '').matchAll(/BEGIN:VEVENT\r?\n([\s\S]*?)END:VEVENT/g)]
+    .map((match) => Object.fromEntries(match[1].trim().split(/\r?\n/).map((line) => {
+      const colon = line.indexOf(':');
+      return [line.slice(0, colon), line.slice(colon + 1)];
+    })));
+  const material = (record) => JSON.stringify(Object.entries(record)
+    .filter(([key]) => !revisionFields.has(key)).sort(([a], [b]) => a.localeCompare(b)));
+  const previousByUid = new Map(records(previous).map((record) => [record.UID, record]));
+  return content.replace(/BEGIN:VEVENT\n[\s\S]*?END:VEVENT/g, (block) => {
+    const record = records(block)[0];
+    const old = previousByUid.get(record.UID);
+    if (!old) return block;
+    if (material(record) === material(old)) {
+      for (const key of revisionFields) {
+        if (old[key] !== undefined) record[key] = old[key];
+        else delete record[key];
+      }
+    } else {
+      record.DTSTAMP = DTSTAMP;
+      record['LAST-MODIFIED'] = DTSTAMP;
+      record.SEQUENCE = String(Number(old.SEQUENCE || 0) + 1);
+    }
+    return ['BEGIN:VEVENT', ...Object.entries(record).map(([key, value]) => `${key}:${value}`), 'END:VEVENT'].join('\n');
+  });
+}
+
 function writeIfChanged(filePath, content) {
   const current = fs.existsSync(filePath) ? fs.readFileSync(filePath, 'utf8') : null;
   if (current === content) return false;
@@ -393,9 +422,10 @@ function main() {
       assertNoDuplicateEvents(calendar.slug, events);
       generatedBySlug.set(calendar.slug, events);
 
-      const content = buildCalendar(calendar, events);
       const outputPath = path.join(outputRoot, calendar.path);
       const mirrorPath = mirrorRoot ? path.join(mirrorRoot, calendar.path) : null;
+      const previous = fs.existsSync(outputPath) ? fs.readFileSync(outputPath, 'utf8') : null;
+      const content = preserveEventRevisions(buildCalendar(calendar, events), previous);
 
       generatedCount += 1;
       if (args.dryRun) {

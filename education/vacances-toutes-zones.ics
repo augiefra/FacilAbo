@@ -821,4 +821,18 @@ DESCRIPTION:Zones concernées : toutes zones. Segment calculé à partir de
 LOCATION:France métropolitaine
 TRANSP:TRANSPARENT
 END:VEVENT
+BEGIN:VEVENT
+UID:vacances-toutes-zones-pont-de-l-ascension-20280526-20280528-abc@facilab
+ o.app
+DTSTAMP:20260907T145659Z
+DTSTART;VALUE=DATE:20280526
+DTEND;VALUE=DATE:20280528
+SUMMARY:Pont de l'Ascension — toutes zones
+DESCRIPTION:Zones concernées : toutes zones. Segment calculé à partir de
+ s calendriers officiels des zones A\, B et C.
+LOCATION:France métropolitaine
+TRANSP:TRANSPARENT
+LAST-MODIFIED:20260907T145659Z
+SEQUENCE:0
+END:VEVENT
 END:VCALENDAR

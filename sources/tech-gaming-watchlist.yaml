@@ -246,14 +246,14 @@
       "enabled": true,
       "watch_only": false,
       "event": {
-        "summary": "Google Cloud Next 2027",
-        "description": "Conference Google Cloud Next - dates officielles 2027.",
+        "summary": "Google Cloud Next 2027 (dates provisoires)",
+        "description": "Dates prévisionnelles du 13 au 15 avril 2027, confirmation officielle à vérifier.",
         "start_date": "2027-04-13",
         "end_date": "2027-04-15",
         "timed": false,
         "location": "Las Vegas, USA",
-        "status": "CONFIRMED",
-        "dtstamp": "20260829T120000Z",
+        "status": "TENTATIVE",
+        "dtstamp": "20260907T145436Z",
         "categories": ["Culture", "Tech", "Gaming"]
       }
     },

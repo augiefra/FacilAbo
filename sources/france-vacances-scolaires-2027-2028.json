@@ -57,6 +57,12 @@
       "end": "2028-05-02"
     },
     {
+      "summary": "Pont de l'Ascension",
+      "zones": ["A", "B", "C"],
+      "start": "2028-05-26",
+      "end": "2028-05-28"
+    },
+    {
       "summary": "Début des Vacances d'Été",
       "zones": ["A", "B", "C"],
       "kind": "marker",

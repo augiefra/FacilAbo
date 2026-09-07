@@ -4,7 +4,8 @@ PRODID:-//FacilAbo//Prime Day & Singles Day//FR
 METHOD:PUBLISH
 CALSCALE:GREGORIAN
 X-WR-CALNAME:Prime Day & Singles Day
-X-WR-CALDESC:Amazon Prime Day (dates variables), Ventes flash de printemps Amazon (mars) et Singles Day Alibaba (11 novembre)
+X-WR-CALDESC:Amazon Prime Day (dates variables), Ventes flash de printemps 
+ Amazon (mars) et Singles Day Alibaba (11 novembre)
 X-WR-TIMEZONE:Europe/Paris
 BEGIN:VEVENT
 UID:primeday-2025-1@facilabo.app
@@ -52,7 +53,8 @@ DTSTAMP:20260604T100000Z
 DTSTART;VALUE=DATE:20260623
 DTEND;VALUE=DATE:20260624
 SUMMARY:Amazon Prime Day - Jour 1
-DESCRIPTION:Prime Day Amazon France 2026 - du 23 juin 00h01 au 26 juin 23h59. Source: About Amazon France.
+DESCRIPTION:Prime Day Amazon France 2026 - du 23 juin 00h01 au 26 juin 23h5
+ 9. Source: About Amazon France.
 CATEGORIES:E-commerce,Amazon,Promotions
 STATUS:CONFIRMED
 END:VEVENT
@@ -62,7 +64,8 @@ DTSTAMP:20260604T100000Z
 DTSTART;VALUE=DATE:20260624
 DTEND;VALUE=DATE:20260625
 SUMMARY:Amazon Prime Day - Jour 2
-DESCRIPTION:Prime Day Amazon France 2026 - du 23 juin 00h01 au 26 juin 23h59. Source: About Amazon France.
+DESCRIPTION:Prime Day Amazon France 2026 - du 23 juin 00h01 au 26 juin 23h5
+ 9. Source: About Amazon France.
 CATEGORIES:E-commerce,Amazon,Promotions
 STATUS:CONFIRMED
 END:VEVENT
@@ -72,7 +75,8 @@ DTSTAMP:20260604T100000Z
 DTSTART;VALUE=DATE:20260625
 DTEND;VALUE=DATE:20260626
 SUMMARY:Amazon Prime Day - Jour 3
-DESCRIPTION:Prime Day Amazon France 2026 - du 23 juin 00h01 au 26 juin 23h59. Source: About Amazon France.
+DESCRIPTION:Prime Day Amazon France 2026 - du 23 juin 00h01 au 26 juin 23h5
+ 9. Source: About Amazon France.
 CATEGORIES:E-commerce,Amazon,Promotions
 STATUS:CONFIRMED
 END:VEVENT
@@ -82,7 +86,8 @@ DTSTAMP:20260604T100000Z
 DTSTART;VALUE=DATE:20260626
 DTEND;VALUE=DATE:20260627
 SUMMARY:Amazon Prime Day - Jour 4
-DESCRIPTION:Prime Day Amazon France 2026 - du 23 juin 00h01 au 26 juin 23h59. Source: About Amazon France.
+DESCRIPTION:Prime Day Amazon France 2026 - du 23 juin 00h01 au 26 juin 23h5
+ 9. Source: About Amazon France.
 CATEGORIES:E-commerce,Amazon,Promotions
 STATUS:CONFIRMED
 END:VEVENT
@@ -98,23 +103,37 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:primeday-2027-1@facilabo.app
-DTSTAMP:20241212T120000Z
+DTSTAMP:20260907T145425Z
 DTSTART;VALUE=DATE:20270713
 DTEND;VALUE=DATE:20270714
-SUMMARY:Amazon Prime Day - Jour 1
-DESCRIPTION:Ventes flash Amazon Prime - Reservees aux membres Prime
+SUMMARY:Amazon Prime Day - Jour 1 (prévisionnel)
+DESCRIPTION:Dates prévisionnelles non annoncées officiellement pour cette
+  édition. À confirmer auprès de la source officielle. Ventes flash Amaz
+ on Prime - Reservees aux membres Prime
 CATEGORIES:E-commerce,Amazon,Promotions
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+URL:https://www.aboutamazon.fr/actualites/amazon-prime/prime-day-revient-du
+ -23-au-26-juin-avec-des-centaines-de-milliers-doffres-exclusives-reservees
+ -aux-membres-prime
+LAST-MODIFIED:20260907T145425Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:primeday-2027-2@facilabo.app
-DTSTAMP:20241212T120000Z
+DTSTAMP:20260907T145425Z
 DTSTART;VALUE=DATE:20270714
 DTEND;VALUE=DATE:20270715
-SUMMARY:Amazon Prime Day - Jour 2
-DESCRIPTION:Ventes flash Amazon Prime - Reservees aux membres Prime
+SUMMARY:Amazon Prime Day - Jour 2 (prévisionnel)
+DESCRIPTION:Dates prévisionnelles non annoncées officiellement pour cette
+  édition. À confirmer auprès de la source officielle. Ventes flash Amaz
+ on Prime - Reservees aux membres Prime
 CATEGORIES:E-commerce,Amazon,Promotions
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+URL:https://www.aboutamazon.fr/actualites/amazon-prime/prime-day-revient-du
+ -23-au-26-juin-avec-des-centaines-de-milliers-doffres-exclusives-reservees
+ -aux-membres-prime
+LAST-MODIFIED:20260907T145425Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:singlesday-2027@facilabo.app
@@ -128,23 +147,37 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:primeday-2028-1@facilabo.app
-DTSTAMP:20241212T120000Z
+DTSTAMP:20260907T145425Z
 DTSTART;VALUE=DATE:20280711
 DTEND;VALUE=DATE:20280712
-SUMMARY:Amazon Prime Day - Jour 1
-DESCRIPTION:Ventes flash Amazon Prime - Reservees aux membres Prime
+SUMMARY:Amazon Prime Day - Jour 1 (prévisionnel)
+DESCRIPTION:Dates prévisionnelles non annoncées officiellement pour cette
+  édition. À confirmer auprès de la source officielle. Ventes flash Amaz
+ on Prime - Reservees aux membres Prime
 CATEGORIES:E-commerce,Amazon,Promotions
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+URL:https://www.aboutamazon.fr/actualites/amazon-prime/prime-day-revient-du
+ -23-au-26-juin-avec-des-centaines-de-milliers-doffres-exclusives-reservees
+ -aux-membres-prime
+LAST-MODIFIED:20260907T145425Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:primeday-2028-2@facilabo.app
-DTSTAMP:20241212T120000Z
+DTSTAMP:20260907T145425Z
 DTSTART;VALUE=DATE:20280712
 DTEND;VALUE=DATE:20280713
-SUMMARY:Amazon Prime Day - Jour 2
-DESCRIPTION:Ventes flash Amazon Prime - Reservees aux membres Prime
+SUMMARY:Amazon Prime Day - Jour 2 (prévisionnel)
+DESCRIPTION:Dates prévisionnelles non annoncées officiellement pour cette
+  édition. À confirmer auprès de la source officielle. Ventes flash Amaz
+ on Prime - Reservees aux membres Prime
 CATEGORIES:E-commerce,Amazon,Promotions
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+URL:https://www.aboutamazon.fr/actualites/amazon-prime/prime-day-revient-du
+ -23-au-26-juin-avec-des-centaines-de-milliers-doffres-exclusives-reservees
+ -aux-membres-prime
+LAST-MODIFIED:20260907T145425Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:singlesday-2028@facilabo.app
@@ -158,23 +191,37 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:primeday-2029-1@facilabo.app
-DTSTAMP:20241212T120000Z
+DTSTAMP:20260907T145425Z
 DTSTART;VALUE=DATE:20290710
 DTEND;VALUE=DATE:20290711
-SUMMARY:Amazon Prime Day - Jour 1
-DESCRIPTION:Ventes flash Amazon Prime - Reservees aux membres Prime
+SUMMARY:Amazon Prime Day - Jour 1 (prévisionnel)
+DESCRIPTION:Dates prévisionnelles non annoncées officiellement pour cette
+  édition. À confirmer auprès de la source officielle. Ventes flash Amaz
+ on Prime - Reservees aux membres Prime
 CATEGORIES:E-commerce,Amazon,Promotions
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+URL:https://www.aboutamazon.fr/actualites/amazon-prime/prime-day-revient-du
+ -23-au-26-juin-avec-des-centaines-de-milliers-doffres-exclusives-reservees
+ -aux-membres-prime
+LAST-MODIFIED:20260907T145425Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:primeday-2029-2@facilabo.app
-DTSTAMP:20241212T120000Z
+DTSTAMP:20260907T145425Z
 DTSTART;VALUE=DATE:20290711
 DTEND;VALUE=DATE:20290712
-SUMMARY:Amazon Prime Day - Jour 2
-DESCRIPTION:Ventes flash Amazon Prime - Reservees aux membres Prime
+SUMMARY:Amazon Prime Day - Jour 2 (prévisionnel)
+DESCRIPTION:Dates prévisionnelles non annoncées officiellement pour cette
+  édition. À confirmer auprès de la source officielle. Ventes flash Amaz
+ on Prime - Reservees aux membres Prime
 CATEGORIES:E-commerce,Amazon,Promotions
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+URL:https://www.aboutamazon.fr/actualites/amazon-prime/prime-day-revient-du
+ -23-au-26-juin-avec-des-centaines-de-milliers-doffres-exclusives-reservees
+ -aux-membres-prime
+LAST-MODIFIED:20260907T145425Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:singlesday-2029@facilabo.app
@@ -188,23 +235,37 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:primeday-2030-1@facilabo.app
-DTSTAMP:20241212T120000Z
+DTSTAMP:20260907T145425Z
 DTSTART;VALUE=DATE:20300716
 DTEND;VALUE=DATE:20300717
-SUMMARY:Amazon Prime Day - Jour 1
-DESCRIPTION:Ventes flash Amazon Prime - Reservees aux membres Prime
+SUMMARY:Amazon Prime Day - Jour 1 (prévisionnel)
+DESCRIPTION:Dates prévisionnelles non annoncées officiellement pour cette
+  édition. À confirmer auprès de la source officielle. Ventes flash Amaz
+ on Prime - Reservees aux membres Prime
 CATEGORIES:E-commerce,Amazon,Promotions
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+URL:https://www.aboutamazon.fr/actualites/amazon-prime/prime-day-revient-du
+ -23-au-26-juin-avec-des-centaines-de-milliers-doffres-exclusives-reservees
+ -aux-membres-prime
+LAST-MODIFIED:20260907T145425Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:primeday-2030-2@facilabo.app
-DTSTAMP:20241212T120000Z
+DTSTAMP:20260907T145425Z
 DTSTART;VALUE=DATE:20300717
 DTEND;VALUE=DATE:20300718
-SUMMARY:Amazon Prime Day - Jour 2
-DESCRIPTION:Ventes flash Amazon Prime - Reservees aux membres Prime
+SUMMARY:Amazon Prime Day - Jour 2 (prévisionnel)
+DESCRIPTION:Dates prévisionnelles non annoncées officiellement pour cette
+  édition. À confirmer auprès de la source officielle. Ventes flash Amaz
+ on Prime - Reservees aux membres Prime
 CATEGORIES:E-commerce,Amazon,Promotions
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+URL:https://www.aboutamazon.fr/actualites/amazon-prime/prime-day-revient-du
+ -23-au-26-juin-avec-des-centaines-de-milliers-doffres-exclusives-reservees
+ -aux-membres-prime
+LAST-MODIFIED:20260907T145425Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:singlesday-2030@facilabo.app

@@ -340,4 +340,140 @@ URL:https://www.jura.ch/fr/Autorites/Administration/DFNS/Formation-postobli
 CATEGORIES:Pays,Suisse,Suisse romande,Jura,Vacances scolaires
 STATUS:CONFIRMED
 END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-jura-vacances-relache-hivernale-2028-2028@facilabo.app
+DTSTAMP:20260907T145659Z
+DTSTART;VALUE=DATE:20280221
+DTEND;VALUE=DATE:20280226
+SUMMARY:Semaine de relâche hivernale - Jura
+DESCRIPTION:Vacances et conges scolaires du canton du Jura\, sans melange a
+ vec d'autres cantons. Source: https://www.jura.ch/Htdocs/Files/v/7396061d5
+ ed4f3aefc1bca05ea928a318eb15410931645cf5cf0776004b370f2.pdf Fiabilite: hig
+ h
+URL:https://www.jura.ch/Htdocs/Files/v/7396061d5ed4f3aefc1bca05ea928a318eb1
+ 5410931645cf5cf0776004b370f2.pdf
+CATEGORIES:Pays,Suisse,Suisse romande,Jura,Vacances scolaires
+STATUS:CONFIRMED
+LAST-MODIFIED:20260907T145659Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-jura-vacances-paques-2028-2028@facilabo.app
+DTSTAMP:20260907T145659Z
+DTSTART;VALUE=DATE:20280414
+DTEND;VALUE=DATE:20280429
+SUMMARY:Vacances de Pâques - Jura
+DESCRIPTION:Vacances et conges scolaires du canton du Jura\, sans melange a
+ vec d'autres cantons. Source: https://www.jura.ch/Htdocs/Files/v/7396061d5
+ ed4f3aefc1bca05ea928a318eb15410931645cf5cf0776004b370f2.pdf Fiabilite: hig
+ h
+URL:https://www.jura.ch/Htdocs/Files/v/7396061d5ed4f3aefc1bca05ea928a318eb1
+ 5410931645cf5cf0776004b370f2.pdf
+CATEGORIES:Pays,Suisse,Suisse romande,Jura,Vacances scolaires
+STATUS:CONFIRMED
+LAST-MODIFIED:20260907T145659Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-jura-vacances-fete-travail-2028-2028@facilabo.app
+DTSTAMP:20260907T145659Z
+DTSTART;VALUE=DATE:20280501
+DTEND;VALUE=DATE:20280502
+SUMMARY:Fête du travail - Jura
+DESCRIPTION:Vacances et conges scolaires du canton du Jura\, sans melange a
+ vec d'autres cantons. Source: https://www.jura.ch/Htdocs/Files/v/7396061d5
+ ed4f3aefc1bca05ea928a318eb15410931645cf5cf0776004b370f2.pdf Fiabilite: hig
+ h
+URL:https://www.jura.ch/Htdocs/Files/v/7396061d5ed4f3aefc1bca05ea928a318eb1
+ 5410931645cf5cf0776004b370f2.pdf
+CATEGORIES:Pays,Suisse,Suisse romande,Jura,Vacances scolaires
+STATUS:CONFIRMED
+LAST-MODIFIED:20260907T145659Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-jura-vacances-ascension-2028-2028@facilabo.app
+DTSTAMP:20260907T145659Z
+DTSTART;VALUE=DATE:20280525
+DTEND;VALUE=DATE:20280527
+SUMMARY:Ascension - Jura
+DESCRIPTION:Vacances et conges scolaires du canton du Jura\, sans melange a
+ vec d'autres cantons. Source: https://www.jura.ch/Htdocs/Files/v/7396061d5
+ ed4f3aefc1bca05ea928a318eb15410931645cf5cf0776004b370f2.pdf Fiabilite: hig
+ h
+URL:https://www.jura.ch/Htdocs/Files/v/7396061d5ed4f3aefc1bca05ea928a318eb1
+ 5410931645cf5cf0776004b370f2.pdf
+CATEGORIES:Pays,Suisse,Suisse romande,Jura,Vacances scolaires
+STATUS:CONFIRMED
+LAST-MODIFIED:20260907T145659Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-jura-vacances-pentecote-2028-2028@facilabo.app
+DTSTAMP:20260907T145659Z
+DTSTART;VALUE=DATE:20280605
+DTEND;VALUE=DATE:20280606
+SUMMARY:Lundi de Pentecôte - Jura
+DESCRIPTION:Vacances et conges scolaires du canton du Jura\, sans melange a
+ vec d'autres cantons. Source: https://www.jura.ch/Htdocs/Files/v/7396061d5
+ ed4f3aefc1bca05ea928a318eb15410931645cf5cf0776004b370f2.pdf Fiabilite: hig
+ h
+URL:https://www.jura.ch/Htdocs/Files/v/7396061d5ed4f3aefc1bca05ea928a318eb1
+ 5410931645cf5cf0776004b370f2.pdf
+CATEGORIES:Pays,Suisse,Suisse romande,Jura,Vacances scolaires
+STATUS:CONFIRMED
+LAST-MODIFIED:20260907T145659Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-jura-vacances-fete-dieu-2028-2028@facilabo.app
+DTSTAMP:20260907T145659Z
+DTSTART;VALUE=DATE:20280615
+DTEND;VALUE=DATE:20280616
+SUMMARY:Fête-Dieu - Jura
+DESCRIPTION:Vacances et conges scolaires du canton du Jura\, sans melange a
+ vec d'autres cantons. Source: https://www.jura.ch/Htdocs/Files/v/7396061d5
+ ed4f3aefc1bca05ea928a318eb15410931645cf5cf0776004b370f2.pdf Fiabilite: hig
+ h
+URL:https://www.jura.ch/Htdocs/Files/v/7396061d5ed4f3aefc1bca05ea928a318eb1
+ 5410931645cf5cf0776004b370f2.pdf
+CATEGORIES:Pays,Suisse,Suisse romande,Jura,Vacances scolaires
+STATUS:CONFIRMED
+LAST-MODIFIED:20260907T145659Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-jura-vacances-fete-independance-2028-2028@facilabo.app
+DTSTAMP:20260907T145659Z
+DTSTART;VALUE=DATE:20280623
+DTEND;VALUE=DATE:20280624
+SUMMARY:Fête de l’indépendance - Jura
+DESCRIPTION:Vacances et conges scolaires du canton du Jura\, sans melange a
+ vec d'autres cantons. Source: https://www.jura.ch/Htdocs/Files/v/7396061d5
+ ed4f3aefc1bca05ea928a318eb15410931645cf5cf0776004b370f2.pdf Fiabilite: hig
+ h
+URL:https://www.jura.ch/Htdocs/Files/v/7396061d5ed4f3aefc1bca05ea928a318eb1
+ 5410931645cf5cf0776004b370f2.pdf
+CATEGORIES:Pays,Suisse,Suisse romande,Jura,Vacances scolaires
+STATUS:CONFIRMED
+LAST-MODIFIED:20260907T145659Z
+SEQUENCE:0
+END:VEVENT
+BEGIN:VEVENT
+UID:suisse-romande-jura-vacances-ete-2028-2028@facilabo.app
+DTSTAMP:20260907T145659Z
+DTSTART;VALUE=DATE:20280703
+DTEND;VALUE=DATE:20280819
+SUMMARY:Vacances d’été - Jura
+DESCRIPTION:Vacances et conges scolaires du canton du Jura\, sans melange a
+ vec d'autres cantons. Source: https://www.jura.ch/Htdocs/Files/v/7396061d5
+ ed4f3aefc1bca05ea928a318eb15410931645cf5cf0776004b370f2.pdf Fiabilite: hig
+ h
+URL:https://www.jura.ch/Htdocs/Files/v/7396061d5ed4f3aefc1bca05ea928a318eb1
+ 5410931645cf5cf0776004b370f2.pdf
+CATEGORIES:Pays,Suisse,Suisse romande,Jura,Vacances scolaires
+STATUS:CONFIRMED
+LAST-MODIFIED:20260907T145659Z
+SEQUENCE:0
+END:VEVENT
 END:VCALENDAR

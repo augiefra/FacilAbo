@@ -261,16 +261,19 @@ STATUS:TENTATIVE
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-musulmane-nuit-du-destin-2027@facilabo.app
-DTSTAMP:20260206T081127Z
+DTSTAMP:20260907T145415Z
 DTSTART;VALUE=DATE:20270305
 DTEND;VALUE=DATE:20270306
 SUMMARY:Nuit du Destin
-DESCRIPTION:Fête musulmane importante (source: Google Public Holidays). Le
- s dates lunaires peuvent varier localement.
+DESCRIPTION:Nuit du Destin : date indicative\, dépendant du début local d
+ u Ramadan et de la tradition suivie. Les dates lunaires peuvent varier loc
+ alement.
 URL:https://calendar.google.com/calendar/ical/en.islamic%23holiday@group.v.
  calendar.google.com/public
 CATEGORIES:Religion,Islam
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+SEQUENCE:1
+LAST-MODIFIED:20260907T145415Z
 END:VEVENT
 BEGIN:VEVENT
 UID:religion-musulmane-aid-al-fitr-2027@facilabo.app

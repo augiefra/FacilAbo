@@ -161,18 +161,20 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:culture-tech-gaming-google-cloud-next-2027-2027@facilabo.app
-DTSTAMP:20260829T120000Z
+DTSTAMP:20260907T145436Z
 DTSTART;VALUE=DATE:20270413
 DTEND;VALUE=DATE:20270416
-SUMMARY:Google Cloud Next 2027
-DESCRIPTION:Conference Google Cloud Next - dates officielles 2027. Source o
- fficielle: https://cloud.google.com/blog/topics/google-cloud-next/google-c
- loud-next-2026-wrap-up
+SUMMARY:Google Cloud Next 2027 (dates provisoires)
+DESCRIPTION:Dates prévisionnelles du 13 au 15 avril 2027\, confirmation of
+ ficielle à vérifier. Source officielle: https://cloud.google.com/blog/to
+ pics/google-cloud-next/google-cloud-next-2026-wrap-up
 LOCATION:Las Vegas\, USA
 URL:https://cloud.google.com/blog/topics/google-cloud-next/google-cloud-nex
  t-2026-wrap-up
 CATEGORIES:Culture,Tech,Gaming
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+LAST-MODIFIED:20260907T145436Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:culture-tech-gaming-pax-east-2027-2027@facilabo.app

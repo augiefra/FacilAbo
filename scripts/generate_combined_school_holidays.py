@@ -290,6 +290,48 @@ def parse_event_dtstamps(path: Path) -> dict[str, str]:
     return preserved
 
 
+def preserve_event_revisions(calendar_text: str, previous_path: Path) -> str:
+    """Keep revisions for unchanged UID content; increment an actual material edit."""
+    revision_fields = ("DTSTAMP", "LAST-MODIFIED", "SEQUENCE")
+
+    def records(text: str) -> dict[str, dict[str, str]]:
+        result = {}
+        current = None
+        for line in unfold_ical(text):
+            if line == "BEGIN:VEVENT":
+                current = {}
+            elif line == "END:VEVENT" and current is not None:
+                result[current["UID"]] = current
+                current = None
+            elif current is not None:
+                key, value = line.split(":", 1)
+                current[key] = value
+        return result
+
+    old_records = records(previous_path.read_text(encoding="utf-8"))
+    revision_stamp = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
+
+    def update(match: re.Match) -> str:
+        record = next(iter(records(match.group()).values()))
+        old = old_records.get(record["UID"])
+        if old is None:
+            return match.group()
+        material = lambda event: {key: value for key, value in event.items() if key not in revision_fields}
+        if material(record) == material(old):
+            for key in revision_fields:
+                if key in old:
+                    record[key] = old[key]
+                else:
+                    record.pop(key, None)
+        else:
+            record.update({"DTSTAMP": revision_stamp, "LAST-MODIFIED": revision_stamp,
+                           "SEQUENCE": str(int(old.get("SEQUENCE", "0")) + 1)})
+        return "\r\n".join(folded for line in ["BEGIN:VEVENT", *[f"{key}:{value}" for key, value in record.items()], "END:VEVENT"]
+                            for folded in fold_ical_line(line))
+
+    return re.sub(r"BEGIN:VEVENT\r?\n.*?END:VEVENT", update, calendar_text, flags=re.DOTALL)
+
+
 def build_calendar(
     events: list[CombinedEvent],
     dtstamp: str,
@@ -441,6 +483,9 @@ def main() -> int:
         else {}
     )
     calendar_text = build_calendar(combined, dtstamp, preserved_dtstamps)
+    previous_path = Path(args.preserve_dtstamps_from or args.output)
+    if previous_path.exists():
+        calendar_text = preserve_event_revisions(calendar_text, previous_path)
 
     output_paths = [Path(args.output)]
     if args.mirror_output:

@@ -12,6 +12,8 @@
 - Do not rename/move existing public ICS paths without migration.
 - Do not change canonical slugs consumed by app/API.
 - Avoid breaking schema-level ICS conventions (UID, DTSTART/DTEND consistency).
+- Preserve subscriber revisions when regenerating an existing UID: unchanged content keeps `DTSTAMP`, `LAST-MODIFIED` and `SEQUENCE`; a material correction increments `SEQUENCE` and updates both timestamps. The country, combined-school and tech/gaming generators enforce this rule.
+- Dates without an official announcement remain explicitly provisional (`STATUS:TENTATIVE` and a visible qualification); do not silently restore them to confirmed on regeneration.
 
 ## Duplicate policy
 

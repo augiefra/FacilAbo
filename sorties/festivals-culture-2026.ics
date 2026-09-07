@@ -64,15 +64,35 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:sorties-rencontres-arles-2027@facilabo.app
-DTSTAMP:20260829T120000Z
+DTSTAMP:20260907T145436Z
 DTSTART;VALUE=DATE:20270705
 DTEND;VALUE=DATE:20271004
-SUMMARY:Les Rencontres d'Arles
-DESCRIPTION:58e édition des Rencontres d'Arles,du 5 juillet au 3 octobre 2
- 027. Source officielle: rencontres-arles.com
+SUMMARY:Les Rencontres d'Arles (dates à confirmer)
+DESCRIPTION:Dates du 5 juillet au 3 octobre 2027 conservées à titre provi
+ soire. Confirmation officielle à vérifier : la source est temporairement
+  inaccessible. Source : https://www.rencontres-arles.com/fr/actualites/202
+ 6/bilan-de-la-semaine-d-ouverture-2026
 LOCATION:Arles, France
 URL:https://www.rencontres-arles.com/fr/actualites/2026/bilan-de-la-semaine
  -d-ouverture-2026
+CATEGORIES:Sorties,Festival,Culture,Photographie
+STATUS:TENTATIVE
+LAST-MODIFIED:20260907T145436Z
+SEQUENCE:1
+END:VEVENT
+BEGIN:VEVENT
+UID:sorties-rencontres-arles-2026@facilabo.app
+DTSTAMP:20260907T145436Z
+LAST-MODIFIED:20260907T145436Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260706
+DTEND;VALUE=DATE:20261005
+SUMMARY:Les Rencontres d'Arles
+DESCRIPTION:57e édition des Rencontres d'Arles\, du 6 juillet au 4 octobre
+  2026. Dates officielles de l'édition en cours.
+LOCATION:Arles\, France
+URL:https://www.rencontres-arles.com/fr/luma-rencontresdummy-book-award-202
+ 6
 CATEGORIES:Sorties,Festival,Culture,Photographie
 STATUS:CONFIRMED
 END:VEVENT

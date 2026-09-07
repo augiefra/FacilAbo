@@ -29,10 +29,10 @@ def event(summary: str, start: str, end: str):
 
 
 class CombinedSchoolHolidaysTests(unittest.TestCase):
-    def test_official_2027_2028_supplement_has_eight_periods_and_one_marker(self) -> None:
+    def test_official_2027_2028_supplement_includes_ascension_bridge(self) -> None:
         zone_events = MODULE.parse_supplemental_source(SUPPLEMENTAL_SOURCE_PATH)
 
-        self.assertEqual({zone: len(events) for zone, events in zone_events.items()}, {"A": 5, "B": 5, "C": 5})
+        self.assertEqual({zone: len(events) for zone, events in zone_events.items()}, {"A": 6, "B": 6, "C": 6})
         self.assertEqual(
             [(item.start, item.end) for item in zone_events["A"]],
             [
@@ -40,6 +40,7 @@ class CombinedSchoolHolidaysTests(unittest.TestCase):
                 (date(2027, 12, 18), date(2028, 1, 3)),
                 (date(2028, 2, 19), date(2028, 3, 6)),
                 (date(2028, 4, 22), date(2028, 5, 9)),
+                (date(2028, 5, 26), date(2028, 5, 28)),
                 (date(2028, 7, 4), date(2028, 7, 5)),
             ],
         )
@@ -50,6 +51,7 @@ class CombinedSchoolHolidaysTests(unittest.TestCase):
                 (date(2027, 12, 18), date(2028, 1, 3)),
                 (date(2028, 2, 5), date(2028, 2, 21)),
                 (date(2028, 4, 8), date(2028, 4, 24)),
+                (date(2028, 5, 26), date(2028, 5, 28)),
                 (date(2028, 7, 4), date(2028, 7, 5)),
             ],
         )
@@ -60,13 +62,14 @@ class CombinedSchoolHolidaysTests(unittest.TestCase):
                 (date(2027, 12, 18), date(2028, 1, 3)),
                 (date(2028, 2, 12), date(2028, 2, 28)),
                 (date(2028, 4, 15), date(2028, 5, 2)),
+                (date(2028, 5, 26), date(2028, 5, 28)),
                 (date(2028, 7, 4), date(2028, 7, 5)),
             ],
         )
 
         combined = MODULE.combine_zone_events(zone_events)
         future = [item for item in combined if item.start >= date(2027, 10, 1)]
-        self.assertEqual(len(future), 13)
+        self.assertEqual(len(future), 14)
         summer_markers = [item for item in future if item.start == date(2028, 7, 4)]
         self.assertEqual(len(summer_markers), 1)
         self.assertEqual(summer_markers[0].end, date(2028, 7, 5))
@@ -123,6 +126,24 @@ class CombinedSchoolHolidaysTests(unittest.TestCase):
 
         self.assertIn("DTSTAMP:20260316T133328Z", calendar_text)
         self.assertNotIn("DTSTAMP:20260829T120000Z", calendar_text)
+
+    def test_revisions_survive_regeneration_and_increment_only_on_material_change(self) -> None:
+        combined = [MODULE.CombinedEvent("Pont de l'Ascension", date(2028, 5, 26),
+                                         date(2028, 5, 28), frozenset({"A", "B", "C"}))]
+        generated = MODULE.build_calendar(combined, "20260829T120000Z")
+        previous = generated.replace("END:VEVENT", "LAST-MODIFIED:20260907T120000Z\r\nSEQUENCE:7\r\nEND:VEVENT")
+        with tempfile.TemporaryDirectory() as temporary:
+            path = Path(temporary) / "previous.ics"
+            path.write_text(previous)
+            unchanged = MODULE.preserve_event_revisions(generated, path)
+            self.assertIn("LAST-MODIFIED:20260907T120000Z", unchanged)
+            self.assertIn("SEQUENCE:7", unchanged)
+            self.assertIn("DTSTAMP:20260829T120000Z", unchanged)
+            changed = MODULE.preserve_event_revisions(generated.replace("TRANSP:TRANSPARENT", "TRANSP:OPAQUE"), path)
+            self.assertIn("SEQUENCE:8", changed)
+            path.write_text(changed)
+            repeated = MODULE.preserve_event_revisions(changed, path)
+            self.assertEqual(changed, repeated)
 
     def test_teacher_preentry_is_excluded_and_zero_length_marker_is_one_day(self) -> None:
         raw = """BEGIN:VCALENDAR

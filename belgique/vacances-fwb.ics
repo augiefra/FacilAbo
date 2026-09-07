@@ -111,288 +111,354 @@ STATUS:CONFIRMED
 END:VEVENT
 BEGIN:VEVENT
 UID:belgique-vacances-fwb-vacances-ete-2027@facilabo.app
-DTSTAMP:20260210T120000Z
+DTSTAMP:20260907T145659Z
 DTSTART;VALUE=DATE:20270703
-DTEND;VALUE=DATE:20270826
+DTEND;VALUE=DATE:20270830
 SUMMARY:Vacances d été FWB
-DESCRIPTION:Début officiel 2026-2027 (3 juil). Fin indicative en attente p
- ublication 2027-2028. Source: gouvernement.cfwb.be. Fiabilité: haute pour
-  début\, moyenne pour fin.
-URL:https://www.enseignement.be
+DESCRIPTION:Dates officielles de l’enseignement obligatoire FWB. Début :
+  03/07/2027. Fin inclusive : 29/08/2027. Fin des vacances déduite de la r
+ entrée scolaire officielle.
+URL:https://www.enseignement.be/calendrier-scolaire
 CATEGORIES:Belgique\,Vacances scolaires\,FWB
 STATUS:CONFIRMED
+LAST-MODIFIED:20260907T145659Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:belgique-vacances-fwb-conge-automne-2027@facilabo.app
-DTSTAMP:20260210T120000Z
+DTSTAMP:20260907T145659Z
 DTSTART;VALUE=DATE:20271025
 DTEND;VALUE=DATE:20271108
 SUMMARY:Congé d automne FWB
-DESCRIPTION:Période indicative autour de la Toussaint en FWB. Source: http
- s://www.enseignement.be. Fiabilité: moyenne pour années non publiées.
-URL:https://www.enseignement.be
+DESCRIPTION:Dates officielles de l’enseignement obligatoire FWB : du 25 o
+ ctobre au 7 novembre 2027 inclus.
+URL:https://www.enseignement.be/calendrier-scolaire
 CATEGORIES:Belgique\,Vacances scolaires\,FWB
 STATUS:CONFIRMED
+LAST-MODIFIED:20260907T145659Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:belgique-vacances-fwb-conge-hiver-2027@facilabo.app
-DTSTAMP:20260210T120000Z
-DTSTART;VALUE=DATE:20271222
-DTEND;VALUE=DATE:20280105
+DTSTAMP:20260907T145659Z
+DTSTART;VALUE=DATE:20271227
+DTEND;VALUE=DATE:20280110
 SUMMARY:Congé d hiver FWB
-DESCRIPTION:Période indicative des congés scolaires FWB. Source: https://
- www.enseignement.be (calendrier des congés). Fiabilité: moyenne pour ann
- ées non publiées\; confirmer chaque année scolaire.
-URL:https://www.enseignement.be
+DESCRIPTION:Dates officielles de l’enseignement obligatoire FWB. Début :
+  27/12/2027. Fin inclusive : 09/01/2028.
+URL:https://www.enseignement.be/calendrier-scolaire
 CATEGORIES:Belgique\,Vacances scolaires\,FWB
 STATUS:CONFIRMED
+LAST-MODIFIED:20260907T145659Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:belgique-vacances-fwb-conge-detente-2028@facilabo.app
-DTSTAMP:20260210T120000Z
-DTSTART;VALUE=DATE:20280214
-DTEND;VALUE=DATE:20280228
+DTSTAMP:20260907T145659Z
+DTSTART;VALUE=DATE:20280228
+DTEND;VALUE=DATE:20280313
 SUMMARY:Congé de détente (Carnaval) FWB
-DESCRIPTION:Période indicative selon rythme scolaire FWB. Source: https://
- www.enseignement.be. Fiabilité: moyenne tant que publication définitive 
- absente.
-URL:https://www.enseignement.be
+DESCRIPTION:Dates officielles de l’enseignement obligatoire FWB. Début :
+  28/02/2028. Fin inclusive : 12/03/2028.
+URL:https://www.enseignement.be/calendrier-scolaire
 CATEGORIES:Belgique\,Vacances scolaires\,FWB
 STATUS:CONFIRMED
+LAST-MODIFIED:20260907T145659Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:belgique-vacances-fwb-vacances-printemps-2028@facilabo.app
-DTSTAMP:20260210T120000Z
-DTSTART;VALUE=DATE:20280410
-DTEND;VALUE=DATE:20280424
+DTSTAMP:20260907T145659Z
+DTSTART;VALUE=DATE:20280501
+DTEND;VALUE=DATE:20280515
 SUMMARY:Vacances de printemps FWB
-DESCRIPTION:Période indicative des vacances de printemps FWB. Source: http
- s://www.enseignement.be. Fiabilité: moyenne pour horizon lointain.
-URL:https://www.enseignement.be
+DESCRIPTION:Dates officielles de l’enseignement obligatoire FWB. Début :
+  01/05/2028. Fin inclusive : 14/05/2028.
+URL:https://www.enseignement.be/calendrier-scolaire
 CATEGORIES:Belgique\,Vacances scolaires\,FWB
 STATUS:CONFIRMED
+LAST-MODIFIED:20260907T145659Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:belgique-vacances-fwb-vacances-ete-2028@facilabo.app
-DTSTAMP:20260210T120000Z
-DTSTART;VALUE=DATE:20280705
-DTEND;VALUE=DATE:20280826
+DTSTAMP:20260907T145659Z
+DTSTART;VALUE=DATE:20280708
+DTEND;VALUE=DATE:20280828
 SUMMARY:Vacances d été FWB
-DESCRIPTION:Période indicative de fermeture estivale des écoles FWB. Sour
- ce: https://www.enseignement.be. Fiabilité: moyenne.
-URL:https://www.enseignement.be
+DESCRIPTION:Dates officielles de l’enseignement obligatoire FWB. Début :
+  08/07/2028. Fin inclusive : 27/08/2028. Fin des vacances déduite de la r
+ entrée scolaire officielle.
+URL:https://www.enseignement.be/calendrier-scolaire
 CATEGORIES:Belgique\,Vacances scolaires\,FWB
 STATUS:CONFIRMED
+LAST-MODIFIED:20260907T145659Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:belgique-vacances-fwb-conge-automne-2028@facilabo.app
-DTSTAMP:20260210T120000Z
-DTSTART;VALUE=DATE:20281030
-DTEND;VALUE=DATE:20281113
+DTSTAMP:20260907T145659Z
+DTSTART;VALUE=DATE:20281023
+DTEND;VALUE=DATE:20281106
 SUMMARY:Congé d automne FWB
-DESCRIPTION:Période indicative autour de la Toussaint en FWB. Source: http
- s://www.enseignement.be. Fiabilité: moyenne pour années non publiées.
-URL:https://www.enseignement.be
+DESCRIPTION:Dates officielles de l’enseignement obligatoire FWB. Début :
+  23/10/2028. Fin inclusive : 05/11/2028.
+URL:https://www.enseignement.be/calendrier-scolaire
 CATEGORIES:Belgique\,Vacances scolaires\,FWB
 STATUS:CONFIRMED
+LAST-MODIFIED:20260907T145659Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:belgique-vacances-fwb-conge-hiver-2028@facilabo.app
-DTSTAMP:20260210T120000Z
-DTSTART;VALUE=DATE:20281222
-DTEND;VALUE=DATE:20290105
+DTSTAMP:20260907T145659Z
+DTSTART;VALUE=DATE:20281225
+DTEND;VALUE=DATE:20290108
 SUMMARY:Congé d hiver FWB
-DESCRIPTION:Période indicative des congés scolaires FWB. Source: https://
- www.enseignement.be (calendrier des congés). Fiabilité: moyenne pour ann
- ées non publiées\; confirmer chaque année scolaire.
-URL:https://www.enseignement.be
+DESCRIPTION:Dates officielles de l’enseignement obligatoire FWB. Début :
+  25/12/2028. Fin inclusive : 07/01/2029. PDF officiel 2028-2029 : cases du
+  25 décembre au 7 janvier surlignées \; la page HTML comporte une coquil
+ le sur l’année.
+URL:https://www.enseignement.be/fileadmin/portail_age/uploads/menu_courtois
+ ie/calendrier_scolaire/2026_Cal_Obli_2829.pdf
 CATEGORIES:Belgique\,Vacances scolaires\,FWB
 STATUS:CONFIRMED
+LAST-MODIFIED:20260907T145659Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:belgique-vacances-fwb-conge-detente-2029@facilabo.app
-DTSTAMP:20260210T120000Z
-DTSTART;VALUE=DATE:20290212
-DTEND;VALUE=DATE:20290226
+DTSTAMP:20260907T145659Z
+DTSTART;VALUE=DATE:20290226
+DTEND;VALUE=DATE:20290312
 SUMMARY:Congé de détente (Carnaval) FWB
-DESCRIPTION:Période indicative selon rythme scolaire FWB. Source: https://
- www.enseignement.be. Fiabilité: moyenne tant que publication définitive 
- absente.
-URL:https://www.enseignement.be
+DESCRIPTION:Dates officielles de l’enseignement obligatoire FWB. Début :
+  26/02/2029. Fin inclusive : 11/03/2029.
+URL:https://www.enseignement.be/calendrier-scolaire
 CATEGORIES:Belgique\,Vacances scolaires\,FWB
 STATUS:CONFIRMED
+LAST-MODIFIED:20260907T145659Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:belgique-vacances-fwb-vacances-printemps-2029@facilabo.app
-DTSTAMP:20260210T120000Z
-DTSTART;VALUE=DATE:20290409
-DTEND;VALUE=DATE:20290423
+DTSTAMP:20260907T145659Z
+DTSTART;VALUE=DATE:20290430
+DTEND;VALUE=DATE:20290514
 SUMMARY:Vacances de printemps FWB
-DESCRIPTION:Période indicative des vacances de printemps FWB. Source: http
- s://www.enseignement.be. Fiabilité: moyenne pour horizon lointain.
-URL:https://www.enseignement.be
+DESCRIPTION:Dates officielles de l’enseignement obligatoire FWB. Début :
+  30/04/2029. Fin inclusive : 13/05/2029.
+URL:https://www.enseignement.be/calendrier-scolaire
 CATEGORIES:Belgique\,Vacances scolaires\,FWB
 STATUS:CONFIRMED
+LAST-MODIFIED:20260907T145659Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:belgique-vacances-fwb-vacances-ete-2029@facilabo.app
-DTSTAMP:20260210T120000Z
-DTSTART;VALUE=DATE:20290705
+DTSTAMP:20260907T145659Z
+DTSTART;VALUE=DATE:20290707
 DTEND;VALUE=DATE:20290826
 SUMMARY:Vacances d été FWB
-DESCRIPTION:Période indicative de fermeture estivale des écoles FWB. Sour
- ce: https://www.enseignement.be. Fiabilité: moyenne.
-URL:https://www.enseignement.be
+DESCRIPTION:Début officiel des vacances : 7 juillet 2029. La fin affichée
+  est provisoire : la date de rentrée 2029-2030 n’est pas encore publié
+ e dans la source consultée. À confirmer avant toute réservation.
+URL:https://www.enseignement.be/calendrier-scolaire
 CATEGORIES:Belgique\,Vacances scolaires\,FWB
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+LAST-MODIFIED:20260907T145659Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:belgique-vacances-fwb-conge-automne-2029@facilabo.app
-DTSTAMP:20260210T120000Z
+DTSTAMP:20260907T145659Z
 DTSTART;VALUE=DATE:20291029
 DTEND;VALUE=DATE:20291112
 SUMMARY:Congé d automne FWB
-DESCRIPTION:Période indicative autour de la Toussaint en FWB. Source: http
- s://www.enseignement.be. Fiabilité: moyenne pour années non publiées.
-URL:https://www.enseignement.be
+DESCRIPTION:Dates provisoires\, non confirmées par le calendrier officiel 
+ FWB consulté le 7 septembre 2026. Cette période indicative sera mise à 
+ jour lors de la publication de l’année scolaire concernée. À confirme
+ r avant toute réservation.
+URL:https://www.enseignement.be/calendrier-scolaire
 CATEGORIES:Belgique\,Vacances scolaires\,FWB
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+LAST-MODIFIED:20260907T145659Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:belgique-vacances-fwb-conge-hiver-2029@facilabo.app
-DTSTAMP:20260210T120000Z
+DTSTAMP:20260907T145659Z
 DTSTART;VALUE=DATE:20291222
 DTEND;VALUE=DATE:20300105
 SUMMARY:Congé d hiver FWB
-DESCRIPTION:Période indicative des congés scolaires FWB. Source: https://
- www.enseignement.be (calendrier des congés). Fiabilité: moyenne pour ann
- ées non publiées\; confirmer chaque année scolaire.
-URL:https://www.enseignement.be
+DESCRIPTION:Dates provisoires\, non confirmées par le calendrier officiel 
+ FWB consulté le 7 septembre 2026. Cette période indicative sera mise à 
+ jour lors de la publication de l’année scolaire concernée. À confirme
+ r avant toute réservation.
+URL:https://www.enseignement.be/calendrier-scolaire
 CATEGORIES:Belgique\,Vacances scolaires\,FWB
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+LAST-MODIFIED:20260907T145659Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:belgique-vacances-fwb-conge-detente-2030@facilabo.app
-DTSTAMP:20260210T120000Z
+DTSTAMP:20260907T145659Z
 DTSTART;VALUE=DATE:20300211
 DTEND;VALUE=DATE:20300225
 SUMMARY:Congé de détente (Carnaval) FWB
-DESCRIPTION:Période indicative selon rythme scolaire FWB. Source: https://
- www.enseignement.be. Fiabilité: moyenne tant que publication définitive 
- absente.
-URL:https://www.enseignement.be
+DESCRIPTION:Dates provisoires\, non confirmées par le calendrier officiel 
+ FWB consulté le 7 septembre 2026. Cette période indicative sera mise à 
+ jour lors de la publication de l’année scolaire concernée. À confirme
+ r avant toute réservation.
+URL:https://www.enseignement.be/calendrier-scolaire
 CATEGORIES:Belgique\,Vacances scolaires\,FWB
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+LAST-MODIFIED:20260907T145659Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:belgique-vacances-fwb-vacances-printemps-2030@facilabo.app
-DTSTAMP:20260210T120000Z
+DTSTAMP:20260907T145659Z
 DTSTART;VALUE=DATE:20300408
 DTEND;VALUE=DATE:20300422
 SUMMARY:Vacances de printemps FWB
-DESCRIPTION:Période indicative des vacances de printemps FWB. Source: http
- s://www.enseignement.be. Fiabilité: moyenne pour horizon lointain.
-URL:https://www.enseignement.be
+DESCRIPTION:Dates provisoires\, non confirmées par le calendrier officiel 
+ FWB consulté le 7 septembre 2026. Cette période indicative sera mise à 
+ jour lors de la publication de l’année scolaire concernée. À confirme
+ r avant toute réservation.
+URL:https://www.enseignement.be/calendrier-scolaire
 CATEGORIES:Belgique\,Vacances scolaires\,FWB
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+LAST-MODIFIED:20260907T145659Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:belgique-vacances-fwb-vacances-ete-2030@facilabo.app
-DTSTAMP:20260210T120000Z
+DTSTAMP:20260907T145659Z
 DTSTART;VALUE=DATE:20300705
 DTEND;VALUE=DATE:20300826
 SUMMARY:Vacances d été FWB
-DESCRIPTION:Période indicative de fermeture estivale des écoles FWB. Sour
- ce: https://www.enseignement.be. Fiabilité: moyenne.
-URL:https://www.enseignement.be
+DESCRIPTION:Dates provisoires\, non confirmées par le calendrier officiel 
+ FWB consulté le 7 septembre 2026. Cette période indicative sera mise à 
+ jour lors de la publication de l’année scolaire concernée. À confirme
+ r avant toute réservation.
+URL:https://www.enseignement.be/calendrier-scolaire
 CATEGORIES:Belgique\,Vacances scolaires\,FWB
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+LAST-MODIFIED:20260907T145659Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:belgique-vacances-fwb-conge-automne-2030@facilabo.app
-DTSTAMP:20260210T120000Z
+DTSTAMP:20260907T145659Z
 DTSTART;VALUE=DATE:20301028
 DTEND;VALUE=DATE:20301111
 SUMMARY:Congé d automne FWB
-DESCRIPTION:Période indicative autour de la Toussaint en FWB. Source: http
- s://www.enseignement.be. Fiabilité: moyenne pour années non publiées.
-URL:https://www.enseignement.be
+DESCRIPTION:Dates provisoires\, non confirmées par le calendrier officiel 
+ FWB consulté le 7 septembre 2026. Cette période indicative sera mise à 
+ jour lors de la publication de l’année scolaire concernée. À confirme
+ r avant toute réservation.
+URL:https://www.enseignement.be/calendrier-scolaire
 CATEGORIES:Belgique\,Vacances scolaires\,FWB
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+LAST-MODIFIED:20260907T145659Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:belgique-vacances-fwb-conge-hiver-2030@facilabo.app
-DTSTAMP:20260210T120000Z
+DTSTAMP:20260907T145659Z
 DTSTART;VALUE=DATE:20301222
 DTEND;VALUE=DATE:20310105
 SUMMARY:Congé d hiver FWB
-DESCRIPTION:Période indicative des congés scolaires FWB. Source: https://
- www.enseignement.be (calendrier des congés). Fiabilité: moyenne pour ann
- ées non publiées\; confirmer chaque année scolaire.
-URL:https://www.enseignement.be
+DESCRIPTION:Dates provisoires\, non confirmées par le calendrier officiel 
+ FWB consulté le 7 septembre 2026. Cette période indicative sera mise à 
+ jour lors de la publication de l’année scolaire concernée. À confirme
+ r avant toute réservation.
+URL:https://www.enseignement.be/calendrier-scolaire
 CATEGORIES:Belgique\,Vacances scolaires\,FWB
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+LAST-MODIFIED:20260907T145659Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:belgique-vacances-fwb-conge-detente-2031@facilabo.app
-DTSTAMP:20260210T120000Z
+DTSTAMP:20260907T145659Z
 DTSTART;VALUE=DATE:20310210
 DTEND;VALUE=DATE:20310224
 SUMMARY:Congé de détente (Carnaval) FWB
-DESCRIPTION:Période indicative selon rythme scolaire FWB. Source: https://
- www.enseignement.be. Fiabilité: moyenne tant que publication définitive 
- absente.
-URL:https://www.enseignement.be
+DESCRIPTION:Dates provisoires\, non confirmées par le calendrier officiel 
+ FWB consulté le 7 septembre 2026. Cette période indicative sera mise à 
+ jour lors de la publication de l’année scolaire concernée. À confirme
+ r avant toute réservation.
+URL:https://www.enseignement.be/calendrier-scolaire
 CATEGORIES:Belgique\,Vacances scolaires\,FWB
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+LAST-MODIFIED:20260907T145659Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:belgique-vacances-fwb-vacances-printemps-2031@facilabo.app
-DTSTAMP:20260210T120000Z
+DTSTAMP:20260907T145659Z
 DTSTART;VALUE=DATE:20310414
 DTEND;VALUE=DATE:20310428
 SUMMARY:Vacances de printemps FWB
-DESCRIPTION:Période indicative des vacances de printemps FWB. Source: http
- s://www.enseignement.be. Fiabilité: moyenne pour horizon lointain.
-URL:https://www.enseignement.be
+DESCRIPTION:Dates provisoires\, non confirmées par le calendrier officiel 
+ FWB consulté le 7 septembre 2026. Cette période indicative sera mise à 
+ jour lors de la publication de l’année scolaire concernée. À confirme
+ r avant toute réservation.
+URL:https://www.enseignement.be/calendrier-scolaire
 CATEGORIES:Belgique\,Vacances scolaires\,FWB
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+LAST-MODIFIED:20260907T145659Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:belgique-vacances-fwb-vacances-ete-2031@facilabo.app
-DTSTAMP:20260210T120000Z
+DTSTAMP:20260907T145659Z
 DTSTART;VALUE=DATE:20310705
 DTEND;VALUE=DATE:20310826
 SUMMARY:Vacances d été FWB
-DESCRIPTION:Période indicative de fermeture estivale des écoles FWB. Sour
- ce: https://www.enseignement.be. Fiabilité: moyenne.
-URL:https://www.enseignement.be
+DESCRIPTION:Dates provisoires\, non confirmées par le calendrier officiel 
+ FWB consulté le 7 septembre 2026. Cette période indicative sera mise à 
+ jour lors de la publication de l’année scolaire concernée. À confirme
+ r avant toute réservation.
+URL:https://www.enseignement.be/calendrier-scolaire
 CATEGORIES:Belgique\,Vacances scolaires\,FWB
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+LAST-MODIFIED:20260907T145659Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:belgique-vacances-fwb-conge-automne-2031@facilabo.app
-DTSTAMP:20260210T120000Z
+DTSTAMP:20260907T145659Z
 DTSTART;VALUE=DATE:20311027
 DTEND;VALUE=DATE:20311110
 SUMMARY:Congé d automne FWB
-DESCRIPTION:Période indicative autour de la Toussaint en FWB. Source: http
- s://www.enseignement.be. Fiabilité: moyenne pour années non publiées.
-URL:https://www.enseignement.be
+DESCRIPTION:Dates provisoires\, non confirmées par le calendrier officiel 
+ FWB consulté le 7 septembre 2026. Cette période indicative sera mise à 
+ jour lors de la publication de l’année scolaire concernée. À confirme
+ r avant toute réservation.
+URL:https://www.enseignement.be/calendrier-scolaire
 CATEGORIES:Belgique\,Vacances scolaires\,FWB
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+LAST-MODIFIED:20260907T145659Z
+SEQUENCE:1
 END:VEVENT
 BEGIN:VEVENT
 UID:belgique-vacances-fwb-conge-hiver-2031@facilabo.app
-DTSTAMP:20260210T120000Z
+DTSTAMP:20260907T145659Z
 DTSTART;VALUE=DATE:20311222
 DTEND;VALUE=DATE:20320105
 SUMMARY:Congé d hiver FWB
-DESCRIPTION:Période indicative des congés scolaires FWB. Source: https://
- www.enseignement.be (calendrier des congés). Fiabilité: moyenne pour ann
- ées non publiées\; confirmer chaque année scolaire.
-URL:https://www.enseignement.be
+DESCRIPTION:Dates provisoires\, non confirmées par le calendrier officiel 
+ FWB consulté le 7 septembre 2026. Cette période indicative sera mise à 
+ jour lors de la publication de l’année scolaire concernée. À confirme
+ r avant toute réservation.
+URL:https://www.enseignement.be/calendrier-scolaire
 CATEGORIES:Belgique\,Vacances scolaires\,FWB
-STATUS:CONFIRMED
+STATUS:TENTATIVE
+LAST-MODIFIED:20260907T145659Z
+SEQUENCE:1
 END:VEVENT
 END:VCALENDAR
